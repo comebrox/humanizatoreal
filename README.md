@@ -1,6 +1,6 @@
 # Humanizer Moldovenesc
 
-O iscusință pentru Claude Code și OpenCode care îndepărtează semnele de scriere AI din text și îl adaptează la limba moldovenească autentică. Bazat pe ghidul Wikipedia „Signs of AI writing" și pe Dicționarul moldovenesc-român de Vasile Stati (ed. a II-a, 2011).
+Un skill pentru Claude Code și OpenCode care îndepărtează semnele de scriere AI din text și îl adaptează la limba moldovenească autentică. Bazat pe ghidul Wikipedia „Signs of AI writing" și pe Dicționarul moldovenesc-român de Vasile Stati (ed. a II-a, 2011).
 
 ## Instalare
 
