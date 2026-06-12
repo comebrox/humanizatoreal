@@ -11,10 +11,10 @@
 > explicită de registru licențios.
 
 ## A
-- a abaldi — a rămîne cu gura căscată
+- a abaldi — a rămâne cu gura căscată
 - a abijî — a ofensa
 - a abișci — a promite
-- a afighi — a rămîne uimit
+- a afighi — a rămâne uimit
 - a ahui — a încălca regulile de conduită
 - a buksui — a patina cu mașina / a nu face nimic
 - a chica pe buși — a fi uimit
@@ -32,16 +32,16 @@
 - a pune lapșa pi urechi — a minți
 - a pasfiti — a dedica
 - a umbla cu teolka — a te plimba cu prietena
-- a sări în skakalcă — a sări cu coarda
-- a sobiri prikindalili — a strînge lucrurile
+- a sări în skakalcă — a sari cu coarda
+- a sobiri prikindalili — a strânge lucrurile
 - a stuki — a scuipa
 - a sineaci — a consuma alcool în cantități mari
 - ⚠ a te zaibi — a te sătura
 - a te snimi — a fugi
-- a te sîbi — a da bir cu fugițiile
+- a te sîbi — a da bir cu fugiții
 - a te vrubi — a înțelege
 - a ti zdarovi cu pațanii — a te saluta cu băieții
-- a ti abajri — a mînce pe săturate
+- a ti abajri — a mânca pe săturate
 - a ti prasfiti — a te da de gol
 - ⚠ a-ți înfla hreașca — a bea fără măsură
 - ⚠ a trisi pisiulika — (vulgar, anatomic)
@@ -53,13 +53,13 @@
 - a zamuti șeva — a pune ceva la cale
 - a zakalibi — a juca pe nervi
 - ai svet acasă? — ai electricitate acasă?
-- ai șeva havcic? — ai ceva de mîncecare?
+- ai șeva havcic? — ai ceva de mâncare?
 - abșceagă — cămin studențesc
 - abjorik — gurmand
 - așăiană — în felul acesta
 - am pierdut orientirovca — m-am rătăcit
 - am praskaliznit — am alunecat
-- ahreneti — a rămîne uimit de supărare
+- ahreneti — a rămâne uimit de supărare
 - anigdoati — bancuri
 - astanovkă — stație
 - atstîlo — s-a răcit
@@ -91,12 +91,12 @@
 
 ## C
 - cadru — om haios
-- caloș bîhliț — încălțăminte care miroase urît
+- caloș bîhliț — încălțăminte care miroase urât
 - ciainik — băiat prost
 - cîcășios — băiat nerespectuos
 - cărăbuș — carabinier
 - cicani — Ciocana (cartier)
-- ciort io’ znaiu — cine-o știe
+- ciort io’ znaiu — cine-o ști
 - ciotka — bun, fain
 - ciuvac — un tip oarecare
 - ciuvacu șela glazești la noi — tipul (neagreat) se uită la noi
@@ -110,11 +110,11 @@
 - clicuhă — poreclă
 - ⚠ clopoțălcă — virgină
 - ⚠ cobră — (vulgar, anatomic)
-- crivaraz — persoană urîată și rea
+- crivaraz — persoană urâtă și rea
 - cum cu jituha? — ce mai faci?
 - curji fesu — dus cu pluta
 - curva de mare — sirenă
-- cojîncă — geacă de piele
+- cojînkă — geacă de piele
 
 ## D
 - da vdrug — poate, poate merge
@@ -133,7 +133,7 @@
 - ești puteovî? — ești deștept?
 - ești șei mai kleovaia teolkă — declarație de dragoste
 - eu deamu psihuiesc — devin foarte nervos
-- eu mă kiș kipitok — sunt îndrăgostit pînă peste cap
+- eu mă kiș kipitok — sunt îndrăgostit până peste cap
 - eu napastoi cîștig — sunt norocos
 - eu îs bronitank — sunt cel mai tare
 
@@ -171,7 +171,7 @@
 - ⚠ jâvotnoe — (adresare) animalule
 - jgut — lănțișor
 - jopă — posterior
-- jruhă / jratva — mîncecare
+- jruhă / jratva — mâncare
 - juc — băiat descurcăreț
 - juvkă — gumă de mestecat
 
@@ -207,7 +207,7 @@
 - m-am hodihnit — m-am odihnit
 - m-o apucat sracika — am diaree
 - maloletși — adolescente
-- mă cișăște — mă mînce
+- mă cișăște — mă mâncă
 - mamașa coași pîni — mama coace pâine
 - mă duc sî ablamesc teolka — mă duc să-i fac curte
 - mă tașcesc — stare euforică
@@ -232,12 +232,12 @@
 - ne imeet naznacenie — nu contează
 - ⚠ ni-a kisă di nii amar în gurî — (vulgar, fiziologic)
 - ni-a pităni uăi — mi-i foame
-- ni-o dolojî — mi-a spus ce se întîmplă
+- ni-o dolojît — mi-a spus ce se întâmplă
 - ni-o atpadit celestea — am rămas cu gura căscată
 - ni-i da lampaciki — nu mă interesează
 - nu fași nișio dvijenii — nu faci nimic
-- nu știu și s-o slucit — nu știu ce s-a întîmplat
-- nu mă vîră în tupic — nu mă dezorienteza
+- nu știu și s-o slucit — nu știu ce s-a întâmplat
+- nu mă vâră în tupic — nu mă dezorienta
 
 ## O
 - odușîvleonî — inspirat
@@ -254,7 +254,7 @@
 - pațan puteovii / v teme / svoi — băiat de-al nostru, bazat
 - pațan ciotkos — băiat de treabă
 - pațan krutoi — tip șmecher
-- paȝanu șela glazești la noi — băiatul (agreat) se uită la noi
+- pațanu șela glazești la noi — băiatul (agreat) se uită la noi
 - perezagruzcă — repornire / restart
 - perezaredești — reîncarcă
 - pesni — cântec
@@ -280,7 +280,7 @@
 - razisnește și nouă bazaru — lămurește-ne ce ai vrut să zici
 - rîbkă — peștișor
 - (la) rîbalkă — la pescuit
-- rîlă / rojî — față urîată / mutră
+- rîlă / rojî — față urâtă / mutră
 - rjac — râs în hohote
 - ⚠ rupi bășina / buca — tare beton
 - rojî znakomaia — mutră cunoscută
@@ -299,13 +299,13 @@
 - siliodkă (kapcionită) — scumbrie (afumată)
 - sfitilinic — veioză
 - slidește (după bazaru tău) — urmărește / fii atent ce spui
-- sobutîlnîk — partener de pahar
+- sobutîlnik — partener de pahar
 - stariși — părinți
 - stratăghie — strategie
 - ⚠ stervă — ușuratică
 - stucește — pîrăște
 - storoj — paznic
-- strelkă — întîlnire de afaceri
+- strelkă — întâlnire de afaceri
 - ⚠ sucă — (vulgar) cățea / femeie insuportabilă
 - supărat concretno — foarte supărat
 
@@ -324,13 +324,13 @@
 ## T
 - taburetkă / tazic — mașină mică / automobil
 - talpomițîn — miros de picioare
-- taman cînd a-s mă duc — cînd o să plec
+- taman cînd a-s mă duc — când o să plec
 - tăt o să șie clasna / tăt îi băț — totul va fi bine
 - tecikă — zile critice / ciclu
 - teolkă — fată sexy
 - tifoznî — om bolnav
 - tipa — aproximativ / similar cu
-- tocîcă — punct
+- tocică — punct
 - tormozești aiși — opriți aici
 - trudnî — greu
 - tralivaz / trolik — tramvai / troleibus
@@ -344,7 +344,7 @@
 
 ## U
 - uăi / uăi fă — adresare (bărbat / femeie)
-- ⚠ uăi, dacî mănănși huineaua — (avertisment vulgar) nu mănca, e toxic
+- ⚠ uăi, dacî mănânși huinaua — (avertisment vulgar) nu mânca, e toxic
 - uăi, slidește bazarul — vezi că vorbești aiurea
 - uăi, tu și ești kaciok? — mergi la sala de forță?
 - ⚠ uăi, tu și vrei pizdealî? — (amenințare) vrei bătaie?
@@ -352,7 +352,7 @@
 - ⚠ ucilkă (ibanutaia) — profesoară (severă)
 - udaci — succes
 - ⚠ udavșic — (vulgar, anatomic)
-- urod — persoană urîată
+- urod — persoană urâtă
 - umnî — deștept
 - ujasno și-i di prost — prostie la extrem
 - utiug — fier de călcat
@@ -378,7 +378,7 @@
 - zapas — rezervă
 - zapravkă — stație de alimentare
 - zakuresc — aprind o țigară
-- zașnurui șnuroașili — a lega șireturilor
+- zașnurui șnuroașili — a lega șireturile
 - zdviguri — dus cu pluta
 - zubilili — dinții
 - mă belesc la zviojdi — mă uit la stele

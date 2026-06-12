@@ -27,7 +27,8 @@ confirmă rămîne marcat **(De verificat)**.
 
 ## B. Corpus de glas — texte moldovenești autentice
 
-- **Ion Neculce, *Letopisețul Țării Moldovei* + *O samă de cuvinte*** — Wikisource:
+- **Ion Neculce, *Letopisețul Țării Moldovei* + *O samă de cuvinte*** —
+  Wikisource:
   https://ro.wikisource.org/wiki/Letopise%C8%9Bul_%C8%9A%C4%83rii_Moldovei/O_sam%C4%83_de_cuvinte
 - **Ion Creangă, *Amintiri din copilărie*** — Wikisource:
   https://ro.wikisource.org/wiki/Amintiri_din_copil%C4%83rie ;

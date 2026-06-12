@@ -8,7 +8,7 @@ corectare, nu o rețetă fixă.
 
 | # | Tiparul | Înainte | După |
 |---|---------|---------|------|
-| 1 | Umflarea însemnătății | „marcînd un moment pivotal în evoluția..." | „a fost înființat în 1989 ca să strînge statistici regionale" |
+| 1 | Umflarea însemnătății | „marcînd un moment pivotal în evoluția..." | „a fost înființat în 1989 ca să strîngă statistici regionale" |
 | 2 | Lăudăroșenie cu nume mari | „citat în NYT, BBC, FT și The Hindu" | „Într-un interviu din 2024 la NYT, ea a spus..." |
 | 3 | Analize superficiale cu -ind | „subliniind... reflectînd... evidențiind..." | Scoate sau dezvoltă cu surse concrete (Ureche, Costin, Iordan, Călinescu) |
 | 4 | Limbaj de reclamă / turistic | „cuibărit în pitoreasca regiune" | „e un tîrg în regiunea Gonder" |
@@ -23,7 +23,7 @@ corectare, nu o rețetă fixă.
 | 8 | Ocolirea lui „a fi" | „servește drept... prezintă... constituie o" | „este... are... sînt" |
 | 9 | Paralelisme negative | „Nu-i doar X, e Y", „..., fără ghiceli" | Spune direct ce vrei |
 | 10 | Regula de trei | „inovație, inspirație și insight-uri" | Enumerări naturale: „Creangă, Eminescu, Sadoveanu" |
-| 11 | În vîrtirea sinonimelor | „protagonist... personaj principal... figura centrală..." | Repetă cuvîntul cel mai limpede |
+| 11 | Învîrtirea sinonimelor | „protagonist... personaj principal... figura centrală..." | Repetă cuvîntul cel mai limpede |
 | 12 | Intervale false | „de la Big Bang pînă la materia întunecată" | Liste concrete: „de la actele din 1384–1503 la dicționarele de azi" |
 | 13 | Pasiv și fraze fără subiect | „Nu e nevoie de fișier de configurare" | Numește cine face: „Nu ai nevoie de..." |
 

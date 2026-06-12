@@ -37,14 +37,14 @@ Model de **naratiune populară** — fraze scurte, legate cu „și", verbul îm
 > duminica i-au dat. Deci Ștefan-vodă au luat plugul fratelui celui bogat și
 > l-au dat fratelui celui săracǔ, să fie a lui.
 
-### „Viermi, doamne" (întrebarea de masă)
+### „Viermi, doamne" (umorul sec, anecdota de masă)
 
 > [...] au început a strănuta Barnovschii-vodă des și tare. Iar boierii [...]
 > după obicei: „Sănătos, doamne, și pre voia mării tale!". Iar pre urmă,
-> vădzind că tot strănuta, un boier să fie dzis: „Viermi, doamne". Și cum i-au
+> vădzind că tot strănută, un boier să fie dzis: „Viermi, doamne". Și cum i-au
 > dzis „viermi, doamne", au și tăcut de strănutat.
 
-**Ce se învață de aici:** legarea frazelor cu * și / iar / deci*; verbul la
+**Ce se învață de aici:** legarea frazelor cu *și / iar / deci*; verbul la
 cap de frază („au audzit", „au dzis", „au luat"); vorbirea directă fără
 introduceri pompoase; morala lăsată să iasă singură din întîmplare.
 
@@ -55,17 +55,17 @@ autoironie. Model de **ton viu, cu umor și duioșie**.
 
 ### Deschiderea (cadența evocării)
 
-> Stau cîteodată și-mi aduc aminte ce vremi și ce oameni mai erau în părțile
-> noastre pe cînd începusem și eu, drăgăliță-Doamne, a mă ridica băiețaș la
+> Stau câteodată și-mi aduc aminte ce vremi și ce oameni mai erau în părțile
+> noastre pe când începusem și eu, drăgăliță-Doamne, a mă ridica băiețaș la
 > casa părinților mei, în satul Humulești [...]; sat mare și vesel, împărțit
 > în trei părți, care se țin tot de una: Vatra satului, Delenii și Bejenii.
 
-### Glasul tatei (ironia gospodărească)
+### Glasul tatălui (ironia gospodărească)
 
 > Din partea tatei, care ades îmi zicea în bătaie de joc: „Logofete, brânza-n
 > cui, lapte acru-n călămări, chiu și vai prin buzunări!" [...] Vorba ceea:
 >
-> Decît codaș în oraș, / Mai bine-n satul tău fruntaș.
+> Decât codaș în oraș, / Mai bine-n satul tău fruntaș.
 
 ### Cearta pentru carte (replica scurtă, înțeleaptă)
 
@@ -75,10 +75,10 @@ autoironie. Model de **ton viu, cu umor și duioșie**.
 
 ### Zicale și expresii de cules (din text)
 
-- „De plăcinte rîde gura, de vărzare, și mai tare."
+- „De plăcinte râde gura, de vărzare, și mai tare."
 - „Lucrul rău nu piere cu una, cu două."
-- „Nu-i cum gîndește omul, ci-i cum vrea Domnul."
-- „Tot îs mai aproape dinții decît părinții."
+- „Nu-i cum gândește omul, ci-i cum vrea Domnul."
+- „Tot îs mai aproape dinții decât părinții."
 - „Dac-ar fi să iasă toți învățați [...], n-ar mai avea cine să ne tragă ciubotele."
 
 **Ce se învață de aici:** diminutivul afectiv („băiețaș", „moviliță"); apelul

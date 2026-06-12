@@ -1,1 +1,10597 @@
-FULL_CONTENT_OF_lexicon-dmr.md_FROM_DISK_408440_bytes
+# Lexicon DMR — Dicționar moldovenesc-românesc (Stati)
+
+> Sursă: textul integral al **DMR ed. I (2003)** și **ed. a II-a (2011)**, Vasile Stati, transcris curat (nu OCR). Cuvinte-titlu moldovenești cu echivalentul/explicația românească. Marcajele de sursă din articol (La CADE, I. Creangă, TD, DD etc.) sunt păstrate ca atestare.
+
+Folosire: cota lexicală pentru pasul 3 al procedurii (rescriere cu lexic moldovenesc). Caută cuvântul românesc în coloana de definiții pentru a găsi echivalentul moldovenesc.
+
+## A
+
+- **abáte** (a) — a se pasiona.
+- **abảte** (a) — a se fråmînta (TD).
+- **abcós** n. — urmă de topor.
+- **abisul** m. — smecher. Expr. A fi abisu-
+- **aborî** (a) — a doborî.
+- **abraş** adj. — nărăvaş (despre cai).
+- **abråş** adj. — înşelător, arțăgos.
+- **abráş** adj. — nechibzuit.
+- **abrăi** (a) — a deretica.
+- **abricosári** m. — cais.
+- **abricosîu** adj. — portocaliu.
+- **aburcá**
+	- (a) — a se apleca.
+	- (a) — a ridica (în spate).
+	- (a se) — a se sui, a se cățăra.
+	- (a) — a ajuta să urce.
+	- (a) — a tovărî. La CADE.
+- **aburi**
+	- (a) — a se usca.
+	- (a) — a învălui cu aburi.
+	- (a) — a se coace.
+	- (a) — a scoate aburi.
+	- (a) — a putrezi.
+	- (a) — a adia (despre vînt).
+	- (a) — a se aprinde la față.
+- **aburit**
+	- adj. — acoperit cu aburi.
+	- adj. — înficrbîntat.
+- **aburli** (a) — a se urca.
+- **aburós** adj. — învăluit de aburi.
+- **ac** n. — hac.
+- **acadéle** f. pl. — bomboane.
+- **acarcînd** adv. — oricînd.
+- **acarcît** adv. — oricît.
+- **acarét** n. — lot.
+- **acáții** m. pl. — salcîmi.
+- **acăstăi** — case mari. La CADE.
+- **acătării** adj. — cumsecade, de treabă.
+- **acățărá** (a) — a se cățăra. La I. Creangă.
+- **achipuí** (a) — a pipǎi.
+- **acín** m. — boabă de strugure.
+- **acínos** adj. — ca boaba de strugure.
+- **aciuá** (a) — a se adăposti. La Gr. Ureche.
+- **aciuáş** n. — adăpost. La I.Sbiera.
+- **acmú** adv. — acum.
+- **acolisí**
+	- (a) — a se lega de capul cuiva.
+	- (a) — a nu lăsa ceea ce a apucat.
+- **acólo** adv. — din cale afară. E x p r.
+- **acoperíş** n. — căpac la cratiță.
+- **ácru** n. — acreală (TD).
+- **acufundá** (a) — a cufunda.
+- **adáus**
+	- adj. — întîrziat.
+	- adj. — într-adaus = îngreunată.
+- **adălbí** (a) — a albi, înălbi.
+- **adăoşág** adv. — adăugător.
+- **adăpóst** n. — acioală.
+- **adăstá** (a) — a aştepta.
+- **adăvăsi** (a) — a aduna.
+- **adevărát** adj. — istina. La CADE.
+- **adeverí** (a) — a se încredința reciproc.
+- **adinioárea** adv. — nu demult. La CADE.
+- **adînc** adj. — înțclept. (DD).
+- **adîncă** adj. — deasă.
+- **adunătoáre** f. — grebliță (la coasă).
+- **afáră de** prep. — başca.
+- **aferim** interj. — bine! bravo!
+- **afíf** adj. — lefter; lipsit de bani.
+- **afión** m. — mac.
+- **afíşuri** n. pl. — foi volante.
+- **aftoní** (a) — a lovi (cu palma, pumnul).
+- **aftonít** adj. — cherchelit.
+- **afúm** n. — miros de afumat. I. Creangă.
+- **afumá** (a) — a lovi pe cineva.
+- **agemiu** adj. — începător. La CADE.
+- **agesti** (a) — a îngămădi buşteni.
+- **aghelúşca** adv. — abia.
+- **aghelúța** adv. — abia. La V.Vasilache aghesmuí (a) - a bate.
+- **aghiúță** m. — năzbîtios, neastîmpărat (copil).
+- **agonesi** (a) — a împumuta.
+- **agúd** m. — dud.
+- **agúrț** m. — agriş. (DD).
+- **agút**
+	- m. — dud.
+	- m. — iagod. La CADE.
+- **agutăi** m. — gutui (pom).
+- **agúte** f. pl. — dude.
+- **ahótnic** adj. — dispus (TD).
+- **ai** m. pl. — ani.
+- **aiásta** adj. — aia.
+- **aíasta** pron. — aia.
+- **aistalált** pron. — ălălalt. la CADE.
+- **aíst** pron. — ăsta.
+- **aíste** adj. — ăstea.
+- **aişti** pron. — ăşti.
+- **aiştialálți** pron. — ăștilalți. La DLR.
+- **aitúri** pl. — piftie. La CADE.
+- **ajegós** adj. — argilos, cleios (pămînt).
+- **ajủns** n. — venit. E xpr. Bun ajuns!= bine ai venit.
+- **ajúns** n. — destul. Expr. E de ajuns.
+- **alác** n. — crupe.
+- **aláci** adj. — pestriț. La CADE.
+- **alamoring in** — vecin de mosic.
+- **allarit m** — leneom, albeată.
+- **allinit li** — leucom.
+- **albån** m. — cal alb.
+- **allbie** adj. — albicioasă.
+- **albinéț** adj. — albicios.
+- **albiníe** adj. — albicioasă, albuie.
+- **albîu** adj. — albicios. La CADE.
+- **aldui** (a) — a lovi cu putere.
+- **alcản** n. — dor. La DU.
+- **alés** adj. — înțărcat.
+- **álghie** — vană. La CADE.
+- **alici**
+	- (a) — a licări din departare.
+	- (a) — a răni, a atinge cu o alică.
+- **aligní**
+	- (a) — a bate uşor; a adia.
+	- (a) — a se simți sleit, leşinat.
+- **aligni** (a) — a şchiopăta uşor.
+- **alintá**
+	- (a) — a dezmerda. La DELM.
+	- (a) — a potoli.
+	- (a) — a răsfăța.
+	- (a) — a se mişca grațios.
+- **alintát** adj. — răsfățat.
+- **alivăní**
+	- (a) — a se rostogoli.
+	- (a) — a-şi pierde urma.
+	- (a) — a se oploşi la cineva.
+- **alivénci** f. pl. — turte. La DU.
+- **altoán** m. — pom altoit. La CADE.
+- **alunați** adj. — holbați, deschişi tare.
+- **alunár** m. — pasăre. La DU.
+- **alúne-de-pămînt** — plantă. La CADE.
+- **alunári** m. — alun.
+- **alunea** s. — alunică (fruct).
+- **alunćle** f. pl. — pistrui.
+- **amán** n. — suferință, necaz.
+- **amándea** adv. — repede, fuga.
+- **amár adv** — tare. (TD).
+- **amár**
+	- adj. — mare. La DU.
+	- adj. — năımar, număr mare (CM).
+- **amárnic** adj. — aprig.
+- **amárnic adv** — foarte. La DLR.
+- **amăgélnic** m. — înşclător. La D.Cantemir.
+- **amăgéu** m. — înşelător.
+- **amăgi** (a) — a prelăsti (CM).
+- **amărît** adj. — dosădit. La CADE.
+- **amărúş** m. — arbust. La CADE.
+- **amclitá** (a) — a nota, a pomeni.
+- **amestecá** (a) — a unelti. (I.Neculce).
+- **amestecat** adj. — nedesluşit. (I.Neculce).
+- **amiazăzi adv** — amiază. I a M.Costin.
+- **amijá** (a) — a sta cu ochii închişi.
+- **amijí**
+	- (a) — a face ochi mici.
+	- (a) — a se lumina de ziuă.
+- **amirosi** (a) — a mirosi. La DU.
+- **amistui** (a) — a se ascunde. La N.Costin.
+- **amînár** n. — bucățică de oțel. La DU.
+- **amîniu** adj. — galben-verzui.
+- **amnár**
+	- n. — grindă, stîlp.
+	- n. — spetează care leagă carîmbii.
+	- n. — proptea la gard.
+- **amú** adv. — acum. La I.Creangă.
+- **amúş** adv. — degrabă.
+- **amuțá** (a) — a asmuți. (TD).
+- **anápoda** adv. — razna. La P.Ispirescu.
+- **anapoda adv** — nepotrivit.
+- **anchir** n. — iatac. La CADE.
+- **anchiráş** n. — odae mică. La CADE.
+- **andreá** f. — undrea. La CADE.
+- **anín** m. — nămol.
+- **aniná**
+	- (a) — a atîrna.
+	- (a) — a se lega de cineva. La
+- **aninăciós** adj. — agăṭător.
+- **aninător** m. — care agaṭă. La CADE.
+- **aninătoáre** f. — loc unde vînătorii gonesc căprioara. La CADE.
+- **aninós** adj. — nisipos.
+- **aninúş** n. — toponim.
+- **anisón** n. — anason. La DU.
+- **anocáto adv** — anapoda. La DU.
+- **apreciatór** m. — prețuitor.
+- **apród**
+	- m. — dregător domnesc. M.Costin.
+	- m. — oştean (CM).
+- **apucá**
+	- (a se) — a se obliga. (1.Neculce).
+	- (a) — a fi pregătit să facă (ceva).
+	- (a) — a se angaja. Expr. A se apuca la rămăşag = a se angaja, a se prinde.
+- **aprînz** n. — timp după aprînjor.
+- **apucát** adj. — smintit; țicnit.
+- **apúst** n. — scînduri la stavilă. La CADE.
+- **apútere-fi adv** — a fi în stare. La CADE.
+- **aracán** interj. — vai. Aracan de mine
+- **arămoáică** s. — loc unde apa nu îngheață.
+- **arbănás** m. — albanez.
+- **arbiu** n. — vargă de încarcat puşca.
+- **arbuzár**
+	- m. — pepenar.
+	- m. — paznic la pepenărie.
+	- m. — stăpînul pepenăriei.
+- **arbuzoáică** s. — pepene verde lunguiet.
+- **arcácì** n. — răscrucea unei văi.
+- **arcán**
+	- n. — pripon.
+	- n. — armă de război: ,arcan - termen special Moldovei”.
+- **arcăní** (a) — a prinde cu arcanul.
+- **ardál** m. — rapită sálbatică.
+- **ardzói** adj. — arzător, iute, ca focul.
+- **arenál** n. — preajma unui vulcan.
+- **arenár** m. — gladiator.
+- **arendár** m. — arendaş. La CADE.
+- **arestuí** (a) — a aresta.
+- **argățí** (a) — a roboti. La CADE.
+- **argint** m. — bani. La CADE.
+- **argintós** adj. — argintiu. La M. Eminescu.
+- **arhondåric** n. — aripa unei mănăstiri pentru oaspeți. La C.Hogaş.
+- **arici**
+	- m. — febră aftoasă.
+	- (a) — a face arici la chişiță.
+- **aridicá** (a) — a ridica. La M.Eminescu.
+- **arişiți** adj. — piperniciți (porumbi).
+- **arîc** n. — poduşcă. La DLR, DAR.
+- **arlîc** n. — traistă pentru mîncare la cai.
+- **armá** (a) — a înarma. (Gr.Ureche).
+- **armáş**
+	- m. — dregător domnesc. La DIM.
+	- m. — paznic înarmat (CM).
+	- n. — vin ales. La DU.
+- **armaşamént** n. — harnaşament.
+- **armáşi** m. pl. — păzitorii averii boierilor.
+- **armăsărél** m. — unealtă. La CADE.
+- **armăşéi** m.pl. — armaş al doilea.
+- **arsori** (a) — a ține la soare.
+- **arvoni**
+	- (a) — a aconta. La DELM.
+	- (a) — a se tocmi. La DELM.
+	- (a) — a se înțelege. La I.Creangă.
+- **arvonit** m. — logodnic. La CADE.
+- **arzuliu** adj. — arzător. La I.Creangă.
+- **asamaná** (a) — a nivela.
+- **asemăluí**
+	- (a) — a asemăna.
+	- (a) — a nivela, a netezi.
+- **asemănătõr** adj. — podobnic. La CADE.
+- **asolá** (a) — a alterna culturile agricole.
+- **asprí** (a) — a se aprinde la plămîni (calul).
+- **asprít** adj. — aprindere la plămîni.
+- **ásta** pron. — aceasta. Ba asta ba ceea $`=`$ ba una ba alta; Asta-i altceva = amu mai
+- **alacá** (a) — a se sufoca.
+- **atamán**
+	- m. — căpetenie a cazacilor.
+	- m. — năvodar de dreapta.
+- **atins**
+	- adj. — lovit de boală.
+	- adj. — jignit. La 1.Creangă.
+- **atocmá** (a) — a nivela, a netezi pămîntul. atócma adv - întocmai.
+- **ațáp** n. — musteață la spice.
+- **áță** f. — cîrlig la vița de vie.
+- **aține**
+	- (a) — a sta în calea cuiva.
+	- (a) — a fi gata. La Al.Vlahuță.
+- **aținti** (a) — a fixa privirea.
+- **ațós** — tare şi cîlțos (lemn).
+- **áu**
+	- adv. — oare. (M.Eminescu).
+	- conj. — sau. La I.Sbiera, P.Ispirescu.
+- **augurá** (a) — a prevesti, a prezice.
+- **augurál** adj. — de augur.
+- **aurél** m. — soi de struguri.
+- **auríşti** adj. — aurite.
+- **avaliu** adj. — verde-deschis.
+- **avăiu** adj. — ceriu.
+- **avám** adj. — aprig. La CADE.
+- **aván**
+	- adj. — rău, nemilos. La C.Negruzzi.
+	- adj. — straşnic, grozav.
+	- m. — piuliță. La B.P.Haşdeu.
+- **avrám** m. — soi de prun. La DELM.
+
+## B
+
+- **babáe** m. — tată, babacă.
+- **babán** n. — nod la furca de tors.
+- **babáş** m. — resturi de faguri.
+- **babelic** adj. — amestecătură.
+- **bábnic** m. — iarba fecioarelor. La DD.
+- **babói**
+	- m. — sămînță de usturoi.
+	- n. — adunătură. E x p r. Ceata lui baboi = adunătură de oameni fără căpătîi. La P.Ispirescu.
+	- m. — bețişor la barcas.
+- **baboiéş**
+	- m. — biban mic.
+	- m. — usturoi din sămînță.
+- **babui** (a) — a moşi.
+- **babúc** m. — mai de bătătorit pămîntul.
+- **bac** n. — lighean cu două urechi.
+- **bacál**
+	- n. — pahar de vin.
+	- n. — halbă.
+- **bacaláş** n. — cănuță (de sticlă).
+- **bacaléinic** m. — băcan.
+- **bacău** m. — bucluc. E x p r. A-şi găsi bacăul cu cineva - a o păți.
+- **baccelí** (a) — a îmbătrîni.
+- **báci** m. — păcurar-şef.
+- **bacşíş** n. — dar de nuntă.
+- **badiluri** n. pl. — strujeni.
+- **bádiu** m. — badea.
+- **badroáne** f. pl. — soi de perje mari roşii.
+- **bageác** n. — horn. La DU.
+- **bagér** n. — lucarnă.
+- **bahmet** m. — cal mic. La DU.
+- **báhur m** — copil neastîmpărat.
+- **bai** m. — sămînţă de usturoi.
+- **baib** m. — sămînță de usturoi. La CADE.
+- **baibarác**
+	- n. — haină de iarnă. La DU.
+	- n. — bărbat venit din alt sat.
+- **baideraş** n. — fular mic. La TDRG.
+- **bairác** n. — pădure.
+- **baistrúc**
+	- m. — copil din flori.
+	- m. — căprior mic la casă.
+	- m. — druc la carul încărcat.
+- **baistrucáş** m. — pernuță (pentru copii)
+- **baistrucél** m. — v. baistrucaş.
+- **bải** interj. — nicidecum.
+- **bajiócuri** (a) — a se murdări.
+- **bajiocuri** (a) — a certa.
+- **bajiocurít** adj. — murdărit, măscărit.
+- **balabán** m. — nătărău.
+- **balabóncic** n. — clopoțel.
+- **balacári** m. — palavragiu.
+- **baláe** adj. — albă.
+- **baláhur** n. — trăsură boierească.
+- **balamiş** n. — fäină de porumb cu caş. La DLR.
+- **balamiş-balmuş** n. — nărujnic.
+- **balamutí** (a) — a vorbi mult, fără rost.
+- **balán**
+	- adj. — bălai, cu sața albă.
+	- adj. — alb (vin).
+	- adj. — albicios (nisip).
+	- m. — necuratul. La CADE.
+	- m. — bovină. La CADE.
+- **balaní** (a) — a vărui.
+- **balbarîc** n. — hat între loturi de pămînt.
+- **balcîz** adj. — urît. La I.Creangă.
+- **balcón** n. — cerdac.
+- **balérc** n. — butoi.
+- **báliga-oaiei** adj. — untdelemniu.
+- **balón** n. — maşină de stropit.
+- **balon** n. — cupeu. La CADE.
+- **balót** n. — paie presate şi legate.
+- **balóta** (a) — a împaceta, a lega baloturi.
+- **baltagél** n. — baltag mic.
+- **baltagiu** m. — oştean cu baltag.
+- **balț** n. — văl. La CADE.
+- **banári**
+	- m. — flăcău care strînge banii cîştigati.
+	- m. — agent financiar.
+- **bancnótă** f. — bumaşcă. La CADE.
+- **bancrát** n. — posteucă.
+- **bandól** n. — cîrpă. La CADE.
+- **bandurár** m. — cîntăreț la bandură.
+- **bangîu** m. — lungan. La CADE.
+- **báni** m. pl. — putere, voie. E x pr. A fi în
+- **baniác** n. — oală (de schijă).
+- **bant** n. — fundă.
+- **bantic** n. — v. bant.
+- **barabán**
+	- n. — deşert la vacă.
+	- n. — sîntînă cu două căldări.
+	- n. — val la fîntînă.
+	- n. — gură la treierătoare.
+	- n. — haraba.
+	- n. — partea încovoiată a saniei.
+- **barabảnci** m. — toboşar.
+- **barabói**
+	- m. — cartof. La DLR.
+	- m. — dans popular.
+- **barancióc** n. — lambă la căruță.
+- **baranóc** m. — brebenoc.
+- **barbaí** (a) — a borfāi nutrețul.
+- **bárba-saftei** f. — valeriană (plantă).
+- **barc** n. — ochi cu apă.
+- **bardác** n. — debandadă, dezordine.
+- **bardáci** n. — satîr de bucătărie.
+- **bardacióc** n. — cuțit de bucătărie.
+- **bardahán** n. — burta calului.
+- **bardár** m. pl. — meşter de lemnărie.
+- **bardáş** n. — topor de crăpat lemne.
+- **barél** n. — balcr.
+- **barĕm adv** — måcar. La P.Ispirescu.
+- **barhảt** n. — barhet.
+- **bárhat** adj. — roşu-întunecat.
+- **baríş** n. — mită.
+- **báte** (a) — a țese. (TD).
+- **batíc** n. — broboadă mică.
+- **batîr** adv. — încalte. La I.Creangă.
+- **batoji** (a) — a bătători. La CADE.
+- **batojít** adj. — istovit de bătrînețe.
+- **batojítă** adj. — murdară.
+- **bazaóchi**
+	- adj. — saşiu.
+	- adj. — nebunatic.
+- **bazarníc** n. — v. bazarnea.
+- **bazin** n. — uluc de piatră la fîntînă.
+- **bazín** n. — vas mare din doage.
+- **băbălău** m. — gîndac.
+- **băbésc** adj. — ca la babe.
+- **băbuí** (a) — a moşi.
+- **băcál** m. — vînzător. La DU.
+- **băcản** m. — vînzător.
+- **băcălíşi** f. pl. — copturi, prăjituri.
+- **băciuí** (a) — a fi baci la stînă.
+- **bădăí** (a) — a umbla haihui.
+- **bădădăi** (a) — a umbla brambura.
+- **bădărău** n. — mămăligă prăjită.
+- **bădălău** n. — putinei.
+- **bădícă**
+	- m. — termen de respect.
+	- m. — iubit, ibovnic, drăguț.
+- **bădicúță** m. — drăguț, iubit.
+- **bădíe** m. — adresare respectuoasă.
+- **bădişór**
+	- m. — iubit, drăguț.
+	- m. — adresare (ironică).
+- **bădzărîc** n. — membrană de grăsime.
+- **băetán** m. — băiat mare.
+- **băețan** m. — băețandru. La DU.
+- **băcțél** m. — joc țărănesc. La CADE.
+- **băețică** m. — fetiță.
+- **băețícă** m. — adresare (ironică).
+- **băețíme** m. — mulțime de băeți.
+- **băgá** (a) — a lua. Expr. A nu băga
+- **băgecári** m. — plătitor de impozit pe fum.
+- **băhníş** n. — loc mlăştinos.
+- **băhnít** adj. — stătut. La DLR.
+- **băhnós** adj. — mocirlos. La DLR.
+- **băieş** m. — băiaş. La CADE.
+- **băitănáş** m. — flăcăuan.
+- **băiță** m. — adresare familiară. La DLR.
+- **băitán** m. — flăcăuan.
+- **bălă** adj. — blondă.
+- **bălăbăni**
+	- (a) — a hurduca. La DU.
+	- (a se) — a se trudi.
+	- (a se) — a se clătina.
+	- (a se) — a se legăna.
+- **bălăcăní** (a) — a trăncăni.
+- **bălăcărí** (a) — a trăncăni.
+- **bălăci** (a) — a se spăla.
+- **bălăioáră** adj. — blondă.
+- **bălăiel** adj. — blond.
+- **bălălăi** (a) — a se clătina. La DU.
+- **bălăor** adj. — blond. La DD.
+- **bălăoară** adj. — blondă. La DD.
+- **bălălău**
+	- adj. — care se clatină.
+	- m. — dugliş, pierde-vară.
+- **bălănél** adj. — blond.
+- **bălăngăi** (a) — a se legăna greoi.
+- **bălănúț** adj. — blond.
+- **bălăurá** (a) — a se ocărî crunt. (TD).
+- **bălcău** n. — băltoacă.
+- **bălcuri** n. pl. — băltoace.
+- **băligăriu** adj. — galben-întunecat.
+- **băligău** adj. — galben-intunecat.
+- **băligíu** adj. — galben-întunecat.
+- **bălós**
+	- adj. — neîngrijit, cu bale la gură.
+	- m. — ghiborț.
+	- adj. — lipicios. (TD).
+- **băloşél** m. — ciupercă necomestibilă.
+- **băltåg** n. — hădărag la îmblăciug.
+- **băltăgí** (a) — a bate cu baltagul.
+- **băltăí** (a) — a trăncăni.
+- **băltău** n. — baltă mare.
+- **bălti** (a) — a se face baltă.
+- **băltóg** n. — băltoacă. La CADE.
+- **bălúc** adj. — blond. La CADE.
+- **băluí** (a) — a petrece. (TD).
+- **bănát** n. — învinuire. I.Creangă. La CADE.
+- **bănat** n. — mînie. La DLR.
+- **bănărít** n. — bani mulți, bănet.
+- **bănculéț** n. — borcan mic.
+- **bănculí** (a) — a mugi. (TD).
+- **bănicér** m. — meșter de banițe.
+- **bănui**
+	- (a) — a se supăra.
+	- (a) — a presupune. La DLR.
+- **bănuí** (a) — a regreta. La DLR.
+- **bănuiélnic** adj. — bănuitor.
+- **bănuit** adj. — suspectat. La DLR.
+- **bănúț** m. — pată transparentă la ou.
+- **bănuțéi** m. pl. — bani mărunți.
+- **băpcér** n. — pripon de lemn cu batcă.
+- **bărăní** (a) — a cicăli, a stărui. La DLR.
+- **bărbảt** adj. — viteaz, curajos.
+- **bărbăcărí** (a) — a paşte berbecii.
+- **bărbiér** m. — v. bărbari.
+- **bărbătíe** adj. — găină care cînta ca un cucoş.
+- **bărbătíu** adj. — viguros.
+- **bărbúnc** n. — joc țărănesc. La CADE. berbeniță (BDŞ, 1458) - putinică.
+- **birrdalul** (a) — a ciopli cu barda.
+- **birdás** m. — dulgher. La E.Sevastos.
+- **bortesin** m. — locuitor din satul Barta.
+- **bosăráb** — v. băsăra.
+- **bôsñrábi** — v. băsăra.
+- **båsñu** n. — ambiție, hatîr. La CADE.
+- **basmuitór** m. — povestitor.
+- **băscaltuí** (a) — a se da de o parte.
+- **baitiş** n. — daltă cu care se bat cercurile.
+- **bătáş** n. — coadă cu roată la putinei.
+- **battás** n. — mai pentru rufe.
+- **bntăgós** adj. — bulgăros.
+- **bătălăiá** (a) — a bate cînepa cu bătălăul.
+- **bătălău**
+	- n. — hădărag la îmblăciu.
+	- n. — melițoi.
+	- n. — mustuitor.
+	- n. — mai de bătătorit pămîntul.
+	- n. — ciocan de bătut coasa.
+	- n. — pilug, pisălog.
+	- n. — coadă cu roată la putinei.
+- **bătălui** (a) — a bătători pămîntul.
+- **bătăúş**
+	- n. — îmblăciu.
+	- m. — băț de lovit mingea.
+- **bătugă** — v. bătucă.
+- **băturí** (a) — a tăvălugi (ogorul).
+- **bătúta** f. — dans popular. La DELM.
+- **bechiruí** (a) — a vîntura la becher.
+- **bedreág** n. — dragoste. Expr. S-a dat
+- **behai** (a) — a zbera. La DU.
+- **bejenár** m. — băjănar (CM).
+- **bejenar** m. — pribeag. La CADE.
+- **bejenări** (a) — a pribegi. La CADE.
+- **bejenărie** f. — pribegie. La CADE.
+- **bejenărit** n. — pribegie. la CADE.
+- **bejeni** (a) — a pribegi. La CADE.
+- **bejenie** f. — pribegie. La CADE.
+- **bel** n. — tînăcop.
+- **béld** n. pl. — rămăşiṭe de nutreṭ.
+- **bêlde de răsărită** n. pl. — bețe de floa-rea-soarelui.
+- **beldiós** adj. — lemnos, bățos. La CADE.
+- **belehău** n. — curpăn de cartofi.
+- **bêlfer** m. — învățător, dascăl.
+- **belcuji** (a) — a holba ochii. La CADE.
+- **beli**
+	- (a) — a jupui.
+	- (a) — a jefui.
+- **belitúri** f. pl. — berbeci slabi.
+- **benchetuí** (a) — a petrece în ospeţe.
+- **bênchit** n. — masă pentru neamuri.
+- **bénga** m. — nume dat Necuratului.
+- **benghi** n. — aluniță naturală. La DELM.
+- **bengós** adj. — isteț, hîtru.
+- **beníş** n. — haină boierească. La DLR.
+- **berbánt** adj. — ștrengar. La M. Eminescu.
+- **berbecár** m. — păcurar la berbeci. berbeci (a) - a izbi. La M. Sadoveanu. berbeniță $`f`$. - în doc. lui Ştefan cel Mare.
+- **berbecuț** m. — becațină. La DU.
+- **bere** n. — pădurice, dumbravă.
+- **berechét**
+	- m. — noroc. La I.Creangă.
+	- m. — aducător de noroc.
+- **berejníc** m. — pădurar. La CADE.
+- **bernevéci** m. pl. — pantaloni țărăneşti.
+- **beschiéri** m. — tăietor de lemne.
+- **bestermác** n. — furcă cu şapte coarne.
+- **bétcă** f. — coşuleṭ.
+- **beterí** (a) — a termina.
+- **beteşúg** n. — boală. La CADE.
+- **béte** n. pl. — război de ales covoare.
+- **béțe de popuşoi** n. pl. — strujeni.
+- **béțe de răsoare** n. pl. — tulpini de floa-rea-soarelui.
+- **bețişór** n. — bețigaş.
+- **bezerău** n. — membrană de grăsime.
+- **bezevénchi** m. — şarlatan.
+- **bezmănár** m. — embaticar, arendator.
+- **bezmén** n. — cîntar de mînă. La CADE.
+- **bezmétic** adj. — zăpăcit. La I.Creangă
+- **bezmetici** (a se) — a se zăpăci.
+- **biác** n. — hadarag la îmblăciu.
+- **bibil** n. — cusătură. La DU.
+- **bibiu** m. — pui de curcă.
+- **bicáş** n. — cremene. La CADE.
+- **bichirí** (a) — a lucra pe îndelete.
+- **bichis** n. — dichis. La CADE.
+- **bici** n. — lovitură de bici. La C.Negruzzi.
+- **bicisnic**
+	- adj. — neputincios. La I.Sbiera.
+	- adj. — incapabil. La CADE.
+- **bicisnicéste** adv. — anevoios. La I. Neculce.
+- **biciului** (a) — a prețui. La CADE.
+- **biciuşor** n. — bici mic. La I.Creangă.
+- **bili** (a) — a înălbi (pînza). La CADE.
+- **bilí** (a) — v. a ghili.
+- **bilihći** n. pl. — tulpini de floarea-soarelui.
+- **bindisí** (a) — a se sinchisi. La I.Creangă.
+- **bindiúh** n. — coş la căruță.
+- **bint** n. — tifon, pînză albă subțire.
+- **biruitór** adj. — învingător. La C. Negruzzi.
+- **biță** m. — bădiță. La CADE.
+- **bizui** (a se) — a se baza. La I.Slavici.
+- **bîcățí**
+	- (a) — a crăpa lemne.
+	- (a) — a tăia în multe bucăți.
+- **bîcsí**
+	- (a) — a îndesa.
+	- (a) — a umple de praf.
+	- (a) — a ticsi, a îndesa.
+- **bîhlí** (a) — a se înăcri. (TD).
+- **bîhlít** adj. — stătut, clocit. La I.Creangă.
+- **bîhlită** adj. — împuțită. La N.Costenco.
+- **bîlbău** m. — bărbat neînțeles.
+- **bîle** n. — băltoacă. La V.Drăghici.
+- **bîltáe** n. pl. — intestine (la cal).
+- **bîltîcăí**
+	- (a) — a se bălăci în apă.
+	- (a) — a cobîlţîi.
+- **bînăşél** n. — colac, pomană la praznic.
+- **bîngîi** (a) — a croncăni (cioroiul).
+- **bîntui** (a) — a tulbura, a răzvrăti.
+- **bînzár** m. — bărzăun. La CADE.
+- **bînzarí** m. — albină.
+- **bîr** interj. — se alungă oile.
+- **bîrcîi** (a) — a cotrobăi. La CADE.
+- **bîrdán** n. — burtă.
+- **bîrgalău** n. — clopoțel la căpăstru.
+- **bîrghi** f. pl. — mănunchiuri de stuf.
+- **bîrgîi** (a) — a cicăli.
+- **bîrhae** f. pl. — măruntae. La CADE.
+- **bîrligá** (a) — a se răsturna.
+- **bîrligát** adj. — fudul. La CADE.
+- **bîrligată** adj. — ridicată: Cu coada bîrligată.
+- **bîrlóg** n. — resturi de fin. La CADE.
+- **bîrnág**
+	- n. — teren pietros.
+	- n. — toponim (Camenca).
+- **bîrnuí** (a) — a pune bîrnele. La CADE.
+- **bîrşióg** n. — buclă.
+- **bîtlán**
+	- m. — pasăre de baltă.
+	- m. — om cu gîtul lung.
+- **bîtlău** n. — tulpină de ceapă.
+- **bîțán** m. — țînțar mic.
+- **bîzălău** n. — bondar. La CADE.
+- **bîzdîc** n. — capriciu, toane.
+- **bîzói**
+	- n. — Expr. A ține cuiva bîzoiul
+	- m. — albină.
+- **blagoveşnic** n. — a doua zi după Buna Vestire. La CADE.
+- **blájițe** f. pl. — curele la îmblăciu.
+- **blăstăm** n. — imprecație. La I.Creangă.
+- **blăstămá**
+	- (a) — a afurisi. La DU.
+	- (a) — a se jura (ALM).
+- **blăstămát**
+	- adj. — ticălos, mişel.
+	- adj. — slab, lipsit de puteri.
+- **blăstămăție** — ticăloşie, mişelie.
+- **blăşiúg** n. — hădărag la îmblăciu.
+- **blătăręşte** adv. — în buestru.
+- **bitaliat** — 1ablia (de acoperit casa).
+- **bibethis** — inldire.
+- **blesi** (a) — a ciuli urechile (calul).
+- **bleotocări** (a) — a se bălăci. La CADE.
+- **bleotocăreală** — flecăreală.
+- **blescăi** (a) — a stropi cu noroi.
+- **bleycári** m. — tinichigiu.
+- **bleşti** (a) — a sufla greu. La CADE.
+- **bleștí** (a) — a vorbi fără rost.
+- **bleujét** adj. — saşiu.
+- **blid**
+	- n. — tavă.
+	- n. — tacîm. (M.Eminescu).
+	- n. — farfuric. (M.Sadoveanu).
+- **blidár**
+	- n. — dulap cu polițe pentru blide.
+	- m. — meşter de blidare.
+- **blidår** n. — bufet (mobilă).
+- **blidăráş** n. — cotruță.
+- **blindişél** n. — farfurioară.
+- **bliduri** n. pl. — veselă.
+- **bliduşcúță** f. — farfurioară.
+- **blizniúc** m. — snop mic de stuf.
+- **blînduliță** adj. — blîndă.
+- **blúdnic**
+	- adj. — rătăcit; zăpăcit.
+	- adj. — haihui.
+- **bludnicí** (a) — a se rătăci, zăpăci.
+- **boághe** f. — moalele capului. La CADE.
+- **boári** m. — om care paşte boii.
+- **bobi**
+	- (a) — a afla, a găsi.
+	- (a) — a ghici. (P.Ispirescu).
+- **bobléț** adj. — nătîng. La CADE.
+- **bogdản** m. — moldovan. (V.Alecsandri). bogdáni - moldoveni. La DIM.
+- **bobictain** m. — peşte mic din ape de munte (M.Sadoveanu).
+- **bojbnii** (a) — a coṭobăi. La I.Creangă.
+- **bojmăi** (a) — a căuta bîjbîind.
+- **bolåndău** m. — băiat mare, necopt la minte.
+- **bold n** — ac cu gămălie. La CADE.
+- **bold**
+	- n. — vîrf ascuțit. La CADE, DLR.
+	- n. — strămurare. Expr. A da cu
+	- n. — cui. La DLR.
+	- n. — nuia. La DLR.
+	- n. — par. La DU.
+- **boldi**
+	- (a) — a împunge. La DLR.
+	- (a se) — a se holba.
+	- (a) — a ținti. La DLR.
+- **boldiş** adv. — holbat. La DELM.
+- **boldişór** m. — bold mic. La DELM.
+- **boldurésc** m. — din satul Boldureşti.
+- **boleác** adj. — bolnav.
+- **bolháş** n. — groapă mare cu apă.
+- **bolînd** adj. — smintit. La DLR.
+- **bolmojí** (a) — a vorbi neînțeles. La DELM.
+- **bolmojit** adj. — nedesluşit. La DELM.
+- **bolnéci** m. — soi de hulubi.
+- **bolníță** f. — spital. La DELM, CADE.
+- **boloátă** f. — groapă cu apă de ploaie.
+- **bolocán** m. — țipar.
+- **bolohán** m. — pietroi, bolovan.
+- **bolohăneálă** — umflarea ugerului vacii.
+- **bolohăni** (a) — a se umfla ugerul.
+- **bolohănit** adj. — umflat. La DU.
+- **bolohănós** adj. — noduros.
+- **bolotău** n. — unealtă de pescuit.
+- **bolovănél** n. — dans popular.
+- **bombăní** (a) — a lovi la fundul pepenului verde.
+- **bombí** (a) — a bombarda.
+- **bombíu** adj. — liliachiu.
+- **bónca** adv. — hoinar. E x p r. A îmbla
+- **boncălui** (a) — a scoate mugete.
+- **bondăni** (a) — a ocărî (sub nas).
+- **borhău** n. — burta calului.
+- **borhée** f. pl. — mațe de vită.
+- **boronár** m. — cal slăbănog.
+- **boroní**
+	- (a) — a grebla. (DD).
+	- (a) — a grăpa. La DU.
+- **boronít**
+	- adj. — zgîrîiat pe față.
+	- adj. — ciupit de vărsat. (DD).
+- **boronit** adj. — grăpat. La CADE.
+- **boroscái** m. — plantă ghimpoasă.
+- **boroscodi** (a) — a trăncăni.
+- **borsocáe** n. — strigoi.
+- **borş**
+	- n. — zeamă acră din tărîțe.
+	- n. — ciorbă.
+	- n. — ciorbă făcută cu zeamă acră.
+- **borşár** m. — amator de borş.
+- **borşăriță** f. — iubitoare de borş. La DD .
+- **borşér** n. — oală, pentru umplut borşul.
+- **borşéu** n. — mazăre.
+- **borşí**
+	- (a) — a se înăcri.
+	- (a) — a se strica (vremea).
+- **borşít** adj. — acrit. La DLR.
+- **bortilí** (a) — a priboi.
+- **bortilit** adj. — prevăzut cu o gaură.
+- **bortós** adj. — găunos. La DLR.
+- **borz** adj. — zbîrlit. La CADE.
+- **borza** f. — ființă închipuită. La CADE.
+- **boscar** m. — scamator. La V.Alecsandri.
+- **bosconi** (a) — a vrăji, a fermeca.
+- **boscorodi** (a) — a vorbi fără rost. La DU.
+- **boscác** m. — golan. La DD.
+- **bosoli** (a) — a înghesui, a ghemui.
+- **bostãn**
+	- m. — dovleac. La DLR.
+	- m. — cap (ironic).
+- **bostangíu** m. — cultivator sau negustor de pepeni. La DLR.
+- **bostaníu** adj. — de culoarea dovleacului.
+- **bostangiu** m. — pepenar. La DLR.
+- **bostănár** m. — cultivator de pepeni.
+- **bostănảr** m. — păzitor la pepenărie.
+- **bostănél** m. — dovlecel. La DU.
+- **bóştir** adj. — v. boşteritură.
+- **boştór** adv. — gol, deşert.
+- **bóştoră** adv. — boşturoasă (ridiche).
+- **boştorît** adv. — găunos, boşturos.
+- **boştúr** adj. — găunos. La DU.
+- **boşturós** adj. — scorburos.
+- **bot** n. — mordă. La CADE.
+- **botári** n. — curea la căpețea.
+- **botárnic** n. — v. botari.
+- **botău** n. — bîtă mare şi lungă.
+- **botcále** f. pl. — turtele din aluat acru.
+- **bóte** f. pl. — tulpini de floarea-soarelui.
+- **botencúțe** f. pl. — ghete.
+- **boț** n. — mănunchi de cînepă.
+- **boțí**
+	- (a) — a mototoli.
+	- (a) — a cocoloşi.
+	- (a) — a strîmtora pe duşman.
+- **boți** (a) — a înjgheba.
+- **boțişór** n. — boț mic.
+- **boțit** adj. — mototolit (haine, stofe).
+- **boțît** adj. — zbîrcit. La M.Sadoveanu.
+- **bóur** m. — partea încovoiată a saniei.
+- **boureán** m. — bou. La DU.
+- **bourél**
+	- m. — juncan.
+	- m. — gurgui.
+	- adj. — tare, țeapăn.
+	- adj. — cu coarne ascuțite.
+- **bourie** n. — staniştea boilor. La CADE.
+- **bouşór** m. — boulean.
+- **bozăi** (a) — a mucezi. La DU.
+- **bózie** adj. — brumărie.
+- **brac** n. — stricătură. La DLR.
+- **brad** m. — ornament pe țesătură.
+- **bradanél** m. — pedicuță.
+- **bradáre** f. pl. — ornament la streaşină.
+- **brahagiu** m. — bragajiu. La DLR.
+- **bráhnău** m. — vultur mare.
+- **brancát** adj. — breaz (despre cai).
+- **bránişte** f. — domeniu domnesc; “pădure oprită pentru vînat”.
+- **brátoş** adj. — chipeş, frumos la statură.
+- **braț** n. — druci verticali de la loitre.
+- **bráțe** n. pl. — mînere la ferestrău.
+- **bratîş** adv. — pe braṭe, pe sus.
+- **brațuri** m. pl. — craci la căruță.
+- **brăcinár**
+	- n. — chingă la cracii căruței.
+	- n. — aṭă de la bata ițarilor.
+- **brăcuí**
+	- (a) — a alege ce-i stricat.
+	- (a) — a strica, a deteriora.
+- **brăcuít**
+	- adj. — răvăşit, distrus.
+	- adj. — stricat, deteriorat.
+- **brădănáş** m. — brad mic.
+- **brădiş** n. — brădet. La Al.Vlahuță.
+- **brădíş** n. — iarbă acvatică, de baltă.
+- **brăduléț** m. — brăduț.
+- **brăhărie** f. — bragaregie. La CADE.
+- **brăniştér** m. — paznic la o branişte.
+- **brățéle** f. pl. — bulfee la jug.
+- **brăzdá** (a) — a zdrobi.
+- **brăzdét** n. — teren îmbrăzdat.
+- **brăzdós** adj. — cu brazde mari.
+- **brăzduí** (a) — a brăzda. (V.Alecsandri).
+- **bre** interj. — bă.
+- **breábîn** m. — ghiocel. La DLR.
+- **breáslă** f. — meserie. La DLR.
+- **breáză** adj. — pată albă.
+- **brec** n. — trăsură cu patru roți.
+- **brehăí** (a) — a lătra (cînele).
+- **brehăi** (a) — a trăncăni.
+- **brehní** (a) — a scoate un sunet răguşit.
+- **bresláji** m. pl. — slujitori, paznici.
+- **bresláş** m. — asociat.
+- **breslaşi** m. pl. — meşteri. La N.Ţurcanu.
+- **brigadíri** m. — chirovnic. La DLR.
+- **brighidău** n. — coadă la putinei.
+- **brînci** (a) — a îmbrînci. La I.Creangă.
+- **brînciş** adv. — în patru labe. La CADE.
+- **brînzári** m. — păcurarul care face brînza. Brînză (BDŞ, 1490) - sat în Bucovina. brînzăleágă $`f`$. - săptămîna albă.
+- **brînzăpríns** m. — lapte prins fără smîntînă.
+- **brînzéle** f. pl. — turte din brînză.
+- **brînzéturi** n. — dare pentru domn.
+- **brînzí** (a) — a se înăcri.
+- **brîscăí** (a) — a stropi via, pomii.
+- **brîu de ploaie** n. — curcubeu.
+- **brîu pe cer** n. — curcubeu.
+- **brîul naşului** n. — curea la căpețea.
+- **broátec** m. — brotac. La DU.
+- **brod** n. — bac.
+- **brodătúri** f. pl. — altițe la ie.
+- **brodéle** f. pl. — broderii.
+- **brodí**
+	- (a) — a se potrivi. (DD).
+	- (a) — a pune la cale o afacere.
+- **brodi** (a) — a se nimeri. (P.Ispirescu).
+- **brodíş** n. — iarbă acvatică.
+- **broghințátă** adj. — cu boabe mari.
+- **brojbán** m. — căpățînă de varză.
+- **brojbănáş** m. — căpățînă de varză.
+- **brójdi** m. — v. brojban.
+- **broscăí** (a) — a sparge băşica (broasca) de sub limba vacii.
+- **broscodí** (a) — a alege pleava (calul).
+- **broşteán** m. — locuitor din satul Broasca.
+- **broşteásca** f. — stil de înot.
+- **brotác** m. — broatec, broscuță verde.
+- **brotăcél** m. — broscuță verde.
+- **broticíu** adj. — verde-deschis.
+- **brózdi** m. — ciorbă de varză cu smîntînă.
+- **bruitur** n. — rolă.
+- **brumăriu** adj. — verde-deschis.
+- **bruslúc** n. — cojocel.
+- **brus** m. — bulgăre. La DLR.
+- **bruțac** n. — rucsac.
+- **bubéric** m. — plantă crbacce.
+- **bubóinic** m. — dracilǎ.
+- **bubuét** n. — boabă. la CADE.
+- **bubulác**
+	- m. — trunchi gros.
+	- m. — flăcău tomnatic.
+	- n. — chirpici, lampac.
+	- n. — tăvălug de färămițat.
+- **buc**
+	- m. — fag. La DLR.
+	- m. — pleavă de cereale. La DLR.
+	- m. — fag bătrîn. Expr. A fi de cînd bucii $`=`$ a fi foarte bătrîn.
+- **bucál** n. — garafă de $`3 l`$.
+- **bucáte** f.pl. — mîncări. La C.Negruzzi.
+- **bucáve** f. pl. — jir.
+- **bucățelí** (a) — a tăia în bucățele.
+- **bucățí**
+	- (a) — a crăpa (lemne) cu toporul.
+	- (a) — a tăia în bucăți mici.
+- **bucău** m. — jir.
+- **bucheri** (a) — a silabisi.
+- **buchini** (a) — a citi prost.
+- **buchiri** (a) — v. buchini (a).
+- **buchisí** (a) — a îmbrînci, a lovi.
+- **buchițăi** m. pl. — pete mici.
+- **búci** m. pl. — cîlți.
+- **búcin** n. — sirenă.
+- **buciúm** n. — tub de metal. La CADE.
+- **buciumá** (a) — a șterge calul.
+- **buclér** n. — buclă.
+- **buclúc** n. — belea, necaz. La DLR.
+- **buclúcuri** n.pl. — catrafuse.
+- **buclucáş** adj. — cîrcotaş. La I.Creangă.
+- **bucoásă** adj. — plină de scai (lînă).
+- **bucsái** m. — rostogol (plantă).
+- **bucşí**
+	- (a) — a coase pe însăilătură.
+	- (a) — a ticsi, a îndesa. La DLR.
+	- (a) — a năpădi, a năboi (sîngele).
+	- (a) — a se înghesui, a se îngrămădi.
+- **bucşít** adj. — ticsit, îndesat.
+- **bucureşteán** m. — ardei gras; gogoşar.
+- **búcuri** m. pl. — fagi.
+- **bucuşí** (a) — a bate zdravăn (pe cineva).
+- **budaláş** n. — putinei.
+- **budăés** n. — putinei. La CADE.
+- **budăi** n. — putinci.
+- **budăláe** n. pl. — ciubere. (TD).
+- **budălău** n. — putinei. La DU.
+- **budulán** adj. — prostănac, tulan. La CADE. 1 Ab1
+- **butin** — buclă.
+- **bulánt** adj. — buclat (păr).
+- **butä** f. — sarma de post. La CADE.
+- **bulécic** n. — bufet (mobilă).
+- **bullic** n. — v. buffă.
+- **buifte adv** — prea sătul. Sătul bufte. (DD).
+- **buftea** n. — buflea. La DU.
+- **buftí**
+	- (a) — a se umfla. (DD).
+	- (a) — a se îndopa.
+- **buftít** adj. — umplut, plin (de ceva).
+- **buftós** adj. — gras, grăsan.
+- **búgă** m. — buhai. La CADE.
+- **bugăt** adj. — destul. La CADE.
+- **bugeác** n. — stepă secetoasă.
+- **bugeác de pădure** n. — piedicuță.
+- **bugecéni** pl. — bugeaclîi (CM).
+- **búged** adj. — buhav, buhăit. La DLR.
+- **bugezi** (a se) — a se umfla de băutură.
+- **bugigeán** m. — tătar din Bugeac.
+- **bugini** (a) — a zace. La CADE.
+- **bugorcél** n. — cîrlig de pescuit.
+- **buh**
+	- n. — veste. E x pr. A-i merge buhul $`=`$ a-i merge vestea.
+	- n. — burtă la cal.
+- **buháb** adj. — grăsan. (Al.Vlahuță).
+- **buhái**
+	- m. — taur. La DLR.
+	- n. — instrument popular: o putini-
+	- n. — vargă arcuită la coasă.
+- **buháş** m. — brad mic. La CADE.
+- **búhă** f. — ochi. E x pr. O pus buha pe
+- **buhăęş** m. — buhai mic. La DLR.
+- **buhăi**
+	- (a) — a plînge.
+	- (a) — a se face buhav.
+- **buhăiáş** n. — colț de matiță.
+- **buhăít** m. — umflat. (M.Sadoveanu).
+- **buhărdán** n. — burtă la cal.
+- **buhăví** (a) — a se umfla la față.
+- **buhní**
+	- (a) — a trînti. (DD).
+	- (a) — a da buzna (pe uşă).
+	- (a) — a bubui, a tuna.
+	- (a) — a exploda.
+	- (a) — a plesni un cerc.
+- **buhón** n. — stomac la vită.
+- **buhós** adj. — ciusulit, zbîrlit.
+- **buhuí** (a) — a bubui.
+- **bueci** (a) — a-i merge bine.
+- **buiác**
+	- m. — taur.
+	- adj. — nebunatic. La DU.
+	- adj. — zburdalnic.
+- **buimác** adj. — zăpăcit. La I.Creangă.
+- **buimátic** adj. — zăpăcit.
+- **buimăci** (a) — a se zăpăci. La P.Ispirescu.
+- **bujór** m. — mac.
+- **bujorár** m. — poreclă țăranilor.
+- **bulán** n. — galben-închis (cal).
+- **bulbucát** adj. — ridicat, umflat.
+- **bulée** n. pl. — bețe de floarea-soarclui.
+- **bulgúr**
+	- n. — crupe de grîu.
+	- n. — mîncare. La E. Voronca
+	- n. — urluială.
+- **bulhác** n. — baltă; iezer de pădure.
+- **bulhăcél** n. — bulhac mic.
+- **bulichér** n. — cuțit mare tocit.
+- **bulihári** m. — uliu. La DD.
+- **bulț** m. — bulgăre. La CADE.
+- **bulúc** n. — toalpă. La CADE.
+- **bulucí**
+	- (a) — a se aduna. (Gr.Ureche).
+	- (a) — a merge buluc (bobocii).
+- **bulats** adv. — într-un singur rînd.
+- **bumb**
+	- m. — nasture. La DU.
+	- m. — pastilă.
+- **bmmbăsári** m. — paznic.
+- **bumbi-galbeni** n. — vetrice.
+- **bumbişór** m. — bumburez (plantă).
+- **bumbíu** adj. — violet.
+- **bumburi** m. pl. — nasturi.
+- **bumburúț** m. — cocolos.
+- **bumbuşór** n. — mîner la sertar.
+- **bumbúț** n. — căpăcel la rotițele plitei.
+- **búnă-dimineața** s. — plantă decorativă.
+- **bunătăciós** adj. — bun la inimă.
+- **buncanáşi** m. pl. — boi. (TD).
+- **buncăí** (a) — a mugi. (TD).
+- **buncălăí** (a) — a se jelui.
+- **buncăluí** (a) — a mugi.
+- **bunchiní** (a) — a migăli. La CADE.
+- **búnget** n. — desiş de pădure.
+- **búngher** n. — buncher.
+- **bunghi** m. pl. — nasturi. La CADE.
+- **bunghí** (a) — a privi atent. (Săptămîna).
+- **bunghişori** m. pl. — nasturi. La CADE.
+- **bunt** n. — răzvrătire.
+- **buntáş** m. — rebel. (V.Alecsandri).
+- **buntuluí**
+	- (a) — a chema masele la violență.
+	- (a) — a se răzvrăti.
+	- (a) — a se tulbura.
+- **buntúşnic** n. — răzvrătit.
+- **bunúț** adj. — bunicel. La CADE.
+- **burá** (a) — a ploua mărunt.
+- **burát**
+	- n. — maşină de cernut.
+	- n. — ursoaică (în pod).
+- **buratic** m. — brotac. La DU.
+- **burátic**
+	- m. — greer de cîmp.
+	- m. — coş la moară.
+- **buraticíu** adj. — verde-saturat.
+- **búră** f. — stropitoare.
+- **burcanós** adj. — mare, gras (ardei).
+- **burcáş** m. — care poartă burcă.
+- **búrcic** n. — sfredel de tîmplărie.
+- **burcóucă** f. — drum pietruit.
+- **burcuít** adj. — pietruit.
+- **burcút** n. — apă minerală.
+- **burdău** adj. — roşu-închis.
+- **burdiúh** n. — burta calului.
+- **burdói** m. — lup. (TD).
+- **burduál** n. — burtă la cal.
+- **burdúh** adj. — vişiniu, vişină-coaptă.
+- **burduháş** n. — burduf mic. La CADE.
+- **burduhăní** (a) — a sfîşia.
+- **burduhós** adj. — burtos. (I.Creangă).
+- **burdúlca** m. — burtos (om).
+- **burduşí** (a) — a umple ceva îndesînd.
+- **burduşi** (a) — a snopi în bătaie.
+- **burechíte** f. pl. — coltunaşi cu carne.
+- **burédzi** m. pl. — ciuperci.
+- **burète** m. — ciupercă.
+- **burczá** (a) — a ploua rar. La DELM, DD.
+- **burczát** adj. — plouat.
+- **burghięş** n. — sfredel mic.
+- **burhái** n. — ceață rară, după ploaie.
+- **burhán** n. — burtă.
+- **burhún** n. — stomac de porc umplut.
+- **buríc**
+	- n. — căpăcel la fitilul lămpii.
+	- n. — ombilic. E x pr. A căta cu
+	- n. — ridicătură în mijlocul arăturii.
+- **buricél** m. — legătură la crucea carului.
+- **buríu** n. — stropitoare.
+- **burlác**
+	- m. — văduvoi.
+	- m. — bărbat fără căpătîi.
+	- m. — bărbat pripăşit în alt sat.
+	- m. — nătărău.
+	- m. — flăcău neînsurat. La DU.
+- **burlăcí** (a) — a duce viață de burlac.
+- **burlản** n. — conductă de apă.
+- **burlău** n. — muscă folosită ca nadă.
+- **burluéş** n. — urcioraş.
+- **burlúi**
+	- n. — gît lung şi strîmt la urcior.
+	- n. — gîtul sticlei lămpii cu gaz.
+	- n. — țeavă, gîtul pîlniei. La DU
+- **burnúz** n. — haină femeiască cu blană.
+- **bursác** n. — cute.
+- **bursúc**
+	- m. — om, copil mic de statură.
+	- m. — mizantrop.
+- **burșí** (a) — a trăncăni; a bodogăni.
+- **burtúc** n. — groapă pentru pește prins.
+- **burúc** n. — stropitoare.
+- **burunciúc** m. — ață din gogoaşe.
+- **burundúc** n. — curmei scurt.
+- **burungiúc** n. — borangic.
+- **burunóc** m. — brebenoc.
+- **burutuşíu** adj. — galben-deschis.
+- **burzuluí**
+	- (a) — a se răsti. La DU.
+	- (a) — a se răscula.
+- **burzuluít** adj. — aprins de mînie.
+- **busnát**
+	- adj. — gras (la sață).
+	- adj. — bucălat. (C.Hogaş).
+- **buş** m. — bulgăre. La CADE.
+- **buşi** (a) — a îmbrînci, a trînti. Expr. A-I buşi pe cineva rîsul = a-l apuca pe cincva un rîs nestăpînit.
+- **buşnćag** m. — prăpastic.
+- **buştcăn** m. — scorbură.
+- **buştihản** n. — buştean. La DLR.
+- **but** n. — piatră de construcțic.
+- **butác**
+	- adj. — cu coarne scurte şi groase.
+	- adj. — neghiob, greu de cap.
+- **bután** m. — butaş de viță de vie.
+- **butár** m. — dogar.
+- **bútcă** f. — trăsură de lux. La DU.
+- **butcós** adj. — îndesat.
+- **búte** adv. — sătul, plin.
+- **buti** (a) — a țîşni. La CADE.
+- **bútie** adv. — umflată (vaca).
+- **butlăci** f. pl. — butoaie mari.
+- **butnár** m. — dogar.
+- **butnărit** n. — meseria butnarului.
+- **butoćş** n. — butoi mic. La CADE.
+- **butón** n. — mîner la sertar.
+- **butúc**
+	- n. — căpățina roții. La DU.
+	- m. — talpă la stative.
+	- m. — val la fîntînă.
+	- m. — pachet de cărți.
+	- m. — tutuc. La CADE.
+- **butucănós** adj. — butucos. La DU.
+- **butucéi** m. pl. — scripți la stative.
+- **butucí** m. pl. — lemn pentru şindrilă.
+- **butuít** adj. — scorburos.
+- **butulác**
+	- m. — buturugă.
+	- m. — butuc pe care se ciopleşte.
+	- m. — talpă la polobocul plin.
+- **butuláşi** m. pl. — bucăți de lemn tăiat.
+- **butulăşí** (a) — a tăvălugi ogorul.
+- **búturi** m. pl. — mobilă.
+- **buzdugán**
+	- n. — ghioagă de fier, armă de
+	- n. — mai de crăpat lemnele.
+	- n. — ciocan mare.
+- **buzdugăní** (a) — a bate. (TD).
+- **búzna** adv. — năvală. Expr. A da buz-
+
+## C
+
+- **cabá**
+	- s. — căpătînă de varză.
+	- adj. — lucrat bine (pămînt).
+- **cabác** m. — dovleac galben.
+- **cabác balán** m. — dovleac alb.
+- **cabác de bors** m. — dovleac.
+- **cabácic** m. — dovlecel.
+- **cabacióc** m. — dovlecel.
+- **cabardínca** f. — dans popular caucazian.
+- **cabáz** m. — mucalit. La DU.
+- **cabazlîc** n. — glumǎ.
+- **cacadîr** n. — mǎcieş.
+- **cacealău** n. — sucitor.
+- **caceác** adj. — înclinat.
+- **caceálcă** f. — sucitor.
+- **caceali** (a) — a tăvălugi (ogorul).
+- **cacealí** (a) — a întinde turta de aluat.
+- **cachiu** adj. — nătărău.
+- **cachíu** adj. — galben-verzui.
+- **caciorí** (a) — a se murdări, a se terfeli.
+- **cadrealáş** n. — covoraş în pătrățele.
+- **cadrél** n. — v. cadrealaş.
+- **cafás** n. — loc în biserică. La DU.
+- **cafea-arsă** adj. — cafeniu-închis.
+- **caféinic** n. — cană.
+- **cafélnic** n. — cană.
+- **caféncic** n. — v. cafenic.
+- **cafénic** n. — cană.
+- **caftán**
+	- n. — jachetă femeiască de lînă.
+	- n. — haină boierească (CM).
+- **cáhlă**
+	- f. — hogeag.
+	- f. — coşul cuptorului. La DLR.
+- **caiélă** f. — caia.
+- **cái primári** m. pl. — mică petrecerc.
+- **caiîrlîc** n. — inflamație (la gît, la obraz).
+- **caimác** n. — smîntînă.
+- **caimacám** m. — locțiitor al domnului. (I.Neculce).
+- **caimán** m. — sef al unei echipe de tăetori la pădure.
+- **cairlîc** n. — gîlcă.
+- **caiúț**
+	- n. — cleşte de rufe.
+	- n. — libelulă.
+	- n. — greier de cîmp.
+- **colcatiôr** m. — catîr.
+- **calcátcă** s. — trăsură.
+- **calic** adj. — sărac. La DU.
+- **calicí**
+	- (a) — a zobi. La CADE.
+	- (a) — a schilăvi, a ologi. La TDRG.
+- **calidór** n. — tindă.
+- **calim** n. — mlădiță altioită.
+- **calimúr** n. — v. calim.
+- **calipóp** m. — libelulă.
+- **calîm**
+	- n. — răscumpărare pentru mireasă.
+	- n. — cîştig ilicit.
+- **calîp de chirpici** n. — formă pentru chirpici.
+- **calp** adj. — falsificat, fals.
+- **cálu-boerului** m. — libelulă.
+- **calțavétă** f. — jartieră.
+- **calúp**
+	- n. — calapod (la cizmărie). La DU.
+	- n. — bucată de sǎpun.
+- **calúp de ceară** n. — turtă de ceară.
+- **caluscán-de-deal** m. — greier de cîmp.
+- **calúş** n. — cîrlig de rufe.
+- **camáşi** m. pl. — ghete bărbăteşti.
+- **cameniceán** m. — din Camenița, azi
+- **camód** n. — garderobă.
+- **campót** n. — dulceață.
+- **canáf** n. — ciucure.
+- **canáhi** m. pl. — canafuri, ciucuri.
+- **canalúş** n. — jgheab la teasc.
+- **candrél** n. — v. cadrealaş.
+- **can féte** f. pl. — bomboane.
+- **cantramá** f. — căpăstru.
+- **capác de răsărită** n. — pălăria floriisoarelui.
+- **capchiu** adj. — capiu. La CADE.
+- **capéici** f. pl. — bani mărunți.
+- **cápie** adj. — bolnavă de căpială.
+- **capițuri** — v. capiță.
+- **capót**
+	- n. — haină de casă (feminină).
+	- n. — rochie.
+- **captál** n. — pălărie la floarea-soarelui.
+- **captalán** m. — plantă. La DU.
+- **captár**
+	- n. — coajă de brad la găleată.
+	- n. — stup.
+- **captári** n. — sfredel mic.
+- **cápte** n.pl. — capete.
+- **cápțe** f. pl. — curele la îmblăciu.
+- **cápți** m. pl. — papuci de casă.
+- **capusneác** n. — varză tocată prăjită.
+- **capúsnic** n. — grădină cu varză.
+- **carabăț** m. — larva țînțarului. La CADE.
+- **carábuşcă** f. — cutioară. La CADE.
+- **caracúdă** f. — caras.
+- **caragánță** f. — coțofană.
+- **caraghióz** adj. — smolit (la față).
+- **corbonád** m. — pastramă.
+- **carcán** n. — pat la vîrtelniță.
+- **cunci** n. — rădăcină de salcie.
+- **cardón**
+	- n. — canton.
+	- n. — carton.
+- **carcetcă** f. — trăsură (cu patru roți).
+- **carîc**
+	- n. — val de pămînt.
+	- n. — răzor.
+- **carịc** n. — brazdă irigabilă.
+- **carĩm** n. — fuscel la loitră.
+- **carîm**
+	- n. — druc lateral la scară.
+	- n. — război de ales covoare.
+- **carîtáş** m. — surugiu.
+- **carmác** n. — unealtă de pescuit. La DU.
+- **carníc** n. — poiată.
+- **carniznic** n. — v. carnizari.
+- **carnizóucă** f. — v. carnizari.
+- **carnizuri** n. pl. — ornamente la streaşină.
+- **carp** m. — carpen.
+- **cartál** n. — vultur.
+- **cartină** f. — film.
+- **cartoáple** f. pl. — cartofi.
+- **cártocică** f. — portret în ramă.
+- **cartofár** m. — vierme alb de cartofi.
+- **cartofélniță** f. — coropişniță.
+- **cartófişte** f. — cartofărie.
+- **cartóflişte** f. — v. cartofişte.
+- **cartúz** n. — şapcă cu cozoroc, chipiu.
+- **căruceán** n. — roabă.
+- **carúdă** adj. — culoare a solzilor.
+- **cáruri** n. pl. — care (vehicule).
+- **carvasará** f. — vamă instituită de turci în Moldova.
+- **casáp**
+	- m. — măcelar. La DU.
+	- m. — ucigaş. La N.Țurcanu.
+- **cásă** f. — gospodărie.
+- **caschét** n. — pălăria florii-soarelui.
+- **castálǎ** f. — castană. La CADE.
+- **castiól** n. — catifea.
+- **castrón** n. — cratiță înaltă.
+- **castronél** n. — cratiță (de aluminiu).
+- **caşíc** n. — mertic pentru vama la moară.
+- **caşmír** adj. — cafeniu-roşietic.
+- **caşt** n. — săpăligă.
+- **cáşte** f. pl. — aripi la vîrtelniță.
+- **cáşten** n. — cîrjă.
+- **caşúchi** adj. — nătărău.
+- **cáşul-vrăbiei** m. — cucută.
+- **catalig** n. — piciorong.
+- **catalíge** f. pl. — picioroange.
+- **catarói** n. — guturai, gripă.
+- **catergár** m. — ticălos, pungaş.
+- **catîr** m. — cal mare, puternic.
+- **catîroáică** f. — catîrcă.
+- **catîrós** adj. — noduros, cioturos.
+- **catrinúțe** f. pl. — micşunele.
+- **catáp** n. — rus.
+- **cațúrcă** f. — car mare.
+- **cavál**
+	- n. — strat de legume.
+	- n. — brazdă.
+- **cavéi** n. — cafea.
+- **cozanćl** m. — ceaun mic.
+- **cazamét** n. — cazan mic.
+- **cuzapúh** n. — țesătură, un fel de catifea.
+- **cazmán** n. — tîrnăcop.
+- **cácăsdér** n. — måcieş. La DU.
+- **cŏccli** (a) — a se rostogoli (cînelc).
+- **cołceli** (a) — a se zvîrcoli.
+- **cichití** (a) — a face căpițe.
+- **cădzút** adj. — sleit, slab.
+- **căhleáță** s. — cahlă. La DU.
+- **căí** (a) — a orăcăi.
+- **căináre** f. — văicăreală. La I.Sbiera.
+- **căiúş**
+	- n. — felie de pîne.
+	- n. — cureluşă. La CADE.
+- **călărăs** m. — călăreț. La CADE.
+- **călărâs** m. — slujitor domnesc.
+- **călăreți** m. — vornicei (călări).
+- **călăruí** (a) — a altoi.
+- **călățuícă** f. — cană mică; ceaşcă.
+- **călcăéş** n. — bucată de pîne.
+- **călcătór** m. — infractor.
+- **călcătõr** m. — prădător, hoț.
+- **călcătóri**
+	- n. — vas de calcat strugurii.
+	- n. — luntre.
+- **călcătúră** s. — lut și pleavă pentru chirpici.
+- **călcîés** n. — bucățică. La CADE.
+- **călcîi**
+	- n. — unde se fixează toporîştea.
+	- n. — bucată de pîne.
+- **căldåre de mămăligă** f. — ceaun.
+- **căldărí** (a) — a se zăpăci. (DD).
+- **căldzí** (a) — a încălzi.
+- **căleáp** n. — scul. La DU.
+- **căli** (a) — a supune răcelii un obiect înfierbîntat.
+- **călí** (a) — a răci (opăritura).
+- **călindar** n. — calendar La DU.
+- **căluceán** m. — greier de cîmp.
+- **călúş** n. — mănunchi. La CADE.
+- **căluşăréşte** adv. — precum căluşarii.
+- **căluşêi** m. pl. — scripți la ițe.
+- **cămănár** m. — percepea cămana.
+- **cămănáş** m. — pescar ce fixează năvodul.
+- **cămęşi** f. pl. — albituri.
+- **cămeşói** n. — cămaşă lungă de noapte.
+- **cămeşúică** f. — cămaşă mică.
+- **căminár** m. — strîngea dările de la crîşme.
+- **cănăgăi** f. pl. — mîzgălituri (pe hîrtie).
+- **cănăgăliii** f. pl. — minciuni, pătărănii.
+- **căní** (a) — a vopsi în negru. La DU.
+- **căntuí** (a) — a rindelui.
+- **căpác**
+	- n. — pălăria florii soarelui.
+	- n. — gurari la cuptor.
+- **căpăstrá** (a) — a coase.
+- **căpăstru** n. — bucată de piele la barcas.
+- **căpăşúnă** adj. — ca căpşuna.
+- **căpățînátă** adj. — căpățînoasă. (TD).
+- **căpățînă** f. — glavă (cap prost).
+- **cippchia** (a) — a căpia. La DU. oîpcini m. pl. - căpcăuni. copcoréag n. - haină. La CADE. ripesstreálă
+- **cărăluí** (a) — a altoi.
+- **cărămidăríță** f. — v. cărămidari.
+- **cărămidăríu** adj. — galben-roşietic.
+- **cărări** f. pl. — preşuri. (TD).
+- **cărbuí** (a) — a curăți de intestine.
+- **căriccán** n. — cărucior cu două roți.
+- **căriciór** n. — roabă.
+- **cărindár** n. — ianuarie.
+- **cărindáş**
+	- n. — creion.
+	- n. — inima copacului.
+- **cărişór** n. — cărucior, cotigă mică.
+- **cărîmbi** m. pl. — picioare la stative.
+- **cărnuí** (a) — a prepara pentru tăbăcit. cărpănós adj. - zgîrcit. La DU.
+- **cărpănoşíe** s. — zgîrcenie. La DU.
+- **cărtoferíță** f. — coropişniță.
+- **cărucér** m. — căruțaş. La DLR.
+- **cărunte** adj. — sure.
+- **cărúță** f. — cocie (CM).
+- **căs** f. pl. — case.
+- **căsár**
+	- m. — gospodar cu casă.
+	- m. — bărbat căsătorit.
+- **căsáş** m. — om de-al casei, curtean.
+- **căsăpí** (a) — a măcelări. La DU.
+- **căsăpíe** f. — măcelărie. La V.Alecsandri.
+- **cascău** adj. — neghiob, năuc.
+- **căscăún** m. — căscăud (CM).
+- **căscăúți** n. pl. — foarfece de tăiat sîrmă.
+- **căscán** m. — cirac (CM).
+- **căseán** m. — om de al casei. (l.Sbiera).
+- **căsnicí** (a) — a duce casa împreună.
+- **căsoác** f. — casă în aceeaşi ogradă.
+- **căsoíță de lemn** f. — izbǎ. La DEX.
+- **căşiulí** (a) — v. a căşui.
+- **căştănél** m. — dovlecel.
+- **căşuí** (a) — a scrobi (lortul).
+- **cătá**
+	- (a) — a privi, a se uita. (TD).
+	- (a) — a sta pe lîngă cineva. (TD).
+	- (a) — a avea grijă de cineva. (TD).
+	- (a) — a se uita (în oglindă).
+	- (a) — a asculta.
+- **cătánă** f. — soldat. La I.Creangă.
+- **cătălág** n. — cunună pe cap.
+- **cătălíge** pl. — picioroange. La DU.
+- **cătăni** (a) — a face armată.
+- **cătărcói** n. — car mare.
+- **cătinél achv** — încetinel. La l.Creangă.
+- **cătiníş** n. — loc unde creşte cătină.
+- **cătră** prep. — către. La DLR.
+- **cătrănói** n. — vin negru.
+- **cătrúnă** f. — tidvă pentru sare.
+- **cătuí** (a) — a tăvălugi ogorul cu tăvălugul.
+- **cătúşă** f. — lăcată (la fierele de cai).
+- **cățăi** m. pl. — puicți de albini.
+- **cățăí** (a) — a zădărî, a se sfădi.
+- **cățăl** m. — parte dintr-o căpătină de usturoi. La DD.
+- **cătăl** m. — ținc, cotei. La DD.
+- **cățeli**
+	- (a) — a se împreuna (cînii).
+	- (a) — a se întinde (buruienile).
+- **căúş**
+	- n. — palme alăturate.
+	- n. — vas de lemn pentru grăunțe.
+	- n. — teică.
+	- n. — instrument muzical cu coarde.
+- **căuşél** n. — făraş.
+- **căzăceásca** f. — dans căzăcesc. La DU.
+- **căvîrmá** s. — carne de oaie prăjită.
+- **căzănél** n. — căldăruşă.
+- **cune** n. — uncaltă a plutaşilor. La CADE.
+- **ceáfâ** f. — cerbice, parte de sus a jugului.
+- **ceńinic** n. — butoi de vreo 500 l .
+- **ccáinic** n. — cadă mare (din doage).
+- **ccair** n. — loc de păşunat. La DU. “Re-
+- **cealnîc** n. — colnic.
+- **ceamúr** n. — material de constructie.
+- **ccamúr**
+	- n. — noroi.
+	- n. — amestec din var, nisip.
+- **ccamureálă** s. — v. ceamur.
+- **ccardacáş** n. — lucarnă.
+- **ccaşcă de bocănă** f. — cană (de lut).
+- **ceáşcă de hîrb** f. — cană (de lut).
+- **cœáșnic** m. — mare dregător, boier de divan.
+- **ccaişnic** m. — dregător care avea grijă de caşa domnitorului. La DIM, DEX.
+- **ceatărá** (a) — a ura, a hăi.
+- **ceatlău**
+	- n. — ciomag.
+	- n. — paliţă.
+- **ceaún**
+	- n. — căldare.
+	- n. — tuci. (DLR).
+- **ceaváre** pron. — ceva.
+- **cécea**
+	- adj. — ceva deosebit de frumos.
+	- f. — jucărie.
+- **cecméc** n. — amnar.
+- **cefár**
+	- n. — curea la gura de ham.
+	- n. — partea de sus a jugului.
+- **céfter** n. — sfert.
+- **ceh** adj. — tărcat (cal).
+- **cehăi** (a) — a cicăli. La CADE.
+- **ceír** n. — legumărie colectivă.
+- **celebiu** adj. — elegant, fercheş. La DU.
+- **celédnic** m. — slugă, rîndaş. La CADE.
+- **céli** pron. — ăla.
+- **celşág** n. — înşelăciune. La CADE.
+- **cenghíl** n. — cange.
+- **cenghil** n. — cîrlig cu care se atîrnă un leş.
+- **céntru** n. — sfredel de tîmplărie.
+- **cenúşă** f. — cenuşar (la plită).
+- **cenuşér** m. — copist prost. La DU.
+- **cenuşérniță** f. — scrumieră. La CADE.
+- **cenuşós** adj. — cu multă cenuşă. (DD).
+- **ceoárice** m. — liliac (mamifer).
+- **cepár** n. — burghiu. La CADE.
+- **ceparáş** n. — sfredel mic.
+- **cepăí** (a) — a păși tîrşiind picioarele.
+- **cepăít** adj. — zgomotul produs, cepăind.
+- **cepeleág** adj. — peltic. La DLR.
+- **cepráz** n. — dințar de rostuit.
+- **ceprazári** n. — v. cepraz.
+- **cerdác** n. — balcon. La DU.
+- **cerdăcél** n. — lucarnă.
+- **ceríu** adj. — albastru-deschis.
+- **cernelíu**
+	- adj. — violet.
+	- adj. — liliachiu.
+	- adj. — albastru-închis.
+- **cernúşcă** f. — cimbrişor.
+- **cerpác**
+	- n. — ispol.
+	- n. — teică.
+- **cerşí** (a) — a postori. La CADE.
+- **certá** (a) — a pedepsi.
+- **ceş-ceva** — puțintel. La CADE.
+- **ceşti** (a) — a tăia cepurile. La CADE.
+- **cetărá**
+	- (a) — a ura noroc mirilor. (TD)
+	- (a) — a hăi. (DD).
+	- (a) — a ura, a colinda. (TD).
+	- (a) — a întreba. (TD).
+	- (a) — a cerceta.
+	- (a) — a iscodi.
+	- (a) — a mustra.
+	- (a) — a plictisi, a sîcîi. La DLR.
+- **cetăráş** m. — vornicelul cel mare.
+- **cetărătóri**
+	- m. pl. — conocari (la nuntă).
+	- m. pl. — certăreți, zurbagii.
+- **ceteráş** m. — lăutar, cîntă din ceteră.
+- **cetluí**
+	- (a) — a bate, a chelfăna.
+	- (a) — a strecura.
+	- (a) — a lega țcapăn cu funii.
+- **ceváre** pron. — ceva.
+- **cfit** adj. — achitat. La DU.
+- **cfituí** (a) — a se achita. (V.Alecsandri).
+- **chebác** n. — umplutură pentru sarmale.
+- **chefăluí**
+	- (a) — a curăți încălțămintea.
+	- (a) — a petrece. La DLR.
+- **chefluí** (a) — a chefui.
+- **chefós** adj. — bine dispus. La CADE.
+- **chćia-dracului** f. — piedicuță (plantă).
+- **cheji** m. pl. — dispoziție, chef. La DU.
+- **chelári** m. — dregător la curtea domnească a Moldovei.
+- **chelărél** m. — plantă. La DU.
+- **chelăriță** f. — chelăreasă. La CADE.
+- **chelbáş**
+	- adj. — rîios. La DU.
+	- m. — pleşuv.
+- **chelbós** adj. — chel. La DLR.
+- **chelbos** adj. — murdar; lipos.
+- **chelboşí** (a) — a cheli. E x p r. Doar
+- **chélduri** m. pl. — vorbe. Expr. A sta
+- **chélea cucoanei** adj. — roz.
+- **chélea-țiganului** adj. — cafeniu-închis.
+- **chelfăná** (a) — a bate pe cineva. La DU.
+- **chelícă** adj. — roz.
+- **chélner**
+	- n. — răscol la căruță.
+	- m. — punctator pe fier.
+- **chélnic** n. — flanelă.
+- **cheltuélnic** adj. — cheltuitor.
+- **chept** n. — cadou. E x pr. A pune pe
+- **chéptene**
+	- n. — unealtă de retezat streaşina.
+	- n. — unealtă de bătut firele.
+- **chépți** m. pl. — pieptar pentru femei.
+- **chepțişóri**
+	- n. — pieptar din piele.
+	- n. — pieptar căptuşit.
+- **cherapléş** m. — prostănac. La CADE.
+- **cherchenéț** m. — uliu.
+- **cherfosî** (a) — a se mocoşi.
+- **chersăcăriu** adj. — culoarea piersicului.
+- **cherşîcári** n. — piersică.
+- **cherşîțîu** adj. — culoarea piersicii.
+- **chesmic** n. — codină.
+- **chetrár** m. — guvid-de-baltă (peşte).
+- **chez**
+	- n. — caracter.
+	- n. — inimă. E x pr. A fi bun la chez $`=`$ a fi bun la inimǎ.
+- **chezăşlui** (a) — a garanta.
+- **chián** n. — ciocan de netezit tabla. chiáncă $`f`$. - v. chian.
+- **chiáş** n. — ciocan de netezit tabla.
+- **chiáu** interj. — imită urletul cînelui.
+- **chibzuí** (a) — a pogodi. La CADE.
+- **chicá**
+	- (a) — a cădea.
+	- (a) — a ninge. Chică omăt. (DD).
+- **chícă** f. — păr. (M.Eminescu).
+- **chicătúră** f. — căzătură. (TD).
+- **chicățél** adj. — cu pete mici (cal).
+- **chicățícă** adj. — cu picățele. (TD).
+- **chichiréz** n. — haz, farmec. La CADE
+- **chichirnéț** n. — pipernicit. La DU.
+- **chicioáre** n. pl. — clăi ( 15 snopi).
+- **chicláz** n. — calaican. La CADE.
+- **chiclăzăríu** adj. — albastru-deschis.
+- **chicluí** (a) — a măcina făină aleasă.
+- **chicluítă** adj. — de calitate (făină).
+- **chicoti** (a) — a rîde înfundat. La DU.
+- **chicurá** (a) — a dormita.
+- **chiflicí** (a) — a strivi.
+- **chiflicítă** adj. — strivită. (DD).
+- **chífteriță** f. — loc mocirlos; ochi.
+- **chiftí**
+	- (a) — a curge sub presiune. (TD).
+	- (a) — a se scurge, a țîşni.
+- **chiháie** m. — şeful pădurarilor. La TDRG.
+- **chihăí** (a) — a tuşi înfundat.
+- **chihăi** (a) — a sîcîi, a bate capul.
+- **chihní** (a) — a mocni (focul).
+- **chiláv** adj. — schilod.
+- **chillă** s. — veche măsură de capacitate.
+- **chilăví** (a) — a se vătăma.
+- **childuí**
+	- (a) — a ispiti.
+	- (a) — a chibzui.
+- **chilér**
+	- n. — încăpere pentru alimente.
+	- n. — bucătărie de vară.
+	- n. — sărăieş.
+- **chilésm** adj. — roz-gălbui.
+- **chilí**
+	- (a) — a pili.
+	- (a) — a bea băuturi alcoolice.
+- **chilimbár**
+	- n. — ravac.
+	- n. — chihlimbar. La DU.
+- **chilipir** n. — impozit.
+- **chilít**
+	- n. — lăcată (la ferele de cai).
+	- n. — cîrlig; clenci.
+	- adj. — amețit de băutură.
+- **chílnă** f. — lădiță; coşul căruței. La DU.
+- **chilós**
+	- adj. — răbdător. La DU.
+	- adj. — bun (DD).
+- **chilúg** adv. — tuns. E x pr. A tunde chilug $`=`$ a tunde pînă la piele. La DU.
+- **chilủg** n. — ghiont, lovitură.
+- **chimbuí** (a) — a se mocoşi.
+- **chiméz** n. — coteț.
+- **chímic** adj. — violet.
+- **chimicíu** adj. — violet.
+- **chimir** n. — şerpar. La DU.
+- **chimtúț** adj. — scund (om).
+- **chindosí** (a) — a broda.
+- **chíndrus** n. — albăstreală.
+- **chinovár** n. — albăstreală.
+- **chinui** (a) — a munci (CM).
+- **chinuít** adj. — dosădit. La CADE.
+- **chinzui** (a) — a chinui. La CADE.
+- **chiolhănós** adj. — mişel. La DU.
+- **chiomb**
+	- adj. — şchiop. La CADE.
+	- adj. — chior (de un ochi).
+- **chiombăní** (a) — a dibui, a orbecăi.
+- **chiompăni** (a) — a picura (de somn).
+- **chior**
+	- n. — poponeț.
+	- m. — cîrtiță.
+- **chirău** n. — țăpoşică.
+- **chirăi** (a) — a cînta (greierul).
+- **chirăit** n. — cîrîitul greierului.
+- **chírcă** f. — tîrnăcop.
+- **chircăi** (a) — a cloncăi (curca).
+- **chirci** (a) — a se pipernici. La DU.
+- **chircit** adj. — pipernicit, nedezvoltat.
+- **chircitură** f. — plantă pipernicită.
+- **chirculíță** f. — săpăligă.
+- **chirdós** m. — cîrdăşie.
+- **chirfosí** (a) — a zdrențui, a strivi.
+- **chirfosálă** f. — zǎpǎceală, hărmǎlaie.
+- **chirhánă** f. — loc unde se dǎ peştele la
+- **chirhizăşti** adj. — chirghize.
+- **chiriác** m. — greier.
+- **chirie** f. — cǎrǎuşie.
+- **chiriéş** m. — chiriaş. La CADE.
+- **chirigiu** m. — cărăuş. La CADE.
+- **chirilár** m. — pescar care trage matița.
+- **chiriláş** m. — v. chirilar.
+- **chiripcári** n. — v. chirpelniță.
+- **chirivíci** m. pl. — buşmachi. La DEX.
+- **chiristéu** n. — ferăstrău.
+- **chirná** f. — punctator de fãcut semne.
+- **chirnoágă** f. — cameră pentru alimente.
+- **chiroáşcă**
+	- f. — pateu cu carne.
+	- f. — colțunaş.
+- **chirocică** f. — tîrnăcop mic.
+- **chirón**
+	- n. — cui.
+	- n. — gǎvozd. La CADE.
+- **chirón tare** n. — pobedit. La DEX.
+- **chironár** n. — sfredel mic.
+- **chironél** n. — cui mic.
+- **chironit** adj. — țintuit. (TD).
+- **chirosí** (a) — a irosi.
+- **chirostrári** n. — pirostrie.
+- **chiróşcă** f. — colțunaşi. (T.Pamfile).
+- **chiróşte** f. pl. — v. chiroşcă.
+- **chiroti** (a) — a cîrîi (găinile).
+- **chirotí**
+	- (a) — a boli.
+	- (a) — a mocni (focul).
+- **chirpicári** n. — formă de chirpici.
+- **chirpicáriță** f. — v. chirpicari.
+- **chirpici** m. — tizic. La CADE.
+- **chirpidí** (a) — a se străpezi. S-o chirpi-
+- **chirtíc** n. — burtă mare.
+- **chirticós** adj. — mic, nedezvoltat.
+- **chisá**
+	- (a) — a strivi strugurii (cu maşina).
+	- (a) — a strivi strugurii.
+	- (a) — a fărîmița bulgării.
+	- (a) — a tăia lemne (cu toporul).
+- **chisác** n. — satîr de bucătărie.
+- **chisáv** adj. — îndărătnic, protivnic.
+- **chisăgi** (a) — a snopi în bătae. TDRG.
+- **chisălău** n. — pilug de pisat usturoi.
+- **chişcățéi** m. pl. — frecăței. chişcúță $`f`$. - gleznă.
+- **chíşleác** n. — lapte prins (închegat).
+- **chişmiş** n. — soi de struguri fără semințe.
+- **chiştán** n. — pici; copil mic.
+- **chitán**
+	- n. — colac mare.
+	- m. — moment prielnic: chitanul lui. (V.Vasilache).
+- **chitcăít** adj. — mocăit, molău.
+- **chití**
+	- (a) — a se sulemeni, a se găti.
+	- (a) — a ochi, a ținti, a nimeri.
+	- (a) — a arunca o privire.
+	- (a) — a fi de părere, a socoti.
+	- (a) — a pune la cale, a plănui.
+	- (a) — a exprima o părere.
+- **chitíc**
+	- m. — peşte. (DD).
+	- m. — peşte mărunt. Expr. A tă-
+- **chiticúş** m. — chilipirgiu.
+- **chítili** n. — haină bărbătească, veston.
+- **chitít**
+	- adj. — îmbrăcat de sărbătoare.
+	- adj. — cu încetineală, cumpănit.
+	- adj. — mintios. (I.Creangă).
+- **chitítă** adj. — aleasă. (DD).
+- **chititór** m. — ochitor.
+- **chitonág**
+	- n. — dulceață densă din gutui.
+	- n. — băț de pus aragi.
+- **chitonosí** (a) — a bate, a ghionti.
+- **chitulá** (a) — a ciuli urechile (calul).
+- **chofelnic** n. — sfredel mic.
+- **chifugói** m. — pițigoi.
+- **chisugúi** m. — pițigoi.
+- **chin** n. — chiot. (M.Eminescu).
+- **chiuał** s. — solniță de lemn.
+- **chiuiés** m. — vornicel.
+- **chiunt** n. — dop la gura cuptorului.
+- **chiup** n. — gavanos.
+- **chiurchiují** (a) — a slăbi după boală.
+- **chiurchiuluí** (a) — a se chercheli. La DU.
+- **chiurluít** adj. — amețit de somn.
+- **chiúz** n. pl. — curele la îmblăciu.
+- **chiviríci**
+	- m. pl. — ghete pentru femei.
+	- m. pl. — papuci de casă.
+- **chizăş** m. — garant. (I.Neculce).
+- **chizmătári** m. — duşman.
+- **cibotărésc** adj. — cizmăresc.
+- **cibotărí** (a) — a fi cizmar.
+- **ciboțica-cucului** f. — buruiană cu flori
+- **cică** f. — joc de copii.
+- **cicău** m. — mînz.
+- **cicigă** f. — cegă.
+- **cicilí** (a) — a se găti frumos, a se dichisi.
+- **cicîrîc**
+	- n. — unealtă de depănat.
+	- n. — val cu mîner la puț.
+- **cighír** m. — drob. La DU.
+- **cigîlí**
+	- (a) — a ciuguli.
+	- (a) — a lucra încet, cu migală.
+- **cíhăi** (a) — v. a chiăi.
+- **cilibi** (a) — a se găti, a ferchezui.
+- **cilibiu** adj. — elegant.
+- **cimili** (a) — a spune cimilituri.
+- **cimpi** (a) — a cinchi. La CADE.
+- **cináş** adj. — elegant. La CADE.
+- **cinchí** (a) — a sta pe vine. La M. Sadoveanu.
+- **cinchi** (a) — a se stîrci.
+- **cinchít** adj. — încovoiat pe vine. cíndră că conj. - fiindcă. La CADE. cindîrlea că conj. - fiindcă.
+- **cíndură că** conj. — fiindcă. (V. Alecsandri).
+- **cinie** f. — parte. La CADE.
+- **cinstáş** m. — vornicel ce aduce daruri.
+- **cinstéş** adv. — arătos. (I. Neculce).
+- **cinstí** (a) — a închina în cinstea cuiva.
+- **cinstiní** (a) — a arăta cinste. (TD).
+- **cioátă** f. — buturugă. La DU.
+- **ciobản** m. — păcurar. La CADE.
+- **ciobănáş** m. — ciupercă. La CADE.
+- **ciobăneảsca** adj. — dans popular.
+- **ciobăneảscă** adj. — ploae măruntă și lungă.
+- **cioc** n. — buclă.
+- **ciocán** n. — cocean de varză.
+- **ciocălán**
+	- m. — știulete de porumb.
+	- m. — cocean de porumb.
+	- n. — cocean färă boabe.
+- **ciocălău**
+	- m. — cocean. (C.Negruzzi).
+	- m. — cocean fără boabe.
+- **ciocăldán** m. — flăcăuan. la CADE.
+- **ciocăltău** n. — cui la proțap. La CADE.
+- **ciocănăí** (a) — a se împiedica, a aluneca.
+- **ciocănărie** f. — porumbişte pe care au
+- **ciocănél** n. — paralel de tîmplărie.
+- **ciocănitoáre** f. — verdoi.
+- **ciocîrtáuri** f. pl. — locuri rîpoase.
+- **ciocîrtí**
+	- (a) — a ciopîți. La DLR.
+	- (a) — a curăți.
+- **ciocléj** m. — tulpină de porumb cu frunze.
+- **cioclejél** m. — ochiul-boului (pasăre).
+- **ciocoti** (a) — a ciripi. La DU.
+- **ciofăi** (a) — a mînca încet, zgomotos.
+- **cioflác** m. — copil răsfạțat. La DU.
+- **ctolligar** m. — găligan.
+- **ctollingár** m. — surtucar. La I.Creangă. cióibă $`f`$. - sterpătură.
+- **cloinág** n. — cuțit cu lama încovoiată.
+- **ciolán**
+	- n. — os. La DU.
+	- n. — carne.
+	- n. — mădular, parte a corpului.
+- **ciolănáş** m. — osişor. La V.Alecsandri.
+- **ciolănél** m. — osişor. La I.Sbiera.
+- **ciolănós** adj. — osos. La M.Sadoveanu.
+- **ciólp** n. — mistrie.
+- **ciolpáne** f. pl. — tulpini de fioarea-soarelui.
+- **ciolpåni** m. pl. — ogrinji.
+- **ciolpău** n. — furcoi. La CADE.
+- **ciomág** n. — bîtă.
+- **ciomîrdă** f. pl. — femeie neîngrijită.
+- **ciómp** n. — capăt de creangă pe tulpină.
+- **ciondăni** (a) — a se certa. La DU.
+- **ciopéle** f. pl. — bîte.
+- **ciopláş** m. — copac crestat.
+- **cioplitár** n. — golan.
+- **ciorăi** (a) — a susura, a curge lin.
+- **ciorciolít** adj. — murdar (plin) de noroi.
+- **cioric** n. — şoric. La DU.
+- **ciornéi** adj. — negricios.
+- **ciorobór** n. — ceartă. La CADE.
+- **ciorobotí** (a) — a deretica.
+- **cioroboti** (a) — a vorbi încet.
+- **ciorpác** n. — minciog. La DU.
+- **ciorpăí** (a) — a scoate apă din puț.
+- **ciorpăi** (a) — a lua ciorbă cu lingura.
+- **ciors** n. — şorț de fierar.
+- **ciorsác** n. — scai-măgăresc.
+- **ciorsái**
+	- (a) — a scărpina. La DU.
+	- (a) — a se spăla.
+- **ciorsăí**
+	- (a) — a curăți (cu nisip) ceaunele.
+	- (a) — a tăia cu cioarsa.
+- **ciortănél** m. — crăpuşor.
+- **ciortănică** m. — crap mic.
+- **ciortí**
+	- (a) — a se ciondăni. La DU.
+	- (a) — a se certa. (I.Neculce).
+- **ciortocárp** m. — crap mare.
+- **ciorúț** m. — pui de cioară.
+- **cioşmolí** (a) — a se zvîrcoli. La DU.
+- **ciót**
+	- n. — cocean (de măr). La CADE.
+	- n. — cocean (de gutuie).
+- **ciótci** f. pl. — rădǎcini de porumb.
+- **ciotói** n. — bîtă.
+- **ciotonóg** m. — bătrîn neputincios.
+- **ciótur** n. — ciot. (M.Eminescu).
+- **cioturós** adj. — cu multe cioturi.
+- **cipóc** n. — buclă.
+- **cir** n. — terci. La DU.
+- **circăí** (a) — a se cosi (calul).
+- **cireşár** n. — iunie.
+- **cireşél** m. — v. cireşar (lună).
+- **ciréşar** m. — botgros. La S.F.Marian.
+- **ciriclíc** n. — terci. La CADE.
+- **cirisău la gie** n. — ferăstrău.
+- **ciritél**
+	- m. — tufiş. Atestat la scriitorii moldoveni. (G.Tohăneanu).
+	- m. — cununiță (arbust).
+- **ciritíş** n. — mulțime de ciritei. La CADE.
+- **círtă**
+	- f. — unitate de măsură de pămînt.
+	- f. — lot de pămînt.
+- **cirúză** f. — creion.
+- **císlă** f. — sfat. La DLR.
+- **cislui** (a) — a plănui, a chiti. La DLR.
+- **cisluí** (a) — a învinovăți. (I.Creangă).
+- **cistică** f. — mreajă rară.
+- **cistuí** (a) — a curăți. (TD).
+- **cístuve** f. pl. — steble de stuf.
+- **cit** n. — material textil. La DLR.
+- **citfiríc** n. — baniță, unitate de măsură.
+- **citfirtúşcă**
+	- f. — sfert de pîne.
+	- f. — sticlă de 250 g.
+- **citîríc** n. — v. citfiric.
+- **citór**
+	- m. — sucitor. (TD).
+	- n. — sucitor. La N.Costenco.
+- **ciubăr**
+	- n. — vas din doage cu torți. CADE.
+	- n. — balie (din doage).
+	- n. — hîrdău.
+- **ciubărár** n. — meşter de ciubere.
+- **ciubăráş** n. — ciubăr mic. La CADE.
+- **ciubéică** f. — lulea.
+- **ciubúc**
+	- f. — buclă.
+	- f. — viță la tufa de struguri.
+- **ciúcă** f. — deprindere urîtă.
+- **ciucitór** n. — fåcăleț.
+- **ciuciúlă** f. — momîie.
+- **ciuciúlea** m. — ființă închipuită. (TD).
+- **ciuciuléte**
+	- f. — cocoloş.
+	- m. — lip, jeg.
+- **ciuciulít** adj. — răsucit. (A.Gorovei).
+- **ciúcură** f. — frîntură de ciorchine.
+- **ciúcuri** m. pl. — ciorchine de struguri.
+- **ciudéasă** f. — minune. (Gr.Ureche).
+- **ciudoáse** adj. — înciudate.
+- **ctoliál** m. — sac mare.
+- **ctujdí** (a) — a ciuli urechile.
+- **ciuliii** m. — castane de baltă. La DU.
+- **clumahái** n. — laur. La E.Voronca.
+- **ciúmbur** n. — ciot pe tulpină.
+- **ciump** m. — trunchi. La DU.
+- **ciumpav** adj. — schiop.
+- **ciumpăvi** (a) — a şchiopăta
+- **ciumurlui** (a) — a si rupt de oboseală.
+- **ciung**
+	- adj. — schilod. La DU.
+	- n. — butuc. La DU.
+- **ciuntát** adj. — țintat (cal).
+- **ciup**
+	- n. — buclă.
+	- n. — zuluf.
+	- n. — rît.
+- **ciúpcic** n. — buclă.
+- **ciupíci**
+	- m. pl. — papuci de casă. La DU.
+	- m. pl. — ghete bărbătești.
+- **ciupít** adj. — cherchelit.
+- **ciurciumél** adj. — isteț (copil).
+- **ciurdár** m. — văcar. La CADE.
+- **ciuşni** (a) — a ţîşni. La CADE.
+- **ciuştác** n. — cuțit uzat.
+- **ciúşti** interj. — a sări repede. La CADE.
+- **ciutáci** m. pl. — turci din sudul Dunării.
+- **ciutór** n. — fācăleț.
+- **cîcîí** (a) — a se bîlbîi.
+- **cîcîit** adj. — bîlbîit.
+- **cîlburi** n. pl. — apa sîmbetei. E x pr. Du-
+- **cîlțişóri** m. pl. — firele după periat. DD.
+- **cîlțui** (a) — a căptuşi cu cîlți.
+- **cîlţui** (a) — a scărmăna lînă, buci.
+- **cîmpeán** m. — paznic la cîmp.
+- **cînchi**
+	- n. pl. — cîmpuri.
+	- n. pl. — hățuri.
+- **cîne** m. — câine. La DU, CADE, DLR.
+- **cîne tătăresc** m. — nagît. La CADE.
+- **cînele-babei** m. — crustaceu. La DU.
+- **cînéşte** adv. — ca un câine. La DU.
+- **cînichíş** n. — cînepărie.
+- **cîníşuri** n. pl. — plăcinte cu cartofi.
+- **cîtva** adj. — puțin. La DD.
+- **clanț**
+	- n. — cîrlig la cange.
+	- n. — urcior cu toartă şi jghebuleț.
+- **clapacióc** n. — căpăcel la fitilul lămpii.
+- **clas** n. — clasă (la şcoală). La CADE.
+- **clátcă** f. — pîrleaz.
+- **clăbuci** m.pl. — rotocoale de fum.
+- **clăbúci**
+	- m. pl. — bețe pe stogul de fîn.
+	- m. pl. — bețe în cruce la crîsnic.
+- **clăcáş** m. — rumîn. La DLR.
+- **clădi** (a) — a aşeza anume. La TDRG.
+- **clădit** n. — aşezare anumită.
+- **clăfănós** adj. — mucos.
+- **clămpăí** (a) — a trăncăni.
+- **clămpăní**
+	- (a) — a închide trîntind.
+	- (a) — a face zgomot cu clampa.
+	- (a) — a clînțăni din dinți.
+	- (a) — a trăncăni.
+	- (a) — a produce sunete ca un cocostîrc.
+- **clămpănit** adj. — închidere zgomotoasă.
+- **clănțáte**
+	- adj. — rele de gură.
+	- adj. — v. clonțoase.
+- **clănțăi** (a) — a ciuguli.
+- **clănțăí** (a) — a se certa.
+- **clănțău**
+	- n. — cîrd mic de oi.
+	- n. — limbă la clanța uşii.
+	- n. — cîrlig la fereastră.
+- **clănțós** m. — scandalagiu.
+- **clăpăcél**
+	- n. — ciocan de bătut cuie.
+	- n. — ciocan de potcovit caii.
+	- n. — ciocan de lemn.
+- **clăpăcí** (a) — a bate cu ciocanul.
+- **clăpăúg** adj. — cu urechi atîrnînd în jos.
+- **clăpăugí** (a) — a lăsa în jos (urechile).
+- **clăpăugít** adj. — aplecate în jos (urechi).
+- **clăscăúți** n. — cleşte de cizmărie.
+- **clătărí** (a) — a spăla (rufe, vase).
+- **clătí**
+	- (a) — a clinti, a urni din loc.
+	- (a) — a se ridica cu oaste. (I.Neculce).
+- **clăzăríu** adj. — verde-deschis.
+- **clefãi** (a) — a mesteca zgomotos. La DU.
+- **clefăit** adj. — clefäire. La DU.
+- **clefănós** adj. — borcănos.
+- **cléister** n. — clei de cizmărie.
+- **cléisîr** n. — v. cleister.
+- **clempăní** (a) — a flecări, a trăncăni.
+- **clenci** n. — cîrlig.
+- **clénci** n. — boldul cataramei. La CADE.
+- **clepăcí** (a) — a bate cu ciocanul.
+- **clepcăní** (a) — a țipa (unele păsări).
+- **clepcănít** n. — țipătul unor păsări.
+- **clepocí** (a) — a interveni.
+- **cleşeútă** f. — cîrlig de rufe.
+- **cléşte** n. pl. — arc la ham.
+- **cleştişoáre** n. pl. — cîrlige de rufe.
+- **cleştúte** f. pl. — cîrlige de ruse.
+- **clétcă** f. — colivie.
+- **clétci** f. pl. — pătrățcle. (TD).
+- **clic** n. — mămăligă crudă. La CADE.
+- **clicós** adj. — argilos, cleios (pămînt).
+- **clii** (a) — a arde mocnind.
+- **clin** n. — parcelă de pămînt.
+- **clincătá** (a) — a zurăi, a zîngăni.
+- **clintí** (a) — a clipi. A clintit din ochi. (TD).
+- **clínuri** n. pl. — clini. (TD).
+- **clipálă** f. — clipă.
+- **clípcă** f. — geană.
+- **clipoci** (a) — a clipi. La I.Sbiera. La DU.
+- **clipoti** (a) — a țişni, a arunca stropi.
+- **chísǎ** f. — lut galben.
+- **clisói** adj. — bulgăros.
+- **clit** n. — teanc. La DLR.
+- **clituí** (a) — a aşeza clit frunzele de tutun.
+- **cliucuí** (a) — a afina pămîntul.
+- **cliuvác** n. — tîrnăcop.
+- **cloámbǎ** f. — cracǎ, creangă.
+- **cloánță** f. — babă răutăcioasă.
+- **clobánț**
+	- n. — cîrlig la cange. La CADE.
+	- n. — cîrlig (la fereastră).
+	- n. — cioc de pasăre.
+	- n. — cîrlig la ciutură.
+- **clocotí** (a) — a se cutremura. (DD).
+- **clocotiş** n. — clocot. La Al.Vlahuță.
+- **clonc** n. — unealtă de pescuit.
+- **cloncán** m. — vultur. La M.Sadoveanu.
+- **cloncăni** (a) — sunet produs de cloşcă.
+- **clonț**
+	- n. — cioc. (N.Labiş).
+	- n. — cui, țintă.
+- **clonțár** n. — pasăre cu ciocul gros.
+- **clonțát** adj. — cu dinți mari.
+- **clonțoáse** adj. — rele de gură.
+- **clopotáş**
+	- n. — clopoțel.
+	- n. — plop.
+- **clopotíci** n. — bici din şase fire.
+- **cloşátă** adj. — cu falduri (rochie).
+- **clóşniță** f. — cuibar pentru cloşcă.
+- **clotíci** n. — prun.
+- **club** n. — şold.
+- **clúcer** m. — mare dregător. La DIM.
+- **cneảz** m. — prinț, şef al unui cnezat.
+- **coácăz** m. — pomuşoară (arbust). La DLR.
+- **coácăză** f. — fructul coacăzului. La DLR.
+- **coáde** f. pl. — cozi.
+- **coádeş** adj. — soi de mere. la CADE.
+- **coáre** f. pl. — cucoare.
+- **coảrncle boului** f. pl. — măcieş.
+- **coáte-goále** m. — om sărac.
+- **cob** n. — urcior cu jhebuleț la gură.
+- **cobăi** (a) — a geme. La DU.
+- **cobăí** (a) — a tuşi.
+- **cobăit** adj. — nătîng. La DU.
+- **cobiét** adj. — şerpuit.
+- **cobilióc** n. — soi de prune mari.
+- **cobilíță** s. — libelulă.
+- **cobîlă**
+	- f. — masa rotarului.
+	- f. — parte a cotigii.
+- **cobîlcă** f. — unealtă de dăltuit.
+- **cobîlțîi** (a) — a se clătina (lichidul).
+- **cobîlțîit** adj. — tulburat.
+- **cobîrlău** n. — bîrlog. La CADE.
+- **coblizán** m. — băiat mare, vlăjgan.
+- **cobóc**
+	- n. — coş de prins peşte.
+	- n. — coş de lozie.
+- **cociórvlǎ** f. — vătrai.
+- **cocîrbău** n. — curcubeu.
+- **cocîrjă** f. — baston.
+- **cocîrlă**
+	- f. — rostogol. De-a cocîrla =
+	- f. — cîrjă. (Th.Holban).
+	- f. — femeie gîrbovă. (Th.Holban).
+	- f. — unealtă de răsucit papură.
+- **cocîrlău** n. — curcubău.
+- **cocîrne** adj. — strîmbe.
+- **cocîrțálă** f. — unealtă de fâcut frînghii.
+- **cocîrță** f. — mîncare ciobănească.
+- **coclánci**
+	- n. — limbă la clanța uşii.
+	- n. — cîrlig la fereastrà.
+- **coclánț**
+	- n. — cîrlig la cange.
+	- n. — limbǎ la clanța uşii.
+- **cocláură** f. — loc prăpastios. La CADE.
+- **cocléte** n. — ochi la ițe.
+- **cocói** n. — pǎpuşă.
+- **cócoli** m. — gogoaşă de mătase.
+- **cocoli**
+	- (a) — a îmbodoli.
+	- (a) — a răsfạţa.
+- **cocolire** f. — răsfătare.
+- **cocolit** adj. — răsfäţat.
+- **cocolós** n. — boț. La CADE.
+- **cocolóş** n. — porumb necurăţat. La DU.
+- **cocoloşi** (a) — a boți. La CADE.
+- **cocomîrlă** f. — pasăre misterioasă.
+- **cocoáră** f. — barză.
+- **cocór** m. — barză.
+- **cocostîrc**
+	- m. — cumpănă la puț.
+	- m. — barză.
+- **cocostîrcă** f. — barză.
+- **cocúță**
+	- f. — păpuşă.
+	- f. — copil mic.
+- **codác** m. — ajutor de vornicel (la nuntă).
+- **codáş**
+	- n. — cratiță (cu coadă).
+	- m. — ajutor de vornicel (la nuntă).
+	- m. — mormoloc. La DU.
+- **codălău** n. — căuş cu coadă lungă.
+- **codălbí** (a) — a o păṭí.
+- **codáțel** m. — mormoloc.
+- **codí**
+	- (a) — a lucra de mîntuială.
+	- (a) — a alege stuful.
+	- (a) — a se chiti.
+- **codîrcă** adj. — negri (struguri).
+- **codîrbói** m. — pisoi.
+- **codîrlău** m. — pisoi.
+- **codós** n. — cratiță (cu coadă lungă).
+- **codreån** m. — locuitor din Codrul Tigheciului. (I.Neculce).
+- **codresc** adj. — privitor la codru.
+- **cỏdru** m. — pădure seculară care desparte Moldova de Bugeac, Codrul Tigheciului. (I.Neculce).
+- **codruleț** m. — codru mic.
+- **codruț** m. — codruleț.
+- **codz** f. pl. — bețe de floarea-soarelui.
+- **cofăiél** n. — cofă mică. La DLR.
+- **cofăéş** n. — cofă mică. La DLR.
+- **cogîlțău** n. — urcior cu jghebuleț.
+- **cohăí** (a) — a tuşi înfundat.
+- **cohíță**
+	- f. — cofă mică.
+	- f. — teică.
+- **cojámte** adv. — mult. (DD).
+- **cojóc** n. — îmbrăcăminte din piele de oaie.
+- **cojocărí** (a) — a coase (piei).
+- **colác** m. — veste. E x p r. A lua colac = a informa. (I.Neculce).
+- **colác de flori** m. — coroniță.
+- **colacár** m. — flăcău care strînge colacii.
+- **colăcári** m. — vornicel care rosteşte orația.
+- **colăcer** m. — v. colăcari.
+- **colandá** (a) — a colinda.
+- **colácei-babei** m. — salvie albă.
+- **colăcél** m. — nalbă.
+- **colăcí** (a) — a impune o funcție.
+- **colăcíme** s. — ospăț dat de nănaşi.
+- **colătău** n. — mîner la sucală. La DU.
+- **colb** n. — praf mult. Expr. A se tine ca
+- **colb de fanină** n. — praf de moară.
+- **colb de pomînt** n. — praf (pe drum).
+- **colbăí** (a) — a umple de praf, a prăfui.
+- **colbăi** (a) — a face praf. La DLR.
+- **colbăít** adj. — prăfuit. La DLR.
+- **colbărí** (a) — a se prăfui.
+- **colbós** adj. — plin de praf. La CADE.
+- **colbotí** (a) — a bate (capul). Expr. A colboti capul cuiva $`=`$ a sîcîi.
+- **colburátic** adj. — plin de praf.
+- **colburós** adj. — prăfuit.
+- **colcér** m. — colăcer. La CADE.
+- **cóldără** f. — plapomă.
+- **coleá** adv. — alături, aproape.
+- **colésniță** f. — dispozitiv de tras obezile.
+- **colghíță** f. — cobiliță.
+- **cóli** n. — curpăn de castraveți.
+- **colibáş** m. — trăitor în colibă.
+- **colibiță** f. — colibă mică.
+- **colindár**
+	- m. — colindător. La CADE.
+	- m. — colindător. La DELM.
+- **colindét**
+	- n. — colac pentru colindar.
+	- n. — daruri strînse de colindar.
+- **colnic** n. — colină. La V.Alecsandri.
+- **colnicél** n. — colnic. La V.Alecsandri.
+- **colóruri** f. pl. — culori.
+- **coloti** (a) — a înghesui. La CADE.
+- **cólte** m. — cîrlig la cange.
+- **coltúc** n. — pernă mică. La DLR.
+- **coltucél** n. — pernuță mică. La DLR.
+- **colț** n. — capăt. Moldovenii, cînd se strîng Si-n petreceri se avintă, La un colt de masă pling, La un colt de masă cîntă. (P.Zadnipru).
+- **colțári**
+	- n. — cultivator triunghiular.
+	- n. — răscruce de drumuri.
+	- n. — basma în trei colțuri,
+- **colţári** n. — blidar.
+- **colții babei** m. pl. — lătunoaie la țesut.
+- **coltún** m. — ciorap. La DLR.
+- **colțunáş**
+	- m. — ciorap pentru copii.
+	- m. — piroşcǎ. La CADE.
+- **colțurél** n. — basma simplă.
+- **colúz** n. — soi de grîu. La DU.
+- **comár** n. — ceafă (la ham). La DU.
+- **comárnic** n. — leasă de nuele. La DU.
+- **comerțant** n. — tîrgoveț.
+- **comisár**
+	- m. — reprezentant al polonilor la cazaci. (M.Costin).
+	- m. — slujbaş în serviciul armatei. (I.Neculce).
+- **comişél** m. — slujbaş al grajduriloı domneşti. (M.Sadoveanu).
+- **comînác** n. — glugă la manta.
+- **comoráş** m. — urător, care strînge banii.
+- **comós** adj. — cu coamă bogată.
+- **comoțóc** n. — smoc pe fruntea calului.
+- **cómpas** n. — busolă.
+- **comúr** adj. — roşietică, ruginie (pelicică).
+- **conác** n. — han, găzduire. (I.Neculce).
+- **conăcár** m. — colacar. (TD).
+- **cóncă** f. — tramvai tras de cai.
+- **condeiát** adj. — pintenog (cal).
+- **condrá** (a) — a se certa. La CADE.
+- **condrățéi** n. pl. — paraziți (purici etc.).
+- **conéț** n. — capăt. E x p r. A face cuiva
+- **conglăsuí** (a) — a fi de acord.
+- **cónic**
+	- n. — greier de cîmp.
+	- n. — pinten (la cal).
+- **coniuşăi** m. pl. — grăjdari.
+- **conjút** n. — susai-negru.
+- **conocári** m. pl. — vomicel ce rosteşte orația. La DU.
+- **conocărie** f. — orație de nuntă. La DU.
+- **conovăț** n. — corlată de legat caii.
+- **cóntaş** n. — cojoc învelit cu postav.
+- **cóntăs** n. — haină luxoasă boierească.
+- **contăşél** n. — contăş mic. La DLR.
+- **contonóg** adj. — şchiop.
+- **conț**
+	- n. — uruioc. La DD.
+	- n. — testea de hîrtie. La CADE.
+- **copác** f. — covată.
+- **copác cu bortă** m. — copac scorburos.
+- **copác bortos** m. — copac scorburos.
+- **copác boştorogos** m. — copac scorburos.
+- **copác cu buştihan** m. — copac cu scorbură.
+- **copac ciolănit** m. — copac scorburos.
+- **copác cu oală** m. — copac scorburos.
+- **copác de strug** m. — tufă de struguri.
+- **copán** n. — pulpă de găină.
+- **copási de bue** m. pl. — fagi.
+- **copăe** f. pl. — jivine.
+- **copchiéși** m. pl. — lăstari neroditori.
+- **copchiláşi** m. pl. — lăstari neroditori.
+- **copchiléț**
+	- m. — lemn adăugit la căprior.
+	- m. — parte de ciorchine.
+- **copchíli** m. pl. — lăstari neroditori.
+- **copci** (a) — a păşi peste ceva.
+- **copilioáră** f. — copiliță.
+- **copîliț** m. — copil din flori.
+- **copléj** m. — copil mic.
+- **copóu** m. — copoi. La CADE.
+- **copríş** n. — căpac (la cratiță).
+- **coptărése** f. pl. — bucătărese.
+- **copturéle** f. pl. — pateuri.
+- **corác**
+	- n. — färaş.
+	- n. — mertic pentru vama la moară.
+	- n. — teică.
+- **corasán** n. — mortar. La DU
+- **corăbiá** (a) — a conduce o corabie.
+- **corăbiaş** m. — v. corăbier.
+- **corăslí** (a) — a se strînge, a se îmbrînzi.
+- **corb** adj. — corbiu.
+- **corcán**
+	- n. — coardă de vie sălbatică.
+	- n. — viță de vie bătrînă.
+- **corceí** (a) — a despăduri.
+- **corchezí** (a) — a schimonosi.
+- **córci** m. — corcitură.
+- **corcí** (a) — a se încrucişa.
+- **corcodél** m. — cufundar (pasăre).
+- **corcoli**
+	- (a) — a corconi. La DELM.
+	- (a) — a se ghemui. La DD.
+- **corcolí**
+	- (a) — a răsfăța, a alinta. La DD.
+	- (a) — a se mocoşi. La DD.
+- **corcolit** adj. — răsfățat, alintat. La DD.
+- **corcoşi** (a) — a corconi. La CADE.
+- **cordár** n. — ferăstrău.
+- **cordelát** adj. — împodobit cu cordele.
+- **cordéle** f. pl. — bucățele de țesături.
+- **cordúc** n. — boală a limbii (la vite).
+- **coreác** n. — teică.
+- **coréț** n. — centner. La CADE.
+- **corhăní**
+	- (a) — a transporta buşteni.
+	- (a) — a da buştenii pe jgheab.
+- **commán** n. — lama bărzii.
+- **curmán** n. — lama toporului.
+- **cornair** n. — basma în trei colţuri.
+- **cornár** m. — stîlp. La DU.
+- **cornás** n. — v. cornár.
+- **cornări** (a) — a duce plugul de coarne.
+- **cornărit** n. — plugărit. La N.Ţurcanu.
+- **cornățar** m. — insectă de baltă.
+- **corni** m. pl. — căpriori. La CADE.
+- **córnic** n. — coteț.
+- **corníş** n. — pădure de corn, cornet.
+- **corniş** n. — rasă de găini.
+- **cornorát** m. — drac.
+- **coroji** (a) — a se usca (butoiul).
+- **coropăștí** (a) — a afîna miriştea.
+- **coropcár**
+	- m. — vînzător ambulant.
+	- m. — hoinar. (I.Creangă).
+- **coroti** (a) — a se dezbăra. La CADE.
+- **corovátic**
+	- m. — plantă erbacee. La DU.
+	- m. — coada-vacii (floare).
+- **corsác** n. — secție într-un hambar.
+- **corsirişte** f. — toporîşte. La CADE.
+- **cortél** n. — umbrelă. (M.Sadoveanu).
+- **corțăi** (a) — a ronțăi.
+- **cosác** m. — bucata de plasă.
+- **cosár** m. — pasăre de baltă; spurcaci.
+- **coseác**
+	- n. — basma în trei coiţuri.
+	- n. — rindea cu daltă în figuri.
+- **cosiță** f. — stînjenel.
+- **cosîc** n. — coş mic.
+- **cosói** n. — curele la opinci.
+- **cosoroábă** f. — v. costoroabă (bîrnă).
+- **cosorél** n. — unealtă de curățit copita.
+- **cosorî** (a) — a tăia (via). La CADE.
+- **costári** n. — baston.
+- **costéli** f. — soi de struguri hibrizi.
+- **costiceán** m. — locuitor din Costeşti.
+- **costişăt** adv. — pieziş, povîrnit.
+- **costîre** m. — cucostîrc.
+- **costoroábă** s. — cumpănă la puț.
+- **cóstraş** n. — joagăr de tăiat scînduri.
+- **cóstrăş** m. — biban. La DLR.
+- **costrăşél** m. — biban mic.
+- **coş**
+	- n. — ladă pe podul unui vehicul.
+	- n. — poclit, coviltir. La CADE.
+- **coş de pus** n. — coş de prins peşte.
+- **coş de pene** n. — coş de pernă.
+- **coş de păpuşoi** n. — sîsîiac.
+- **coşår** m. — hornar. La DU.
+- **coşár** n. — staul, grajd. La DU.
+- **coşáre** f. pl. — coşuri.
+- **coşărcúţă** f. — sicriuaş. La CADE.
+- **coşărcúță** f. — coşarcă mică.
+- **coşărie**
+	- f. — meseria coşarului.
+	- f. — loc unde se vînd coşuri.
+- **coşcán**
+	- n. — rădăcină de stuf.
+	- n. — rădăcină de porumb.
+- **coşciug** n. — ladă cu păpuşi. La CADE.
+- **coşcodán** m. — maimuṭ̆ă. La DU.
+- **coşcogea** adj. — mare.
+- **coşcogeảmite** adj. — mare.
+- **cóşcov** adj. — găunos. La DU.
+- **coşcovă** f. — loc gol în mal de apă.
+- **cỏşcovă** f. — rădăcini de stuf.
+- **coşcoví** (a) — a se umfla. La CADE.
+- **coşí**
+	- (a) — a se desprinde varul.
+	- (a) — a se băşica.
+	- (a) — a se urni, a aluneca.
+- **cósnic** n. — coş rotund cu o toartă.
+- **coşóleā** s. — coş cu o toartă.
+- **coşolină** f. — amestecătură cosită verde.
+- **coştéi** n. — coş de pernă.
+- **coşulcán** n. — coş.
+- **coşúm** n. — gură de ham.
+- **coşút de sare** n. — cutie pentru sare.
+- **col** n. — măsură de lungime - 0,637 cm.
+- **cot** m. — mahala, parte a satului.
+- **cotác** m. — genunchi.
+- **cotár** m. — cotlon în pivniță.
+- **cotaráş** n. — cameră pentru alimente.
+- **cotáş** m. — tăran împroprietărit.
+- **cotcovi** (a) — a tăvălugi.
+- **cotcui** (a) — v. cotcovi.
+- **cotcoví** (a) — a tăvălugi ogorul.
+- **cotcuí** (a) — a tăvălugi ogorul.
+- **cotéi** m. — câine de vînătoare ( CM ).
+- **cotéică** f. — cățeluşcă.
+- **coteli** (a) — a deretica. La CADE.
+- **cotéț** n. — cocină. La CADE.
+- **coti**
+	- (a) — a schimba direcția.
+	- (a) — a atinge cu cotul.
+- **cótic**
+	- n. — catifea.
+	- n. — tăvălug de fărîmat bulgării.
+	- n. — tăvǎlug de treierat.
+- **cótice** n. — pisălog pentru usturoi.
+- **cotigár**
+	- n. — loitrar.
+	- m. — terchea-berchea.
+- **cotígă** f. — căruță. La CADE.
+- **cotigí** (a) — a schimba direcția.
+- **cotigít** adj. — întortocheat. (TD).
+- **cotigúță** f. — cărucior.
+- **cotiléț** n. — chirpici.
+- **cotili**
+	- (a) — a rostogoli.
+	- (a) — a umbla prin locuri cotite.
+- **cotilí**
+	- (a) — a merge încet, legănîndu-se.
+	- (a) — a tăvălugi ogorul.
+- **cotină** f. — căpiță.
+- **cotinéț**
+	- n. — bufet (mobilă).
+	- n. — dulap (de cancelarie).
+- **cótis** n. — maşină de strivit strugurii.
+- **cotiugár** m. — căruțaş. La CADE.
+- **cotoroásă** adj. — zgîrcitǎ.
+- **cotorós**
+	- adj. — sîcîitor.
+	- adj. — trăncănitor. (TD).
+- **cotorosi** (a) — a se dezbăra. La DU.
+- **cotoşmán** m. — cotoi.
+- **cotrăí** (a) — a coțobăi.
+- **cotreánță** f. — zdreanță. La CADE.
+- **cotrențós** adj. — zdrențăros. La CADE
+- **cotricél** n. — cotruță.
+- **cotroáfe** f. pl. — boarfe.
+- **cotrobăí** (a) — a scotoci. La DU.
+- **cotrobăiálǎ** f. — scotocire.
+- **cotrobói**
+	- n. — cocioabă.
+	- n. — bucătărie de vară.
+	- n. — cotruță.
+- **cotrubău** n. — cenuşar la plită.
+- **cotrúță** f. — spațiu între cuptor şi perete.
+- **cotrúṭă** f. — adîncitură sub vatră.
+- **cotúnă**
+	- f. — cotruță.
+	- f. — nişă în peretele pivniței.
+- **coț** n. — plapomă.
+- **coțcár**
+	- m. — pungaş. La DU.
+	- m. — glumeț. La CADE.
+- **cótcă**
+	- f. — piatrǎ pentru pavat.
+	- f. — înşelăciune. La CADE.
+- **coțcăríe** f. — pungăşie. La CADE.
+- **cóți** m.pl. — unitate de măsură.
+- **coți** (a) — a măsura tortul.
+- **coțoábă** f. — cuşcă pentru câine.
+- **coţób**
+	- n. — cenuşar.
+	- m. — nume de câine. (Th.Holban).
+- **cotób** m. — om fățarnic. (Th.Holban).
+- **coțobáş** n. — cotruță.
+- **coțobăni** (a) — a se îndîrji. La CADE.
+- **coțobón** n. — cotruță.
+- **coțobonáş** n. — cenuşar (la plită).
+- **coțochínă** f. — rădācină de porumb.
+- **covátă**
+	- f. — albie (de spălat).
+	- f. — copaie pentru plămădit.
+- **covăsi** (a) — a acri laptele cu smîntînă.
+- **covăsit** adj. — prins, închegat.
+- **covăşálă** f. — noroi.
+- **covăți** (a) — a scobi.
+- **covăṭít** adj. — cioplit în forma unei coveți.
+- **covățit** adj. — hopuros (drum).
+- **covățít** adj. — semicercular. (DD).
+- **covét** n. — şanț de-a lungul gardului.
+- **coviét** adj. — şerpuit.
+- **covíț** n. — guiț.
+- **covițá** (a) — a guița. La DLR.
+- **covițăí** (a) — a guița. La CADE.
+- **covîrşí** (a) — a depăşi.
+- **covor în ciuchiuri** — covor în lațuri.
+- **covorél** n. — covoraş.
+- **covricél** n. — podnojie. La CADE.
+- **covricót** n. — coviltir.
+- **covrigár** m. — pierde-vară.
+- **covrigi** (a) — a se frînge de durere.
+- **covrigí** (a) — a se încovrigi.
+- **cóvru**
+	- n. — culcuş.
+	- n. — locuință primitivă.
+	- n. — culcuş. La V.Vasilache.
+- **cózi** f. pl. — bețe de floarea-soarelui.
+- **cozonác** m. — pască rusească.
+- **cozoróc** n. — parte încovoiată a saniei.
+- **crái** adv. — numaidecît. E x p r. Îmi tre-
+- **cráinic**
+	- m. — vestitor. La DU.
+	- m. — gonaş, hăitaş.
+	- m. — pristav. La CADE.
+- **cramanári** m. — închisoare.
+- **crámnăc** n. — gogineață.
+- **crancadău** m. — accelerat. La CADE.
+- **crăpățăl** adj. — cu crăpături.
+- **crăscău** n. — vin negru.
+- **creásta-cucoşului**
+	- n. — cioroi.
+	- n. — lăcrămioară.
+- **credință** f. — datorie, credit.
+- **credzút** adj. — de încredere, credincios.
+- **crem** n. — cremă de ghete.
+- **criş** m. — crişan. La DU.
+- **crişní** (a) — a scrîşni.
+- **criță** adv. — din cale afară. E x p r. Beat
+- **crițós** adj. — rău, arțăgos. La CADE.
+- **crivát**
+	- n. — pat. La DLR.
+	- n. — ladă cu crivat. (Th.Holban).
+- **crívăț** n. — nord. (I.Creangă).
+- **crivéle** n. pl. — v. crivac.
+- **crivoáce** n. pl. — v. crivac.
+- **crîjunéț** n. — parte încovoiată a saniei.
+- **crîláş** m. — năvodar de stînga năvodului.
+- **crîmeán** m. — locuitor al Crîmului.
+- **crîmpot** n. — răstimp. La CADE.
+- **crîmpoți** (a) — a sfîrteca. La DLR.
+- **crîng** n. — crug. La DU.
+- **crîsnic**
+	- m. — paracliser. La CADE.
+	- n. — halău. La DEX.
+- **crîşcá** (a) — a scrîşni. La DLR.
+- **crîşmár** m. — cîrciumar. La DLR.
+- **crîşmúță** f. — cîrciumioară.
+- **crîşni** (a) — a scrîşni. La DU.
+- **crohmálă** f. — aspreală. La DLR.
+- **crohmălí** (a) — a scrobi.
+- **crohmălít** adj. — scrobit. La DLR.
+- **crohmoli** (a) — a aspri. La DLR.
+- **croí** (a) — a lovi, a bate cu biciul.
+- **croitóri** m. — cuțit la plug.
+- **crom páşi** n. — tîrnăcop.
+- **croncán** m. — corb.
+- **croncău** m. — corb. La CADE.
+- **crucí**
+	- (a) — a înjura de cruce.
+	- (a) — a se mira.
+- **crucióc** n. — cîrlig la cange.
+- **crucíşă** adj. — pezişă.
+- **crudác** adj. — cam crud.
+- **crudzî**
+	- (a) — a se fierbe rău. (DD).
+	- (a) — a nu se coace bine. (DD).
+- **crúguri** n. pl. — lambe la căruță.
+- **cruhós** adj. — bulgăros (pămînt).
+- **crumári** (a) — a afîna.
+- **crumaruí** (a) — a afîna.
+- **crunt** adj. — însîngerat (CM).
+- **cruntá** (a se) — a sǎvîrşi fapte urîte. (I.Neculce).
+- **crúpe** f. pl. — grîu măcinat mare.
+- **crupós** adj. — bulgăros (pămîntul).
+- **cruşí** (a) — a argăsi (pieile). La CADE.
+- **cubóş** n. — coş de prins peşte. cuc n. - buclă.
+- **cuchí** (a) — a se încurca (firele).
+- **cuciuléi** m. — cățel.
+- **cucoáră** f. — cocor. La DU.
+- **cucostîre de rachiu** n. — carafă de 3 l.
+- **cucóş**
+	- m. — cîrlig de rufe.
+	- m. — stînjenel.
+	- m. — miez de pepene verde.
+	- m. — parte a plugului.
+	- m. — cocoş.
+- **cucoşéi** m. pl. — floricele. La CADE.
+- **cucoşél**
+	- m. — stînjenel.
+	- m. — ghiocel.
+- **cucoşèl** m. — crin.
+- **cucóşi** m. pl. — gogoaşe. E x pr. A-i cînta cuiva cucoşi $`=a-i`$ spune minciuni.
+- **cucoşi** (a) — a se umfla în pene.
+- **cucuiát** adj. — cu cornițe mici.
+- **cucuiat** adj. — cocoțat. La CADE.
+- **cuculcț** m. — cucuşor. La CADE.
+- **cuculuí** (a) — a alege cereale cu triorul.
+- **cucurbău** n. — curcubeu.
+- **cucurigi** (a) — a cînta cucurigu.
+- **cucurígi** m. pl. — floricele.
+- **cucurúz**
+	- m. — rodul bradului. La DU.
+	- m. — porumb. La M.Sadoveanu.
+- **cucurúznic** n. — sîsîiac.
+- **cucuvéică** f. — buhnă.
+- **cudálb** adj. — cu vîrful cozii în alb.
+- **cufundár** m. — bodîrlău. La DU.
+- **cuhaí** (a) — a icni.
+- **cuhăí** (a) — a tuşi. (Th.Holban).
+- **cúhlic** n. — cană (de sticlă).
+- **cuiár** n. — scîndură cu mai multe cuie.
+- **cúib** n. — vizuină.
+- **cuibár**
+	- n. — ou lăsat în cuibar.
+	- n. — pînză de păianjen.
+- **cuibuşél** n. — muşuroi de pămînt.
+- **cuiéri** n. — blidar.
+- **cuiéri cu poliți** n. — blidar.
+- **cuiúț** n. — cuişor de metal.
+- **culác** m. — chiabur.
+- **culáe** adj. — vacă cu părul alb.
+- **culári** n. — stuf vechi.
+- **culbec** m. — melc.
+- **culcătoáre** f. — dormitor.
+- **culége** (a) — a smulge (cînepa).
+- **culeşer** n. — făcăleț.
+- **culíc** n. — snop de secară îmblătit.
+- **cumnăți** (a) — a deveni cumnați.
+- **cúmpănă** s. — cruce la căruță.
+- **cumpăni** (a) — a prețui. (TD).
+- **cúmpene de cîntărit** f. pl. — cîntar.
+- **cumplí** (a) — a nimici.
+- **cunichíe** adj. — verzuie.
+- **cupár** m. — dregător domnesc care tur na vin la masa domnitorului. .
+- **cúpă** f. — vas legat deasupra găleții.
+- **cupîşoáră** f. — cană de lut.
+- **cuprínde** (a) — a ocupa.
+- **cuptiór** n. — cuptor. La DLR.
+- **cuptioráş** n. — bucătărie de vară.
+- **cuptiórişte** f. — cenuşar (la plită).
+- **curár** n. — curea la hamuri.
+- **curarári** n. — curelar.
+- **curațitóri**
+	- n. — cuțit de curățit copita.
+	- n. — rindea de primă operație
+- **cură** f. — iuft.
+- **curătór** adj. — curgătoare. (Gr.Ureche).
+- **curățí**
+	- (a) — a jupuia coceanul de porumb.
+	- (a) — a peni (o pasăre).
+- **curățit** adj. — castrat.
+- **curățitoáre** f. — cuțit se curățat copita.
+- **curcán** n. — viță de vie bătrînă.
+- **curcióc**
+	- n. — cîrlig la fereastră.
+	- n. — zăvoraş la fereastră.
+	- n. — cîrlig la cange.
+	- n. — cui la marginea luntrei.
+	- n. — clenci la fereastră (uşă).
+- **curcióe** n. — cîrlig de rufe.
+- **curciuí** (a) — a curăța copacul.
+- **curcubău**
+	- n. — melc.
+	- n. — măcieş.
+- **curcubéc** n. — curcubeu.
+- **curcubél** n. — curcubeu.
+- **curcubétă** f. — curcubeu.
+- **curcubétǎ** f. — dovleac.
+- **curcubóu** n. — curcubeu.
+- **curcudúş** n. — soi de prune.
+- **curcuduşár** m. — prunar.
+- **curecheríu** adj. — albastru-deschis.
+- **curcchéşte** adv. — pe un cap. E x p r. Îi
+- **curcchi** — “în jumătatea de nord a țăiii”. La DLR.
+- **curechi** m. — curechi de munte. La DEX.
+- **curechi murat** n. — varză acră.
+- **curechíu** adj. — de culoarea curechiului.
+- **curelúşi** f. pl. — curele la opinci.
+- **curgán**
+	- n. — lucarnă.
+	- n. — movilă mare.
+- **curiác** n. — coteț.
+- **curmá** (a) — a tăia lemne cu ferăstrăul.
+- **curmătúră** f. — rumeguş.
+- **curmedzîş** n. — fuscel la scară.
+- **curmedzîşări** n. — druci la car.
+- **curméi**
+	- n. — papură împletită.
+	- n. — şuviță de coajă de tei.
+	- n. — sfori de papură.
+- **cúrnic** n. — coteț.
+- **curnúț** m. — plantă erbacee tîrîtoare.
+- **curnúți** m. pl. — spini. (Th.Holban).
+- **curochíşniță** f. — urechelniță.
+- **curpanár** m. — hoț de pepeni verzi.
+- **curpănáş** n. — cîrlig la curpeni.
+- **curpini** (a) — a face curpeni.
+- **curpiní** (a) — a culege păstăi.
+- **curpiniş** n. — curpeni de fasole.
+- **curțií** (a) — a scîrții.
+- **curúc**
+	- n. — ciorchine de struguri.
+	- n. — frîntură de ciorchine.
+- **curúci** n. — cîrcel la o plantă agățătoare.
+- **curugíu** m. — paznic la vie.
+- **custá** (a) — a si în viață, a trăi.
+- **custorí** (a) — a drege cu custura.
+- **cusutóri** m. — croitor.
+- **cuşmári** m. — meșter care coase cuşme.
+- **cúşma-şerpelui** s. — zbîrciog.
+- **cúştic** n. — loc sterp în porumbişte.
+- **cutiór** n. — cuptor.
+- **cuțitoí** (a) — a ciopli dranița.
+- **cuțitúră** f. — cuțit de curățat copita.
+- **cúțu** m. — cățel.
+- **cuvení** (a) — a dostoi. La CADE.
+- **cuvîntăréț** m. — bun de gură.
+- **cuzíst** adj. — membru al partidului de
+- **ci** interj. — se întreabă ceva.
+- **czătúră** s. — stavilă. La CADE.
+- **cobái** m. — scobar. (M.Sadoveanu).
+
+## D
+
+- **dprînjór** n. — timpul după răsăritul soarelui.
+- **diliotii** (a) — a chiui.
+- **denci** n. — cîrlig la cange.
+- **dánṭu** n. — dans de nuntă. dap n. - căprior.
+- **dátină** f. — predanie. (DLR).
+- **dăbălăzá** (a) — a lăsa (capul).
+- **dăbălăzát** adj. — lăsat în jos capul.
+- **dăcău** n. — unealtă primitivă de treierat.
+- **dădăóri** adv. — de două ori consecutiv.
+- **dăinăí** (a) — a se legăna pe picioare.
+- **dălác** m. — vită nărăvaşă.
+- **dăngăluí** (a) — a bătători cu maiul.
+- **dănuí** (a) — a dărui.
+- **dăráb**
+	- n. — ciorchine de strugure.
+	- n. — parte dintr-un lot.
+- **dărác** n. — vargă la coasă.
+- **dărăbúț** n. — bucățică. M.Eminescu.
+- **dărăpăná** (a) — a lipi primul lut.
+- **dărăpăní** (a) — a flecări.
+- **dărăúş** n. — alunecuş.
+- **dărmá** (a) — a distruge.
+- **dărîmá**
+	- (a) — a doborî (copacul).
+	- (a) — a rupe (haine).
+	- (a) — a se risipi (butoiul).
+- **dărmát** adj. — zdrențăros.
+- **dărmóşi** adj. — zdrențăroşi.
+- **dăruşág** n. — dar. La V.Alecsandri.
+- **dăscăláş** m. — dascăl începǎtor.
+- **de-acúşca** adv. — acuş.
+- **deal** n. — movilă. La DD.
+- **deamînă** adv. — la îndemînă.
+- **de asemenea** adv. — tij.
+- **deavólna** adv. — îndeajuns. La DLR.
+- **deávur** m. — vornice! (la nuntă).
+- **decíndea** adv. — dincolo.
+- **deciocălá** (a) — a jupuia. La CADE.
+- **decît** adv. — dar. La CADE.
+- **dedițíu** adj. — liliachiu.
+- **deghelúşca** adv. — de abia.
+- **deghelúța** adv. — de abia.
+- **dejghioca** (a) — a jupuia cocenii de foi. dejéri n. - ciubăr. La DU.
+- **deliu** adj. — îndrăzneț. La V.Alecsandrı
+- **delóc** adv. — canci. La DEX.
+- **delungí** (a) — a prelungi. (TD).
+- **delungít** adj. — prelungit.
+- **demîncát** n. — mîncare.
+- **deoscbit adv** — başca.
+- **depinzătór** m. — dependent.
+- **deprăci** adv. — cu totul. La CADE.
+- **deprinde** (a) — a moşteni.
+- **derbedéu** m. — vagabond.
+- **derég** m. — stîlp la casă.
+- **deríş** adj. — roşietic cu peri albi (calul).
+- **derîdica** (a) — a deretica. La DU.
+- **derméc** m. — druc de-a curmezişul.
+- **dermelí** (a) — a se mîntui.
+- **dert** n. — urluială.
+- **dertós** adj. — îngrijorător.
+- **dervelí** (a se) — a se murdări.
+- **des** adj. — puternic, rezistent.
+- **desăgí** (a) — a încărca, a îndesa.
+- **desbîrná** (a) — a se desprinde.
+- **desbunghiá** (a) — a-şi descheia nasturii
+- **descăleca** (a) — a se da jos de pe cal.
+- **descălecá** (a) — a aşeza statornic întrun loc. La Gr.Ureche.
+- **descălecáre** f. — aşezare, statornicire, întemeiere. La C. Negruzzi.
+- **descălecătõr** m. — întemcietor de țară. La M.Eminescu.
+- **deschíde** (a) — a începe. Expr. A deschide cîmpul = a începe lucrările de primăvară.
+- **descotorosí** (a) — scăpa de cineva.
+- **dése** f. pl. — plase de prins peşte.
+- **descátcă** f. — zece.
+- **desétnic** m. — strîngător al desctinei.
+- **desfäcá**
+	- (a) — a jupuia porumbul. La CADE.
+	- (a) — a jupuia de foi ştiuleții.
+- **desfătui** (a) — a dejuca. La I.Sbiera.
+- **desfătuire** f. — abatere. La I.Sbiera.
+- **dessạța** (a) — a schimba fețele pernelor.
+- **desfăta** (a) — a expune mărfurile.
+- **desfățat** adj. — deschis privirii.
+- **desmețí** (a) — a se trezi. I.Creangă.
+- **despănát** adj. — descheiat.
+- **despicá** (a) — a crăpa (lemne).
+- **despicat** adj. — crăpat
+- **destoí** (a) — a-şi descărca sufletul.
+- **destroiení** (a) — a ieşi dintr-un troian.
+- **desțerá** (a) — a exila. La M. Kogălniceanu.
+- **deşánț** n. — mirare. La DU.
+- **deşănțát** adj. — de mare mirare. La DU. deşchicătúră $`f`$. - despicătură. deşirá (a) - a depăna.
+- **deşucheát** adj. — țicnit, într-o ureche. détcă $`f`$. - puiet de albini.
+- **detun** n. — senin. Expr. Ca din detun = ca din senin. La N.Țurcanu.
+- **detuná** (a) — a doborî.
+- **devărói** n. — tata vornicelului.
+- **dezbará** (a) — a se debarasa.
+- **dezbáte** (a) — a elibera. La Gr.Ureche.
+- **dezbumbá** (a) — a descheia nasturii.
+- **dezbumbát** adj. — cu nasturii descheiați.
+- **dezghețát** adj. — marghiol. Moldovenii
+- **dezghin** n. — lovitură. La DU.
+- **dezghina** (a) — a dezbina. La DU.
+- **dezghiocá** (a) — a cura boabele de pe cocean.
+- **dezghiocáre** f. — curarea cocenilor de boabe.
+- **dezghiocát** adj. — curat de boabe.
+- **diác**
+	- n. — pisar, grămătic.
+	- m. — cîntăreț bisericesc.
+- **dichin** m. — econom la o mănăstire.
+- **dichisit** adj. — priceput.
+- **dicît** conj. — încît.
+- **dihái** adv. — mai mult, mai bine.
+- **dinspri partea** prep. — despre.
+- **dínte** m. — lătunoaie.
+- **dínții babei** m. pl. — lătunoaie.
+- **dințărit** n. — bir plătit pentru osteneala dinților. La I.Creangă.
+- **dípa** prep. — după.
+- **dípi ci** conj. — după ce.
+- **dípi** prep. — după.
+- **diriác** m. — stîlp la casă.
+- **discaparát** n. — amnar.
+- **discălțá** (a) — a lepăda copita (calul).
+- **dischizătór** n. — mîner la sertar.
+- **discotorosî** (a) — a țărnui.
+- **discuí** (a) — a afina cu boroanele cu discuri.
+- **discuitór** n. — boroană cu discuri.
+- **dishobotá** (a) — a lua coroana de pe mireasă.
+- **dispunsá** (a) — a dezlega ațele la opinci.
+- **distínge** (a) — a se descinge.
+- **distupá** (a) — a destroieni.
+- **disuprameáză** adv. — spre amiază.
+- **dişalát** adj. — fărǎ şa.
+- **dişíică** f. — mieluță ori vițică de o lună.
+- **diştérne** (a) — a-şi petrece zilele. La M Eminescu.
+- **diúdiu** adv. — frig. Afară îi diudiu = afară îi frig.
+- **divini** (a) — a proveni. (DD).
+- **dichărá** (a) — a se debărăsa.
+- **diebhirá** (a) — a se debarasa.
+- **dlametici** (a) — a-şi veni în fire.
+- **dizmúlge** (a) — a peni (găina).
+- **dirzvălí** (a) — a scrînti. (DD).
+- **didîrlán** m. — prostălan.
+- **dicári** m. — păr pădureț.
+- **dimbác** n. — dîmb.
+- **dimp** n. — greabăn (la cal).
+- **dirdîi** (a) — a palavrăgi.
+- **dirdîí** (a) — a suna a dogit (butoiul).
+- **dirdni** (a) — a funcționa (motorul).
+- **dinïitoáre** f. — morişcă de hîrtie.
+- **dirjác** n. — coadă la îmblăciu.
+- **dîrjél** n. — coadă la îmblăciu.
+- **dîrmói** n. — dîrmon. E x p r. A trece
+- **dîrmoiá** (a) — a cerne cu dîrmonul.
+- **dîrvăli** (a) — a impune la munci grele.
+- **dîrvălí** (a) — a terfeli (hainele).
+- **dîrz** adj. — tare semeț. La DU.
+- **dobáş** m. — toboşar.
+- **dóbă** f. — caro. Crai de dobă.(DD).
+- **dobăí**
+	- (a) — a scobi.
+	- (a) — a bate toba.
+- **doboşár** m. — toboşar.
+- **doboşer** m. — toboşar. La CADE.
+- **doinaş**
+	- m. — cîntăreț de doine.
+	- m. — lăutar. La N.Țurcanu.
+- **doină** f. — cîntec popular moldovenesc. La C.Negruzzi, M.Eminescu, V.Alecsandri, I.Creangă, M.Sadoveanu, C.Ivănescu…
+- **doini** (a) — a cînta doina. La M.Eminescu.
+- **dolbác** n. — unealtă de spart gheața.
+- **doljoní** (a) — a dojeni. (DD).
+- **drucuşán** m. — melc.
+- **druganátă** adj. — înclinată.
+- **dráge** (a se) — a se găti.
+- **dräghin** n. — stinghie la boroană.
+- **dragnátă** adj. — povîrnită (movilă).
+- **drágoste** f. — vinăriță.
+- **drälea** adv. — brambura. Expr. A îm-
+- **dráncă** f. — şindrilă.
+- **dranițí** (a) — a acoperi casa cu șindrilă.
+- **dranițit** adj. — acoperit cu şindrilă.
+- **dranțuroásă** adj. — zdrențuroasă.
+- **drapác**
+	- n. — mătură.
+	- n. — grapă.
+	- n. — cultivator de afînat pămîntul.
+- **drapacuí** (a) — a afîna.
+- **drupaluí** (a) — a afîna.
+- **drapîná** (a) — a zgîrîia (mîța).
+- **drähinceác** n. — loitrari.
+- **drăcăríe** f. — farmec.
+- **drăcăríi** f. pl. — pătărănii.
+- **drăcuşor** m. — drac mic. La C.Negruzzi.
+- **drăgănéle**
+	- f. pl. — farmece. La C.Hogaş.
+	- f. pl. — cireşe necoapte.
+- **drăgăní** (a) — a dezmierda.
+- **drăgăstoásă** adj. — drăgălaşă.
+- **drăgucică** adj. — drăguță La I.Sbiera.
+- **drăguşóri** m. pl. — drăgălaşi.
+- **drămălui** (a) — a cîntari. La I.Creangă.
+- **drăncăní** (a) — a suna a dogit (butoiul).
+- **drăncuí** (a) — a acoperi cu şindrilă.
+- **drănițári** n. — covor în carouri.
+- **drăniți** (a) — a şindrili. La DLR.
+- **drănițit** — şindrilit. La DLR.
+- **drăpăi** (a) — a grăpa.
+- **drăpăná** (a) — a afîna.
+- **drăpănátă** adj. — dărăpănată.
+- **drăsluí** (a) — a mătura cu mătura de
+- **dreála** adv. — brambura. (DD).
+- **dreásă**
+	- adj. — încărcată.
+	- adj. — întinsă.
+	- adj. — gătită.
+- **drége**
+	- (a) — a unge podeaua casei.
+	- (a) — a umple paharele.
+	- (a) — a cenătui.
+	- (a) — a schimba bucatele.
+	- (a) — a curăți pînza țesută.
+	- (a) — a curăți peştele.
+- **drélic** n. — v. drelcă (burghiu).
+- **dric**
+	- n. — coviltir (la căruță).
+	- n. — coşul căruții.
+- **drit** n. — drept. La CADE.
+- **drîgîí** (a) — a zgîlțîi, a hurduca.
+- **drîmboí** (a) — a se bosumfla.
+- **drîmboi** (a) — a se foi. La N. Ţurcanu.
+- **drob** n. — tescovină.
+- **droscăríe** f. — şopron.
+- **drosél** n. — bobină.
+- **drotuí** (a) — a pune sîrmă în bot.
+- **druc** m. — cumpănă la puț.
+- **druc cu crăcană** — furcă la puț.
+- **druc de fer** m. — lom. La DEX, DAR
+- **drufleác** n. — strecurătoare.
+- **drugári** n. — carîmb la căruță.
+- **drughínă** f. — proptea.
+- **drujinár** m. — membru al unei drujine
+- **drumár** m. — călător.
+- **drumáş** m. — călător.
+- **drumețărí** (a) — a călători.
+- **drúnchi** n. — greabăn la cal.
+- **donsçác** n. — strecurătoare.
+- **dubálał** s. — puşcărie.
+- **dubás** n. — luntre mare.
+- **dulbí** (a) — a tăbăci. La DLR.
+- **dubí**
+	- (a) — a topi cînepa. La DLR.
+	- (a) — a bea peste măsură. La DD.
+- **dubit** adj. — topit, destrămat. La DD.
+- **dublár** n. — rindea cu două cuțite.
+- **dublat** n. — v. dublar.
+- **duboi** f. pl. — luntre.
+- **dudác** m. — cufundar.
+- **dudănáş** n. — parcelă de bălărie.
+- **dudăun** n. — bălării.
+- **dughenár** m. — prǎvăliaş.
+- **duglán** adj. — trîndav. La CADE.
+- **dúgliş** adj. — leneş. La DLR.
+- **dugós** adj. — leneş.
+- **duh** n. — răsuflare. E x pr. Într-un duh
+- **duhán** n. — uliu.
+- **duhăni** (a) — a fuma. La CADE.
+- **duhlí** (a) — a răspîndi un miros greu.
+- **duhlít** adj. — puturos. La CADE.
+- **duhovnicí** (a) — a se spovedi.
+- **dúhuri** n. pl. — parfum.
+- **duh rău** n. — năpust. La CADE.
+- **dulandragíu** m. — haimana. La DU.
+- **duláp**
+	- n. — mobilă pentru haine, cărți.
+	- n. — piuă.
+- **dulāp** n. — sistem rudimentar de irigație.
+- **dulåp** n. — masă de bucătărie.
+- **dulár** n. — chirpic.
+- **dulău** m. — câine mare.
+- **dulhăní** (a) — a îndopa.
+- **dulúță** f. — haimana. Expr. A se duce duluță = a o şterge, a fugi iute.
+- **dulvúri** pl. — şalvari. La DU.
+- **dumbrávnic** m. — plantă erbacee.
+- **dumbrăván** adj. — de dumbravă.
+- **dumbrăveáncă** — pasăre migratoare.
+- **dumelór** pron. — dumnealor.
+- **dumésnic**
+	- adj. — domestic. Cela ce va
+	- adj. — blînd.
+	- adj. — gras (pămînt). La DU.
+- **dumésnici** (a) — a domestici.
+- **dumesnicit** adj. — domisticit.
+- **dumicá**
+	- (a) — a strivi struguri.
+	- (a) — a strivi. La N.Țurcanu.
+- **dumnedzăréşti**
+	- adj. — dumnezeieşti
+	- adj. — evlavioase.
+- **dupác** n. — lovitură, puınn. La DU.
+- **după** prep. — la.
+- **dupăbăgeác** n. — cotruță.
+- **dupăci** (a) — a da pumni. La DU.
+- **dupăcí** (a) — a tivi.
+- **dupăcuptiór** n. — cotruță.
+- **dupăi**
+	- (a) — a tropăi. La DLR.
+	- (a) — a tropăi. (DD).
+- **dupăoláltă** adv. — unul după altul.
+- **dúpi** m. pl. — joc de copii.
+- **duplác** n. — rindea de primă operație.
+- **duplí** (a) — a se murdări.
+- **duplít** adj. — murdar.
+- **dupurós**
+	- adj. — plin de curnuți.
+	- adj. — ciufulit. La CADE.
+- **durá**
+	- (a) — a clădi. La DU.
+	- (a) — a se ocupa.
+- **durán** n. — sticlă rezistentă.
+- **durăí** (a) — a zurăi.
+- **dúrăt** n. — zǎpăceală. La DU.
+- **durduí**
+	- (a) — a hodorogi.
+	- (a) — a hurui. La CADE.
+- **durdumánă** adj. — scurtă şi groasă.
+- **durlígi** m. pl. — ciupici. La DLR.
+- **durlui** (a) — a cînta din trişcă.
+- **durşlác** n. — strecurătoare.
+- **duruí** (a) — a da de-a dura.
+- **duşég** n. — saltea.
+- **dúşi** m.pl. — dispoziție. (TD).
+- **duşleán** n. — strecurătoare.
+- **duşmánă** adj. — periculoasă.
+- **duşníc**
+	- n. — cenuşar (la plită).
+	- n. — cahlă.
+	- n. — lucarnă.
+	- n. — răsuflătoare la poloboc.
+- **duválnic** n. — cenuşar (la plită).
+- **duvleác** n. — strecurătoare.
+- **dvoreálă** f. — gospodărire. La I.Neculce.
+
+## E
+
+- **eflantúră** s. — pădure doborîtă.
+- **elempúş** n. — încuietoare. La DU.
+- **eripalcă** f. — cordenci. La DU.
+- **economír** m. — bogătaş.
+- **ectár** n. — hectar.
+- **edec** n. — ogor moştenit. La DU.
+- **édechi**
+	- n. — frîu la căpăstru.
+	- n. — coadă de căpăstru.
+- **eftin** adj. — darnic (CM).
+- **egheréc** n. — stanişte (a vitelor).
+- **ei** interj. — îndemn, o poruncă.
+- **éiți** m. pl. — cazaci de pe rîul laic.
+- **eléi** interj. — interpelează ascultătorul.
+- **eleléi** interj. — elei.
+- **elinésc** adj. — grecesc.
+- **éni** m. — guzgan de apă.
+- **epirót** m. — locuitor din Epir.
+- **epitróp** m. — membru dirigent al unui aşezămînt public, al unei biserici.
+- **epóhă** f. — epocă. La C.Negruzzi.
+- **epuráş**
+	- m. — şoldan.
+	- m. — burete galben.
+- **épure** m. — ştiucă.
+- **erbíu** adj. — verde-saturat.
+- **erés** n. — rătăcire.
+- **értá** (a) — a-şi lua rămas bun.
+- **estorlálte** pron. — acestorlalte.
+- **eşí** (a) — a deveni. La I.Neculce.
+- **etác** n. — iatac. La C.Negruzzi.
+- **evghenís** adj. — nobil. La C.Negruzzi.
+- **evghenisí** (a) — a boieri.
+- **evghenist** adj. — boieresc. Romînismul,
+
+## F
+
+- **finctón** n. — pasăre acvatică.
+- **fietón** n. — trăsură luxoasă.
+- **factón** n. — caroseric la autoturism.
+- **fíică** s. — flanelă.
+- **fíiină** adj. — bun. Nu-i chiar faină.(DD).
+- **falacuí** (a) — a fãcălui.
+- **falafói** m. — căpățînă de varză înfoiată.
+- **falcér** m. — cosaş tocmit cu falcea.
+- **falcésc** adj. — de falce. E x p r. Prăjină
+- **fald**
+	- n. — lama bărzii.
+	- n. — cîrlionț.
+- **fiald** n. — cută.
+- **falét** adj. — stînjeniu.
+- **falí** (a) — a se lăuda.
+- **falóşi** adj. — fudulani.
+- **falț**
+	- n. — lama cuțitoaiei.
+	- n. — rindea cu daltă în figuri.
+- **filțovíc** n. — rindea de fåcut jgheaburi.
+- **fanargiu** m. — fanariot. La DU.
+- **fanaticesc** adj. — fanatic. La C.Conachi.
+- **fanastîcuri** n. pl. — mofturi.
+- **fandosít** adj. — fudul, lăudăros.
+- **fantál mare** n. — vas din doage de 500 I.
+- **fantazíu** adj. — priceput.
+- **fantozí** (a) — a face mofturi.
+- **fapt** n. — duşman.
+- **farafastîc** n. — mofturi, fasoane. La DU.
+- **faraón** m. — copil obraznic.
+- **farbuí** (a) — a vopsi.
+- **farélnic** m. — geambaş.
+- **farfásit** adj. — mofturos, năzuros.
+- **farmagiu** adj. — fermecat.
+- **farmazon** m. — şarlatan.
+- **fárme** (a) — a fărîmița.
+- **farsófcă** f. — rindea cu daltă în figuri.
+- **fárşi** n. pl. — foarfece.
+- **fartál** n. — lot de pămînt.
+- **fartujóc** n. — şorț de fierar.
+- **fartúşcă** f. — şorț de fierar.
+- **fasúle-sălbatice** f. pl. — curcubcțică.
+- **fasúle-pentru-ploşniț** f. pl. — curcubețică.
+- **fasúle-glonț** f. pl. — mîncare: fasole fierte, oloi şi ceapă crudă.
+- **fáta cucoanei** adj. — roz.
+- **făcăluí**
+	- (a) — a strivi strugurii.
+	- (a) — a amesteca legume fierte
+- **făcăluít** adj. — fãcut pireu.
+- **făcătór** m. — tvoreț. La CADE.
+- **făcút** adj. — contrafăcut.
+- **făcuțél**
+	- adj. — chipeş, trupeş.
+	- adj. — cherchelit.
+- **făgădár** m. — cîrciumar.
+- **făgădáş** n. — făgăduință. La CADE.
+- **făguráş** m. — făgurel. La M.Sadoveanu.
+- **făínă de păpuşoi** f. — mălai. La DLR.
+- **fălălăí** (a) — a fîlfîi. La CADE.
+- **fălcău** adj. — fălcos. La CADE.
+- **filleer** m. — cosaş tocmit cu falcea.
+- **fåleese** adj. — prăjină fălcească.
+- **fîlcícă** s. — lama bărzii.
+- **fällfărá** m. — palavragiu.
+- **fåli** (a) — a se lăudă. La M.Eminescu.
+- **fìli** (a) — a preamări. La C.Negruzzi.
+- **frilitór** m. — lăudător. La C.Negruzzi.
+- **friloásă** adj. — mîndră.
+- **fålós** adj. — semeț. La Al.Russo.
+- **fănár** n. — fanar. La CADE.
+- **fănă** prep. — fără. Coş fănă fund.(DD).
+- **färănéle** f. pl. — färîmițe.
+- **färdecît adv** — numaidecît.
+- **fărfăcá** (a) — a ferfenița.
+- **fărfăcát** adj. — ferfenițos.
+- **fărfălóg** adj. — lăudăros.
+- **fărfós** adj. — terfos.
+- **fărîmá**
+	- (a) — a crăpa (lemne).
+	- (a) — a fărîmița. La CADE.
+	- (a) — a strivi.
+	- (a) — a ciopîrṭi.
+	- (a) — a nimici.
+	- (a se) — a face mofturi.
+- **fărmá**
+	- (a se) — a se preface.
+	- (a) — a strivi strugurii.
+- **fărmăciós** adj. — fărîmicios.
+- **fărmăturéle** f. pl. — fãrîmițe.
+- **fărtoi** (a) — a da într-o parte (carul).
+- **fătăríe** f. — ipocrizie. La I.Neculce.
+- **fățoásă** adj. — mare la față (femeie).
+- **făurél** n. — v. făurar.
+- **feciór bătrîn** m. — flăcău stătut.
+- **felegós** adj. — zdrențăros. La CADE.
+- **felehérț** n. — crucea carului. La CADE.
+- **feleştióc** n. — pămătuf. La DU.
+- **feleştiúc** n. — bucățică.
+- **felezui** (a) — a mătura pleava.
+- **feliurit** adj. — de tot felul. La I.Creangă.
+- **féluri** n. pl. — culori.
+- **fenér** n. — fanarul morii. La DU.
+- **férbe**
+	- (a) — a suda.
+	- (a) — a se cicatriciza.
+- **fërcheş** adj. — repezit.
+- **feredéu** n. — baie. La DLR.
+- **fereduí** (a) — a se îmbăia. La CADE.
+- **feresău** n. — ferestrău. La DU.
+- **ferestári** n. — ochi de fereastră, mobil.
+- **ferestrári**
+	- m. — meşter de ferestre.
+	- m. — toc la fereastră. Dzîsim
+	- n. — pervaz.
+- **ferfelițós** adj. — zdrențuros.
+- **ferfenițite** adj. — v. ferfenițoase.
+- **ferfenitoáse** adj. — cu foi multe.
+- **ferfenițos** adj. — zdrănțăros. La DU.
+- **ferire** f. — protejare. Că Moldova luptase mult pentru ferirea limbii de … constructiunile arbitrare ale filologilor era… cunoscut moldovenilor: La G.Ibrăileanu.
+- **fermecătoreásǎ** f. — vrǎjitoare.
+- **fermól** n. — fermoar.
+- **fes** n. — festă. E x p r. A-í face cuiva
+- **fesfeséle** f. pl. — dichisuri. La CADE.
+- **fesfeşéle** f. pl. — zorzoane.
+- **féşnic** m. — sfeşnic.
+- **feștelí** (a) — a ocărî, a batjocori
+- **feştelí** (a) — a mînji. Expr. A o feşteli
+- **feştelít**
+	- adj. — ocărît, batjocorit.
+	- adj. — murdar. La CADE.
+- **féster** m. — pådurar superior.
+- **feteléu** m. — flăcău stătut.
+- **fețuí** (a) — a unge podeaua (cu lut).
+- **fețuít** adj. — uns cu lut.
+- **fețuitóri** n. — rindea (cu două cuțite).
+- **fiácur** n. — trăsură (cu patru roți).
+- **fiéşti** adj. — din rude mari.
+- **figáre** f. — rindea (cu daltă în figuri).
+- **figuróucă** f. — rindea.
+- **fiorós** adj. — năpraznic. La DLR.
+- **fituí** (a) — a temnina.
+- **fîntál**
+	- n. — puț artezian.
+	- n. — puț mare.
+- **fîntînár** m. — puțar.
+- **fîrcigói** n. — băț de sucit funia.
+- **fīrsií** (a) — a lucra de mîntuială.
+- **fîrfîit** adj. — fåcut de mîntuială.
+- **fīrîí** (a) — a forăi (calul).
+- **fîrnîi** (a) — a fonfăi. La DU.
+- **fīrnîit** — fonf
+- **firşí** (a) — a termina.
+- **fîrțîcúş**
+	- m. — corcoduş (pom).
+	- m. — porumbrel (arbust).
+- **fîrțîgău** adj. — fudul. La CADE.
+- **firțîí** (a) — a se fuduli.
+- **fîrțîi** (a) — a se preface.
+- **fîrțîí** (a) — a cleveti.
+- **firțiiác** adj. — clevetitor.
+- **fîrțóg** adj. — zburdalnic. La CADE.
+- **fis** m. — copil pipernicit.
+- **fisă** adj. — certăreț.
+- **fîsîi** (a) — a mocni (focul).
+- **fîstîc** n. — nucuşoară. La DU.
+- **fîstîci** (a) — a se buimăci. La DU.
+- **fîşchi** n. — tulpină de ceapă. La CADE.
+- **fişîc** n. — smoc (de iarbă).
+- **fiştichíu**
+	- adj. — verde-deschis.
+	- adj. — galben-verzui.
+- **fịṭ** m. — copil neastîmpărat.
+- **flanilíu** adj. — roşu-întunecat.
+- **flaimuc** m. — nătăfleț. La DU.
+- **flăcăí** (a) — a holtei.
+- **flăcănáci** m. pl. — flăcăuani de 15-18 ani.
+- **flăcăríe** f. — flăcăraie.
+- **flăcăuån** m. — tinerel. La CADE.
+- **flăcăuáş** m. — tinerel. La CADE.
+- **flăcău bătrîncios** m. — flăcău stătut.
+- **flăcău de-a doilea** m. — văduvoi.
+- **flăcău întreg** m. — flăcău stătut.
+- **flămînjiórii** m. pl. — flămînzii.
+- **flecău** m. — maladeț. La DLR.
+- **flecuí**
+	- (a) — a strivi (strugurii cu maşina)
+	- (a) — a mesteca bine.
+- **flecuştéț** m. — mărunțiş.
+- **flegheráş** n. — turn.
+- **flendărós** adj. — zdrenturos.
+- **fleorcăí** (a) — a trăncăni.
+- **fleoşcăráiniță** f. — noroi.
+- **floárea-bostanului** adj. — galben.
+- **floárea-brumei** s. — brînduşă.
+- **floárea-cabacului** adj. — galben-deschis.
+- **floárea-răsăritei** adj. — galben-închis.
+- **floárea-soarelui** adj. — galben-închis.
+- **florári** n. — ornament la streaşină.
+- **florean** adj. — bălțat, cu pete.
+- **flóri**
+	- f. pl. — ornament la streaşină.
+	- f. pl. — coroana miresei.
+- **florícă** adj. — floreană, cu pete (vacă).
+- **florós** adj. — înflorit.
+- **flueráş**
+	- n. — totîlcă.
+	- m. — fluerist. La CADE.
+- **flúir** n. — tulpină de ceapă.
+- **focaşîu** adj. — roşu-portocaliu.
+- **focăí** (a) — a face des focul în sobă.
+- **focăríu** adj. — roşu-deschis.
+- **focós** adj. — înfocat. La M.Sadoveanu.
+- **focşór**
+	- m. — degețel-roşu (plantă).
+	- m. — lumînărică (plantă).
+	- m. — miçunea.
+	- m. — scrîntitoare (plantă).
+- **fócuri**
+	- n. pl. — procente de alcool.
+	- n. pl. — baterii (pentru lanternă).
+- **fodulóşi** adj. — fudulani.
+- **fofáină** f. — diaree.
+- **foflénchi** interj. — tronc! La CADE.
+- **foi** (a) — a respira.
+- **foişõr** n. — pătul la vie sau la pepenărie.
+- **foişór** n. — pernuță (pentru copii).
+- **fóiul** n. — frunza. Expr. Foiul verde = frunză verde.
+- **fojgăi** (a) — a mişuna. La DLR.
+- **folărít** n. — dare pe stîni şi pe brînză. La DIM.
+- **foleştí** (a) — a face tîrg la Făleşti. (DD).
+- **folfăí** (a) — a fonfaii.
+- **foltán** n. — parcelă. La CADE.
+- **foltăun** n. — petec de pămînt. La T. Pamfile.
+- **fometóşi** adj. — flămînzi. fomfeá $`f`$. - buclă.
+- **fometicióşi** adj. — înfometați.
+- **forăi** (a) — a sufla zgomotos pe nări
+- **forcăí** (a) — a sufla zgomotos.
+- **forfăí** (a) — a fierbe în clocot.
+- **forfecătór** adj. — cu vorbă multă.
+- **forțoli** (a) — fandosi. La N.Țurcanu.
+- **fosăí** (a) — a mocni (focul). La DU.
+- **foşcári** n. — căpățînă de varză înfoiată
+- **foşcăí** (a) — a fîşîi. La DLR.
+- **foşní** (a) — a fîşîi. La M.Eminescu.
+- **franzolí** (a) — a se fuduli.
+- **frocì** (a) — a cura cocenii de boabe.
+- **fréneic** n. — haină bărbătească.
+- **frigáre** f. — descîntec de sperieți.
+- **fript** adj. — zgîrcit.
+- **frocní** (a) — a forăi (calul).
+- **frúcte** n. pl. — legume.
+- **frúcturi** n. pl. — fructe.
+- **frum uşăl** adj. — roşu-aprins.
+- **frundzărí** (a) — a culege într-ales.
+- **frundzîşoáră** f. — frunză de dafin.
+- **fruntáş** n. — curea pe fruntea calului.
+- **fruntíță** f. — fruntar.
+- **frunțît** adj. — îmblătit.
+- **frúnza-nucului** adj. — cafeniu-închis.
+- **frúnză-uscată** adj. — cafeniu-deschis.
+- **fuduláni** adj. — fuduli.
+- **fuduláş** adj. — fuduli.
+- **fudulíi** n. pl. — testicule de bovine.
+- **fudulóşi** adj. — fudulani.
+- **fugánoc** n. — rindea lungă.
+- **fugăní** (a) — a netezi cu fuganul.
+- **fugărí** (a) — a răzmeri. La DLR.
+- **fugí**
+	- (a) — a se decolora.
+	- (a) — a se şterge, a se lua.
+	- (a) — a aluneca, a se surpa.
+- **fuguí** (a) — a netezi cu fuganul.
+- **fuioáre** n. pl. — daruri mirilor.
+- **fulău** m. — netrebnic. La CADE.
+- **fulgăní** (a) — a netezi cu rindeaua.
+- **fulgeréşte** adj. — iute ca fulgerul.
+- **fulguí**
+	- (a) — a rindelui.
+	- (a) — a şterge cu mătura de stul
+- **fuligoásă** adj. — mițoasă.
+- **fultán** n. — tufäriş des.
+- **fum** n. — gospodărie, casă. La I.Neculce.
+- **fumagári** m. pl. — cărbuni presați.
+- **fumár**
+	- n. — lucarnă.
+	- n. — hogeag.
+	- n. — foale de prisacă.
+- **fumárnic**
+	- n. — lucarnă.
+	- n. — foale de prisacă.
+- **fumăgá** (a) — a mocni (focul).
+- **fumăgári** n. — foale la prisacă.
+- **fumăgăí** (a) — v. a fumăga.
+- **fumăgí** (a) — v. a fumăga.
+- **fumărít** n. — dajdie plătită de fiecare gospodărie (hogeag). La DIM.
+- **fumegăi** (a) — a fuma.
+- **fumeghí** (a) — a mocni (focul).
+- **fund de bucătărie** n. — fund de hăcuit varza.
+- **fund la cuptor** n. — gurari.
+- **fund cu picioare** n. — măsuță rotundă.
+- **fundác** n. — gurar la cuptior.
+- **furatori** m. — tîlhar.
+- **furăjắl** n. — făraş.
+- **furdéliță** f. — viscol.
+- **furdí** (a) — a viscoli.
+- **furlandisi** (a) — a se fuduli.
+- **furluá** (a) — a şterpeli. La I. Creangă.
+- **furtişảg** n. — găinărie.
+- **furtunátic** adj. — sperios (cal).
+- **fus**
+	- n. — coadă cu roată găurită la putinei.
+	- n. — ax cu ghiventuri la teasc.
+	- n. — mîner la menghine.
+	- n. — boştină.
+	- n. — rădăcină în formă de con.
+- **fuşalău** n. — unealtă de scărmănat lîna.
+- **fuşél**
+	- n. — vergea la sulul de dinainte.
+	- n. — chingă.
+	- n. — tulpină de ceapă.
+- **fúşti** n. — armă (ghioagă).
+- **fublŭu** m. — câine de stînă.
+- **fúkru** n. — ferăstrău de tăiat în lung.
+- **fundárm pedestru** m. — liude.
+- **floglée** n. pl. — picioare. (TD).
+- **fltair** m. — păzitor de țarină. La DU.
+- **fitári** m. — om care îngrijeşte vitele.
+- **fuc** interj. — una - două. E x p r. Tac pac = repede, cît ai clipi din ochi.
+- **fah** interj. — redă lătratul câinelui.
+- **fahán** n. — talger. (TD).
+- **fahán mare** n. — farfurie adîncă.
+- **fanc**
+	- n. — măsură, margine. (T.Pamfile).
+	- n. — moment. Expr. La țane = la timp, la momentul potrivit.
+	- n. — stîncă. La DU.
+	- n. — vîrf înalt și ascuțit de stîncă.
+	- n. — bețişor crestat.
+- **fap** m. — pahar mare de vin.
+
+## G
+
+- **ga** interj. — găgaitul gîştelor.
+- **gad** n. — dihanie. La CADE.
+- **gadină** f. — jivină. La CADE.
+- **gaibă** f. — mînă, labă. La CADE.
+- **gaidunár** n. — gărdinar.
+- **galadác** f. — secetă.
+- **galbanáreț** m. — icter, boală de ficat.
+- **galbanări** m. pl. — arnică (plantă).
+- **galbáț** m. — gălbează (la oi).
+- **gálbini** f. pl. — icter.
+- **galbinúță** f. — micşunea.
+- **gálbîn-balaór** adj. — galben-deschis.
+- **gálbîn-luminat** adj. — şarg (cal).
+- **gálbîn-turungiu** adj. — şaten.
+- **gálbîn-zoios** adj. — galben-închis.
+- **gále** f. pl. — gogoaşă pe frunze.
+- **galón cu coş** n. — damigeană.
+- **gálust** n. — cravată.
+- **ganafíri** m. pl. — spini pe marginea drumului.
+- **gane** n. — prispă din scînduri.
+- **gánoc**
+	- n. — cerdac.
+	- n. — verandă sticluită.
+	- n. — prispă.
+- **garáflă** f. — toporaş.
+- **gardíni** f. pl. — ghizdele de lemn la puț.
+- **gardiróp** n. — masă de bucătărie.
+- **garitóni** m. pl. — porumbei cu coada înfoiată.
+- **gárniț**
+	- n. — măsură pentru cereale.
+	- n. — vamă (la moară).
+- **garníz** n. — ornament la streaşină.
+- **găinăríță** f. — găinăreasă. La I.Creangă.
+- **gălánă** adj. — v. galană.
+- **gălămóz** n. — învălmăçeală.
+- **gălătúşcă** f. — măciulie la bîtă.
+- **gălbăjoásă** adj. — palidă.
+- **gălbănáşi** adj. — gălbui. (TD).
+- **gălbănúță** adj. — galbenă. La TD.
+- **gălbărúi** adj. — gălbui.
+- **gălbenáşi** m. pl. — monede deiaur.
+- **gălbináre** f. — icter.
+- **gălbiniță** f. — vacă de culoare gălbuie.
+- **gălbîu** adj. — şaten.
+- **gălbîu-olecuță** adj. — şaten.
+- **găleătă** f. — vas din doage de 150-200 l.
+- **găleátă**
+	- f. — căldare.
+	- f. — putinei.
+	- s. — putină.
+- **găleátă de pîne** f. — v. găleată (baniță).
+- **găletári** m. — ciubăr. La CADE.
+- **gălghiór** adj. — şaten.
+- **gălghişioáră** adj. — gălbioară.
+- **gălúşe**
+	- f. pl. — sarmale.
+	- f. pl. — cocolosi din aluat.
+- **gămán** m. — om mare şi nerod.
+- **gămăióg** n. — grămăjoară.
+- **găráfă burdujăl** f. — carafă rotundă.
+- **gărdiní** (a) — a face gardină la doage.
+- **gărlăbán** n. — lovitură.
+- **gărnişiór** n. — cană mare de sticlă.
+- **gătá** (a) — a pregăti. La M.Eminescu.
+- **gătí**
+	- (a) — a pune capăt zilelor.
+	- (a) — a da gata.
+- **gătițăl** adj. — ferchezuit.
+- **găvănós cu floare** — vază.
+- **găvozdí**
+	- (a) — a înghesui, a îngrămădi.
+	- (a) — a dosi.
+- **gǎvozdí** (a) — a se ghemui. La CADE.
+- **găvozdi** (a) — a se cocoța. La DU.
+- **gǎvozdi** (a) — a țintui. La CADE.
+- **găvozdít** adj. — ghemuit.
+- **găzdui** (a) — a conăci (CM).
+- **gealău**
+	- n. — rindea; “În Moldova, în restul țării rindea lungă…”. (DLR).
+	- n. — robanc.
+- **geám** n. — ochi de fereastră, mobil.
+- **geamandán** n. — valiză. La CADE.
+- **geámbaş** m. — intrigant, înşelător.
+- **geamlîc** n. — răsadniță; seră.
+- **gelát** m. — călău. La DU.
+- **geluí** (a) — a rindelui.
+- **geluít** adj. — rindeluit.
+- **gemănár** m. — fiecare din frații gemeni.
+- **genunchiát** adj. — îngenuncheat.
+- **genunchér** n. — suman pînă la genunchi. La CADE.
+- **gerár** m. — ianuarie.
+- **geruí**
+	- (a) — a scoate rufele la ger.
+	- (a) — a înălbi (pînza) la ger.
+- **geruít**
+	- adj. — atins de ger, înghețat.
+	- adj. — care a stat la ger.
+	- adj. — înălbit prin scoatere la ger.
+- **get-begét** adj. — adevărat, veritabil.
+- **ghebós** adj. — cocoşat. La DU.
+- **ghióalcă** adv. — leoarcă. La DU.
+- **ghióci**
+	- n. — loitrar.
+	- n. — căruță specială pentru cărat grăunțe.
+- **ghiogár** m. — răufăcător.
+- **ghiojghioáre** adj. — în văzul lumii.
+- **ghioldúm** n. — ghiont. La CADE.
+- **ghiondúz** m. — om răutăcios.
+- **ghiordúm** n. — joc de cărți. La DLR.
+- **ghiorghiovǎşíu** adj. — stînjeniu.
+- **ghiotlúcuri** n. pl. — hamuri.
+- **ghiótură** f. — mulțime. La M.Eminescu.
+- **ghióz** n. — secție într-un hambar.
+- **ghipcán** m. — mîrțoagă. La V.Alecsandri.
+- **ghismán** n. — coptură din fǎină de porumb.
+- **ghițmán**
+	- m. — coptură din aluat cu chişleag.
+	- m. — plăcintă cu brînză şi smîntînă. La E.Sevastos.
+- **ghițmáne** n. pl. — plăcinte cu brînză.
+- **ghițós** adj. — mițos. La I.Creangă.
+- **ghiurtár** m. — netrebnic.
+- **ghiúzuri** n. pl. — curele la îmblăciu.
+- **ghivizíu** adj. — sîngeriu, roşu-închis.
+- **ghizdáv** adj. — elegant. La DU.
+- **ghizdéle**
+	- f. pl. — lemne la puț.
+	- f. pl. — ghizduri. La I.Sbiera.
+- **ghizoróg** m. — văduvioară (peşte).
+- **gig** n. — vig, val. La I.Creangă.
+- **gigea** adj. — drăguț. La AI.Vlahuță.
+- **gigéle** f. pl. — jucării.
+- **gingină** f. — gingie. La CADE.
+- **gioí** (a) — a învinge. La CADE.
+- **giosán** m. — locuitor al Țării de Jos = Moldova de Jos. (M.Costin).
+- **giubán** n. — haină cu poalele lungi.
+- **giurătóriu** m. — martor. La I.Neculce.
+- **giuvîr** n. — ciubăr.
+- **givórniță** f. — viscol mare. La DU.
+- **gîci** (a) — a găsi, a afla a descoperi.
+- **gimuéṭ** n. — grămăjoară de fîn.
+- **gindurí** (a) — a se gîndi.
+- **gîni** n. — funie de tei. La DU.
+- **gīnjuí** (a) — a împleti (sîrma).
+- **ginsác**
+	- m. — sticlă de $`3 l`$.
+	- m. — gîscan. La M.Eminescu.
+- **gîrbă** f. — cîrcă. La CADE.
+- **gîrgîlíci** adj. — pipernicit.
+- **gîrgîríță** f. — buburuză.
+- **gîrlán** n. — gîrlici la pivniță.
+- **gîrlúță** f. — jgheab la teasc.
+- **gîrnáte** f. pl. — legume.
+- **gîscói** m. — gînsac.
+- **gît** n. — gîrlici.
+- **gîtlán**
+	- m. — gît. La DLR.
+	- adj. — bețivan.
+- **gîtuéle** f. pl. — gîtare la gura de ham.
+- **gîturár** n. — gîtar (la căpăstru).
+- **gîțǎ**
+	- f. — cosiță. Expr. A împleti gîțe albe = a rămîne fată bătrînă. La DLR.
+	- f. — căleap.
+- **glangău** m. — om zdravăn.
+- **glásnic** adj. — care răsună cu putere.
+- **glaván**
+	- n. — găvan la greblă.
+	- n. — umăr la ferăstrău.
+- **glăjér** m. — geamgiu. La CADE.
+- **glăsuí** (a) — a vota.
+- **glăscior** n. — glas subțire.
+- **glăsuire** f. — votare.
+- **glăsuit** adj. — votat.
+- **glăsuitor** — votant.
+- **glăsuț** n. — glăscior. La V.Alecsandri.
+- **gligán** m. — vier, porc necastrat.
+- **globí** (a) — a ştrăfuí. La CADE.
+- **glóbnic** m. — cel ce încasează gloabel, glod $`n`$. - noroi. La C.Negruzzi.
+- **glodíu** adj. — cafeniu-întunecat.
+- **glodós** adj. — noroios. La DU.
+- **glodurós** adj. — noroios. La CADE.
+- **gloghi** (a) — a sărăci (DD).
+- **glogozí**
+	- (a) — a se buluci.
+	- (a) — a se frămînta fără rost.
+	- (a) — a fierbe prea tare.
+- **glogozît** adj. — prea fiert.
+- **glónte** n. — glonț. La CADE.
+- **glumós** adj. — glumeț.
+- **gozgoitoáre** adj. — cicălitoare.
+- **gózură** f. pl. — codină.
+- **grảbnică** adj. — galopantă.
+- **grafín** n. — cană de sticlă.
+- **grafiníc** n. — cană mare de sticlă.
+- **grai** n. — limbă. La C.Ivănescu.
+- **grajd** n. — încăpere pentru cai.
+- **gramofár** n. — v. gramafon.
+- **grant**
+	- n. — robinet.
+	- n. — canea.
+- **grapác** n. — cultivator triunghiular.
+- **grapşiná** (a) — a se cățăra. La CADI grasolíe $`f`$ - femeie grasă.
+- **gratári**
+	- n. — scară deasupra ieslei.
+	- n. — druci pe loitre.
+- **gráte**
+	- f. pl. — gard cu ştachete.
+	- f. pl. — corlate la pod.
+	- f. pl. — corlate la puț.
+	- f. pl. — scară deasupra ieslei.
+- **gráur**
+	- adj. — negru. A scos un cal graur Cu şaua de aur. (TD).
+	- adj. — negru. Cal graur. La M.Eminescu.
+- **grăbuí** (a) — a jefui.
+- **grădínă de vie** f. — vie.
+- **grébîn** n. — cocoaşă.
+- **gréblă** f. — pieptene de pieptănat lîna. greblătúră $`f`$. - ceea ce s-a adunat cu grebla.
+- **grelişoáră** adj. — grea.
+- **grémpil** n. — pieptene de pieptănat lîna.
+- **greş** n. — greşeală la urzit.
+- **gréşi** m. — grec. (TD).
+- **greşălúți** f. pl. — greşeli mici.
+- **gréşuri** n. pl. — bobițe de struguri.
+- **gréu** n. — greutate, povarǎ, nevoie.
+- **greunátic** adj. — neîndemînatic.
+- **griere** n. — păianjen.
+- **gríeri** m. pl. — creieri.
+- **grif** n. — hac (la potcoava calului).
+- **griji**
+	- (a) — a se împărtăși. La C.Ivanescu.
+	- (a) — a prevedea. La DLR.
+	- (a) — a deretica. La DLR.
+	- (a) — a pomeni. La DLR.
+	- (a) — a păzi. La DLR.
+- **grijí**
+	- (a) — a avea grijǎ de cineva.
+	- (a) — a curăța. La I.Creangă.
+	- (a) — a spovedi. La I.Creangă.
+- **grijít**
+	- adj. — îngrijit.
+	- adj. — Îngrijorat. La I.Neculce.
+	- adj. — curățat (de pene).
+- **grijî** (a) — a curăța o pasăre tăiată.
+- **grijîtóri** m. — grăjdar.
+- **grijulíu** adj. — ordonat. La I.Creangă.
+- **grind** n. — insuliță acoperită cu stuf.
+- **grindíş** n. — pantă.
+- **griurúş** n. — greier.
+- **grîuoásă** adj. — cu multă fãină.
+- **grîuşór** m. — toporaş. La DU.
+- **groảă** adj. — numeroasă.
+- **grobián** adj. — grosolan, bădăran.
+- **grochinşéri** m. — gropar.
+- **grohăí** (a) — a întoarce (cu lopata).
+- **grohăi** (a) — a hurui (tancuri).
+- **grohotíş** n. — îngrămădire de pietre.
+- **grojdi** (a) — a fărîma.
+- **gron** n. — strugure de struguri.
+- **gropánă** f. — groapă cu noroi.
+- **gropnicér** m. — gropar. La CADE.
+- **grosolảni** adj. — grăsuți.
+- **groşciór** n. — smîntînă. (I.Creangă).
+- **gróşi** m. pl. — prima monedă (de argint) moldovenească. La DIM.
+- **grozávnic** adj. — groaznic. La C.Negruzzi.
+- **grozghíu** adj. — fioros.
+- **grumádz** m. — ceafã, cerbice. E xpi prinde (a lua) pe cineva de grumad = a prinde, a face prizonier.
+- **grumáz**
+	- m. — gît. La M.Eminescu.
+	- n. — gît. La N.Ţurcanu.
+- **grumejóri m** pl. — curele la îmblăciu
+- **grunt** n. — arătură.
+- **grunt de ceară** n. — turtă de ceară.
+- **grunz**
+	- m. — fărîmă (de schijă).
+	- m. — drob de sare. La DU.
+- **grunzurós** adj. — bulgăros.
+- **gruzin** m. — georgian.
+- **gúbav** adj. — bolnăvicios. La I.Creangi
+- **gúdzîşi** m. pl. — nasturi.
+- **gugeág** n. — glugă.
+- **gugúlea** adj. — drăguț.
+- **gugulí** (a) — a cocoli. La DU.
+- **gugúş** m. — porumbel sălbatic.
+- **gujulíi** f. pl. — fructe.
+- **gúler** n. — partea de sus a jugului.
+- **gulerảt** adj. — cu păr mare la gît.
+- **guleráşul** — cîntec de copii.
+- **gúlgi** f. pl. — glugi.
+- **gunoiéri** n. — făraş.
+- **gurári** n. — om cu gura mare.
+- **gúreş**
+	- adj. — guraliv. La CADE.
+	- adj. — mult ciripitoare.
+- **gurgoáse** f. pl. — corcoduşe.
+- **gurgúi** n. — cioc la urcior.
+- **gurgutúşi** m. pl. — corcoduşe.
+- **guríța-cucului** f. — crin.
+- **gurlúi** n. — gura urciorului. La DU.
+- **gurmádz**
+	- n. — partea de sus a jugului.
+	- n. — muşuroi de țărînă.
+- **gurmadzári**
+	- m. — opritoare (la ham).
+	- m. — gîtari (la căpăstru).
+- **gurmedzî** (a) — a țărnui.
+- **gurút** n. — pastă din fǎină cu brînză.
+- **gústar** m. — gîlcă.
+- **gustár** m. — august.
+- **gúşa-hulubului** adj. — albastru-deschis.
+- **guşălíu** adj. — albastru-deschis.
+- **guştér** n. — gîtlej. La DU.
+- **gut** m. — gutui.
+- **gutău** m. — gutui.
+- **gutunári** n. — guturai. La DLR.
+- **guzán** m. — şobolan. La CADE.
+- **guz** m. — cîrtiță. La CADE.
+- **gúzăr** m. — om zgîrcit.
+- **guzgản** m. — şobolan. La M. Sadoveanu.
+- **gvint** n. — şurub la teasc.
+
+## H
+
+- **horclâcutā** s. — cană mică.
+- **horelletoniră** s. — bardă mică.
+- **harghte** f. — policioară la jug.
+- **hôvãrá** f. — rugină pe vii.
+- **hodorit** — amichea.
+- **hleciugn** — imblâciu.
+- **hlos** m. — vlâdulă. La DU.
+- **hlehári** m. — tinichigiu.
+- **hlendi** (a) — a îmbrînci. La CADE.
+- **hlouslu u** — hădărag la îmblăciu.
+- **hleotocări** (a) — a vorbi aiurea. La DD.
+- **hoinis m** — luptâtor, atlet. La CADE.
+- **holdít** adj. — căscat, holbat.
+- **hontcancă** s. — strecurătoare.
+- **horti** (a) — a găuri.
+- **hortilí** (a) — a găuri.
+- **houluroin n** — ghizd la puț.
+- **houluról n** — putină. La DU.
+- **huduróin** — stup. (M.Sadoveanu).
+- **hmestrin** adv. — dezordonat. Expr. A vorbi in buestru $`=`$ a vorbi fără rost, numea. A merge în buestru = a merge this gratic, necoordonat (omul).
+- **huf** interj. — zgomotul unei căderi.
+- **hululune** n. — băltoacă de apă.
+- **humbărcáză** s. — v. bumbăreață.
+- **hownioścał** s. — struguri.
+- **hilści** adj. — bețiv. La DU.
+- **hligos** adj. — zdrenturos.
+- **hate in-sorm** m. — toporaş.
+- **habacíu** m. — haină de aba. La DU. habár n. - grijă, păs. La V.Alecsandri. habár
+- **habotá** (a) — a pune vălul miresei.
+- **hac**
+	- n. — cîrlig la cange.
+	- n. — cîrlig la piedica căruței.
+	- n. — răsplată. Expr. A veni de hac
+- **hachíțe** f. pl. — toane. La CADE.
+- **hahoále** f. pl. — vorbe de clacă.
+- **haidamác** m. — văcar. La M.Sadoveanu.
+- **haidamáci-cu-chelea** m. pl. — piroşte.
+- **haidău** m. — derbedeu. La I.Creangă.
+- **haidúc** m. — răzvrătit. La B.P.Haşdeu.
+- **háit** n. — ezătură la apele de munte.
+- **haitiş** adj. — încovoiate. La TDRG.
+- **halál**
+	- interj. — vai.
+	- interj. — bravo! bine să-mi fie!
+- **haláturi** pl. — scule. La DU.
+- **halău** n. — lădiță pentru mîncare la cai.
+- **háli-háli** interj. — se alungă păsările.
+- **halm uí** (a) — a împiedica carul.
+- **holocht** pl. — prune necoapte.
+- **honndrig** n. — ferăstrău.
+- **hung** n. — teavă la cimpoi. La DU.
+- **hontatar** — Expr. De cînd hantata’ül îi vechi de cînd lumea.
+- **hipca** adv. — forțat. E x pr. A lua cu hapcu - a lua cu sila, pe nedrept. La DU.
+- **harabárcă** f. — căruță cu loitre lungi.
+- **harabói** n. — haraba mare.
+- **harám** n. — vită. La TDRG, DLR.
+- **haramétie** f. — om zdravăn.
+- **haráp** m. — câine negru.
+- **harapnic** n. — bici mare. La DLR.
+- **harbuji-sălbatici** m. pl. — ciulini.
+- **harbuzári** m. — paznic la pepenărie.
+- **harbuzésc** adj. — zemos. E x p r. Pere harbuzesti
+- **harc** n. — hac la potcoavă.
+- **hárcăt** n. — răcnet. La CADE.
+- **hárcea-parcea** adv. — a sfîsia. E x pr. A face harcea-parcea
+- **hardál**
+	- n. — ridichioară.
+	- n. — rapiță sălbatică.
+- **hardiróp** n. — dulap de cancelarie.
+- **hardughít** adj. — răblăjit.
+- **harmán**
+	- n. — arie de treierat.
+	- n. — vărzărie.
+- **harmanui** (a) — a treiera.
+- **harmátă** f. — tun. La CADE.
+- **harpalîc** n. — rană sub limba calului.
+- **hartán**
+	- n. — bucată de carne. La CADI
+	- m. — pulpă (de găină).
+- **hartản** n. — bucată ruptă dintr-o haină
+- **hartoí** (a) — a coti. La CADE.
+- **hartuí** (a) — a se căli (oțelul).
+- **harț** n. — încăerare uşoară. La DLR.
+- **haugáş** n. — fǎgaş, urme.
+- **haván** n. — piuliţă. La DU.
+- **hooulus** adj. — hazlie, glumeață.
+- **hocóm ii** — basma de bumbac.
+- **habinice** n. — năuc. La DLR.
+- **habinctur** adj. — nătîng.
+- **hobönca** adv. — brambura. Expr. A umbia hăbăuca
+- **hobăuca** adv. — razna. Expr. A o lua linbanca
+- **holhônci** (a) — a năuci (pe cineva).
+- **habñuci** (a se) — a se năuci.
+- **homanncit** adj. — năucit.
+- **habuci** (a) — a strica, a rupe. La CADE.
+- **hobucít** adj. — rupt.
+- **hôbuşi** (a) — a rupe în bucăți.
+- **hôbuşí** (a) — a tăia încet cu ferăstrăul.
+- **hobussit** adj. — rupt în bucăți.
+- **hỉcuí** (a) — a tăia mărunt. La DLR.
+- **hixcuitóri** m. — satîr de bucătărie.
+- **hàdărág** n. — băț la voloc.
+- **hadărảg** n. — titirez la moară. La DU.
+- **hĭtlăucă** s. — rîpă adîncă.
+- **hăp**
+	- n. — hang. E x p r. A ține de hăgu “tine hangul.
+	- n. — bucată (de mămăligă).
+- **hni** (a) — a surpa, a doborî. La CADE.
+- **hắi** (a) — strigăt pentru a stîrni vînatul.
+- **hăí**
+	- (a) — a alunga ciorile.
+	- (a) — a mîna vacile, boii.
+	- (a) — a ura în seara de Anul Nou.
+	- (a) — a poftori. La CADE.
+	- (a) — a felicita prin recitarea”pluguşorului” în seara de Anul Nou.
+- **hăi**
+	- interj. — termen familiar de adresare.
+	- interj. — îndeamnă animalele.
+- **hăihăí** (a) — a ura.
+- **hăinie** f. — apostasie. (CM).
+- **hăimác** adj. — zăpăcit.
+- **hăimisit** adj. — copleşit de griji.
+- **hăitáş**
+	- n. — hăituitor. La DU.
+	- n. — hăituire. La DLR.
+- **hăitée** f.pl. — unelte. La DU.
+- **hăitór** m. — urător.
+- **hăiuri** n. pl. — urături; hăituri.
+- **hăizáş** n. — acoperişul casei. La CADE.
+- **hăjbí** (a) — a şterpeli.
+- **hălădui** (a) — a scăpa cu viaţă.
+- **hălăói** adj. — greoi. La CADE.
+- **hălături** n. pl. — harnaşament.
+- **hălbărí** (a) — a trăncăni.
+- **hălcári** n. — rindea cu un singur cuțit.
+- **hălcáş** n. — v. hălcari.
+- **hălcí** (a) — a crăpa.
+- **hălci** (a) — a rîndelui. La DU.
+- **hăléu** interj. — aoleu, văleu.
+- **hălí**
+	- (a) — a şterpeli.
+	- (a) — a lovi pe cineva.
+	- (a) — a înşrǎca.
+- **hăli** (a) — a înfuleca.
+- **hălpi** (a) — a se apleca (cereale). La DU.
+- **hăluí** (a) — a se chinui.
+- **hălúț** n. — altoi.
+- **hămăi**
+	- (a) — a lătra. La DU.
+	- (a) — a vorbi mult şi fără rost.
+- **hămbăráş** n. — cameră pentru alimente.
+- **hămesí** (a) — a ameți (lovind) pe cineva.
+- **hămesi** (a) — a flămînzi.
+- **hămesit** — înfometat. La DU.
+- **hămurári** m. — curelar.
+- **hănésc** adj. — care aparține hanului.
+- **hărăcsi** (a) — a lua sînge. La CADE.
+- **hărăgí** (a) — a pune araci la vie.
+- **hărăț** m. — ostaş care înceapea lupta.
+- **hărăți** (a) — a se lua la harță. La DLR.
+- **hărău** m. — erete. La DU.
+- **hărcătí** (a) — a se repezi (câinii). La DD.
+- **hărcăți** (a) — a răcni. La CADE.
+- **hăréț** m. — uliu.
+- **hărhătí** (a) — a vorbi mulți deodată.
+- **hărhăți** (a) — a face gălăgie.
+- **hărjătăi** m. pl. — amanți.
+- **hărmănát** n. — treierat.
+- **hărmăní** (a) — a treiera.
+- **hărmănít** adj. — îmblătit.
+- **hărmăsári** m. — hădărag la îmblăciu.
+- **hărmăsărél** m. — cui de fier la proțap.
+- **hărmuíte** adj. — mițuite.
+- **hărnăúț** m. — urător cu mască.
+- **hărnici** (a) — a învăța juncanii să tragă.
+- **hărnicí** (a) — a îndemna la lucru.
+- **hărşní**
+	- (a) — a tăia dintr-o lovitură.
+	- (a) — a şterpeli. La DLR.
+- **hăt** adv. — de tot. La DLR.
+- **hătălău** m. — bărbat mueratic. La DLR.
+- **hătcăi** (a) — a huidui. La M.Sadoveanu.
+- **hăti** (a) — a ezi. La CADE.
+- **hățáş**
+	- n. — stanişte. La DU.
+	- n. — drum priporos.
+	- m. — cal înhămat între hulube, avînd un lăturaş. La DELM.
+- **hățăí** (a) — a zgîlțîi, a clătina.
+- **hățoágă** — cărare în padure. La CADE.
+- **hățuí** (a) — a comanda.
+- **hău** n. — denumirea unei păduri.
+- **hăugáş**
+	- n. — hîndichi.
+	- n. — umăr crestat la forăstrău.
+- **hilemán** n. — paralel de tîmplărie.
+- **hinemătári** m. pl. — banari.
+- **hineós** adj. — hazliu.
+- **houlir** n. — secerătoare.
+- **hegliedúş** m. — vornicel (la nuntă).
+- **hiluri** n. pl. — acareturi. La DLR.
+- **hölbet** interj. — desigur.
+- **heméi** n. — hămei. La DU.
+- **hémer** n. — mai pentru crăpat butucii.
+- **hereséu** n. — ferăstrău. La DU.
+- **hergheliár** m. — herghelegiu.
+- **héruri** n. pl. — gratii la fereastră.
+- **hoti** interj. — ehei.
+- **hobrid** n. — vin de poamă nealtoită.
+- **hicałi** (a) — a goni cu bătăi şi strigăte.
+- **hici** adv. — deloc. La DU.
+- **hidicăit** adj. — izgonit.
+- **hiecine** pron. — fiecare. La M.Costin.
+- **hiccind** adv. — oricînd.
+- **huccúi** pron. — fiecărui. La M.Costin.
+- **humbluí** (a) — a rindelui.
+- **himii** (a) — a greşi în vorbă.
+- **hincotí** (a) — a se juca (coteiul).
+- **híndrea** adv. — parcă.
+- **híndrilea** conj. — fiindcă. (DD).
+- **híră** f. pl. — greutate.
+- **hirdughii** f. pl. — prăpăstii.
+- **hiristuí** (a) — a tăia cu ferăstrăul.
+- **hirostér n** — pirostrie cu patru picioare.
+- **hitión** adj. — slab. La CADE.
+- **hițál** m. — hingher.
+- **hîbzău** n. — şănțuleț săpat de apă.
+- **hîcní** (a) — a icni.
+- **hîd** adj. — slut. La CADE.
+- **hîdáche** m. — drac.
+- **hîde** adj. — murdare.
+- **hîí** (a) — a începe, a se prăvăli.
+- **hîj**
+	- n. — hambar.
+	- n. — căsoae.
+	- n. — cocioabă, colibă. La CADE.
+	- n. — bojdeucă.
+	- n. — slomn. (CM).
+	- n. — sarai pentru vite.
+- **hîlbe** f. pl. — lături. La CADE.
+- **hîlpav** m. — lacom. (I.Creangă). La DU.
+- **hîltáv** adj. — lacom. La CADE.
+- **hîltí** (a) — a bea lacom. La CADE.
+- **hîlțîná** (a) — a clătina.
+- **hîmbár**
+	- n. — dispărțitură pentru grîu.
+	- n. — acaret pentru pleavă.
+- **hînghí** (a) — a se opinti.
+- **hînță** f. — mărăcini.
+- **hîră** f. — ceartă.
+- **hîrb**
+	- n. — lut ars. Pocriş de hîrb. (DD).
+	- n. — țiglă.
+- **hîrbáreț**
+	- adj. — pofticios. La I.Slavici.
+	- adj. — hoinar. La C.Negruzzi.
+- **hîrb de floare** n. — vază.
+- **hîrbuí** (a) — a acoperi casa cu țiglă.
+- **hîrburi**
+	- n. pl. — veselă.
+	- n. — cioburi. La V.Vasilache.
+- **hîrcîí**
+	- (a) — a horcăi. La C.Negruzzi
+	- (a) — a huidui.
+- **hîrcîi** (a) — a tăia încet cu ferăstrăul.
+- **hîrcîít** n. — horcăit. La C.Negruzzi.
+- **hîrgăláe** f. pl. — blide.
+- **hîrgău**
+	- n. — marcoteț.
+	- n. — oală mare de lut cu toartă
+- **hîrgǎu** n. — urcică cu toartă.
+- **hîrgăuáş** n. — oală mică de schijă.
+- **hîrghelári** m. — herghelegiu.
+- **hîrghiláş** n. — herghelegiu.
+- **hîriş**
+	- adv. — numai.
+	- adj. — mîndru, fudul.
+- **hîrîí** (a) — a se tîrî.
+- **hîrîi** (a) — a-şi duce zilele.
+- **hîrîit** adj. — stricată. (M.Eminescu).
+- **hîrjoní** (a) — a se juca.
+- **hîrjoni** (a) — a se zbengui. La C.Ivanescu
+- **hîrláv** adj. — murdar.
+- **hîrlău** m. — păcurar bătrîn.
+- **hîrléţ** n. — cazma. La N.Gane.
+- **hîruă** adj. — cîrnă.
+- **hirsí** (a) — a se zgîrci.
+- **hirsít** adj. — răutăcios. La DLR.
+- **hirşcîi** (a) — a hîrşîi. La M.Sadoveanu.
+- **hirşcîit** adj. — hîrşîit. La I.Creangă.
+- **hirşcîitúră** f. — hîrşîitură.
+- **hirsisim** n. — viscol.
+- **hirsîm** adj. — prăpăd.
+- **hirşní** (a) — a lovi cu putere.
+- **hirştí** (a) — a şterpeli.
+- **hirtie**
+	- f. — scrisoare.
+	- f. — ordin.
+- **hîrtioáră** f. — scrisorică.
+- **hîrtoí** (a) — a se hărțui.
+- **hîrtóp** n. — groapă mare.
+- **hîrtopeán** m. — din Hîrtopul Mare.
+- **hīrti** interj. — eforturi zadarnice. E x pr.
+- **hirțuí** (a) — a istovi, a slei de puteri.
+- **hīrzób**
+	- n. — funie de coborît, ridicat
+	- n. — candelabru.
+- **hirzób** n. — coşuleț pentru păstrăvi.
+- **hinzób** n. — cerc cu sfori.
+- **hirzźb** n. — lingură de scos brînza.
+- **hírzób** n. — rostogol (plantă).
+- **hîş** interj. — se alungă păsările.
+- **hîşîm** n. — ploaie mare.
+- **hîşuí** (a) — a alunga găinile.
+- **hîtcîi** (a) — a alunga cu strigăte.
+- **hîtleán** adj. — viclean.
+- **hîtră** f. — diaree.
+- **hîtru** adj. — mucalit, şiret. La DLR.
+- **hîțîi** (a) — a zgîlții. La TDRG.
+- **hîțîná** (a) — a zgîlṭ̂i. La TDRG.
+- **hlaponáşi** adj. — bine hrăniți.
+- **hleástuc** n. — băț la capătul năvodului.
+- **hleiós** adj. — lutos, mlăştinos.
+- **hleuós** adj. — hleios (pămînt).
+- **hlibán** n. — pîne.
+- **hlichít** adj. — lihnit.
+- **hlimisî** (a) — a i se plictisi.
+- **hliştuí** (a) — a scrobi urzeala.
+- **hlíțe** f. pl. — chingi la boroană.
+- **hlizí** (a) — a rîde mult, fără rost. La DU.
+- **hlizít** adj. — care rîde mult, färă rost.
+- **hlobăná** (a) — a legăna. La DLR.
+- **hlodunéț** n. — oală. (I.Druță).
+- **hluján**
+	- m. — strujan.
+	- m. — curpăn de cartofi.
+	- m. — tulpină de porumb fără frunze. La DLR.
+- **hlujár** n. — tulpină de ccapă.
+- **hlujenéi** m. pl. — copturi dulci.
+- **hlúpav** adj. — lacom. (Th.Holban).
+- **hobjilă** m. — bărbat înalt și tont.
+- **hóbot**
+	- n. — feregea. La M.Sadoveanu
+	- n. — greabăn la cal.
+- **hocni** (a) — a striga. (DD).
+- **hodiní**
+	- (a) — a se odihni.
+	- (a) — a se răposa. (CM).
+- **hodobán**
+	- m. — păcurar (la oi).
+	- m. — om care are oi multe.
+- **hodorög** n. — băt la rîşniță.
+- **hodorogí** (a) — a suna a dogit.
+- **hodorone-trone** adv. — naprasna.
+- **hogáş**
+	- n. — hățiş, potecă.
+	- n. — cărare pe costisă.
+	- n. — urmă lăsată de un şuvoi de apǎ
+	- n. — hîndichi.
+- **hogeác** n. — cămară pentru alimente.
+- **hogeág** n. — horn. La DLR.
+- **hohmalău** m. — vlăjgan, lungan.
+- **hóisa** interj. — pentru boi: la stînga.
+- **hoji** (a) — a cînta (în biserică).
+- **hujma** adv. — mereu, într-una. La DLR.
+- **hojmalău** m. — vlăjgan.
+- **hujmalău** m. — gros. (CM).
+- **holburá** (a) — a se învîrteji (apa).
+- **holcí** (a) — a face gălăgie. La CADE.
+- **hólmas** n. — daltă de dogărie.
+- **holmurós** adj. — deluros.
+- **hólnic** n. — echer triunghiular.
+- **hololódzi** m. pl. — bulgăraşi.
+- **holteéşte** adv. — ca flăcăii.
+- **holtéi** m. — celibatar. La N.Gane.
+- **holteí** (a) — a trăi viaṭă de flăcău.
+- **holteiaş** m. — băețandru. La CADE.
+- **honoróş** adj. — fuduli.
+- **hopăí**
+	- (a) — a călca greu.
+	- (a) — a se mişca ritmic.
+- **hopîc** interj. — hop.
+- **hopni** (a) — a cădea.
+- **hopocí** (a) — a arde vuind.
+- **hopşi** (a) — a reuşi, a termina cu bine.
+- **hopşít** adj. — neîngăduit. E x p r. Nu e
+- **hopurós** adj. — cu hopuri.
+- **horăí** (a) — a sforăi. La M.Eminescu.
+- **horbárniț** m. — palavragiu.
+- **horbí** (a) — a vorbi.
+- **horcăí** (a) — a scuipa.
+- **horcoti** (a) — a sforăi. La CADE.
+- **horhăi** (a) — a rătăci. La DLR.
+- **hori** (a) — a cînta o horă.
+- **horî** (a) — a cosi cu coasa cu hreapcă.
+- **horn** n. — cahlă (la sobă).
+- **hostropăț** n. — dans ritual de nuntă.
+- **hoşotí** (a) — a ucide.
+- **hoştochínă** f. — resturi din faguri.
+- **hotár** n. — margine. Expr. A fi în hotar $`\mathbf{c u}=`$ a se mărgini.
+- **hotărî**
+	- (a se) — a se mărgini.
+	- (a) — a preveni.
+- **hotărnicí** (a) — a răzori. La CADE.
+- **hotnóg** m. — sutaş.
+- **hozní** (a) — a împinge.
+- **hrabui** (a) — a jefui.
+- **hram** n. — biserică, catedrală.
+- **hrámă** f. — cramă.
+- **hrámuri** f. pl. — crame.
+- **hráturi** n. pl. — gratii la ferestre.
+- **hrepcui** (a) — a cosi cu coasa cu hreap(i) I a CADE.
+- **hiepcuí** (a) — a rumega.
+- **hreşti** n. — mătură de curte.
+- **hréşturi** n. — resturi de nutreț.
+- **hrib** m. — burete. La M.Eminescu.
+- **horom** n. — cremă de ghete.
+- **hrom** n. — iuft.
+- **hrujdán** n. — porumb tăiat (cu frunze).
+- **hrúmnic** n. — cămară pentru alimente.
+- **hruşán** m. — din Hruşca.
+- **hruşcári** m. — v. hruşari.
+- **huc**
+	- n. — felie.
+	- n. — boț (de mămăligă).
+	- n. — bucățică (de plăcintă, pâine).
+- **húce** f. pl. — tărîță de borş.
+- **huceág** n. — hățiş, crîng des. La M.Eminescu, M.Sadoveanu. La CADE.
+- **huchit** adj. — nedezvoltat. La CADE.
+- **huchiúm** n. — bucată mare (de pâine).
+- **hucii** (a) — a alunga găinile.
+- **hudéşi** m. — desiş.
+- **húdin** n. — viṭă subțire la castraveți.
+- **húet** n. — vuet. La CADE.
+- **huhurá** (a) — a striga în gura mare.
+- **huhuréz** m. — ciof. La DU.
+- **huí**
+	- (a) — a se lovi.
+	- (a) — a izbi ceva de pămînt.
+	- (a) — a cădea ceva greu, cu zgomot.
+	- (a) — a vui. La CADE.
+	- (a) — a trăncăni.
+- **hultuí** (a) — a altoi.
+- **hultuitór** n. — ferăstrău de mînă.
+- **hultuitúră** f. — altoire.
+- **húltur** m. — vultur.
+- **hulúb** m. — guguştiuc.
+- **hulubárnic** n. — porumbar.
+- **hulubáş** m. — porumbaş.
+- **hulubás** n. — colǎcel ca un hulub.
+- **hulúbă** adj. — surie (vacă).
+- **hulubeátnic** n. — porumbar.
+- **hulubél** m. — porumbel. La DLR.
+- **hulúbi-vurtuni** m. pl. — porumbei care fac vîrtej.
+- **hulúg** n. — burlan.
+- **hulughi** (a) — a se drăgosti.
+- **hului** (a) — a dărîma. La CADE.
+- **hulujdéan** n. — cocean.
+- **huruí** (a) — a suferi.
+- **húsăş** n. — veche monedă. La DLR.
+- **húscă** f. — calup de sare. La CADE.
+- **húşi**
+	- interj. — strigăt de alungat găinile.
+	- n. — pădurice tînără.
+- **huşioiá** (a) — v. huşi (interjecție).
+- **húşte** f. pl. — tărîte din borş crud.
+- **huştiulí** (a) — a răsturna un lichid.
+- **huştiuliúc** interj. — zgomot produs de căderea unui corp în apă.
+- **hutuchí**
+	- (a) — a lovi pe (cineva).
+	- (a) — a îmbrînci (pe cineva).
+	- (a) — a turna prea mult.
+- **hututúi** adj. — neghiob. La CADE.
+- **huțán**
+	- m. — rutean.
+	- n. — catîr.
+- **huțîná** (a) — a se legăna. La CADE.
+- **huzúr** n. — trai comod. La V.Alecsandri.
+- **huzuri** (a) — a trăi în belşug.
+- **honammari** n. — chern.
+- **himicí** (a) — a umbla brambura. CADE.
+
+## I
+
+- **iplecá** (a) — a alăpta (cu peptul).
+- **ipoáică** s. — boală la picioarcle calului.
+- **ipós** adj. — apátos. La M. Eminescu.
+- **iiiuduie m** — brudar.
+- **iululintinā s** — groapă de apă pe drum.
+- **inliculiri** m.pl. — încălțăminte grosolană.
+- **i ilietióe n** — buclă.
+- **i olumandrós** n. — harababură.
+- **inlupăr** n. — izmă. La DU.
+- **inlurét** m. — vornicel.
+- **inleśn** n. — fronton (la cerdac).
+- **intupmic** n. — cocină pe stîlpi.
+- **iurused** f. — picior la stative.
+- **imiuila** f. — factor poştal.
+- **issiln ii** — ceaun.
+- **ililtùi** (a) — sunete caracteristice şoatocilor
+- **ilifiliuś** n. — bagatelă. La DU.
+- **iluf m** — secătură. La DU.
+- **itubal** m. — plasă pentru peştele prins.
+- **impuşór** n. — zăvor mic.
+- **imsinltă** f. — lemn pentru vîslă.
+- **iovali** m. — ficrar.
+- **iovişă** s. — fāină muiată și dospită. La CADE.
+- **ilthlehuiá** (a) — a descheia.
+- **iltalegá** (a) — a se lămuri.
+- **inuluri** n. pl. — obloane (la fereastră).
+- **ilst-giji** interj. — se cheamă porcii.
+- **ii iiliste** s. — unme ale unei vechi aşezări.
+- **iitil** (a) — a zice, a spune, a vorbi. \| pir. Grăieşte în vînt = trăncăneş10. Cirreşte de clacă $`=`$ vorbeşte mult at lamo rost.
+- **ia** pron. — această.
+- **iáca**
+	- interj. — ascultați. La C.Negruzzi.
+	- interj. — iată. La M.Sadoveanu.
+	- interj. — uite. (I.Creangă).
+- **íacată** interj. — iaca, iată.
+- **iácă** interj. — deodată.
+- **íacătă** interj. — uite.
+- **íacuri** n. — cange.
+- **íalovă** adj. — stearpă. Vacă ialovî. (DD).
+- **íaloviță** adj. — stearpă.
+- **ialoviți** f. pl. — junci.
+- **ian**
+	- interj. — hai.
+	- interj. — ia.
+- **íanga** interj. — iată, iaca.
+- **iảrăşi** adv. — iar. (M.Eminescu).
+- **iárăşi** adv. — de asemenca.
+- **íarba-mîței** f. — plantă decorativă.
+- **íarbă** adj. — verde-deschis.
+- **iarbă-închisă** adj. — verde-închis.
+- **iar-întîi** adv. — din nou.
+- **iarmaróc** n. — zbor. La DLR.
+- **iartagán** n. — sabie încovoiată. La DLR
+- **iáscă** f. — carne de calitate proastă.
+- **iásic** n. — pernuță (decorativă).
+- **iásta** pron. — astă.
+- **iastaláltă** pron. — ăstălaltă.
+- **iatác** n. — odae de culcare. La DU.
+- **iáz**
+	- n. — heleşteu. La CADE.
+	- n. — iezătură. La CADE.
+- **ibríc**
+	- n. — cratiță (cu coada lungă).
+	- n. — cană.
+- **ibrişin**
+	- n. — mătase răsucită. La CADI
+	- n. — aluzie muşcătoare.
+- **ic** n. — pană pentru crăpat butuci.
+- **ícichi** n. pl. — încălțăminte uşoară.
+- **iclián** adj. — vicleån.
+- **icní**
+	- (a) — a geme înăbuşit. La I.Creangá
+	- (a) — a vorbi răstit. La M.Sadovcanu
+	- (a) — a se înăcri (mîncarea).
+- **ictár** n. — v. ectar.
+- **ictáre** n. pl. — hectare.
+- **ictárnic** m. — țăran împroprietărit.
+- **iedéc** n. — odor păstrat din vechime.
+- **ielác**
+	- n. — troacă (la găini).
+	- n. — troacă (la porci).
+- **ielcován** n. — pescăruş.
+- **iepáş** m. — hoț de cai. (I.Neculce).
+- **iepure de pămînt** n. — cîrtiță.
+- **ier** m. — vier.
+- **ierbăríu** adj. — verde-deschis.
+- **ierbíu** adj. — verde-saturat.
+- **ieslári** n. — esle din nuiele.
+- **ietác**
+	- n. — cămară pentru alimente.
+	- n. — cămăruță adiacentă tinzii.
+	- n. — anexă în spatele casei.
+	- n. — bucătărie de vară.
+	- n. — coş mare din nuiele.
+- **ictác** n. — coş pentru pleavă.
+- **iez** n. — ochi de apă.
+- **iezí** (a) — a stăvili. La I.Neculce.
+- **iezurcán** n. — iaz mic.
+- **iezuşór** n. — topilă de cînepă.
+- **ígliță** f. — v. conovăț.
+- **iglițí** (a) — a împleti plasa cu iglița.
+- **iia** pron. — ei.
+- **ijác** m. — arici.
+- **ilác** adj. — cu coarnele în lături. La DU.
+- **iliác** m. — liliac (zool).
+- **ilíc**
+	- n. — vestă femeiască.
+	- n. — pulover bărbătesc.
+- **ilíş** n. — dare pentru cereale şi alte produse agricole. La DIM.
+- **imáş** n. — islaz. La CADE.
+- **imbiríc** n. — cratiță (cu coada lungă).
+- **imbrí** (a) — a trage.
+- **imbritór** m. — pescar care trage matița.
+- **íncă** adv. — încă.
+- **inél** n. — petricică la inel.
+- **inéle** n. pl. — cîrlionți.
+- **inéte** f. pl. — plantații de in.
+- **ínga** interj. — iată.
+- **ínima vinului** f. — vinul care nu îngheață.
+- **injí** (a) — a se uita pe furiş.
+- **iordăní** (a) — a stropi cu apă sfințită.
+- **iorgován** m. — lumînărică.
+- **ióu** pron. — eu.
+- **iortomán** adj. — iute, focos. (TD).
+- **ióti** interj. — iată, ia te uită.
+- **ióvă** f. — lozie.
+- **irmizíu** adj. — roşu-închis.
+- **iroplán** n. — libelulă.
+- **irosí** (a) — a risipi. La I.Creangă.
+- **irózi** m. pl. — joc popular dramatizat.
+- **iscodí**
+	- (a) — a privi pătrunzător la cineva.
+	- (a) — a căuta esența unui lucru.
+	- (a) — a se interesa. La I.Creangă.
+	- (a) — a interoga.
+- **iscodi** (a) — a plăsmui. La C.Negruzzi.
+- **iscoditór**
+	- adv. — scrutător.
+	- adj. — priceput în a pune lı cale ceva. La I.Creangă.
+- **iscusít** adj. — frumos.
+- **inpoli** (a) — a curăța (puțul).
+- **ippoli** (a) — a scoate apă cu ispolul.
+- **ist inly** — ăst. La DLR.
+- **istóv**
+	- n. — complet, deplin. Expr. De istov $`=`$ cu totul, de tot. La V.Alecsandri.
+	- n. — moarte. (CM).
+- **ístovo** adv. — pe veci. (TD).
+- **iştealánț** pron. — ăilalți.
+- **iştór** n. — latrină.
+- **itác** n. — v. etac.
+- **ițári** m. pl. — schimbător de rost la războiul de țesut.
+- **ițăl** m. — vițel.
+- **iți** (a) — a privi pe furiş, a se ivi.
+- **ițit** adj. — pitit. La N.Țurcanu.
+- **ițîi** interj. — a se iți. E x pr. A face ițîi= a se arăta puțin. La V.Alecsandri.
+- **iucostău** n. — priboi.
+- **iudí** (a) — a ațîta, a instiga. La CADE.
+- **iuruşi** (a) — a năvali. (V.Alecsandri).
+- **iuşní** (a) — a plesni (cu biciul).
+- **iúşti** interj. — lovitură cu biciul. La DLR.
+- **iuțári** m. pl. — ciuperci comestibile.
+- **iuțí**
+	- (a) — a se aprinde. La I.Creangă.
+	- (a) — a-i sări țandăra. La V.Alecsandri.
+- **iuți**
+	- (a) — a întărîta. La C.Conachi.
+	- (a) — a se strica.
+	- (a) — a ardeia.
+- **ivéri** m. — dovleac.
+- **izări** (a) — a se prăpădi. La T.Pamfile.
+- **izbăví** (a) — a scăpa dintr-o primejdie, a se salva. La V.Alecsandri.
+- **izí** (a) — a dosi.
+- **izîdí** (a) — a irosi.
+- **izîditór** n. — irositor.
+- **izméne** f. pl. — lambe la căruță.
+- **izvár** n. — băutură din apă fiartă cu zahăr
+- **izvód** n. — cronică. În izvoadele bătrine pe eroi mai pot să caut (M.Eminescu).
+- **izvód moldovenesc** — scriere moldovenească.
+- **izvodí**
+	- (a) — a compune. (M.Costin).
+	- (a) — a pune la cale. La I.Creangă.
+	- (a) — a scorni.
+- **izvoditór** m. — autor.
+- **izvór** n. — origine, sursă. (M.Sadoveanu).
+- **izvoráş** n. — jgheab la teasc.
+- **izvorós** adj. — loc cu multe izvoare.
+- **izvozi** (a) — a însemna, a stabili.
+- **imblâciúg** n. — îmblăciu.
+- **imblătću** n. — îmblăciu.
+- **imbläti** (a) — a bate cerealele.
+- **îmbrăţoşá** (a) — a cuprinde în brațe.
+- **îmbrăzdá** (a) — a hotărnici un lot de pămînt cu o brazdă.
+- **îmbrîncá** (a) — a cădea în brînci.
+- **îmbrîncát** adj. — slăbit de picioare.
+- **îmbrînşí**
+	- (a) — a împinge.
+	- (a) — a opinti.
+- **îmbrînzí**
+	- (a) — a tăvăli în brînză.
+	- (a) — a pune brînză în mămăligă. (I.Creangă).
+	- (a) — a face brînza la stînă.
+- **îmbrînzít**
+	- adj. — cu brînză.
+	- adj. — înăcrit, corăslit.
+- **îmbucá** (a) — a îndopa.
+- **îmbucurá** (a) — a se bucura.
+- **îmbucurătỏr** adj. — care bucură.
+- **îmbumbá** (a) — a încheia nasturii.
+- **îmbumbát** adj. — încheiat cu nasturi.
+- **îmbumbiá** (a) — v. a îmbumba.
+- **îmbumbuşcá** (a) — a slobozi muguri.
+- **îmlencuí** (a) — a vîntura cereale.
+- **împacá** (a) — a angaja.
+- **împacátă** adj. — angajată.
+- **împaratí** (a) — a domni.
+- **împăiá** (a) — a creşte lînă nouă.
+- **împăiátă** adj. — încîlcită (lînă).
+- **împăivăná** (a) — a împiedica calul.
+- **împărăché** (a) — a se învrăjbi.
+- **împărățí** (a) — a se face împărat.
+- **împărăți** (a) — a domni. La AI.Vlahuță.
+- **împăroşá** (a) — a se acoperi cu păr.
+- **împărtăşít** adj. — cherchelit.
+- **împătrá** (a se) — a da de belea.
+- **împerşiunát** adj. — cîrlionțat.
+- **împistrí** (a) — a încondeia. La I.Sbiera.
+- **împistrít** adj. — zugrăvit, împestrițat.
+- **împînzí** (a) — a împrăştia, a răspîndi.
+- **împrînzí** (a) — a ajunge la prînz.
+- **împîrlogí** (a) — a lăsa fără îngrijire.
+- **împlămăeşát** adj. — bolnav de plămîni.
+- **împliní**
+	- (a) — a o păți. Expr. A o împlini cu cineva $`=`$ a nimeri într-o belea cu cineva. La V.Alecsandri, C.Hogaş.
+	- (a) — a percepe o datorie cu forța. împliní (a) - a termina.
+	- (a) — a rotunji o sumă de bani.
+	- (a) — a-şi atinge scopul.
+- **împlinít** adj. — bine fãcută.
+- **împlîntá**
+	- (a) — a cufunda.
+	- (a) — a muia în ceva.
+- **împohorát** adj. — încărcat.
+- **împoncişá** (a) — a veni în conflict.
+- **împoncişát** adj. — încrucişat.
+- **împopona** (a) — v. a împopoța.
+- **împopoțá** (a) — a înzorzona.
+- **împopoțát** adj. — înzorzonat.
+- **împopoțoná**
+	- (a) — a se împodobi.
+	- (a) — a împodobi cu daruri la nuntă. La E.Sevastos.
+- **împopoțonát** adj. — împodobit.
+- **împorní** (a) — a porni.
+- **împosesuí** (a) — a arenda. La CADE.
+- **împospăí** (a) — a se pricopsi.
+- **împospăiá** (a) — a îngunoieşea. Limbn atti stricat-o și ați impospăit-o cu vorbe necurate de la oraş. (CADE).
+- **împospătát** adj. — reînnoit. La M. Eminescu.
+- **împrăştiá** (a) — a presura.
+- **împrejiúr** adj. — întreagă.
+- **împrejiuráşi** m. pl. — mejieşi.
+- **împrejmuitór** adj. — înconjurător.
+- **împrejurá**
+	- (a) — a cuprinde. La Al.Russo.
+	- (a) — a lega de jur împrejur. La I.Creangă.
+- **împrejuráş** m. — vecin. La E.Sevastos.
+- **împreuná** (a se) — a se întîlni.
+- **împriciná** (a) — a se certa. La Al.Donici.
+- **împroşcá** (a) — a arunca bombe, pietrc.
+- **împuiá** (a) — a se înmulți. (TD).
+- **împuizí** (a) — a podidi. (TD).
+- **împúnge** (a) — a da ac (albina).
+- **împuşcá**
+	- (a) — a lovi cu putere. (DD).
+	- (a) — a o rupe de fugă. (DD).
+- **împutát** adj. — dăruit nu din inimă.
+- **în**
+	- prep. — peste. (DD).
+	- prep. — din. Tăl bat in palmi. (DD).
+	- prep. — pe. Pun iar în masî. (DD).
+	- prep. — la. Trăia în margine. (DD).
+	- prep. — prin. Ş-o dăm în ragilî. (DD).
+	- prep. — de. Esti peşti în tot feliu. (DD).
+- **înaintáş** n. — rindea de primă operație.
+- **înamărî** (a se) — a se întrista. (DD).
+- **înarmát** adj. — armat.
+- **înăsprí** (a) — a se aspri.
+- **înăsprită** adj. — uscată.
+- **înbolohăní** (a) — a se învîrtoşa (ugerul).
+- **imoilecá** (a) — a porni la război.
+- **incrilifát** adj. — pus într-o pungă.
+- **incallei** m. pl. — încălțăminte. La I.Sbiera.
+- **incipăținát** adj. — nevendicat. (CM).
+- **imcipeá** (a) — a intra.
+- **incuri** (a se) — a se încălzi.
+- **încenuşát** adj. — mohorît. La M.Sadoveanu.
+- **închefăluí** (a) — a chefui.
+- **închegătoáre** adj. — vie (apă).
+- **încheitoáre** adj. — vie (apă).
+- **închetríe** adj. — de culoarea pietrei.
+- **închiciorá** (a) — a prinde puteri.
+- **închiná**
+	- (a) — a dărui.
+	- (a) — a cinsti. Boieri! Pentru Moldova paharul meu inchin. (V.Alecsandri).
+	- (a se) — a se supune.
+- **închinát** adj. — cherchelit.
+- **închinărit** adj. — posomorît.
+- **închiorchioşá** (a) — a se oploşi. La DLR.
+- **închiorchioşát** adj. — chiorîş. La DLR.
+- **închipurlui** (a) — a închipui. La CADE.
+- **închircit** adj. — chircit. La M.Eminescu.
+- **închizătóri** n. — ramă (la fereastră).
+- **încinchít** adj. — ghemuit. La CADE.
+- **înciorapát** adj. — cu pete.
+- **înciotá** (a) — a se încleşta.
+- **încontrá** (a) — a se împotrivi. La M. Sadoveanu.
+- **încruşăt**
+	- adj. — saşiu.
+	- adj. — cu ochi diferiți.
+	- adj. — strîmb.
+- **încruşi** (a) — a înroşi. La M.Eminescu.
+- **încruşit** adj. — înroşit. La CADE.
+- **încruşî** (a) — a se învîrtoşa.
+- **încuiá** (a) — a se constipa.
+- **încuibátur** n. — incubator.
+- **încujbá** (a) — a se încovoia. La C. Negruzzi.
+- **încujbảt** adj. — încovoiat.
+- **încumătrí** (a) — a deveni cumătru.
+- **încurnuțát** adj. — plin de curnuți.
+- **îndata** — mare adv - acuş, imediat. La DLR.
+- **îndămînátic** adj. — iscusit, dibaci.
+- **îndărăptá** (a) — a da îndărăt. (I.Neculce).
+- **înde**
+	- prep. — unul cu altul, împreună.
+	- prep. — între, unul cu altul.
+- **îndelungá** (a) — a amîna. La Gr.Ureche.
+- **îndeplini** (a) — a împlea. (CM).
+- **îndesá** (a) — a veni des.
+- **îndesát** adj. — insistent.
+- **îndeseáră** adv. — în amurg.
+- **îndestulátă** adj. — lǎptoasǎ.
+- **îndilicá** (a) — a dezmierda.
+- **îndîrji** (a) — a se ține dîrz. La DU.
+- **îndîrjit** adj. — semeț. La CADE.
+- **îndobri** (a se) — a se îndrăgosti.
+- **îndoít** adj. — coroiat. Nas îndoit. (DD).
+- **îndosí**
+	- (a) — a ascunde. La I.Creangă.
+	- (a) — a se adăposti.
+- **îndosît** adj. — ferit.
+- **îndrăcí** (a) — a se înfuria. La I.Creangă.
+- **indreptá** (a) — a reteza (mucul lămpii).
+- **indreptuí** (a) — a îndreptăți.
+- **indrugá**
+	- (a) — a rasuci cu druga.
+	- (a) — a răsuci cu druga. (TD).
+- **indrumătór** m. — năstavnic. La CADE.
+- **indulcí** (a) — a presăra. (TD).
+- **inecá** (a) — a se înfunda.
+- **inferecá** (a) — a încătuşa.
+- **infîrtățí** (a se) — a se înfrăți.
+- **inflorí** (a) — a încărunți.
+- **infoiá** (a) — a forma căpățînă.
+- **inforțá** (a) — a sili din răsputeri.
+- **infrățişá** (a) — a se înfrăți.
+- **infrîuá** (a) — a pune frîu.
+- **infrumusetá** (a) — a onora.
+- **infruptá** (a) — a mînca de frupt. La DU.
+- **înfulecá** (a) — a mînca lacom. La DU.
+- **înfurgonát** adj. — încărcat cu vîrf.
+- **înfuştát** adj. — boşturos.
+- **îngăibărát**
+	- adj. — plin de curnuți.
+	- adj. — cu mulți copii.
+	- adj. — încolțit de câini.
+- **îngăimá** (a) — a zăbovi. La V.Alecsandri.
+- **îngălbiní** (a) — a începe să se coacă.
+- **îngăluşá** (a) — a lega sfoara la năvod.
+- **îngănésc** adj. — cu boabe galben-roşietice.
+- **îngheboşá** (a) — a se cocoşa.
+- **îngheboşát** adj. — cocoşat.
+- **înghiá**
+	- (a) — a îmbia.
+	- (a) — a tocmi, a angaja (o slugă).
+- **înghimpá** (a) — a da ac (albina).
+- **înghizlui** (a se) — a se încumeta.
+- **înghizuí** (a) — a se gîndi. (DD).
+- **înghizui** (a) — a se hotărî. (DD).
+- **înglodá**
+	- (a) — a se cufunda în noroi.
+	- (a) — a întroieni. (DD).
+- **înglodát** adj. — împotmolit.
+- **înglotí** (a) — a strînge oaste. (I. Neculce).
+- **îngrăunțá** (a) — a se umfla picioarele.
+- **îngrăunțát** adj. — zgrunṭuros (pămînt).
+- **îngrebănoşát** adj. — cocoşat. (TD).
+- **îngreblá** (a) — a grebla.
+- **îngreuná**
+	- (a) — a rămîne gravidă. (TD).
+	- (a) — a îngreca. La CADE.
+- **îngurzít** adj. — încrețit. (TD).
+- **înhăinát** adj. — îmbrăcat.
+- **înhălcí** (a) — a tăia în bucăți.
+- **înhămătóri**
+	- adj. — buni de înhămat.
+	- f. pl. — harnaşament. (TD).
+- **înhăpá** (a) — a apuca repede cu gura.
+- **înhîrzobát** adj. — împletit. (TD).
+- **înhobotá** (a) — a pune vălul miresei.
+- **înholbá** (a) — a se concentra. La CADE.
+- **înhorbotát** adj. — împodobit.
+- **înhuli** (a) — a înfuleca.
+- **înjiunghiá** (a) — a surîde. Expr. A se înjunghia a rîde $`=`$ a surîde.
+- **înjugătóri** adj. — buni de înjugat. (TD). înjurá (a) - a se jura.
+- **înlăbá** (a) — a înhăța. (TD).
+- **înlăúntru** adv. — în interior. La DU.
+- **înlesní** (a) — a salva. (TD).
+- **îmmalacofát** adj. — îmbrăcat cu malacof. La DU.
+- **înmărgelátă** adj. — cu mărgele. (TD). înmîniá (a) - a se mînia. (TD).
+- **înmulți** (a) — a umnoji. (CADE). înnadí (a) - a suda.
+- **înnaruí** (a) — a ṭărnui porumbul. înnăbuşí (a) - a năvăli. La CADE.
+- **înnăbuşí** (a) — a sufoca. La CADE.
+- **înnăbuşi** (a) — a podidi. La CADE.
+- **înnădí**
+	- (a) — a completa. La CADE.
+	- (a) — a-şi face drum. La DU.
+- **înnăduşí**
+	- (a) — a face să se înmoaie.
+	- (a) — a fierbe, la foc mic.
+	- (a) — a se sufoca. La CADE.
+	- (a) — a lichida.
+	- (a) — a reprima. (DD).
+	- (a) — a stinge. La DU.
+	- (a) — a sugruma.
+	- (a) — a face cuiva necazuri.
+	- (a) — a-şi stăpîni emoțiile.
+- **înnăduşi** (a) — a împiedica dezvoltarea.
+- **înnăduşít**
+	- adj. — potolit.
+	- adj. — înfundat. La l.Creangă.
+	- (a) — fără rezonanță.
+- **înnăduşitór** adj. — sufocant.
+- **înnemăluí** (a) — a se înrudi. (TD).
+- **înnemăluít** adj. — înrudit.
+- **înnemuí** (a se) — a se înrudi.
+- **înnemurí**
+	- (a) — a se înrudi.
+	- (a) — a înrubedeni. La DLR.
+- **înnemuít** adj. — înrudit. (DD).
+- **înnourá**
+	- (a se) — a apărea nori pe cer.
+	- (a se) — a se întuneca.
+	- (a se) — a se amărî, a se scîrbi.
+	- (a) — a umbri. La N.Gane.
+- **înnourát** adj. — acoperit de nori.
+- **înrotát** adj. — cu coroană bogată. (TD).
+- **însamná**
+	- (a) — a numi. (TD).
+	- (a) — a stabili. (TD).
+- **imolerijí** (a) — a se învîrtoşa. (DD).
+- **impomolotoci** (a) — a mototoli.
+- **intínge** (a) — a muia mămăligă, pâine în us, grăsime, mujdei. La E.Sevastos.
+- **intirí** (a) — a alunga cu sila. La CADE.
+- **intîlníş** n. — întîlnire. La I.Creangă.
+- **intoárce** (a) — a castra. Cai, porşi sîjiu¿(ăne, da buhai, berbeşi s-intorşe.
+- **intoảrce** (a) — a se învîrteji. (CM).
+- **întocmí** (a) — a se angaja. (TD).
+- **întoflát** adj. — plin de noroi.
+- **întorlocá**
+	- (a) — a uni. (TD).
+	- (a) — a fuziona.
+	- (a) — a face casă comună. (TD).
+	- (a) — a se întoarce din drum.
+- **întórs**
+	- adj. — castrat.
+	- adj. — încovoiat.
+	- adj. — înțărcat. (DD).
+- **întors** adj. — neînțeles. La M.Eminescu.
+- **întracoáce** adv. — încoace, spre noi.
+- **întrămá** (a) — a pregăti o armă.
+- **întrebá**
+	- (a) — a cere. (DD).
+	- (a) — a cere.
+	- (a) — a fi observat. (DD).
+- **întremá**
+	- (a) — a întrarma. La CADE.
+	- (a) — a se întări. La CADE.
+	- (a) — a se vindeca. La CADE.
+- **întrunchiná** (a) — a învinui.
+- **întruchipá** (a) — a înjgheba.
+- **întrúna** adv. — mereu, tot timpul.
+- **întuflicá** (a) — a înfuleca.
+- **înturná**
+	- (a) — a se întoarce. La CADE.
+	- (a) — a întoarce ochii.
+	- (a) — a castra.
+- **întăncuşá**
+	- (a) — a găuri. (DD).
+	- (a) — a se agăța. (DD).
+- **întocmi** (a) — a se angaja. (TD).
+- **întõrs**
+	- adj. — castrat.
+	- adj. — neînțeles. La M.Eminescu.
+- **întúnec** n. — întuneric. La C.Negruzzi.
+- **întunéric** n. — mulțime mare. (I. Neculce).
+- **întunerişeálă** f. — întuneric.
+- **întunicát** adj. — șaten.
+- **înțăncuşá**
+	- (a) — a găuri. (DD).
+	- (a) — a se agăța. (DD).
+	- (a) — a proba. (DD).
+- **înțăncuşát** adj. — găurit. (DD).
+- **înțăncuşátă** adj. — ruptă. (DD).
+- **înțăpá** (a) — a da ac (albina).
+- **înṭăpoşá** (a) — a se împunge.
+- **înțărcuí** (a) — v. a țărcui.
+- **înțelepțí** (a) — a fi încercat de viață.
+- **înțepiní** (a) — a se învîrtoşa. (TD).
+- **înținá** (a) — a se ține abia. La CADE.
+- **înținát** adj. — care abia se ține. La DU.
+- **înțîfni** (a se) — a se irita.
+- **înțîná** (a) — a fi atins uşor de o boală.
+- **înțîntát** adj. — țintat. (TD).
+- **înțîtîná** (a) — a prinde în țițîni.
+- **înțițînát** adj. — prins în țițîni.
+- **înțoțonát** adj. — înzorzonat.
+- **înțurțurá** (a) — a se acoperi cu țurțuri.
+- **înțurțurát** adj. — acoperit de ţurțuri.
+- **învaluí** (a) — a tăvălugi ogorul.
+- **învălătuci** (a) — a se înfǎşura.
+- **învălí**
+	- (a) — a înfăşura urzeala pe sul.
+	- (a) — a acoperi (o casă).
+- **învăliş nemțăse** n. — v. învălitoare nemțească.
+- **învălíş rusăse** n. — v. învălitoare moldovenească.
+- **învălitoáre nemțească** f. — acoperiş din maldăre de stuf scurtate.
+- **învăluí**
+	- (a) — a i se face greață. (DD).
+	- (a) — a cuprinde. (DD).
+- **învăscút**
+	- adj. — învelit dur. (DD).
+	- adj. — acoperit, învelit. M.
+- **înveciná** (a) — a hotărî. (CM).
+- **învermănoşi** (a) — a avea viermi.
+- **înveştí** (a) — a îmbrăca.
+- **învietoáre** adj. — vie. (TD).
+- **învinát** adj. — beat.
+- **învioşá** (a) — a se înviora. La CADl:
+- **învioşát** adj. — înviorat. La M. Eminescu
+- **învitá** (a) — a asmuța. La Dosoftei.
+- **învîrtí** (a) — a înveli. (TD).
+- **învoálbe**
+	- (a se) — a se învolbura.
+	- (a se) — a pregăti firele.
+- **învoi** (a) — a binevoi. (DD).
+- **învoí**
+	- (a) — a voi, a dori. (TD).
+	- (a se) — a se împogodi. La CADI:
+- **învoieşá** (a) — a se bucura. La I.Neculce.
+- **învoințá** (a) — a permite. La N.Costin.
+- **învoioşá** (a) — a se bucura. La I.Neculce.
+- **învoitóri** m. pl. — participanți la joc.
+- **învrăjní** (a) — a se duşımăni. (TD).
+- **înzăhărí** (a) — a îndulci. (TD).
+- **înzălát** adj. — în zale. (TD).
+- **înzăroşá** (a) — a se înăcri. (TD).
+- **înzeít** adj. — divinizat. La M. Eminescu
+- **înzilí** (a) — a avea viață. (I.Creangă).
+- **înzili** (a) — a trăi de azi pe mîne. $`N`$-are
+- **înzitioní** (a) — a slăbi. (TD).
+- **înzîuá** (a) — a se face ziuă. (TD).
+- **îra** interj. — exprimă uimire. I.Creangă.
+- **îracá** interj. — v. îracán.
+- **îracán** interj. — vai, văleu. E x p r. Îra-
+- **ibiniu** adj. — şaten.
+- **inferlrał** f. — boştină.
+- **inladiór** adj. — flexibil. La V. Alecsandri.
+- **inlådiţă** f. — ramură tînăra. La I. Creangă.
+- **igirjí** (a) — a se prăpădi. (TD).
+- **inlumgi** (a) — a reteza (fitilul lămpii).
+- **infuri** m. — hoț de rațe.
+- **infoi** (a) — a se stropşi. La V.Alecsandri.
+- **inzbáte** (a) — a străbate cu greu.
+- **inaliel** n. — război.
+- **inloí** (a) — a învinge. (M. Sadoveanu).
+
+## J
+
+- **jllgîtt** adj. — bîlbîit.
+- **juc n** — jaf. La DU.
+- **jägir** n. — ferăstrău.
+- **juli** (a) — a dori. (DD).
+- **julós** adj. — milostiv.
+- **jurpalău** m. — derbedeu.
+- **jupşă** s. — loc adînc într-o baltă.
+- **jur** n. — rîvnă. Am lucrat cu jar. (DD).
+- **jurcalău**
+	- n. — cojoc de calitate rea.
+	- m. — hoinar.
+- **jarchílă** f. — cojoc învechit.
+- **járchină** f. — toroipan.
+- **jardélă** f. — zarzăre (fruct).
+- **jaróvniță** f. — făraş.
+- **jǎcáş** m. — jefuitor.
+- **jǎcuf** (a) — a jefui.
+- **jălánie** f. — durere.
+- **jălí**
+	- (a) — a deplînge un mort.
+	- (a) — a căina.
+	- (a) — a regreta.
+	- (a) — a se plînge.
+- **jălít**
+	- n. — compătimire.
+	- n. — regret.
+- **jălitór**
+	- adj. — care jăleşte.
+	- adj. — tînguitor. (DD).
+	- adj. — tînguitor. La V.Alecsandri.
+- **jăluí** (a) — a trimite jalbă.
+- **jălui** (a) — a compătimi.
+- **jăluít** adj. — îndurerat.
+- **jăpcăní** (a) — a jefui, a prăda.
+- **jărátniță** f. — vătrai.
+- **jărăghí**
+	- (a) — a răscoli jăraticul.
+	- (a) — a răscoli în sobă.
+- **jărăji** (a) — v. a jărăghi.
+- **jărchi** interj. — pliosc! (TD).
+- **jărcuít** adj. — ponosit, uzat.
+- **jărpán**
+	- m. — cal slab. La DLR.
+	- m. — mitocan.
+- **jăvălác** f. — droae.
+- **jdcáucă** f. — coaja întreagă a oului.
+- **jeáb** n. — arătură de toamnă.
+- **jeándră** f. — terci de porumb. La DU.
+- **jecuí** (a) — a prăda, a jefui. La M.Costin.
+- **jecuít** adj. — prădat. La M.Costin.
+- **jedéc** n. — dîrlog.
+- **jéle** f. — jale. La M.Eminescu. La DU.
+- **jelí**
+	- (a) — a dori.
+	- (a) — a cruța.
+- **jelişte** f. — bătaia vîntului. (TD).
+- **jelós** adj. — mărinimos.
+- **jemanári** m. pl. — gemeni. (TD).
+- **jémene** f. pl. — coptură asemănătoare cu colacii. (TD).
+- **jení** (a se) — a se miji. (TD).
+- **jerghitór** n. — vătrai.
+- **jértfă** f. — pomană. (TD).
+- **jgheáb** n. — valău.
+- **jgrab** n. — lădiță pentru mîncare la cm
+- **jgut** n. — șumuiag de paie de curățat cani
+- **jicnicér** m. — dregător jitnicer. La DIM
+- **jícol** n. — ninsoare cu vînt puternic.
+- **jicoli** (a) — a bate vînt cu ninsoare.
+- **jicolí** (a) — a ninge.
+- **jig** n. — jeg. La DU.
+- **jigănii** f. pl. — dihănii. La I.Creangă.
+- **jighér negru** m. — ficat.
+- **jighíri** m. — plămîn.
+- **jighiríu** adj. — roz (culoare a vinului).
+- **jigîd** adj. — v. jigît.
+- **jigît**
+	- adj. — sprinten, vioi.
+	- adj. — zvelt. (TD).
+	- adj. — subțirel.
+- **jihuí** (a) — v. a jiui.
+- **jimbá** (a) — a se rînji. Lá M.Sadoveam
+- **jttári** m. — văcar. Jitele păză jîtari. (TD).
+- **jtārí** (a) — a îndeplini funcția de jitar.
+- **jitós** adj. — tare şi cîlṭos (lemn).
+- **jiubăi** (a) — a pişca. (TD).
+- **juubilí** (a) — a greşi.
+- **jiudecá** (a) — a sudi. La DLR.
+- **jiúg**
+	- n. — semicerc la jugul carului.
+	- n. — unitate de măsură pentru lemne.
+- **jing** n. — gură de ham de piele.
+- **jiiig** n. — arc de înhămat.
+- **jiugári** m. — meșter de juguri.
+- **jiugălí** (a) — a mîngîia.
+- **jiugléji** m. pl. — coceni fără frunze.
+- **jiuí**
+	- (a) — a îndestula copiii.
+	- (a) — a ieşi din nevoi.
+- **jiuruí**
+	- (a) — a făgădui (de mire). (TD).
+	- (a) — a dărui. (TD).
+- **jivéţ** n. — lemn la frînghia năvodului.
+- **jivorî** (a) — a bate vînt cu ninsoare.
+- **jîg** n. — jîgăraie. Mă frigi jîgu. (TD).
+- **jîgálă** f. — vergea de răscolit focul.
+- **jîgîrît** adj. — (copil) pipernicit.
+- **jîgni** (a) — a scrobi (urzeala).
+- **jîlós** adj. — tare şi cîlțos (lemn).
+- **jîmbătúră** f. — greşeală la nividit.
+- **jîmóc** n. — unealtă de tras obezile.
+- **jlob** m. — bădăran.
+- **jmarcaí** (a) — a bate, a lovi. (TD).
+- **jmîh** n. — tescovină.
+- **jnăpăi**
+	- (a) — a bate. (I.Creangă).
+	- (a) — a toroipăni.
+- **joc**
+	- n. — dans popular moldovenesc.
+	- n. — parte de plasǎ la avǎ.
+- **jócul cel mare** n. — hora nuntaşilor.
+- **jóile** adv. — în fiecare joi.
+- **joimír** m. — mercenar polonez.
+- **joimíri** m. pl. — corp de oaste.
+- **jolb**
+	- n. — uluc.
+	- n. — lădiță pentru mîncare la cai.
+- **jolnós** adj. — roşcovan.
+- **jom** n. — tescovină.
+- **jos** adv. — după. E x p r. Din jos de
+- **joseán** m. — locuitor din Țara de Jos.
+- **júchi** m. pl. — secară îmblătită.
+- **juchişóri** m. pl. — v. juchi.
+- **judéț** n. — proces. La M.Sadoveanu.
+- **jugăríți** m. pl. — cai jugăniți. (DD).
+- **jughínă** f. — jivină.
+- **juguí** (a) — a înjuga. (TD).
+- **julán** adj. — înşelător. Th.Holban.
+- **júlfă** f. — turtă din sămînță de cînepì frecată cu zahăr.
+- **julí**
+	- (a se) — a-şi jupui pielea. La CADE.
+	- (a) — a zgîrîia. Mîta juleşti. (DD).
+- **jumálț** n. — smalț. La M.Eminescu.
+- **jumălțuí** (a) — a smălțui.
+- **jumălțuít** adj. — smălțuit.
+- **jumări** f. pl. — v. jumere.
+- **jumătăț** f. pl. — pantớfi bărbăteşti.
+- **jumére** f. pl. — carne de porc îmbucătăsită, prăjită bine şi pusă la păstrare.
+- **jupít** adj. — jupuit.
+- **jupitór** m. — jupuitor.
+- **jurá** (a) — a înregistra căsătoria (TD).
+- **jurughíci** m. pl. — snopi mici de stuf.
+- **juruí**
+	- (a) — a făgădui.
+	- (a) — a făgădui (de soție).
+	- (a) — a se lega prin jurămînt.
+- **juvăț**
+	- n. — laț. La M.Sadoveanu.
+	- n. — laț la postoroncă.
+- **juvénie** f. — jivină.
+- **juvínă** f. — jivină.
+- **jusurit** adj. — tărcat. (TD).
+- **jupchir de cui** n. — prosop.
+- **jahaí** (a) — a lătra.
+
+## L
+
+- **liardiil** (a) — a ciopli cu barda.
+- **lontáş** m. — ciocan cu buza şănțuită.
+- **lmigle m** — peştişor. La CADE.
+- **lmith** — corlate la pod.
+- **licmilimal** — pod plutitor.
+- **loudiu** adj. — necopt la minte.
+- **lonltmi** (a) — a pune pînza în leşie.
+- **lwilltii** (a) — a tencui. La DLR.
+- **liruh** interj. — brr! (M.Eminescu).
+- **liruji** (a) — a glumi.
+- **lormmár** m. — noiembric.
+- **lmundói** n. — plută din ierburi.
+- **lubán** n. — tobă.
+- **lmfaital** f. — pufoaică.
+- **loufétnic** n. — bufet (mobilă).
+- **lıuftălău** m. — nesățios. La CADE.
+- **lowsuloácał** s. — vin de busuioacă.
+- **limsuiócul** m. — dans popular.
+- **lussuiścul** m. — melodie.
+- **lıwsurmán** m. — persoană de altă religie iii riport cu cea musulmană.
+- **llablehuiét** adj. — cu haina descheiată.
+- **llagnibará** (a) — a se descotorosi.
+- **llıholbá** (a) — a vedea lumea.
+- **lnctón** n. — autoturism cu capotă.
+- **lsuguri** m. pl. — fagi.
+- **litcári** n. — curca la căpețea.
+- **litlítul** n. — arătarea darurilor la nuntă.
+- **lilihérie** f. — rindea cu daltă în figuri.
+- **linánț** m. — agent financiar.
+- **liong** n. — fundă; bant. La CADE.
+- **lirancári** n. — carniz (la fereastră).
+- **lirmán**
+	- n. — gramotă. (TD).
+	- n. — surugiu.
+- **liștánic** f. — curățenie. E x pr. A face
+- **lit ack** — gata.
+- **litiríc** f. — strat de legume.
+- **litóc** n. — fițuică cînd se trage la sorți.
+- **lilfíît** adj. — peltic. La CADE.
+- **līnár** n. — felinar. La M.Sadoveanu.
+- **lînári** n. — felinar.
+- **līnári** n. — lucarnă.
+- **lliwyeñi** (a) — a se murdări (de noroi).
+- **lloare-de-ceai** f. — trandafir.
+- **lloare-de-diur** s. — trandafir.
+- **lloare-de-rujă** f. — trandafir.
+- **lloárea-ghiorghivanului** adj. — liliachiu.
+- **lifomintis** (a) — a mototoli.
+- **locałtéi** m. pl. — bucățele mici de aluat.
+- **liceățél** m. — drojdie din plămădeală.
+- **lregár** n. — cuțit cu două capete.
+- **lrénehi** m. — roşie.
+- **lrexîu** adj. — de culoarea fragilor.
+- **loiguri** n. pl. — febră vitulară.
+- **lumlurii Vechi** — sat.
+- **lowdul** n. — picior la păhăruț.
+- **longigei** pl. — fire de paianjen.
+- **lonigine** s. — funingine.
+- **liit** m. — hoț. La I.Neculce.
+- **lurá** (a) — a se furişa. La I.Neculce.
+- **luraj** n. — rație pentru cai.
+- **loraj** n. — făraş.
+- **lorajîr** m. — herghelegiu.
+- **lurcă** f. — coarne la rîşchitori. La DU.
+- **limiliste** f. — sat.
+- **liommistári** m. — curelar.
+- **limmlrí** (a) — a umbla în dodii.
+- **linouloalău** m. — amant.
+- **lınondri** (a) — a face mofturi.
+- **liongán** adj. — soi de porumb. La DU.
+- **liunós** n. — anason. La DU.
+- **liapsîn** m. — lacom. La N.Gane.
+- **liarabagíu** m. — surujiu. La DLR.
+- **lintuic** m. — bucată (din ceva). La DLR.
+- **linbusi** (a) — a distruge.
+- **loñei** n. — deloc. E x p r. Cît hăciul = deloc. La DLR.
+- **lnŭcuí** (a) — a crăpa (lemne).
+- **lišcuít** adj. — tăiat în bucăți mici.
+- **låhăí** (a) — a rîde în hohote.
+- **lñí** (a) — a striga, a îndemna: hăi!
+- **lıcrnie** f. — vătămătură. La CADE.
+- **liicleán** adj. — trădător. (I.Neculce).
+- **liccleni** m.pl. — trădători: hiclenii munteni.
+- **lîî** (a) — a tachina.
+- **lìrtău** n. — bucată lungă de pămînt.
+- **lmphải** (a) — a coṭobăi. (I.Creangă).
+- **lnolba** (a) — a căsca ochii. La DU.
+- **lıolmurát** adj. — delurat.
+- **linuit** adj. — maturizat (vin).
+- **lirāpå** f. — coastă prăpăstioasă.
+- **lurcbîn** n. — peptene de peptănat lîna.
+- **lırenui** (a) — a amărî (viața cuiva).
+- **lorésmus** n. — paralel de tîmplărie.
+- **lirîştí** (a) — a înşãca.
+- **liromovoác** s. — cremă de ghete.
+- **lırübă** n. — sobă, plită.
+- **lıvŭbă** n. — lucarnă.
+- **lonubă** n. — nişă în peretele pivniței.
+- **lirujd** n. — curpăn de cartofi.
+- **limisi** (a) — a despăgubi.
+- **lopitail** n. — spital.
+- **lopol** n. — färaş.
+- **luptavi** (a) — a face. La M.Eminescu.
+- **lataláll** pron. — ăstălalt.
+- **lmlınkoni** (a) — a se înălbi.
+- **lomlialani** (a) — a vărui.
+- **lmburnhăni** (a) — a ajusta aripile năpudialiii
+- **lmblonigát** adj. — umflate, groase.
+- **lmbirzoiá** (a) — a se înfuria.
+- **lmblâcíu** n. — hădărag.
+- **lmbläret** adj. — hoinar.
+- **lmblanti** (a) — a se zvîrcoli (copiii).
+- **lmblătit** adj. — îmblătire.
+- **lmblatitór** m. — lucrător care îmblăteşte.
+- **lmblătór** adj. — pod plutitor.
+- **lmbodolí** (a) — a se înfofoli.
+- **lmboughiétă** adj. — moțată.
+- **lombourá** (a) — a ciuli urechile (calul).
+- **lmbourá** (a) — a înfiera cu bourul.
+- **lmbourátă** adj. — cornută.
+- **liculá** (a) — a se îngrăşa. La M.Sadoveamili.
+- **lncaltări** f.pl. — încălțăminte.
+- **lociałcățícă** adj. — ouătoare.
+- **licconuşá** (a) — a se face cenuşă.
+- **luccá** (a) — a se revărsa. (DD).
+- **lnecá** (a) — a cufunda (în copcă).
+- **lasarioła** adv. — ojină. La CADE.
+- **lmultis** (a) — a străpunge cu sulița. (TD).
+- **liçurubá** (a) — a întemnița.
+- **lutñrîtá** (a) — a ațîța, a iudi. La CADE.
+- **lntărnițá** (a) — a pune tarnița pe cal.
+- **lnterminá** (a) — a termina. (TD).
+- **lminá** (a) — a se murdări cu noroi.
+- **lisinî-coaptă** adj. — roşu-întunecat.
+- **la** (a se) — a-şi spăla capul. E.Sevastos. la (a) - a scălda. La I.Creangă.
+- **lába-broaştei** — coada-racului (plantă).
+- **lac**
+	- n. — groapă cu apă.
+	- n. — vopsea cu ulei.
+- **lacatui** (a) — a unelti.
+- **lácăt** n. — parte a cotigii pentru grindei.
+- **lácom adv** — tare, adînc. (TD).
+- **lácrăm** f. pl. — lacrimi.
+- **lacuşór** n. — groapă cu apă de ploaie.
+- **ládă cu spătar** f. — sofa.
+- **lác** adv. — negru amestecat cu alb. DU.
+- **lágăr**
+	- n. — loc umbros pentru vite.
+	- n. — loc îngrădit pentru păsări.
+- **lághiță** f. — laviță.
+- **lagivérde** adj. — verde-măsliniu.
+- **lagúm** m. — şanț subteran.
+- **lái** n. — mîl.
+- **láinic** m. — pierde-vară. La 1.Creangă.
+- **lainşéri** n. — covor.
+- **láitic** n. — laviță.
+- **lambár** n. — rindea pentru lambe.
+- **lámbă** f. — lampă (de gaz).
+- **lampác**
+	- m. — chirpic.
+	- m. — cărămidă nearsă.
+- **lampátic** n. — candelă la icoană.
+- **la-mprejúr** adv. — de jur-împrejur.
+- **lan** n. — ogor semănat. La DU.
+- **lándruş** n. — lăcrămioară.
+- **lantéț** n. — scîndură îngustă şi lungă.
+- **lantúh** n. — sac mare, țuhal.
+- **lanțîu** n. — potîng.
+- **lanțúg** n. — lănțişor. La M.Sadoveanu.
+- **lanțujéle** n. pl. — opritori (la hamuri).
+- **lápți** m. pl. — lapte muls la o mulsoare.
+- **láschir** n. — plătică.
+- **lat**
+	- n. — covoraş pe laviță.
+	- n. — lățime. La DU.
+- **latéş** adv. — încovoiat într-o parte. E x p
+- **látina** adj. — viclean. (DD)
+- **lathpor n** — covoraş cu ciucuri.
+- **lotine** n. — troacă.
+- **lomel** (a) — a rindelui.
+- **lnymnn** n. — țesătură din fibre sintetice.
+- **lacutar** f. — lacăt. La CADE.
+- **lientui** (a) — a pune la cale pe cineva.
+- **liebitait** adj. — încuiat.
+- **lícrámiór** m. — iasomie.
+- **lícrifał** f. — cutioară rotundă.
+- **lítcui** (a) — a vopsi.
+- **licuitor** m. — locuitor.
+- **lífeustári** m. — greier de cîmp.
+- **lndári** n. — covoraş de lînă.
+- **linecr** n. — covor. La I.Creangă.
+- **làicioáră** s. — laviță mică.
+- **lnáli** (a) — a cînta prost.
+- **lălăi**
+	- (a) — a trăncăni. La DD.
+	- (a) — a păşi legănat. La DU.
+- **lălĩe** adj. — nepricepută.
+- **lălîu** adj. — neîndemînatic. La DU.
+- **lămbuí**
+	- (a) — a face lambă.
+	- (a) — a fălțui cu rindeaua.
+- **lămpăcáş** m. — cărămidă nearsă.
+- **lămurátă** adj. — rămuroasă. (TD).
+- **lămurí**
+	- (a) — a răzvidi. La CADE.
+	- (a) — a disparea. Negurile de pe Moldova se lămureau. (M.Sadoveanu).
+- **lămurít** adj. — topit. (TD).
+- **lămuritór** adj. — explicativ.
+- **lăór** n. — partea textilă a cînepii.
+- **lăptáş** n. — plasă de pescuit.
+- **lăptóc** n. — scoc. La I.Creangă.
+- **lăptóg** n. — traistă pentru mîncare la cai.
+- **lărmăluí** (a) — a face gălăgie.
+- **lăsățilă** m. — lăți-lățilă. (TD).
+- **lăturálnic** adj. — de margine.
+- **lăturáşi**
+	- m. pl. — druci de-a curmezişul.
+	- m. pl. — poftiții cumătrilor.
+- **lătureán** m. — om dintr-un sat vecin.
+- **lătúri** f. pl. — mîncare proastă.
+- **lăturiş** adv. — pe o coastă.
+- **lăturói** n. — lătunoae (la țesut).
+- **lătuşeán**
+	- n. — covoraş pe laiță.
+	- n. — țol îngust pe podea.
+- **lățí**
+	- (a) — a subția (aluatul).
+	- (a) — a strivi srugurii.
+- **lățiş** n. — în toate părțile. Expr. În lățiş şi-n curmeziş = în toate părțile.
+- **lățuí** (a) — v. a lețui.
+- **lău**
+	- adj. — suriu-deschis.
+	- adj. — cărunt.
+- **lăudoásă** adj. — lăudăroasă. (TD).
+- **lăutár** m. — trîntor (la albini). La DU.
+- **leágăn** n. — scaun cu arcuri la trăsură.
+- **leásă** f. — împletitură din nuele.
+- **lecăríi** f. pl. — leacuri.
+- **leg** n. — moştenire testamentată.
+- **legá** (a) — a începe să dea rod.
+- **leghişér** n. — covor. (DD).
+- **legiuít** adj. — pravilnic. La DEX.
+- **legúme** f. pl. — fructe. Merili cînd fac
+- **legúmuri** f. pl. — fructe. Da alti legumuri mu cresc pi la noi, prăsadili, perjîli. (TD).
+- **leháuc** m. — palavragiu.
+- **lehăí**
+	- (a) — a trăncăni. La DU.
+	- (a) — a spori. La DLR.
+- **lehăitóri** m. — palavragiu.
+- **lehăítă** adj. — învechită.
+- **lehăitoáre** adj. — guralivă.
+- **lehămeti** (a) — a-i fi silă. La DLR.
+- **lehămetisí** (a) — a se dezgusta. DLR.
+- **lehămetit** adj. — dezgustat.
+- **lehămetuí** (a) — a se dezgusta. La DLR.
+- **lehămetuít** adj. — dezgustat. La DLR.
+- **lehuzi** (a) — a fi lehuză. La CADE.
+- **leț** n. — fuscel la scară.
+- **lețuitóri** m. — meşteri de lețuit tavanele. leuáş m. - dregător, strîngea dările în lei. La DIM.
+- **leucáş** adj. — cu picioare strîmbe. CADE. léucă $`f`$. - lemn la loitra căruței.
+- **leucí** (a) — a bate zdravăn pe cineva. leucúță $`f`$ - făraş.
+- **leuşác** adj. — stîngaci.
+- **leuşór** m. — pui de leu.
+- **levár** n. — stropitoare.
+- **levént** adj. — viteaz, voinic.
+- **libóv** n. — dragoste. (M.Costin). Expr.
+- **liboví**
+	- (a) — a petrece. (TD).
+	- (a) — a iubi. (TD).
+- **libovít** adj. — cu voie bună. (TD).
+- **libóvnic** m. — iubitor. Era și om libovnic, ospătători. (I.Neculce).
+- **libovnişél** m. — iubit. (DD).
+- **líchi** interj. — zgomotul unei lovituri.
+- **lichiés** n. — lichie mică. La DELM.
+- **liftiríc** n. — amigdală.
+- **liganáş** n. — scaun cu arcuri la trăsura
+- **liliúță** f. — plantă din familia liliaceelor límba-boului s. - stînjenel.
+- **limitéț** n. — văl de mireasă.
+- **limonále** f. pl. — lămîi.
+- **limoníu** adj. — galben-verzui.
+- **límpede** adj. — răzvedit. La CADE.
+- **limpezí** (a) — a se sfeti. La DLR.
+- **limpezíu** adj. — suficient de clar.
+- **lincherí** (a) — v. a linchi.
+- **linchí**
+	- (a) — a linge, a sorbi. La DU.
+	- (a) — a mîncă fără poftă.
+- **linciurí** (a) — a se bălăci. La DU.
+- **lingărí** (a) — a mînca cîte puțin din ceva.
+- **línge** (a) — a se linguşi. Expr. A linge pragul $`=`$ a se linguşi.
+- **linuer lalger** m. — lingău. V.Alecsandri.
+- **limpuriorin** — linguroi.
+- **llobor** adv. — încetişor. (TD).
+- **limsiri** (a) — a gusta o mîncare fără poftă.
+- **lonlore** adj. — chihlimbariu.
+- **lióp** interj. — sunetul căderii unui corp moale. (C.Negruzzi).
+- **liorbăi** (a) — a trăncăni. La M.Sadoveinut.
+- **lip n** — jeg. La DLR.
+- **lipan** m. — sol. (TD).
+- **lipcă** adv. — lipit de cineva. La CADE.
+- **lipi**
+	- (a) — a se întorloca (două familii).
+	- (a) — a se apropia. (TD)
+	- (a) — a unge podeaua cu lut.
+- **lipí** (a) — a pomesti. La CADE.
+- **lipicioásǎ** f. — turiță.
+- **lipít** adj. — muruit (cu lut).
+- **lípnic** n. — lipitoare.
+- **lipós** adj. — jegos.
+- **lipoşít** adj. — murdărit.
+- **lipovenésc** adj. — propriu lipovenilor.
+- **lipovenéşte** adv. — ca lipovenii.
+- **lipsi** (a) — a izgoni. (TD).
+- **lipşît** adj. — necuviincios. (TD).
+- **líra** adv. — brambura. E x p r. A îmbla
+- **lisoáre** f. pl. — arcuri la trăsură.
+- **lişițe** f. pl. — gemănări la căruță.
+- **liştái** adv. — întocmai. La CADE.
+- **litrúță** f. — ceaşcă (de porțelan).
+- **líțǎ** f. — lelicuță (mătuşă).
+- **lițe** f. pl. — chingi la boroană.
+- **liubí** (a) — a-i plăcea. (TD)
+- **liungurári de sare** n. — cutie de sare.
+- **livádă de vie** f. — vie.
+- **liválnic** n. — stropitoare.
+- **livăránt** n. — geambaş. (TD).
+- **livínți** m. pl. — moldoveni nǎimiți.
+- **livír** m. — mîner la vînturătoare.
+- **lînced** adj. — fără gust. (DD).
+- **lînós**
+	- adj. — cu lînă bogată. (DD).
+	- adj. — asemănător cu lîna.
+- **lîsca** adj. — brează (iapă).
+- **locáş** n. — umăr la ferăstrăul cu ramă locovişte $`f`$. - bîrlog.
+- **locul tîrgului** n. — vamă. E x pr. A plăti locul tîrgului = a plăti vama la piaṭă.
+- **loc tocma** n. — loc drept, şes.
+- **logoditór** m. — logodnic. (TD).
+- **logofāt** f. — dregător la curtea Moldovei.
+- **logofăt mare** m. — boier de divan, conducea cancelaria domnească. La DIM.
+- **lohăncúṭă** f. — albie mică.
+- **loitrá** (a) — a afîna.
+- **loitrác** n. — căruță cu loitre lungi.
+- **loitráre** m. pl. — loitre.
+- **loitrári** n. — v. loitrac (haraba).
+- **loitrát** adj. — afînat. Ogor loitrat. (DD).
+- **lóituri** n. — loitre.
+- **lójniță** f. — v. lozniță.
+- **lolóṭ** n. — cocoloş de lînă.
+- **lom**
+	- n. — vrej de castravete.
+	- n. — rangă. (TD).
+- **lopátnic** n. — sfredel de lemnărie.
+- **lopălău** n. — limbă (la meliță).
+- **lopătár** m. — pelican.
+- **lostopănós** adj. — făcut din lostopane.
+- **lotári** m. — proprietar al unui lot.
+- **lotizá** (a) — a împroprietări cu loturi.
+- **lotizát** adj. — împroprietărit cu lot. (TD).
+- **lotoci** (a) — a se hîrjoni în apă.
+- **lótru** m. — tîlhar. La M.Eminescu.
+- **lovi** (a) — a se înțelege. (TD).
+- **lovitór** m. — paloş. (TD).
+- **lorác** n. — damigeană.
+- **lúcniță** f. — lutărie.
+- **lucoáre** f. — lumină. (M.Sadoveanu).
+- **lucrătór** adj. — arabil. (DD).
+- **lucrătúră** f. — dantelă.
+- **lucúni** m. pl. — piroşti.
+- **luján** m. — cocean.
+- **lumátic** adj. — umblat prin lume.
+- **luméţ** adj. — sociabil. (S.F.Marian).
+- **luncét** n. pl. — aluniş . (TD).
+- **lúncuri** f. pl. — lunci. (TD).
+- **luniná** (a) — a lumina.
+- **lup** m. — miezul pepenelui verde.
+- **lupán** m. — pui de lup. (M.Sadoveanu).
+- **luptatór** m. — voinic, trăgător (cal).
+- **lusiét** adj. — alunecos.
+- **lustruí** (a) — a văcsui.
+- **luşí** (a) — a cura bobii de pe cocein
+- **lúşiu** m. — polei.
+- **luşuí** (a) — a aluneca.
+- **lutăríu** adj. — galben-închis.
+- **lutí** (a) — a țărmui.
+- **lutíş** adj. — lutos (pămînt).
+- **lutişór** m. — varietate de argilă.
+- **lutîu** adj. — galben-închis.
+- **lutós** adj. — care are mult lut.
+- **lutuí** (a) — a țărnui porumbul.
+- **luzuí** (a) — a cura bobii de pe cocean
+- **licăit** adj. — nemernic. (I.Neculce).
+- **liclui**
+	- (a) — a pune la cale. La DELM.
+	- (a) — a născoci, a izvodi.
+- **licluit** adj. — pus la cale, înjghebat.
+- **licní** (a) — a-i plăcea. La I.Creangă.
+- **licsit** adj. — înghesuit. La Al.Vlahuță.
+- **lifón** n. — tul.
+- **llorie** f. — cratiță cu coadă.
+- **loflogí** (a) — a se strica (legume).
+- **lofolátic** adj. — molatic.
+- **lourig** n. — baston, semn al demnității.
+- **luli** (a) — a şterge-o. Expr. Ao tuli la sănătoasa $`=\mathrm{a}`$ o şterge repede.
+- **lulpán** n. — broboadă.
+- **lulúp** n. — manta lungă de suman.
+- **lúmai** adv. — tocmai.
+- **lumurúg** m. — bîrnă. La I.Creangă.
+- **lunári** m. pl. — apărători. (TD).
+- **lunchít** adj. — neghiob.
+- **lîganáş** adj. — corbiu (cal).
+- **lubóc** n. — tulpină de ceapă.
+
+## M
+
+- **mphins** n. — paus.
+- **mpăsätör** m. — mai de bătătorit pămîntul.
+- **men chls** — mai ales. E x pr. Dar încă to illi mai mult. (I.Creangă).
+- **molulcá** (a) — a se trezi. (TD).
+- **mblŭu** m. — vlăjgan. (TD).
+- **mahmúr** adj. — zăpăcit.
+- **mái**
+	- n. — ficat. (TD).
+	- n. — ficat. La DU, DLR.
+	- n. — coadă cu roată la putinei.
+- **maidán** n. — piață. (V.Alecsandri).
+- **maióg** n. — mai pentru rufe.
+- **máistru** m. — tîmplar.
+- **máiuri albe** f. pl. — plămîni.
+- **máizîl** n. — daltă de tăiat fier.
+- **mal** n. — deal.
+- **malác** n. — mătrăgună.
+- **malahái** n. — mai de crăpat butuci.
+- **malái-tătăresc** n. — mei.
+- **máldur**
+	- n. — legătură de stuf.
+	- n. — mulțime. La AI.Vlahuṭă.
+- **malicós** adj. — jegós.
+- **malín**
+	- m. — liliac.
+	- m. — dud.
+- **malínă de copac** f. — dudă (fructul).
+- **malinăríu** adj. — roşu.
+- **maliníu** adj. — roşu.
+- **malós** adj. — rupt dintr-un mal (pămînt).
+- **máma-sacării** — cornul-secării.
+- **mamelúc** m. — om nepriceput.
+- **mamîdéle** f. pl. — monede.
+- **mampaséle** f. pl. — bomboane.
+- **manaféturi** n. pl. — daruri. (TD).
+- **mánă** f. — folos. Esti manî lu lipi (TD).
+- **mang** m. — nătărău.
+- **mangositít** adj. — om de nimic.
+- **maníjuri** n. pl. — grajduri.
+- **marşînă** f. — camion.
+- **martác** n. — costoroabă. (TD).
+- **martafoí** (a) — a se umfla în pene.
+- **mártile** f. pl. — marția, în fiecare marti.
+- **márţurile** f. pl. — în zilele de marți.
+- **marúnchiuri** n. pl. — mănunchiuri. (TD).
+- **marunțísuri** n. pl. — legume.
+- **mas**
+	- n. — popas pe noapte. I.Creangă.
+	- n. — gǎzduire. La I.Sbiera.
+- **masalári** adj. — cu măsele neregulate.
+- **masalin** m. — dud (pomul).
+- **máscur** m. — porc castrat. La I.Sbiera.
+- **mascará** f. — cuvînt obscen. (DD).
+- **mascarasic** n. — caraghioslîc.
+- **mascaralîc**
+	- n. — dezordine.
+	- n. — faptă indecentă.
+- **maslin** n. — crin.
+- **masliniu** adj. — cafeniu-roşu.
+- **mastág** m. — mesteacăn.
+- **maşiúrlă** adj. — pietros.
+- **maşiuéş hultuit** m. — trandafir.
+- **maşînuí** (a) — a treiera cu batoza.
+- **maşúță** s. — fundă.
+- **matá** pron. — dumneata.
+- **matále** pron. — dumneata.
+- **mátcă** f. — şes.
+- **máte** f. pl. — învelitori pentru sere.
+- **matíncă** adv. — pesemne.
+- **mátiță** s. — plasă pentru peştele prins.
+- **matofi** (a) — a se veştezi. La DU.
+- **matúf** m. — babalîc. La TDRG, DU.
+- **mazác** adj. — murdar. La T.Pamfile
+- **mazîl** m. — categorie socială.
+- **mazilí** (a) — a destitui.
+- **mazút** n. — păcură.
+- **măcát** n. — covor.
+- **mǎcăleándru** m. — pasăre insectivn.i La DU, CADE.
+- **măcău** n. — toroipan. La CADE.
+- **măcăuáş** n. — toroipănel.
+- **măcelár** m. — ucigaş. La V.Alecsandu
+- **măcelărá** (a) — a tăia în bucăți.
+- **măcelărát** adj. — tăiat în bucăți.
+- **măchiná**
+	- (a) — a vîntura.
+	- (a) — a strivi (struguri).
+	- (a) — a trăncăni.
+- **mǎchiná** (a) — a mistui.
+- **măciniş** n. — măcinat. La M.Sadoveann
+- **măciucát** adj. — rotund.
+- **măciucúță** s. — bîtă mică.
+- **măciuéş hultuit** m. — trandafir.
+- **mfiros** m. — ardei gogoşar.
+- **midinri** (a) — a se alinta. (S.F.Marian). midnrit adj. - alintat. (TD).
+- **midulár** m. — membru al unei academii. infidulărí (a) - a rupe (în bătaie). mindurări $`f . p l`$. - mădulare.
+- **mudzărát** adj. — bulgăros (pămînt).
+- **mildărós** adj. — bulgăros (pămînt).
+- **migădán** m. — vlăjgan (Al.Vlahuță). I.I IIPRG.
+- **mågălie** f. — căpătînă de usturoi.
+- **måhălèni** m.pl. — vecini. (TD).
+- **măhălcni** m.pl. — vecini. La N.Ţurcanu.
+- **māhălít** n. — scoaterea butoaelor din beci.
+- **măhnițéle** adj. — mîhnite. (TD).
+- **măiúg** n. — mai mic.
+- **măjărít** n. — negoț de peşte.
+- **măjér** m. — pescar. La M.Sadoveanu.
+- **măjerit** n. — dare pentru peşte. La DU.
+- **măl** n. — mocirlă.
+- **mălái**
+	- n. — mei. La DU.
+	- n. — tescovină. (TD).
+- **mălái turcesc** n. — mei.
+- **măláile** n. pl. — plantații de mei. (TD).
+- **mălăéş** n. — mălai mic. (I.Creangă).
+- **mălăiéț** adj. — zemos. (TD).
+- **mălăiáță** adj. — farîmicioasă. (DD).
+- **mălătúri** f. pl. — legume acrite.
+- **mălăúț** n. — mălăeş. (DD).
+- **măldăci** (a) — a lega snopi de stuh.
+- **măldărí** (a) — a lega snopi de stuh.
+- **măldărél** n. — snopuşor. (T.Pamfile).
+- **măldiráşi** m. pl. — snopi îmblătiți.
+- **măliniş** n. — loc unde cresc malini.
+- **măluceán** n. — mal mic. (TD).
+- **măluí** (a) — a vopsi. (TD).
+- **măluít** adj. — smalțuit. (DD).
+- **măluştéț** n. — mal mic. (TD).
+- **mămăligói** n. — mămăligă mare.
+- **mămăligós** adj. — bleg.
+- **mănáte** adj. — stricate (cereale).
+- **mănătárcă** f. — ciupercă. La CADE.
+- **măngăfós** adj. — cu guturai.
+- **mărăcini** m.pl. — păducel. La DD.
+- **mărăciúni** f. pl. — legume.
+- **măre** interj. — mirare, surprindere.
+- **mărgărínt**
+	- n. — mărgărit.
+	- n. — nume de familie.
+- **mărgărităréle** f.pl. — lăcrămioare. Ln CADE.
+- **mărgătoáre** adj. — curgătoare. (TD).
+- **mărgéan** n. — podoabă.
+- **mărginári**
+	- m. — druci de-a curmezişul,
+	- m. — călcîi de pâine.
+- **mărí** (a) — a se lăuda. (DD).
+- **mắri** interj. — v. măre.
+- **mărit**
+	- m. — mire. La CADE.
+	- m. — măritat. E x p r. Fată de
+	- adj. — slăvit. La M.Eminescu.
+- **mărlădi** (a) — a bate. (DD).
+- **mărmurit** adj. — obiect de marmură.
+- **mărmuriu** adj. — ca marmura.
+- **măr-păr** n. — pară (fructul).
+- **mărunțél**
+	- adj. — mic. La I.Creangă.
+	- adj. — mic de statură.
+- **mărunțúş** n. — obiecte mici.
+- **mărunțiş** n. — bani mărunți.
+- **mărțişór** n. — martie.
+- **mătrăşí**
+	- (a) — a prăşi la răpezeală.
+	- (a) — a lucra de mîntuială.
+	- (a) — a nimici. La V.Alecsandri.
+	- (a) — a alunga.
+- **mătrăşi** (a) — a dosi.
+- **mătrăşít** adj. — ascuns.
+- **măzdri** (a) — a pungăşi. (V.Alecsandri).
+- **medeán** n. — loc deschis. (I. Creangă).
+- **medeleán** adj. — mare şi puternic.
+- **medelnicér** m. — dregător la curtea
+- **mehénghi** adj. — isteț. La I.Creangă.
+- **melciúg** n. — îmblăciu.
+- **meleảg** n. — pămînturi. La DU.
+- **meléz** n. — materic de lînă. La DU.
+- **melián** m. — om înalt şi voinic. (DU)
+- **meliciúg** n. — îmblăciu.
+- **melițá** (a) — a snopi în bălăi.
+- **meni**
+	- (a) — a hărăzi. La M.Eminescu.
+	- (a) — a vrăji. La M.Sadoveanu.
+	- (a) — a blestema. La I.Creangă.
+	- (a) — a ura. (V.Alecsandri).
+- **menitór** m. — prezicător.
+- **meragiu** m. — paznic de cîmp.
+- **merár** m. — măr (pom).
+- **mercán** m. — vită fătată miercuri.
+- **merciúc** n. — vamă (la moară).
+- **mercui** (a) — a chibzui.
+- **mércurile** f. pl. — zilele de miercuri.
+- **mére de grădină** n. pl. — napi porceşti.
+- **meremèt** adv. — fară rost. A lucra de
+- **merén** m. — mînz de doi ani.
+- **merinós** adv. — rasă de oi. merinte m. - colac pentru lehuză.
+- **merişór**
+	- n. — pinteni (la cal).
+	- n. — gleznă.
+- **merticár** m. — vameş. (TD).
+- **meruít** adj. — încărcat cu mere. (TD).
+- **mesás** m. — mescan. (E. Sevastos).
+- **meseán** m. — comesean. La M.Eminescu.
+- **meserniță** f. — măcelărie. La DU.
+- **mesí** (a) — a benchetui.
+- **mestecá** (a) — a frămînta mămăliga.
+- **mésti** m.pl. — cizmulițe. (DU).
+- **meş** n. — inel la tăietura unui copac.
+- **mielercńtzā** s. — corlată (la pod). muliopis n. - vaterpas.
+- **mé i-pałresi** n.pl. — mijlocul postului.
+- **mesin** m. — ultimul copil. La DU.
+- **merin** m. — zapriste. La CADE.
+- **mir cură** s. — tărîțe de grîu. La CADE.
+- **mbria** f. — copil pipernicit. La P. Ispullesell.
+- **mbimn** n. — meunat. La M.Sadoveanu.
+- **muñut** n. — meunat. La M.Eminescu.
+- **mterincă** s. — cîlți rămaşi după răgilat.
+- **miehea** m. — drăcuşor.
+- **michidúță** m. — drăcuṣor. La I.Crcangă.
+- **michimáos** m. — drăcuşor. (DD).
+- **mieic** n. — cherner.
+- **micic**
+	- n. — sfredel de tîmplărie.
+	- n. — butelnic.
+- **mićd** n. — hidromel. La M.Sadoveanu.
+- **mielúş** m. — mieluşel.
+- **mieluşór** m. — mieluşel.
+- **mierior** adj. — albăstriu.
+- **micriu** adj. — albastru.
+- **micrlúşcă** f. — mierliță.
+- **mierui** (a) — a unge cu miere.
+- **migăí** (a) — a lucra cu migală.
+- **migăiálă** s. — răbdare, concentrare.
+- **migălcálă** f. — migală. La TDRG.
+- **migåli** (a) — a lucra încet.
+- **migdalát** adj. — decorat.
+- **mihohó**
+	- interj. — imită nechezatul.
+	- m. — cal. (C. Negruzzi).
+- **mijí**
+	- (a) — a închide ochii pe jumătate.
+	- (a) — a mocni (focul).
+- **mijire** f. — lumină. (Al. Vlahuță).
+- **míjloc** n. — mijlocire. (I.Neculce).
+- **mijlocári**
+	- n. — chingă la ferăstrău.
+	- n. — pană la ferăstrău.
+- **mijlocáş** n. — v. mijloc.
+- **mijoárcă** f. — de-a v-ați ascunselea.
+- **milarêt** n. — număr mare. (Şezătoarea).
+- **milcoşi** (a) — v. milcui (a).
+- **milcuí** (a) — a se ruga. La V. Alecsandri.
+- **mildui** (a) — a lovi uşor. La E. Sevastos.
+- **milincuí** (a) — a vîntura.
+- **milinduí** (a) — a bate (pe cineva).
+- **milinóc** n. — vînturătoare.
+- **militéț** n. — văl la mireasă.
+- **milós**
+	- adj. — îndurător. La C.Conachi.
+	- adj. — binefǎcător. La I.Sbiera.
+- **milosîrdie** — milă. La M.Sadoveanu.
+- **milostiv** adj. — blînd. La Al.Donici.
+- **milostivnic** adj. — cu inimă bună.
+- **miluít** adj. — îngrijit.
+- **minavét** n. — flaşnetă. La V.Alecsandri.
+- **mindír** n. — covor de lînă.
+- **minóc** n. — vînturătoare.
+- **miniştérgură de șters** f. — şervet.
+- **minşiuní** (a) — a minți.
+- **mintós** adj. — deştept. La C.Negruzzi.
+- **mioárce** f. pl. — broaşte. (TD).
+- **miór** m. — miel de un an. (DU).
+- **mioréle** adj. — tinere.
+- **miorcăíz** adj. — ursuz.
+- **mircuí** (a) — a cumpăni. (Th.Holban).
+- **mireasúică** s. — vinăriță.
+- **mirél** m. — mire. (S.F.Marian).
+- **miroảse** f. pl. — arome. (M. Eminescu).
+- **mirós** n. — emanație. La CADE.
+- **miróznă** m. — mireasmă. La I.Creangă.
+- **mischiu** n. — oțel. (DU).
+- **mischíu** adj. — castaniu.
+- **misit** m. — mijlocitor. La DU.
+- **misníc** n. — blidar (mobilă).
+- **mistréț** adj. — sălciu. (DD).
+- **mistíu** n. — oțel.
+- **mistuí**
+	- (a) — a dispărea. La C.Hogaş.
+	- (a) — a se ascunde. La I.Creangă.
+	- (a) — a face ceva să dispară.
+- **mişắlnic** m. — ticălos.
+- **mişắucă** adj. — netrebnică. La DLR.
+- **mişelá** (a) — a se căina.
+- **mişélnic** adj. — mişeleşte.
+- **mîlit** adj. — nămolit. La I.Creangă.
+- **mîlós** adj. — nămolos. La M. Sadoveanu.
+- **mînáş** m. — surugiu. La I.Sbiera.
+- **mîncău** m. — mîncăcios. La C. Negruzzi.
+- **mîndrátă** adj. — tare fudulă. (TD).
+- **mîndréţuri** f. pl. — v. mîndrețe.
+- **mîndri** (a) — a fi fudul. La C.Negruzzi.
+- **mîndrişór** adj. — mărişor. (TD).
+- **mîndru** adj. — frumoş, falnic.
+- **mîndz** m. — nărav. E x p r. A avea mîndz $`=`$ a fi mofturos, a avea nărav.
+- **mîndzắu** m. — greşeală la urzit.
+- **mîne** adv. — mâine. (M. Eminescu).
+- **mînecá**
+	- (a) — a rămîne pe noapte.
+	- (a) — a se scula devreme.
+- **mînecári** n. — manjetă.
+- **mînezi** adv. — mâine. (I.Slavici).
+- **mîneştérgură** f. — ştergar. La DU.
+- **mîni** f. pl. — mâini. (Al.Graur).
+- **mînji** (a) — a mîzgăli. La C.Negruzzi.
+- **mînule** f. pl. — mâinile.
+- **mînuri** f. pl. — mâini.
+- **mîntuí** (a) — a nimici. E x pr. L-a mîn-
+- **mîntui** (a) — a isprăvi. La CADE.
+- **mîntuít** n. — v. mîntuire.
+- **mîntúş** m. — mihalț. La CADE.
+- **mînz** m. — cîrlan.
+- **mînzác** n. — movilă rătezată.
+- **mînzărár** n. — strungă.
+- **mînzărảr** m. — păcurar. (M.Sadoveanu).
+- **mînzări** f.pl. — oi mulgătoare. La DD.
+- **mînzéşte** adv. — ca un mînz.
+- **mînzi** m. pl. — nazuri. E x p r. Are mînzi $`=`$ are harțag, are nazuri.
+- **mînzí** (a) — a jupuia ştiuleții. E x p r. A mînzi păpuşoii = a-i curăța de foi.
+- **mînzīiác** n. — căsuță de vară.
+- **mînzóc** m. — mînz de doi sau trei ani.
+- **mînzós** adj. — alintat (copil).
+- **mînzúc** m. — mînzişor.
+- **mîrlán** m. — păcurar începător.
+- **mîrnîi** (a) — a mormăi. La DU.
+- **mîrşave** adj. — murdare.
+- **mîrşí** (a) — a murdări (cu nămol).
+- **mîrzác** m. — nobil tătar. La C.Negruzzi.
+- **mîşí** (a) — a se murdări.
+- **mîşît** adj. — lipos.
+- **mîț** m. — pisoi. La DD.
+- **miliese** adj. — de pisică. La M.Eminescu.
+- **mlti** m. pl. — pisici. La I.Creangă.
+- **mllisór** m. — pisicuț. La DU.
+- **mlthór** m. — spic pufos cu flori. La DU.
+- **milscă** adj. — mică.
+- **millifică** adj. — mică.
+- **milliál** adj. — mic.
+- **mitóe** n. — pisicuț.
+- **mifoi** m. — pisoi. La CADE.
+- **mifúe** m. — pisic.
+- **mindå** s. — spagă.
+- **mlogă** f. — noroi.
+- **migiii** (a) — a aluneca.
+- **mlggiiá** (a) — a aluneca. (TD).
+- **mládlå** f. — ramură tînără. La Al.Russo.
+- **mlaşniţă** s. — mlaştină.
+- **mlâdí** (a) — a da mlădițe.
+- **młâdiós** adj. — flexibil. La M.Eminescu.
+- **minjét** n. — lozie.
+- **mlaşíu** n. — îmblăciu.
+- **mlaşiúg** n. — îmblăciu.
+- **monică** f. — somn (peşte).
+- **monire** f. — zeamă de legume acrite.
+- **moáşă** f. — femeie care scaldă copilul după botez.
+- **mocăí** (a) — a migăli. La DU.
+- **mocăit** adj. — migălos.
+- **mocắni** m. pl. — toponim.
+- **mocní**
+	- (a) — a se înmuia. La CADE.
+	- (a) — a lîncezi. (V.Alecsandri).
+- **mocni** (a) — a fierbe încet. La CADE.
+- **mocnít**
+	- adj. — mucezit. Satul Humules-
+	- adj. — tăcut.
+- **mocnit** adj. — încet şi stăruitor.
+- **mocortêt** n. — piuliţă.
+- **mocoşí** (a) — a lucra fără spor. La DU.
+- **mocrác** n. — ariceală (la copita calului).
+- **modi** (a se) — a se dichisi.
+- **mogîldán** n. — muşuroi.
+- **mogorogi** (a) — a bombăni. (DU).
+- **mohorît-întunecat** adj. — şaten.
+- **moicălút** adj. — moale.
+- **mojdilít** adj. — murdar de noroi.
+- **molác** adj. — greoi (om).
+- **molán** m. — vin.
+- **molắu** n. — molatic. La DU.
+- **molcălúț**
+	- adj. — moale.
+	- adj. — mătăsos. (TD).
+- **molcăúț** adj. — mătăsos.
+- **molcom**
+	- adj. — potolit. (M.Eminescu).
+	- adj. — a nu se mişca. (I.Sbiera).
+- **molcúț** adj. — moale.
+- **moldáv** adj. — moldovan, moldovenesc. (C.Ivănescu).
+- **moldávă** adj. — limba moldovenească.
+- **moldávi** m.pl. — moldoveni. La C. Ivănescu.
+- **moldavít** n. — ozocherită de culoare neagră, care se găseşte în Moldova.
+- **muldovánă** adj. — referitor la moldomni şi limba lor; limba moldoveneasin Limbă moldovană, zînă între zîne… (N.Costenco).
+- **moldováni** m. pl. — persoane care fac purte din populația de bază a Moldovei, moldoveni. Moldovenii să osăbesc de ii) răspund: moldovani. (Constantin Untacuzino, 1716).
+- **moldoveneáscă** adj. — ca la moldoveni. Cere pe negrul din grajd înşeuat l’u şaua moldovenească. (G.Dem.Teodorescu).
+- **moldovenésc** adj. — care aparține Moldovei sau populației ei, privitor la Moldova sau populația și limba ei. O, pavăză de neînvins a neamului moldovenesc! (A. Hrisoverghi).
+- **moldovenéşte** adv. — ca moldovenii, în felul moldovenilor, în limba moldove-
+- **moldovéni** m. pl. — reprezentanți ai națiunii moldoveneşti, ai poporului moldovenesc. Măre, iată mi s-arată moldoveni, ştiutii mei. (G.Coşbuc).
+- **moldovení** (a) — a tălmăci în limba moldovenească. Intr-acesta chip, spre alalte invătături grele trebuitoare mumere si cuvinte dindu-le a le moldoveni. (D.Cantemir).
+- **moldovenisi** (a) — a tălmăci în limln moldovenească. (Din) elinie moldor: nisęste. (D. Cantemir).
+- **moldovenísm**
+	- n. — sentiment național al moldovenilor, spirit moldovenest Ne bucurăm… că moldovenismul a in viat in această jumătate de Moldowi (N.lorga).
+	- n. — cuvînt sau îmbinare de cuvinte împrumutate din limba moldovenească în alte limbi: rusâ. ucraineană, găgăuză, valahă ş.a.
+	- n. — spirit cultural moldovenesc. Murafa (Simion) a fost unul dintre acei care mai energic a ridical steagul de cultură al moldovenismului (N.Iorga).
+- **moldovenizá**
+	- (a) — a da unui cuvînt sau unei expresii străine introduse în limba moldovenească o formă potrivită cu normcle, cu structura acestei limbi.
+	- (a) — a deveni purtător al limbii moldoveneşti, a-şi însuşi obiceiurile, datinele, felul de a fi al moldovenilor; a transforma în moldovan.
+- **moldovenizanta adv** — moldovenizator, care moldovenizează. Dulce indărătnice patriotică moldovenizantă. (C.Hogaş).
+- **moldovenizát** adj. — care a căpătat o formă corespunzătoare limbii moldoveneşti.
+- **molfaii** (a) — a mesteca greu. molfăitúră $`f`$. - mestecătură. molî́u adj. - molatic. La DU.
+- **mulosag** n. — timp moale, iarna.
+- **muloşag** n. — lapoviță. (DD).
+- **momîrlán**
+	- m. — moviliță.
+	- m. — mîrlan.
+- **móntic** n. — vîrf de deal. (TD).
+- **moór** n. — mohor.
+- **morcojín** adj. — portocaliu-deschis. (TD).
+- **morcoti** (a) — a mormăi. La CADE.
+- **morcutí** (a) — a cicăli.
+- **mórcvi** f. pl. — morcovi.
+- **mórdă** f. — jumîtate de desetină de pămînt. Ni-o arat o mordî. (DD).
+- **morghirán** n. — floare. (Th.Holban).
+- **morişcui** (a) — a vîntura grînele.
+- **mormînjí** (a) — a învăța superficial.
+- **mormîntá**
+	- (a) — a muşlui. Expr. A mormînta ceva cu gura $`=`$ a mesteca fără poftă.
+	- (a) — a călca. (TD).
+	- (a) — a călca lut cu paie.
+- **mormîntát** n. — călcare a lutului. Clacă de mormîntat = clacă de călcat lut.
+- **mormînturi** n. pl. — cimitir. (ALM).
+- **mormolóc** m. — nepriceput.
+- **mormoróc** m. — insuliță plutitoare.
+- **mormorosi** (a) — a mormăi.
+- **mornaí** (a) — a trăncăni.
+- **mornăí** (a) — a vorbi pe nas.
+- **mornăi** (a) — a scoate glas înfundat.
+- **morțęste** adv. — încet. E x pr. A merge morțește $`=`$ a merge dormind.
+- **morúncă-sălbatică** — vetrice.
+- **morvári** m. — dud.
+- **mosmoli** (a) — a lucra încet.
+- **moşmolí** (a) — a bîjbîi.
+- **mmsneág** m. — porumb cu mătasea tare. muşnegeásca $`f`$. - dans popular. (TD). moşnegél m. - bătrînel.
+- **moțochín** m. — erizipel. (TD).
+- **moțocós** adj. — nărăvos.
+- **mozác** adj. — posac. La CADE.
+- **mozoli** (a) — a terfeli.La CADE.
+- **mozolí** (a) — a molfăi. La DU.
+- **mozolít** adj. — murdărit (haina).
+- **mrănițós** adj. — gunoiat. La TDRG.
+- **mrejí**
+	- (a) — a împleti mreje.
+	- (a) — a umbla cu intrigi.
+- **muc** n. — fitilul opaitului. La DLR.
+- **muc de sărnic** n. — gămălia chibritului.
+- **mucalit** adj. — caraghioz. La DU.
+- **mucár** n. — sfeşnic.
+- **mucắri** f. pl. — foarfece de retezat.
+- **múced** adj. — cafeniu-închis.
+- **mucitóri** m. — pămătuf.
+- **múfte** f. pl. — curcle la îmblăciu.
+- **mug** n. — mugur. Mug de floare. (DD).
+- **múgur**
+	- m. — spic de porumb.
+	- n. — rumeguş.
+- **múgur de sărnic** m. — gămălie de chibrit.
+- **mugurát** adj. — îmbobocit.
+- **muhurél** adj. — cenuşiu. (TD).
+- **muiă** (a) — a topi (cînepa).
+- **mujdei** (a) — a unge cu mujdei. (DD).
+- **mujdiéri** n. — pisălog pentru usturoi.
+- **múlă** f. — catîr. (DD).
+- **múmie** f. — urîțenie. (TD).
+- **muncí** (a) — a chinui. (I.Neculce). mundiráş n. - veston militar.
+- **munt**
+	- n. — greabăn la cal.
+	- n. — partea rămasă după ce coli: copita.
+- **munteán** m. — valah. Să urîse mumc’m lor cu domnia lui Mihai-vodă (Vitcarul) tot cu oştiri şi războae. (M.Costin).
+- **muntenizá** (a) — a impune vocabuli rul şi ortoepia, maniera de vorbire in valahilor. Interveni Sahina, parodiind accentul lui Nelu, atit de subit munt. nizat. (C.Petrescu).
+- **muntui** (a) — a deceda. (TD).
+- **mur**
+	- m. — gard (de piatră).
+	- m. — zid. La M.Eminescu.
+- **mor** m. — fundament de piatră.
+- **mură** (a) — a pune la înăcrit.
+- **murá** (a) — a topi (cînepa).
+- **murabél** m. — corcoduş.
+- **murári** m. — morar. (TD).
+- **murát**
+	- adj. — acrit.
+	- adj. — ud leoarcă. (DD).
+- **mmrát** adj. — topit. (TD).
+- **murǎi** adj. — negru-lucios. (TD).
+- **murduí** (a) — a se zbînțui.
+- **mucduí** (a) — a se chinui. (TD).
+- **murg** adj. — cenuşiu-roşcat. (TD).
+- **murgi** (a) — Înmurgit $`=`$ pe înserate.
+- **murgóci** m. — murguț. (TD).
+- **murí** (a) — a lua viața. Holerea şeia o murit atîta nărod. (TD).
+- **muriu** adj. — ca murele copate.
+- **murlåt** n. — ornament la streaşină.
+- **murinuitór** adj. — care murmură.
+- **munsă** f. — must.
+- **muruí**
+	- (a) — a mînji. Unii buiguitori…
+	- (a) — a se murdări. (C.Hogaş).
+	- (a) — a vărui.
+- **murui** (a) — a unge cu ou.
+- **muruít** adj. — murdărit.
+- **muscal** m. — soldat român în “Basarabia” (1919). (M.Sadoveanu).
+- **muscălău** m. — muscoi.
+- **muscălésc** adj. — rusesc.
+- **muscălęşte** adj. — ruseşte.
+- **must**
+	- n. — măduvă (din os).
+	- n. — zeamă. (TD).
+- **must de lemn** n. — sevă de copac.
+- **mustári** m. — mustuitori.
+- **músti** (a) — a zemui. La DEX.
+- **mustinéle** f. pl. — corcoduşe.
+- **mustós** adj. — zemos. La DEX.
+- **mustuí** (a) — a călca strugurii.
+- **muşát** adj. — şaten.
+- **muşcá** (a) — a da ac (albina).
+- **muşcát** n. — muşcătură. (M. Eminescu).
+- **muşél** adj. — frumuşel.
+- **muşina** (a) — a adulmeca. La I.Slavici.
+- **muşinói** n. — muşuroi. La M.Eminescu.
+- **muşîțắl** m. — ciuperci verzi.
+- **muşluí** (a) — a căuta mirosind.
+- **muştár** adj. — cafeniu-deschis.
+- **muşunói** n. — muşuroi. La DU.
+- **mutălău** m. — prostănac. La DU.
+- **mutricălít**
+	- adj. — învinețit (de lovituri)
+	- adj. — murdar (pe față).
+- **muți** (a) — a mîlci. La DEX.
+- **muzicúş** m. — muzicant. (T.Pamfile).
+- **mesămăluít** adj. — färă număr. (TD).
+- **mestrăbătút** adj. — necunoscători ai istonci. (Gr.Ureche).
+- **męticavái** pron. — oarecare. (I.Neculce).
+- **mouríu** adj. — albastru-deschis.
+- **mol** n. — orez.
+- **mrin** n. — horn.
+- **mgchir** n. — ştergar.
+- **maberít** adj. — lămurit. (TD).
+- **miván**
+	- n. — şopron. La DU.
+	- n. — cort deschis. La I.Neculce.
+
+## N
+
+- **nlhenaan** n. — leucom.
+- **nlbincaṭă** adj. — blondă.
+- **npissie** s. — apărie. La I.Creangă.
+- **nsijderea** adj. — de asemenea.
+- **nolin** — semn de hotar.
+- **nileér** m. — fălcer, фалкарь-lucrătorul unc’ /ālci de pămînt sînt elemente îmimmmuate (de ruteni) din limba moldonemească. La I.Bogdan.
+- **nlón** n. — rindea cu daltă în figuri.
+- **nloncár** n. — rindea cu daltă în figuri.
+- **naplic** m. — cheotoare de sîrmă.
+- **nutulitrisi** (a) — a cinsti. La DU. notenhtiał $`f`$. - cusur.
+- **nas** n. — partea de dinainte a luntrei.
+- **nasîchí** (a) — a adauga pămînt pe un loc.
+- **nasîpálă** f. — muşuroi la porumb.
+- **naş** m. — nănaş la botez. La CADE.
+- **názuri** n. pl. — toane. La M.Eminescu.
+- **năbădáică** f. — spaimă. La V. Alecsandri.
+- **năboí**
+	- (a) — a se năpusti.
+	- (a) — a se revărsa. La I.Creangă.
+- **năboi** (a) — a se umple de sînge. (DD).
+- **năbuşí** (a) — a ţîşni. (TD).
+- **nădăjduí** (a) — a upovăi. La CADE.
+- **nădúh**
+	- n. — amar, năcaz. La I.Creangâ.
+	- m. — copil neastîmpărat.
+- **năduşi** (a) — a înnăbuşi. La CADE.
+- **năduşí** (a) — a mocni (focul).
+- **năduşít** adj. — sugrumat. La C.Negruzzi
+- **năfîrtáche** m. — michiduță. (Th.Holban)
+- **năgărúş** n. — loc unde creşte năgară.
+- **năhut** n. — mazăre. La DU.
+- **năhutíu** adj. — de culoarea năutului.
+- **năjí** (a) — a se îmbolnăvi de năjit.
+- **nălbản** m. — doctor veterinar.
+- **nălóg** n. — impozit.
+- **nălțá** (a) — a înălța. La M.Eminescu.
+- **nălucitúri** f. pl. — visuri.
+- **năluşít** adj. — speriat. (TD).
+- **năsădit**
+	- n. — înşirarea snopilor.
+	- adj. — bătut.
+- **năsădít** adj. — învinețit de lovituri. (DD).
+- **năsăditúră** f. — vînătae.
+- **năsắlnic** adj. — sperios (cal).
+- **năsắtr** m. — nisetru.
+- **năsîlnicíe** f. — îndărătnicie.
+- **nasîpí** (a) — a pomosti; a nivela.
+- **năsîpós** adj. — zemos. Zămoşi şi năsîpoşi. (DD).
+- **năslí** (a) — a năzui. La M.Costin.
+- **năstáv** n. — îndemn. La DU.
+- **năstăví** (a) — a îndruma. La D.Cantemir.
+- **năstrițátă** adj. — nestemată. (TD).
+- **năstrúşnic** adj. — straşnic, grozav. La N.Gane. La CADE.
+- **năsútă** adj. — cu pată albă pe bot (oaie).
+- **năşí** (a) — a fi naş.
+- **nătîng** adj. — stîngaci. La DU.
+- **năutíu** adj. — v. năhutiu.
+- **năvál** adv. — nestăpînit.
+- **năválnic**
+	- adj. — năpraznic. (A.Vlahuță).
+	- m. — ferigă cu frunze mari.
+- **năvărós** adj. — nărăvaş. (DD).
+- **năvodí** (a) — a întoarce acul. (DD).
+- **năvráp** m. — jefuitor. (Gr.Ureche).
+- **năvrăpí** (a) — a se năpusti.
+- **năzátic** adj. — sperios. La C.Hogaş.
+- **năzări** (a) — a i se părea că vede. La DU.
+- **năzdrăváncă** adj. — fermecătoare. (TD).
+- **năzuí** (a) — a apela. La Gr.Ureche.
+- **năzuit** adj. — mult dorit. La DU.
+- **năzurós** adj. — sperios (calul).
+- **nea** interj. — se cheamă un câine.
+- **neacătắrii** adv. — dezordine.
+- **neáclă** f. — gîtar la gura de ham.
+- **neám** n. — nat. Neamul moldovenilor. (M.Costin). La DU.
+- **neaşteptát** adj. — năpraznic.
+- **nebún** adj. — rău. (I.Neculce).
+- **nechimuluit** adj. — grozav. La CADE.
+- **nechitít** adj. — nesocotit. La CADE.
+- **neclătít** adj. — neclintit. La M.Costin.
+- **necrúți** m. pl. — recruți. (TD).
+- **negél** m. — neg. La CADE.
+- **negelós** adj. — negos.
+- **neghimuluít**
+	- adj. — straşnic.
+	- adv. — foarte mult. E x pr.
+- **neghinári** n. — trior.
+- **negoáță**
+	- f. pl. — daruri. (TD).
+	- f. pl. — mărfuri. (TD).
+- **negre** adj. — murdare.
+- **negriciós** adj. — rom.
+- **negríu** adj. — şaten.
+- **négru** adj. — smolit (la față).
+- **négru- strîcat** adj. — suriu.
+- **négru-surmaliu** adj. — negru-deschis.
+- **négru-zoit** adj. — suriu.
+- **neguțá** (a) — a tîrgui.
+- **neguțătór** m. — cupeț. La DEX.
+- **neîmblátă** adj. — nesărutată.
+- **neînsem nát** adj. — secătură. (CM).
+- **nelátă** adj. — nespălată. (TD).
+- **nemeşésc** adj. — de nemeşi.
+- **nemuréli** m. pl. — rude. (TD).
+- **nemuróşi** adj. — cu multe rude. (TD).
+- **nendumirít** adj. — nemîngîiat. (TD).
+- **neór** m. — cîrlan de la doi ani.
+- **neprohodit** adj. — îngropat fără popă.
+- **nertic** m. — druc lateral la scară.
+- **nestine** pron. — cineva. La P.Ispirescu.
+- **netéz** n. — năpastă. Expr. A nu se da
+- **netíhn** adj. — neastîmpărat.
+- **netócmai** adv. — cu atît mai mult.
+- **nevoí** (a) — a vrea. (M.Costin).
+- **nezbicit** adj. — umed. La N.Ţurcanu.
+- **nezlobív adj** — blînd. La Gr.Ureche.
+- **nicarúlea** adv. — nicăieri.
+- **nícă**
+	- adv. — neam.
+	- adv. — canci. La DEX.
+- **nicăiuri** adv. — nicăeri. La CADE.
+- **nicării** adv. — nicăeri.
+- **nicărúi** pron. — nimănui. (TD).
+- **nicărúia** adv. — nicăieri.
+- **nicicacúm**
+	- adv. — nicidecum.
+	- adv. — neam.
+- **nicicúm** adv. — defel. La V.Drăghici.
+- **niciodinioáră** adv. — niciodată.
+- **nícsis** n. — supărare.
+- **nicúm** adv. — deloc. (TD).
+- **nicúță**
+	- num. — puțin. (TD).
+	- pron. — nimic. (TD).
+- **nidrése** adj. — neservite. (TD).
+- **nigról** n. — lubrifiant.
+- **nihnít** adv. — mîhnit. (DD).
+- **nihui** (a) — a necheza.
+- **nimăluí** (a) — a se înrudi.
+- **nitológ** adj. — neîndemînatic. nitrosî (a) - a nimici.
+- **nițorán** m. — țistar.
+- **norodnic** adj. — al poporului (poet). norónci adj. - portocaliu. nosác m. - ghiborț. nóşcă $`f`$. - roabă (vechicul). nóur $`m`$. - nor. La V.Alecsandri.
+- **nocár** m. — nuc.
+- **nucair** m. — nucet.
+- **nucàr** m. — pasăre care mănîncă alune.
+- **nucár** m. — gîndac cu larvele în alune.
+- **nucă** adj. — cafeniu-închis.
+- **nucăríu** adj. — cafeniu-închis. (TD).
+- **nucíu** adj. — de culoarea nucului.
+- **nuculíu** adj. — cafeniu-închis.
+- **nújnic** n. — latrină.
+- **núma** adv. — numai. (TD).
+- **numărá**
+	- (a) — a denumi. (ALM).
+	- (a) — a numi.
+	- (a) — a însemna. (TD).
+- **nuní** (a) — a fi nun mare.
+- **nuntáş** m. — vornicel călare.
+- **ngór** n. — cîmp semănat. La DU.
+- **niled** m. — polei.
+- **nocirbí** (a) — a se dezgusta. La Gr.Ureche.
+- **nitrocău** n. — viscol.
+- **nirstcă** s. — cui de fier la proțap.
+- **nídzúş** n. — unealtă de curățat copita.
+- **natitór** n. — fier de curățat picioarele.
+- **nac** n. — coş de prins peşte.
+- **ncobí** (a) — a castra (armăsarii).
+- **nloi de ceară** n. — turtă de ceară.
+
+## O
+
+- **óp tióri m** pl. — toporaşi.
+- **oacacá** interj. — orăcăitul broaştei.
+- **oálă** f. pl. — tịglă.
+- **oarecícă** pron. — ceva. (V.Alecsandri).
+- **oárze** f. pl. — lanuri de orz. (TD).
+- **obắr** n. — frînghie la năvod.
+- **obcină** f. — vîrf. La DU.
+- **oberlíc** n. — ochi la fereastră (mobil).
+- **obiceái** n. — obicină. (CM).
+- **obicéiul pămîntului** n. — reguli nescrise.
+- **obicéiuri pîrcălăbeşti** n. pl. — norme care fixau atribuțiile pîrcălabilor.
+- **obídnic** adj. — neajutorat. La E.Sevastos.
+- **obijdui** (a) — a asupri. La CADE.
+- **obijduí** (a) — a nedreptăți.
+- **obijduít** adj. — nedreptățit. (A.Vlahusi) obîrlíct $`n`$. - oberliht.
+- **obîrşí**
+	- (a) — a-şi încheia lucrările.
+	- (a) — a se încheia.
+- **obîrşít** adj. — întemeiat. La M.Costin.
+- **obleác** n. — bîrnă.
+- **oblíc** n. — oblînc.
+- **oblicí** (a) — a afla. La Gr.Ureche.
+- **oblicít** adj. — descoperit.
+- **oblintí** (a) — a vărsa. La TD.
+- **oblînc** n. — parte a şeii.
+- **obloane** n. pl. — ornamente pe covor.
+- **oblojí**
+	- (a) — a opări picioarele.
+	- (a) — a spăla rănile cu oblojală.
+- **oblojít** adj. — răguşit.
+- **oblón**
+	- n. — pardoseală la fereastră.
+	- n. — uşă (la plită).
+- **oblonári** n. — rindea cu daltă în figuri.
+- **oblonáş** n. — uşiță (la plită).
+- **obloni** (a) — a închide cu obloane.
+- **oblonit** adj. — închis cu obloane.
+- **obodát** adj. — împiedicat (cal).
+- **oborît** adj. — doborît. (V.Alecsandri).
+- **oboróc**
+	- n. — donație unei mănăstiri.
+	- n. — coş de prins peşte.
+- **oboróc mic** n. — măsură de capacitate.
+- **oborocit** adj. — fermecat.
+- **obóz** n. — corvadă.
+- **obráț**
+	- n. — unitate de lungime.
+	- n. — suprafață de cîteva prăjini.
+- **obrăjél** m. — obraz tînăr, delicat.
+- **obrăjéi** m. pl. — trei-frați-pătați.
+- **obrăznici** (a) — a fi necuviincios.
+- **obrănicúț** adj. — obraznic.
+- **obrintí**
+	- (a) — a se umfla. D.Cantemir.
+	- (a) — a betegi. (DD).
+- **obróc**
+	- n. — rație de alimente.
+	- n. — ratie de nutreț.
+	- n. — întreținere. La M.Costin.
+- **obrocí** (a) — a fermeca. (TD).
+- **obrocit** adj. — fermecat.
+- **obşti** (a) — a răspîndi. (D.Cantemir).
+- **obúz** n. — tabără. (I.Neculce).
+- **ocăi** (a) — a măcăi. La N.Gane.
+- **ocăcăí** (a) — a orăcăi.
+- **ocărî** (a) — a dosădi. La CADE.
+- **ocheşéle** f. pl. — plantă erbacee.
+- **ocheşícă** adj. — cu ochi mari.
+- **óchi** m. — ornament pe o țesătură.
+- **ocól**
+	- n. — loc îngrădit pentru vite.
+	- n. — curte. La CADE.
+	- n. — curte.
+	- n. — gard de nuele.
+	- n. — curea la gura hamului.
+	- n. — curea la trupul de ham.
+	- n. — hățuri.
+	- n. — harnaşament.
+- **ocoláş** n. — loc îngrădit pentru pui.
+- **ocroápe** n. pl. — uncropuri.
+- **odagáci** n. — săpunel. La DU.
+- **odátă** adv. — întreg, dintr-o bucala Expr. Om odată = bărbat voinic.
+- **odăjdii** f. pl. — veşmînte bisericeşti.
+- **odgeág**
+	- n. — sticlă la lampă.
+	- n. — foale la prisacă.
+- **odgón** n. — funie groasă. La DU.
+- **odobí** (a) — a lucra. (TD).
+- **odolí** (a) — a învinge. (TD).
+- **odór** n. — copil (DD).
+- **odórfe** f. pl. — druci la loitre (DD).
+- **odrăslí**
+	- (a) — a naşte. (TD).
+	- (a) — a încolți. (C. Negruzzi).
+- **oéri** m. — păcurar.
+- **ofăí** (a) — a ofta.
+- **ofili** (a) — a se veştezi. La CADE.
+- **ofilit** adj. — veştezit. La CADE.
+- **ofițér** m. — ghiborț.
+- **oftigá** (a) — a zace de tuberculoză.
+- **oftigós** adj. — bolnav de tuberculoză.
+- **ofturi** n. pl. — oftaturi.
+- **ogáş** n. — urmă lăsată de un şuvoi.
+- **ogeág** n. — coş, sobă. La DU.
+- **ogheláş** n. — plăpumioară.
+- **oghéle** f. pl. — obiele. (I.Creangă).
+- **oghiál**
+	- n. — saltea.
+	- n. — plapumă. La Al.Russo.
+- **oplájuri** f. pl. — curele la îmblăciu.
+- **oglic** n. — şorț de fierar.
+- **oglinjoară** f. — oglindă mică. La CADE.
+- **ogoi** (a) — a alina. La I.Sbiera.
+- **opoí** (a) — a se potoli. La D.Cantemir.
+- **ogréj** m. pl. — resturi de coceni. La DD.
+- **ogrijit** adj. — nutreț prost.
+- **ogrinji** m. pl. — resturi de nutreț.
+- **ohnál** n. — cui de potcoavă.
+- **ohótnic** adj. — harnic, trăgător (cal).
+- **oură** f. — cîrliont.
+- **ojoji** (a se) — a se veştezi.
+- **ol** n. — canal de scurgere din olane.
+- **olarås** n. — prepeleac.
+- **olári**
+	- m. — prepeleac.
+	- m. — gavanos.
+- **olát** n. — ținut. (M.Sadoveanu). La DU.
+- **olănár** m. — meşter de olane.
+- **olări** (a) — a practica olăria.
+- **oleácă** adv. — puțin. (M.Eminescu).
+- **olecăi** (a) — a se văicăra. La TD.
+- **olecúță** adv. — puțin.
+- **olicăi** (a) — a se tîngui. La I.Creangă.
+- **oliolió** interj. — văleleu.
+- **ologí** (a) — a șchiopăta (calul).
+- **olói**
+	- n. — ulei. La I.Creangă.
+	- n. — ulei. La C.Ivănescu.
+	- n. — vopsea de ulei. La M. Eminescu.
+- **oloiétic** adj. — galben-închis.
+- **olói-închis** adj. — cafeniu.
+- **olorí** (a) — a adia. La T.Pamfile.
+- **omănáş**
+	- n. — omuleț. La E.Sevastos.
+	- n. — omulean. La T.Pamfile.
+	- m. — om scund.
+- **omắt** n. — zăpadă. La V.Alecsandri.
+- **omătós** adj. — cu multă zǎpadǎ.
+- **omeni**
+	- (a) — a trata creştineşte.
+	- (a) — a civiliza. (Săptămîna).
+- **omuşór** m. — omuleț. La C.Negruzzi.
+- **oní**
+	- (a) — a greşi.
+	- (a) — a cădea de acord. (DD).
+- **opéri** m. — strigoi.
+- **opintéle** f. pl. — sarmale.
+- **opinti** (a) — a se sforța. La V.Alecsandri.
+- **opintí** (a) — a ridica. (TD).
+- **oploşi**
+	- (a) — a se aciua. La CADE.
+	- (a) — a proteja. (M.Sadoveanu).
+- **oploşí** (a) — a se aduna (la cald).
+- **oploşit** adj. — găzduit.
+- **opód** n. — rond de noapte. La TD.
+- **opritóri** n. pl. — ham. (TD).
+- **opsás** n. — călcîiul încălțămintei.
+- **óptă** num. — opt.
+- **opțắnşi** n. — cleşte de scos cuie.
+- **opúst**
+	- n. — ieşitură pentru scurgerc
+	- n. — zăgaz pentru abaterea apci
+	- n. — ieşitură. Ridicară toate sh vilele de la opust. (M.Sadoveanu).
+	- n. — copcă (în gheață).
+- **orătănii** f. pl. — păsări de curte.
+- **orbálț**
+	- n. — umflătură (la gît).
+	- n. — brîncă. La CADE.
+	- n. — erizipel. La N.Iorga.
+- **orbáriț** n. — orbalț, brîncă.
+- **orbăí** (a) — a orbecăi.
+- **orbălcít** adj. — răcit la falcă.
+- **orbălțí** (a) — a se îmbolnăvi de orbal!
+- **orcán** n. — uragan. La M.Eminescu.
+- **orcăí** (a) — a ocăi.
+- **orcíc** n. — cruce la căruță.
+- **orcicár** n. — lațul postoroncii.
+- **orcotí** (a) — a vorbi neîntrebat.
+- **ordiníş** n. — gura stupului. La TD.
+- **ordzá** (a) — a se umfla picioarele cia lului.
+- **ornic** n. — orologiu. La M.Sadoveanu.
+- **oroá** interj. — ohi!
+- **ortomán** adj. — mîndru, viteaz, bogat.
+- **osalédeț** n. — scrumbie.
+- **osiiác** n. — lemn deasupra osiei.
+- **osîndi** (a) — a pedepsi. La C.Negruzzi.
+- **oslón**
+	- n. — laviţă.
+	- n. — scaun fără spătar.
+	- n. — suport la butoiul plin.
+- **osmán** adj. — caracteristic osmanilor.
+- **osmánlîu** m. — turc. La M.Sadoveanu.
+- **ospeție** f. — ospitalitate. La C.Negruzzi.
+- **ospéți** m. pl. — ospeție. (TD).
+- **osteiá** (a) — a se potoli. La CADE.
+- **ostenitór** m. — clăcaş. (DD).
+- **ostinătóri** m. — dregător care cinsteşte nuntaşii.
+- **ostréț**
+	- n. — par. La M.Eminescu.
+	- n. — fuscel la scară.
+- **ostrété** f. pl. — gard de ştachete.
+- **ostrói** n. — usturoi.
+- **ostrov** n. — insulă.
+- **óstrov** n. — închisoare. (TD).
+- **ostrovári** m. — osîndit.
+- **ostrovéni** m. pl. — trăitori pe Ostrovul
+- **otác** n. — adăpost provizoriu.
+- **otávă** f. — zlac. (CADE).
+- **otcîrmuí** (a) — a cîrmui. (Gr.Ureche).
+- **otrocól** n. — farfal. E x p r. A face (a da) otrocol prin (după) ceva $`=`$ A pune pe goană, a fugări. (I.Creangă).
+- **oțărîre** f. — indignare. La DU.
+- **oțărît** adj. — a se scîrboşi. La DU.
+- **oțătári** n. — musculiță.
+- **oțéne** n. — gură la vintir.
+- **oțeti** (a) — a înăcri. La CADE.
+- **óuăle-găinii**
+	- f. pl. — păpădie.
+	- f. pl. — arnică.
+	- f. pl. — podbal.
+- **óvăláşi** adj. — suriu-înspicat. (TD).
+- **ovắs**
+	- n. — ovăz.
+	- n. — zob. La CADE.
+- **ovắs-de-ceapă** — arpagică.
+- **ovrijît** adj. — slăbănog (cal).
+- **ozór** n. — ornament.
+- **ombit** adj. — salvat.
+- **olăi** (a) — a se umfla în pene.
+
+## P
+
+- **plycn** m. — purcel.
+- **pini** n. — nuia de schimbat ițarul.
+- **pinjuri** n. pl. — curele la îmblăciu.
+- **purgós** m. — corcoduş (pom).
+- **pic** n. — tulpină. La DU.
+- **puc**
+	- n. — pachet de tutun. N.Labiş.
+	- n. — pachet de cărăfi. (DD).
+- **puchețél** n. — pacică. (CADE).
+- **puchioáşte** f. pl. — bretele. (DD).
+- **picile** f. pl. — resturi de la fuioare. (TD).
+- **púcică** f. — pachețel.
+- **pácişe** f. pl. — cîlțişori. La T.Pamfile.
+- **pacişéle** f. pl. — cîlțişori. La E.Sevastos.
+- **picórniță** f. — cutie pentru păcură.
+- **pacráş** n. — cratiță cu coadă lungă.
+- **pacuí** (a) — a aşeza merele în lăzi. (DD).
+- **pacúț** n. — lădiță pentru mîncare la cai.
+- **pádie** f. — padină.
+- **pádină** f. — vale între două dealuri. La CADE.
+- **padúchii-popii** m.pl. — dentiță.
+- **padúchii-țîganului** m. pl. — dentiță.
+- **paéri** m. — druc pe loitre.
+- **páfte** f. pl. — paftale. (TD).
+- **pag** adj. — cu pete pe trup. La DU.
+- **pahárnic** m. — dregăzor, avea grijă de
+- **pahár cu scaun** n. — păhăruț cu picior. pahî́dă $`f`$. - femeie neîngrijîtă.
+- **pahónți** m. pl. — poreclă dată de români moldovenilor din Moldova dintre Prut şi Nistru. Aceştia îi porecleau pe cei din Basarabia pahonti. (Gh.V.Madan).
+- **pái de sărnic** n. — chibrit.
+- **páică** f. — nadel.
+- **páie**
+	- f. pl. — foi pe cocean.
+	- n. pl. — coceni.
+- **páie de mălai** n. pl. — mei.
+- **paingînári** n. — pînză de păianjen.
+- **paínjăn** m. — păianjen. M. Eminescu.
+- **painjeni** m. pl. — păianjeni.
+- **painjiní** (a) — a împăinjeni.
+- **paióc** n. — rație de nutret. (DD).
+- **palaníşcă** f. — turtă.
+- **pálă** f. — val de lînă.
+- **pálce** f. pl. — vergi de bătut. I. Creangă.
+- **palchéi** adj. — ascuțit.
+- **pălciánă** f. — plantă ierboasă.
+- **paliruít** adj. — smălțuit.
+- **páliță** f. — băț.
+- **palmác** n. — măsură pentru lungimi. La DLR.
+- **palmác de moşie** m. — lotişor.
+- **palúş** adj. — care nu creşte (câine).
+- **pamaclíc** n. — gărducean la prispǎ.
+- **pamparắu** m. — pierde-vară.
+- **pandúri** m. pl. — ciorapi groşi.
+- **panér** n. — coş. La C.Negruzzi.
+- **panglicár** m. — şarlatan. La M. Emm nescu.
+- **pánici** m. — flăcău.
+- **pantoféi** m. pl. — pantofiori.
+- **pánțir** m. — soldat călăreț în zale.
+- **papaí** (a) — a ciupi. (TD).
+- **papanáş** m. — un fel de găluşcă.
+- **papéle** f. pl. — plantă. La DU.
+- **papúc** m. — pantof bărbătesc.
+- **papucári** m. — cizmar. (TD).
+- **papúci**
+	- m. pl. — pantofi de damă.
+	- m. pl. — ghete.
+- **paretár în dame** n. — cadrel.
+- **parhaí** (a) — a se pieptăna.
+- **parline** f. pl. — prăjituri.
+- **parmác**
+	- n. — stîlp ce susține streaşina.
+	- n. — unitate de măsură pentru lungime.
+- **parmaclîc** n. — corlată (la pod).
+- **parnícuri** n. pl. — răsadnițe.
+- **parnişe** f. pl. — v. parnicuri.
+- **paróm** n. — pod plutitor. La SDELM.
+- **parpaléc** m. — covrigar. (I.Creangă).
+- **parşiv** adj. — rîios. La DU.
+- **partăl** n. — bucată de paragină.
+- **particulárnic** adj. — particular.
+- **partizánii** m.pl. — dramă populară.
+- **pártnic** adj. — personal. La DLR.
+- **pas**
+	- n. — curea de transmisie.
+	- n. — compas de tîmplărie.
+- **pasát**
+	- n. — mei (grăunțe).
+	- n. — mei.
+	- n. — crupe de porumb.
+	- n. — urluială.
+- **páscă** f. — coptură din fāină de grîu şi din brînză de vacă. La I.Creangă.
+- **pasîcă** adj. — portocaliu-închis.
+- **pásnic** adj. — cu pas mare. La DD.
+- **pastîrnác** m. — molură.
+- **pastórnic** m. — văcari la boer.
+- **paşlí**
+	- (a) — a o lua la sănătoasa. (I. Creangă).
+	- (a) — a șterpeli. (I.Creangă).
+	- (a) — a porni. (I.Creangă).
+- **páşnic** n. — compas de tîmplărie.
+- **páşte**
+	- (a) — a ciupi. Gainile pasc. (DD).
+	- (a) — a pîndi. Şi-au păscut prilejul. (I.Neculce).
+- **páşuş** n. — paşaport. La DU.
+- **pat**
+	- n. — laviță.
+	- n. — lama toporului.
+- **patlagícă neagră** f. — vînătă.
+- **patlaginíu** adj. — roşu.
+- **patlaján** n. — roşie.
+- **patraí** (a) — a peni găina.
+- **patráre** f. — ramă (la fereastră).
+- **patrári**
+	- m. — țăran cu patru desetine.
+	- m. — cal de patru ani. La trii am ii tretin, la patru ii patrari. (TD).
+- **patrét** n. — tablou.
+- **pátrîdza** adv. — ziua a patra.
+- **pátul ferestrei** n. — pervaz.
+- **paț**
+	- n. — chirpici.
+	- n. — cărămidă nearsă.
+- **pațán** m. — ortac.
+- **pina f** — chirpici.
+- **pirin** f. — cărămidă nearsă.
+- **pafúci** m. pl. — hîrciogi.
+- **patäg** m. — hîrciog.
+- **páus** n. — pomană la înmormîntare.
+- **purclui** (a) — a pava. La CADE.
+- **piranic** n. — scoabă a dogarului. La DU.
+- **pinzvantóglu** m. — zurbagiu.
+- **pabiii** (a) — a filfiii. La A.Gorovei.
+- **pacuni** (a) — a pocăni. La M.Sadoveanu.
+- **pincătós** adj. — slăbănog.
+- **pinceal** s. — piftie.
+- **páchésti** f. pl. — druci pe loitre.
+- **pâcişăle** f. pl. — rămăşiți de la fuioare.
+- **piecui** (a) — a aşeza frunzele de tutun.
+- **påducél** n. — boală de piele. La CADE.
+- **padúchi** m. pl. — băşici pe limba vacii.
+- **păduréț**
+	- m. — copăcel nealtoit.
+	- n. — pară (fruct).
+- **pădureț** n. — fructul pomilor nealtoiți.
+- **păduşéi** m. pl. — băşici pe limba vacii.
+- **păér** n. — saltea de paie.
+- **păhăráş** n. — păhărel mic (de rachiu).
+- **păhărnicí** (a) — a fi paharnic.
+- **păhărúț** n. — teică.
+- **păiánt**
+	- n. — chingă între două furci.
+	- n. — piron mare.
+- **păiéşi** m. pl. — ulmi mici. (Th.Holban).
+- **păinjini** (a) — a împăinjini. La DU.
+- **pǎinjiniş** n. — pînză de păianjen.
+- **păioáră** f. — val subțire. La CADE.
+- **păiş** n. — cantitate de paie. La TDRG.
+- **păít** n. — curățirea ariei de paie.
+- **păiúş** n. — specii de graminee.
+- **păiúț** n. — băț de chibrit.
+- **păj** f. pl. — nuiele.
+- **pălăí** (a) — a flăcăra. La CADE.
+- **pălălăí** (a) — a flutura. La I.Creangă.
+- **pălăurdi** (a) — a o lua la sănătoasa.
+- **pălăurdí** (a) — a batjocorî.
+- **pălceánă** f. — vițelar. La CADE.
+- **pălí**
+	- (a) — a coace mămăliga. (TD).
+	- (a) — a se înroşi. (TD).
+	- (a) — a-şi pierde strălucirea.
+	- (a) — a ajunge.
+	- (a) — a încălzi. La I.Sbiera.
+	- (a) — a cuprinde. La I.Creangă.
+	- (a) — a ataca. La M.Sadoveanu.
+	- (a) — a izbi. La I.Creangă.
+	- (a) — a lovi. La DLR.
+- **păli**
+	- (a) — a se abate. La M.Sadoveanu.
+	- (a) — a rugini. La Al.Vlahuță.
+- **pălíş** adv. — pieziş.
+- **pălít**
+	- adj. — îngălbenit. La A1.Vlahuță.
+	- adj. — bronzat. La C.Negruzzi.
+	- adj. — cîrnit. (M.Sadoveanu).
+	- adj. — palid. La M.Sadoveanu.
+- **păltináş** m. — paltin mic.
+- **păltiníş** n. — pădure de paltini.
+- **pămădoáre** f. — roşie.
+- **pămătujăl** n. — pămătuf mic. La CAIII pămătujî́(a) - a lovi.
+- **pămînt** n. — lut ars.
+- **pămînt aulit** n. — pămînt gunoios.
+- **pămînt caba** n. — pămînt afînat.
+- **pămînt hrănit** n. — pămînt gunoios.
+- **pămînt crupos** n. — pămînt afînat.
+- **pămînt țărnos** n. — pămînt afînat.
+- **pămîntáş** m. — pămîntean. (E. Sevastos)
+- **pămîntiu** adj. — de culoarea pămîntu
+- **pămînțél** n. — un fel de humă.
+- **pắntru** prep. — pentru.
+- **pănuí** (a) — a peni (găina).
+- **pănuşér** n. — țepuşă pentru foile de cocean.
+- **pănuşí** (a) — a jupui foile de pe coceni.
+- **păpăí** (a) — a ciupi. (DD).
+- **păpîríc** m. — stînjenel.
+- **păpşóinic** n. — coşar.
+- **papinit** f. — snop de paie de secară.
+- **papóså f** — izvod. (T.Pamfile).
+- **papuşi** (a) — a pături frunze de tutun. papuşită s. - maldăr de stuf.
+- **pipussoés** m. — porumbel.
+- **popussói** m. — numele moldovenesc al purumbului. (Şezătoarea).
+- **popusói** m. — porumb. La I.Creangă.
+- **pipuşói** m. — porumb jupuiat de foi.
+- **papuşói** m. — porumb. La Al.Russo.
+- **pôpusói** m. — a se preface. E xpr. A se luce (a o face) pe mortul în păpuşoi = io lace pe nevinovatul.
+- **pinpuşói**
+	- m. — a o lăsa baltă. Expr. Ao lnsu moartă-n păpuşoi $`=`$ a lăsa o cheslッιιιε nelimpezită. La I.Creangă.
+	- m. — cucuruz. La DEX.
+- **pilpuşói** m. — păpuşă mare.
+- **pipusói** m. — con de brad.
+- **papusói-de-grădină** m. — crin.
+- **papuşoiés** m. — porumb mic.
+- **pipuşoiés** n. — lan mic de porumb.
+- **pripuşoiés** n. — cocean cu boabe.
+- **păr**
+	- m. — pom fructifer nealtoit.
+	- m. — lînă. Fuştî di păr. (DD).
+	- m. — lînă de calitate.
+	- prep. — pînă.
+- **păráş** m. — pescar la parul lotcii.
+- **părăduí** (a) — a risipi. La Al.Vlahuță.
+- **părăduít** adj. — ruinat.
+- **părălúțe** f. pl. — bani. (I.Creangă).
+- **părăsita-găinii** f. — păpădie.
+- **părăúț** n. — pîrîiaş. La C.Conachi.
+- **părcán** n. — întăritură din pari.
+- **păretár** n. — covoraş îngust. (CADE).
+- **păreți** (a) — a ridica pereții la casă.
+- **părîng** m. — plantă erbacee. La CADE.
+- **părmác** n. — furcă cu mai multe coarne.
+- **părpălác** n. — pîrjoală. La DU.
+- **părtál**
+	- n. — loc sterp în porumbişte.
+	- n. — bucată de țesătură.
+	- n. — cîrpă, zdreanță.
+	- n. — parcelă de teren.
+- **părtăluí** (a) — a fălțui cu rindeaua.
+- **părtí** (a) — a părtini. (Gr.Ureche).
+- **părțí** (a) — a împărți. (TD).
+- **pustitór** adj. — păstrător. La C.Conachi.
+- **pustritál** adj. — breaz. (TD).
+- **pugtár** m. — pescar.
+- **póple-şărpesc** m. — țipar.
+- **pôyte-figănesc** m. — mormoloc.
+- **pectimán** n. — un fel de fustă.
+- **petác** m. — para. La M.Eminescu.
+- **pélic** n. — cîrpă. La Al.Vlahuță.
+- **pétic** n. — cîrpă. E x pr. A pune peticul
+- **peticár** m. — achiziționar de petice.
+- **pétişi** f. pl. — pete. (TD).
+- **péliși** f. pl. — bucăți de postav. (TD).
+- **póllic** n. — bilețel.
+- **petréce**
+	- (a se) — a deceda.
+	- (a) — a îndura. (TD).
+- **pretréce** (a) — a cerne. (TD).
+- **petroşel** m. — peşte mic. La N.Ţurcanu.
+- **pez** n. — picior. E x p r. A grăi peste
+- **pezevénchi** m. — şarlatan. Pezevenchi
+- **picá**
+	- (a) — a obține (ceva recoltă).
+	- (a) — a veni (o vreme).
+	- (a) — a nimeri (undeva).
+	- (a) — a ninge. Pică omăt. (DD).
+- **pichiri** (a) — a cerceta cu de amănuntul.
+- **pichiruí** (a) — a răsădi. (TD).
+- **picioráş** n. — picioruş. La A.Gorovei.
+- **piciorél** n. — picioruş. La A.Gorovei.
+- **piciorúț** n. — picioruş. (A. Gorovei).
+- **picluí** (a) — a cerne.
+- **pictori** (a) — a zugrăvi. (DD).
+- **picurá** (a) — a dormita. La DU.
+- **pidjác** n. — haină bărbătească.
+- **pidósnic**
+	- m. — coada-racului.
+	- adj. — sucit. La I.Creangă.
+- **pierde-váră** m. — derbedeu. La N. Gane.
+- **piéze** f. pl. — prevestire (rea sau bună). pifălí (a) - a zdrobi.
+- **pigulí** (a) — a ciuguli.
+- **pilduí** (a) — a îngîna.
+- **pili** (a) — a bea. La CADE.
+- **pilós** adj. — băutor, bețiv. La CADE.
+- **pilúg** n. — pisălog. La DLR.
+- **piluí** (a) — a aranja o afacere. E x p r. A
+- **pin** prep. — prin.
+- **pinjác** n. — palton scurt.
+- **pinscárturi** n. pl. — biscuiți.
+- **pintenóg** adj. — cu pete albe pe picioare.
+- **píntini**
+	- m. pl. — glod ce sare de pe roți.
+	- m. pl. — turțuri de glod la copite.
+	- m. pl. — lanțuri (la picioare).
+- **pipărúş** m. — ardei. La V.Alecsandri.
+- **piperíg** m. — pipernicit. La I.Sbiera.
+- **pipí** m. pl. — pui de curcă.
+- **pipuí** (a) — a clacsona.
+- **piriláz** n. — pîrleaz.
+- **pirimét** n. — unealtă de prins peşte.
+- **pirobéle** f. pl. — piroşti.
+- **piroháne** f. pl. — piroşti.
+- **pirohéi** m. pl. — piroşti.
+- **piróji** m. pl. — piroşti.
+- **piroşcúțe** f. pl. — piroşti.
+- **pirón** n. — peniță (la toc).
+- **pirțîgói** m. — pițigoi.
+- **pisar** m. — scriitor de cancelarie.
+- **písar** m. — secretar la Sovietul sătesc.
+- **pisaráş** m. — pisar.
+- **písari** m. — secretar domnesc. La M.Costin.
+- **pisc** n. — partea de dinainte a luntrei.
+- **pisoáşie** adj. — gingaşă.
+- **pistórnic** n. — pecete de lemn cu cruce.
+- **pistrúi**
+	- adj. — pestriț. La TDRG.
+	- adj. — pistruiat. La M.Eminescu.
+- **pişcá** (a se) — a începe să scadă (luna).
+- **pişcát** n. — pişcare. Pişcatul lunii. DLR.
+- **pholcena** m. — copil care se urinează des. phúleñ /. - copil care se urinează des. mole prep. - peste.
+- **pitrocí** (a) — a muta în alt butoi.
+- **pitrocít** adj. — zeamă acră schimbată. pitói n. - pâine mare. Sapte pite s-un pitoi. (S.F.Marian).
+- **pitréce** (a) — a pitroci.
+- **pitrijăl** m. — pătrunjel.
+- **pitroşíre** f. — pritocire.
+- **pițărău** m. — colac cîstigat de urător.
+- **pițigăi** (a) — a subția vocea. La TDRG.
+- **pívnic** n. — stînjenel.
+- **pîc**
+	- interj. — sunet cînd trag din lulea.
+	- interj. — sunet produs de o lovitură.
+- **pîcîí** (a) — a trage din pipă.
+- **pîclişît adj** — morocănos. La I.Creangă.
+- **pîclós** adj. — cețos. La C.Stamati.
+- **pîii** interj. — repetat se cheamă puii.
+- **pîle** n. — regiment. La Gh.V.Madan.
+- **pîlpĩi** (a) — a arde cu flăcări.
+- **pînár** m. — brutar.
+- **pîncite** n. — burtă.
+- **pîndáci** adj. — pînditor. La V. Alecsandri. pîndári $`n`$. - pătul.
+- **pîndáş** m. — pînditor. La C.Negruzzi, 1.Sbiera.
+- **pîndărí** (a) — a păzi.
+- **pîndărít**
+	- n. — ocupația pîndarului.
+	- n. — plata pîndarului.
+- **pîndéş** adj. — pînditor. La M. Eminescu.
+- **pîndi** (a) — a aştepta cu încordare.
+- **pîndíş** adv. — pe ascuns.
+- **pîndzí** (a) — a căptuşi.
+- **pîne**
+	- f. — grîne.
+	- f. — pâine.
+- **pîntecărí** (a) — a avea diaree.
+- **pîntece**
+	- n. — burtă. La C.Ivănescu.
+	- n. — foale. (CM).
+- **pîntre** prep. — pentru.
+- **pînzári** m. — ṭesător.
+- **pînziş** adj. — ca o pînză. Ploi pinzişe.
+- **pînzuí** (a) — a acoperi cu pînză.
+- **pîr** interj. — redă trosnetul unui obicst pîr m. - pîrîş.
+- **pîrắu** n. — jgheab la teasc.
+- **pîrăuáş** n. — pîrîu mic. La CADE .
+- **pîrdálnic**
+	- adj. — blestemat.
+	- m. — naiba. Expr. Lasă-Ilın pîrdalnicul = lasă-l încolo.
+- **pîrdálnicul** m. — dracul. La C.Negruzzi
+- **pîrg** n. — pîrgă.
+- **pîrî** (a) — a pîrìia. (CM).
+- **pîrîi** (a) — a crăpa cu zgomot.
+- **pîrîtór** m. — ponoslaş.
+- **pirjoále** f. pl. — pîrjoluri. (TD).
+- **pirjuli**
+	- (a) — a coace în cuptor.
+	- (a) — a păgubi. V.Alecsandri.
+- **pirlág** n. — pîrleaz.
+- **pirláz** n. — pîrleaz. La CADE.
+- **plrnojie** f. — paragină. La CADE.
+- **pirpălí** (a se) — a se zvîrcoli.
+- **plrpălí** (a se) — a se zbuciuma.
+- **pirpili**
+	- (a) — a pîrli tuleele.
+	- (a) — a frige pe deasupra.
+- **pirpilit** adj. — fript în pripă.
+- **pirtriá** (a) — a bătători.
+- **plolári** m. — meșter de pîsle.
+- **plulà** f. — cizme de pîslă.
+- **plyin** adj. — bun la suflet. La DLR.
+- **plytuă** s. — cuminte. La I.Creangă.
+- **piritu-babei** adv. — de-a rostogolul.
+- **pîrțişi** m. pl. — trepte (la cerdac).
+- **pîrțíit** adj. — prîsnel.
+- **pîțîrél** adj. — subțirel.
+- **plácmă** f. — plapumă.
+- **plághie** adv. — înmărmurit. (DD).
+- **pladván** n. — rindea cu daltǎ în figuri.
+- **plan de casă** n. — terenul unei gospodării.
+- **pláşte** f. pl. — plăci de metal.
+- **platareásca** adv. — în buestru. (DD).
+- **platfórme** f. pl. — bare pe loitre.
+- **plávic** m. — marinar.
+- **plắcea** (a) — a îndrăgi.
+- **plămădéț** n. — aluat.
+- **plămîétic** adj. — cafeniu-deschis.
+- **plămîníu** adj. — roşu-deschis.
+- **plăsuí**
+	- (a) — a trece (nisip) printr-o plasă.
+	- (a) — a vîntura. La TD.
+- **plătoşí** (a) — a se veştezi. (TD).
+- **plătoşít** adj. — veştezit.
+- **plăvái** adj. — gălbui.
+- **plăván** adj. — v. plăvai.
+- **plăvăoáră** adj. — plăviță.
+- **plăvíu** adj. — v. plăvai.
+- **plăvíț** adj. — v. plăvai.
+- **pleámă** f. — soi, neam. La CADE.
+- **pleástăr** n. — clei de cizmărie.
+- **pleátă** f. — coadă (de păr).
+- **pleáț** n. — tîrg de vite.
+- **plefturí**
+	- (a) — a stropi cu praftorita.
+	- (a) — a batjocori.
+- **plescáci** m. pl. — snopi îmblătiți.
+- **plescáiță**
+	- f. — troscot.
+	- f. — iarba-fecioarelor.
+- **plésnic**
+	- adj. — murg-deschis.
+	- adj. — sur amestecat cu negru
+- **pleş**
+	- n. — loc sterp în porumbişte.
+	- adj. — chel. La DLR.
+- **pleşe** n. — loc sterp în porumbişte.
+- **pleşcá** (a) — a cheli.
+- **pleşán** m. — chilipirgiu.
+- **pleşcuí** (a) — a umbla după chilipir.
+- **pleşcuít** n. — chilipir. (I.Creangă).
+- **pleşúg** adj. — chel.
+- **pleşúv** adj. — chel. La CADE.
+- **pleşuvi** (a) — a cheli.
+- **plète** f. pl. — mătase de porumb.
+- **pletioşêl** adj. — pletos.
+- **plev** n. — cană de tinichea. La DU.
+- **plevári** n. — încăpere pentru pleavă.
+- **plevnic** n. — v. plevari.
+- **plin** n. — prizonierat.
+- **pliní** (a) — a îndeplini.
+- **plini** (a) — a servi. (TD).
+- **plisc** n. — cioc. La I.Creangă.
+- **plise** n. — capăt ascuțit. La M.Eminescu.
+- **pliscoiát** adj. — ţuguiat. La CADE.
+- **pliscuşór** n. — cioc mic.
+- **plită** s. — placă de tuci cu găuri.
+- **plite** f. pl. — lespezi de piatră.
+- **pliví** (a) — a curăța covorul ales.
+- **plînsoáre** f. — plînset. La M.Eminescu.
+- **plînsóri** f. pl. — plînsete.
+- **plîntá** (a) — a cufunda. (DD).
+- **plod** n. — copil din flori.
+- **plodi** (a) — a se înmulți. La I.Sbiera.
+- **plomp** m. — plop.
+- **plop** m. — stîlp la streaşina casei.
+- **ploscar** m. — paharnic.
+- **plóscă** f. — împăcare. E x p r. A bea
+- **ploscăúț** n. — cleşte de cizmărie.
+- **ploschíni** m. pl. — cînepă pentru sămînță.
+- **plóşniț** m. — păr pădureţ.
+- **plotoşíte** adj. — istovite.
+- **plufturuí** (a) — a dojeni.
+- **plug de prăşit** n. — prăşitoare de rărit.
+- **plugurél** n. — obicei de Anul Nou.
+- **pluguşór** n. — obicei de Anul Nou.
+- **plujóc** n. — v. plujancă.
+- **plumb de scris** n. — creion.
+- **plumb** n. — creion. La DU.
+- **plumb de carandaş** n. — mină de creion.
+- **plumbuí** (a) — a se împietri. (DD).
+- **plutảş** m. — plop alb.
+- **plutáş** m. — pescar care trage năvodul.
+- **plutărí** (a) — a merge cu pluta pe apă.
+- **poåle** f. pl. — covoraşe pe laviță. (ALM).
+- **poáma-cînelui** f. — zîrnă.
+- **poámă de pom** f. — vişină.
+- **poáme** f. pl. — pomuşoare.
+- **pocinóc**
+	- n. — fir sucit, la început.
+	- n. — primul fus tors.
+- **pocímb** n. — buturugă.
+- **pocít** adj. — stîlcit. (I.Druță).
+- **pociúm** m. — ciot. (DD).
+- **pociúmb** m. — par scurt. La DU.
+- **pocînéț** n. — pioneză.
+- **pocîrjît** adj. — zgîrcit.
+- **pocîrțán** m. — țăran necăjit.
+- **poclít**
+	- n. — coşul trăsurii. La I.Creangă.
+	- n. — acoperiş la casă.
+- **pocloáne** n. pl. — daruri. (TD).
+- **pocríş** n. — capac de lemn pentru căldire.
+- **pod**
+	- n. — plaz.
+	- n. — pînză albă la streaşină.
+- **podsác** n. — minciog.
+- **poduréle** n. pl. — ştergare la prapore. póduri n. pl. - pomene la înmormîntare. podvál $`n`$. - căpătîi la butoi.
+- **podvodár** m. — cărăuş.
+- **podvodărí** (a) — a se ocupa cu cărăuşia.
+- **poftós** adj. — pofticios.
+- **pogán**
+	- adj. — slut. La I.Sbiera. La DLR.
+	- adj. — stîlcit. (I. Creangă).
+- **pogîrci** (a) — a culege spice. La DU
+- **pogîrjit** adj. — zgîrcit. La CADE.
+- **pogón** n. — lot de pămînt. La V. Alc sandri.
+- **pogón fălcesc** n. — v. pogon.
+- **pogonári** m. pl. — cai de povară.
+- **pogonărítul pe păpuşoi** n. — darc in
+- **pogonărítul pe tutun** n. — dare de 4 lvi pentru un pogon de tutun.
+- **pogonése** adj. — măsură de suprafậà
+- **pogoníci** m. pl. — cei care mînă boii.
+- **pogorî** (a) — a coborî.
+- **pogribán** m. — poreclă. (Th.Holban).
+- **pogróm** n. — atacuri banditeşti conlia orînduirii constitutionale.
+- **pogromíst** n. — persoană extremist-nia ționalistă care participă la pogromuri.
+- **pohîrní** (a) — a răsturna. La D. Cantemii
+- **pohóț** m. — ticălos. La I.Creangă.
+- **pohód**
+	- n. — Expr. A duce în pohod a duce calul de căpăstru.
+	- n. — căpăstru.
+- **pulntar** f. — grajd pentru vite. puefleñ $`f`$ - coteț.
+- **pojár**
+	- n. — incendiu. La C.Negruzzi.
+	- n. — rug. La M.Sadoveanu.
+	- n. — roşața zorilor.
+- **pojăr** n. — înflăcărare. (V.Alecsandri).
+- **pojárnic** m. — pompier. La V.Alecsandri.
+- **poléu** n. — lan de grîne.
+- **pólic** n. — laviṭă.
+- **poligní** (a) — a se apleca (grînele).
+- **polignit** adj. — culcat la pămînt. (DD).
+- **polişér** n. — blidar.
+- **polişioáră** n. — blidar.
+- **politicí**
+	- (a) — a pune la cale. (I. Neculce).
+	- (a) — a se folosi. La TDRG.
+- **politici** (a) — a îndruma. La V. Drăghici.
+- **politicit** adj. — civilizat.
+- **polițári** n. — blidari.
+- **póliță** f. — cormană.
+- **poliván** n. — stropitoare.
+- **polivánic** n. — stropitoare.
+- **polivizátor** n. — maşină de stropit.
+- **polívnic** n. — încăpere pentru pleavă.
+- **polobóc** n. — butoi. La Al.Donici.
+- **polobocél** n. — butoiaş. La M. Eminescu.
+- **polocrí** (a) — a porecli.
+- **pológ**
+	- n. — cînepă lăsată să se usuce.
+	- n. — otcoş. La CADE.
+- **pológ înrăclat** n. — păretar în dame.
+- **pologí**
+	- (a) — a cosi brazde.
+	- (a se) — a se pătuli. La TDRG.
+- **polomoti** (a) — a bodogăni.
+- **poloníc**
+	- n. — lingură mare.
+	- n. — strecurătoare.
+	- n. — cratiță.
+- **polóvnic** n. — încăpere pentru pleavă.
+- **pólveni** m. — flacără.
+- **pom**
+	- n. — copăcel la înmormîntare.
+	- n. — tulpină.
+- **pom agúț** m. — dud.
+- **pomăi** (a) — a se ofili.
+- **pomăit** adj. — uscat. La T.Pamfile.
+- **pomănár**
+	- m. — cerşetor.
+	- m. — roman, țigan.
+- **pomắt** n. — sad. La CADE.
+- **pomăzánic** m. — uns al lui Dumnezeu.
+- **pomăzuí** (a) — a învesti. (M.Sadoveanu).
+- **pomăzuít** adj. — uns, învestit.
+- **pomélnic** n. — pomenic. (CM).
+- **pomeni** (a) — a aminti. E x pr. Unde se pomeneşte? = nici vorbă, nici pomeneală. La TDRG.
+- **ponorît**
+	- adj. — surpat.
+	- adj. — hopuroasă.
+- **ponorîtúră** f. — surpătură.
+- **ponorós** adj. — surpat.
+- **ponós**
+	- n. — hulă, clevetire.
+	- n. — consecință. E x pr. A trage ponoasele $`=\mathrm{a}`$ fi învinuit. La DELM.
+- **ponosîtă** adj. — purtată. La Săptămîna.
+- **ponosláş** m. — reclamant. La S.F.Marian.
+- **ponóslu** n. — plîngere.
+- **ponóslui** (a) — a pîrî. La P.Ispirescu.
+- **ponosluitór** m. — clevetitor.
+- **pop**
+	- n. — pat la vîrtelniță. La DU.
+	- n. — par pentru bătut stîlpi.
+	- n. — glugă de porumb.
+	- n. — mănunchi de cînepă.
+	- n. — proptea. La C. Hogaş.
+	- m. — pe care se fixează nicovala.
+- **popantắu** n. — proptea (la gard).
+- **pópă**
+	- m. — sprijin la căprior.
+	- m. — stîlp la streaşină.
+- **popic** n. — lemnişor (joc în popice).
+- **popír** n. — tăietură pe un copac.
+- **popivnic** m. — piperul lupului. La DU.
+- **popîc** interj. — tronc.
+- **popîlni** (a) — a umple cu ochi.
+- **popîlnit** adj. — plin cu ochi.
+- **popîrțác** n. — crăcană prinsă la cotigă.
+- **popirțác** n. — proptea.
+- **popón** n. — învelitoare pe cal.
+- **poponéț**
+	- m. — sfeşnic. La C. Hogaş.
+	- m. — neaşteptat. Expr. A veni
+	- m. — înțepenit. Expr. A sta
+	- n. — opaiț.
+- **poponét** n. — cătină (fructul).
+- **poporáni** m. pl. — oameni simpli.
+- **poporăni** m. pl. — enoriaşi. La I.Creangă.
+- **popréşnic** n. — grindă (la casă).
+- **popri** (a) — a propti. La I.Creangă.
+- **poprí** (a) — a împiedica.
+- **poprígă** f. — gîtar (la căpăstru).
+- **popritór** n. — ham fără “jug”.
+- **popşoáe** f. pl. — porumbişte.
+- **popşoéş** m. — crin.
+- **poráiburi** n. pl. — baliverne.
+- **porăí**
+	- (a se) — a trebălui prin casă.
+	- (a) — a ajuta nuntă.
+- **porăitoáre** f. — bucătăreasă la nuntă.
+- **porcán**
+	- n. — căpiță de fîn. La Săptămîna.
+	- n. — glugă. (TD).
+	- m. — porc mare şi gras.
+	- m. — obrăznicătură.
+	- n. — grămadă. (TD).
+- **porcănél** n. — grămăjoară de fîn.
+- **porcăní** (a) — a aduna (fînul).
+- **porcăráş** m. — coada-vacii.
+- **pórci** m. pl. — E x p r. Cînd or zbura porcii $`=`$ niciodată.
+- **porecli** (a) — a porocli. (CM).
+- **poricále** f. pl. — fructe de tot felul.
+- **porón** n. — pod umblător.
+- **poroní** (a) — a se surpa.
+- **poronít** adj. — surpat.
+- **porpăí** (a) — a scurma.
+- **portă** m. — mare dregător. La DIM.
+- **portáş** m. — stîlp. (TD).
+- **pórturi** f. pl. — purtări. La TD.
+- **porumbác**
+	- m. — pasăre pestriță.
+	- adj. — cu pete diferite (cal).
+- **porumbár** m. — arbust sălbatic.
+- **porumbăcél** adj. — suriu. La E. Sevastos.
+- **porumbréi** m. pl. — porumbrişte.
+- **porumbrél** m. — porumbar (arbust).
+- **porunci** (a) — a ordona. La DU.
+- **posădí** (a) — a aşeza. (Dosoftei).
+- **posăí** (a) — a mocni (focul).
+- **posesór** m. — arendaş. La C.Negruzzi.
+- **posleț** n. — rachiu prost. La DU.
+- **posmág** m. — pesmet. La DLR.
+- **posmăgéi** m. pl. — biscuiți de casă.
+- **posmăgí** (a) — a presăra cu pesmeți pisați.
+- **posmăgít** adj. — uscat. La TDRG.
+- **posmól**
+	- n. — grămadă. La CADE, DD.
+	- n. — grămadă. (E.Sevastos).
+- **posodí** (a) — a aşeza plasa pe frînghii.
+- **posodi** (a) — a lega o plasă pescărească.
+- **pospái** n. — praf la moară.
+- **pospăí** (a) — a prăşi pe alocuri. (DD).
+- **postățí** (a) — a parcela.
+- **postélnic**
+	- m. — dregător de curte. DIM.
+	- m. — stratornic.
+- **postélnic al doilea** m. — ajutor de postelnic.
+- **postelnicél** m. — slujitor al curții.
+- **postiménte** n. pl. — căpătîe la butoaie.
+- **postîrnác** n. — cufundar.
+- **poştalión**
+	- m. — poştar.
+	- m. — cal de poştă.
+- **poticní** (a) — a podidi. La TD.
+- **potir** n. — corolă. La DLR.
+- **potiráş** m. — oştean dintr-o poteră.
+- **potlogảr** m. — pungaş. La C.Negruzzi
+- **potlogărit** adj. — pungăsit. La TDRC;
+- **potnógi** m. pl. — v. ponogi.
+- **potoli** (a) — a mîlcomi. (CM).
+- **potolí** (a) — a pătuli.
+- **potolít** adj. — pătulit. (TD).
+- **potopí**
+	- (a) — a pustii. La C.Negruzzi.
+	- (a) — a nimici.
+- **potricalíu** adj. — portocaliu.
+- **potricălí** (a) — a găuri. La D.Cantemir
+- **potriví** (a) — a aranja. (DD).
+- **potrivít** adj. — educat. (DD).
+- **potróc** n. — ciorbă. (Şezătoarea).
+- **povárcă** f. — cratiță.
+- **povăț** n. — îndrumare. La CADE.
+- **póvod** n. — dîrlog.
+- **povodléț** n. — sfoară ce distanțează cîrlito le carmacelor.
+- **povodsiníc** m. — pescar de rezervă.
+- **povodníc** m. — v. pohodnic.
+- **pwvodnicár** m. — v. povodnic (pescar).
+- **pwzár** m. — fotograf.
+- **piozi** (a) — a se fotograsia.
+- **puzanáş** m. — păcălici. La DU.
+- **pring** n. — partea de jos a burții
+- **prahoáne** f. pl. — lambe la căruță.
+- **prainic** n. — mai de rufe.
+- **prajóc** n. — săpătoare de rărit porumbul.
+- **pramatíi** f. pl. — bizarerii.
+- **pramatiós** adj. — glumeț.
+- **pránic** n. — mai de rufe.
+- **pranicá** (a) — a bate (rufele, pînza).
+- **pripaşníc** n. — săpătoare de rărit.
+- **prapur** n. — bacşiş pentru mireasa din all sat.
+- **prápur** n. — obicei de nuntă.
+- **prápuri** n. pl. — grăsime la intestine.
+- **prascuí** (a) — a călca cu fierul de călcat.
+- **praşovíc** n. — săpătoare de rărit.
+- **praşuí** (a) — a săpa.
+- **prav** n. — praf (de puşcă).
+- **právăț**
+	- n. — țel. La C.Conachi.
+	- n. — călăuză. La C.Negruzzi.
+- **pravilicéşte** adv. — legitim. V.Alecsandri.
+- **pravoslávnic** adj. — ortodox.
+- **prăci** adv. — cu totul. La I.Sbiera.
+- **prăfturí** (a) — a batjocorî pe cineva.
+- **prăji**
+	- (a) — a privi.
+	- (a) — a privi. Cu prăjitul = cu
+- **praji** (a) — a se uita. (TD).
+- **prăjí**
+	- (a) — a se oglindi.
+	- (a) — a se usca la soare.
+- **prăjít** n. — privit. E x p r. Cu prǎjitul = cu privitul.
+- **prăjițắi** m. pl. — prăjituri.
+- **prămîndi** (a) — a locui. Prămindeşte prin codri ca pasărea. (Psaltirea Şcheiană).
+- **prăpadá** (a) — a prăda.
+- **prăpădenie** f. — primejdie.
+- **prăpădí**
+	- (a) — a pierde. La C. Negruzzi.
+	- (a) — a conceni. La CADE.
+- **prăpădit** adj. — pierdut. La C.Negruzzi.
+- **prăsáde mălăețe** f. pl. — pere zemoase.
+- **prăsădi** (a) — a sădi, a răsădi.
+- **prăsădári**
+	- n. — păr.
+	- n. — păr pădureț.
+- **prăsădzắl** m. — păr mic.
+- **prăşí** (a) — a săpa.
+- **prăşít** n. — săpat. La T.Pamfile.
+- **prăşitór** m. — săpător. La Al.Vlahuță.
+- **prăvălátic** adj. — povîrnit. M. Eminescın prăvălíş n. - povîrniş. La V.Alecsandri prăvălit adj.- surpat. La M.Eminescu preamói n. - vin negru.
+- **precístă** adj. — maica Domnului.
+- **precistuí** (a) — a împărtăşi. (TD).
+- **precît** adv. — cît. La V.Alecsandri.
+- **precovîrşí** (a) — a precumpăni. I.Creangâ
+- **precupeți** (a) — a neguțători. (TD).
+- **precupí** (a) — a trafica. La V. Alecsandri
+- **prefáce** (a se) — niznái. Expr. A ”
+- **prejmuire** f. — loc îngrădit.
+- **prelungát** adj. — foarte lung. (TD).
+- **premînteán** m. — pămîntean.
+- **prepeleác**
+	- n. — crăcană pentru oale.
+	- n. — proptea.
+- **prepelicár** m. — câine de vînătoare.
+- **prescúră** f. — covoraş.
+- **pricolici** m. — arătanie. La DU.
+- **pricopsi** (a) — a se alege cu ceva. DU.
+- **priér** m. — aprilie.
+- **priétnic** m. — prieten.
+- **prifónt** n. — pâine cazonă. La CADE.
+- **prig** adj. — cu picioarele albe (cal).
+- **prigón** n. — boi înjugați la mijloc.
+- **prihvatizá** (a) — a ciordi.
+- **prii** (a) — a-i face bine, a-i plăcea.
+- **priinciós** adj. — plăcut, prielnic.
+- **priimác** m. — care trăieşte în casa soției.
+- **priitóri** m. — prieten.
+- **priláz** n. — pîrleaz. (M.Eminescu).
+- **priléj** n. — pîrlej. (CM).
+- **prilejui** (a) — a pîrleji. (CM).
+- **primáe**
+	- adj. — negru (strugure).
+	- adj. — nealtoită (vița de vie).
+- **príma-ntăi** adv. — întîi de toate.
+- **primási** m.pl. — E x pr. A se duce în
+- **primắu** n. — vin negru.
+- **primăvărá** (a) — a ajunge în primăvară.
+- **priméturi** n. pl. — semne distinctive.
+- **priminitúri** f. pl. — schimburi.
+- **prinsoảre** f. — lot de pămînt.
+- **pripătoáre** f. pl. — opritori (la hamuri).
+- **pripi** (a) — a grăbi. La DU.
+- **pripicióc** n. — cotruță.
+- **pripói** n. — obicei la nuntă.
+- **pripoiéni** m. — invitații la pripoi.
+- **pripón**
+	- n. — proptea.
+	- n. — aṭă pentru peştele prins.
+- **pripór**
+	- n. — ponor.
+	- n. — loc de împiedicat roata.
+	- n. — povîrniş. La Al.Vlahuță.
+- **priporós** adj. — prăpăstios. Al.Vlahuță.
+- **pripúne** (a) — a presupune.
+- **prisáde** f. pl. — pere.
+- **prisăcár** m. — stupar. La M.Costin prisăcári $`m`$. - om scund.
+- **prisăcărít**
+	- n. — dare pe prisăci.
+	- n. — stupărit. La DLR.
+- **prisăcăríță** f. — stupăriță.
+- **prísne** adv. — în întregime. La I.Neculce
+- **prisnél**
+	- n. — titirez. La M.Eminescu.
+	- n. — totîrlă.
+- **pristăvi** (a) — a deceda.
+- **pristuí** (a) — a se împărtăşi.
+- **prişinós** adj. — certăreț.
+- **pritoci** (a) — a turna în alt butoi.
+- **priváz**
+	- n. — carniz (la fereastră).
+	- n. — toc (la fereastră).
+	- n. — ornament la streaşină.
+- **proclețíre** f. — înrăutățire.
+- **procovắṭ** n. — covoraş pe cal.
+- **procovắṭn** n. — ibîncă. La CADE.
+- **procóvnic** m. — plantă decorativă.
+- **procúț** n. — pătură de lînă.
+- **prodúcte** f. pl. — legume.
+- **profiríu** adj. — roz (vin).
+- **progonár** m. — năvodar.
+- **proháb**
+	- n. — şliț. La N.Gane.
+	- n. — ascunziş. Expr. Adescoase (pe cineva) din toate prohaburile = a încerca să se afle toate intimitățile.
+- **prohíz** adj. — nelimpezit.
+- **prohón**
+	- n. — corlate (la pod).
+	- n. — drum pentru vite.
+- **prohorisí** (a) — a o duce bine. La DU.
+- **promorocit** adj. — plin de chiciură.
+- **propi** (a) — a opri.
+- **propitori** f. pl. — opritori (la hamuri).
+- **prós-negru** adj. — negru-deschis.
+- **prósie** f. — pămînt hodinit. La CADE.
+- **puciós** adj. — leneş.
+- **puciúmb**
+	- n. — ciot de copac.
+	- n. — buturugă.
+- **pudurícă** adj. — roz-deschis.
+- **púhab** adj. — înfoiat. Pîne puhabă. (DD).
+- **púhav** adj. — găurit. La M.Eminescu.
+- **puhăvi** (a) — a înfoia.
+- **puhlibuitór** m. — bîrfitor. La Gr.Ureche.
+- **puhoiér** m. — pasăre răpitoare.
+- **puhuéle** f. pl. — oftalmie la cai.
+- **puhuí** (a) — a se îmbolnăvi (ochii cailor).
+- **púi încheeți** m. pl. — ornament.
+- **púi**
+	- m. pl. — altițe la ie.
+	- m. pl. — lăstari sterpi.
+- **pui**
+	- m. pl. — bubuțe crăpate pe picioare.
+	- interj. — repetat, se cheamă găinile.
+- **puiét răsădit** m. — sadniță.
+- **puiéți** m. pl. — lăstari sterpi.
+- **puiczí** (a) — a se înmulți.
+- **puigán** m. — pui mare de pasăre.
+- **puiós** adj. — care face mulți pui.
+- **puişór**
+	- m. — cusătură pe țesături. La DU.
+	- m. — lăstar sterp.
+- **puişóri** m. pl. — puiet de albini.
+- **puít** n. — copilire.
+- **pulpán** n. — picior de găină cu şoldul.
+- **pulpoásă** adj. — cu ugerul mare. CADE.
+- **pumbíu** adj. — roşu-deschis.
+- **púne** (a) — a mînca. Expr. A pune
+- **pungí** (a) — a jefui. (TD).
+- **punói** n. — puroi. La DU.
+- **punoiá** (a) — a puroia.
+- **punoiós** adj. — puroios.
+- **pur** n. — plantă. La DU.
+- **purceláş** m. — scǎete. La DU.
+- **puricáşi** m. pl. — cuie.
+- **puricós** adj. — neîngrijit, nespălat.
+- **purdúh** n. — copcă. (DD).
+- **purtá**
+	- (a) — a ponosi. (CM).
+	- (a) — a umbla (vorba). E x p r. Se
+- **purúc** m. — corlată (la pod).
+- **purúşi** m. pl. — ghizdele.
+- **pustii** (a) — a se nărui (casa).
+- **puşcá** (a) — a împuşca. (M.Sadoveanu).
+- **puşcár** m. — tunar. La DU.
+- **puşcáş** m. — cui.
+- **puşcări** (a) — a trage cu tunul.
+- **puşcărie** f. — artilerie. La N.Costin.
+- **puşi**
+	- (a) — a mocni.
+	- (a) — a afîna.
+- **puşlău** m. — dezertor. C. Stamati.
+- **putác** n. — mîner la cosie.
+- **putére** f. — avuție.
+- **puterniciós** adj. — puternic.
+- **pútină** f. — căldare.
+- **putinciós** adj. — capabil, puternic.
+- **putinél** n. — putinei.
+- **puțîgói** m. — pițigoi.
+- **puțînél** adv. — puțin.
+- **puțuí** (a) — a rindelui.
+- **puțuntícă** adj. — josuță.
+- **pumuegél** n. — şomoiag mic.
+- **pupurí** (a) — a se furişa. La I.Creangă.
+- **pură** s. — construcție - anexă.
+- **púră** f. — gură spartă. E x pr. A căsca o
+- **pánṭoş** adj. — mîndru, fudul.
+
+## R
+
+- **rulupar** n. — calomfir.
+- **r slŏl** — cahlă.
+- **ramii** (a) — a dosădi. La CADE.
+- **rcáşnic** m. — persoană care dă vin.
+- **rhilar** m. — şobolan.
+- **riuli** (a) — a începe să se coacă.
+- **r lonci** n. — cîrlig.
+- **rucuiá** (a) — a se cocoța.
+- **rucuiát** adj. — moțat. (M.Sadoveanu).
+- **ráliț** n. — rindea.
+- **rac** n. — rindea cu două cuțite.
+- **ráclă** f. — cutie de lemn. La M.Eminescu.
+- **radz** n. — răzătoare.
+- **rafandí** (a) — a înfuleca.
+- **ruhúli** n. pl. — lambe la căruță.
+- **railá** (a) — a răgila.
+- **railinéşte** adv. — ucraineşte; în limba ucrainenilor din fosta raia Hotin. (TD).
+- **raiştóne** n. pl. — druci pe loitre.
+- **ram**
+	- n. — ramă (de fereastră).
+	- n. — ramă (pentru portret).
+- **rant** n. — marginea tălpii încălțămintei.
+- **rasaríta-soarelui** f. — floarea-soarelui.
+- **rastasóri** n. — floarea-soarelui.
+- **rastróp** n. — v. rastroi.
+- **raşp** n. — raşpel.
+- **raşpắu** n. — raşpel de lemnărie.
+- **ráteş** n. — han. La C.Hogaş.
+- **rátuş** n. — căsoaie.
+- **rațúşti** f. pl. — coada-racului.
+- **ravác** n. — vin din struguri netescuiți.
+- **raván** n. — tigaie fără coadă.
+- **razéli** f. pl. — dantelă.
+- **ráznița** adv. — de-a dreptul. (TD).
+- **razuscá** (a) — a se usca (butoiul).
+- **razvodí** (a) — a amesteca; a dilua.
+- **răbdáre** f. — tîrpenie. La CADE.
+- **rằbdi** adv. — repede.
+- **răblădáe** f. — rablă.
+- **răbuí**
+	- (a) — a unge. La I.Creangă.
+	- (a) — a jefui.
+- **răbúş**
+	- n. — răboj. La M.Eminescu.
+	- n. — cumpăt. Expr. A-şi ieşi din
+	- n. — adevăr. E x pr. A crede după
+	- n. — umăr la ferăstrăul cu ramă.
+	- n. — ghivent la şurub.
+- **răcăduí** (a) — a se răsti. La I.Creangă.
+- **răcăluí**
+	- (a) — a face ordine în curte.
+	- (a) — a curăța, a mătura.
+- **răcăluít** adj. — curățat.
+- **răcioáră** adj. — rece. (TD).
+- **răcitúri**
+	- f. pl. — piftie. La DLR.
+	- f. pl. — tremurici.
+- **răcitúri de găină** f. pl. — piftie.
+- **rădăvoáe** adj. — făină de calitate proastă.
+- **rẳdí** n. — rîpă adîncă.
+- **rădí** n. — pădure deasă.
+- **rắdí** n. — pădurice pe vale.
+- **rădiu** n. — pădurice. La CADE.
+- **rădván** n. — un fel de caretă. La DU.
+- **rădzătorícă** f. — răzătoare (de bucătărie).
+- **råfuí** (a) — a strivi struguri.
+- **răhulí** (a) — a afîna.
+- **răiléni** m. pl. — trăitori din raiaua Hotin.
+- **rălí** (a) — a ara cu rala.
+- **rălițí** (a) — a afîna.
+- **răluí** (a) — a afîna.
+- **rămăşảg** n. — pariu. La C.Negruzzi.
+- **rắmi** f. pl. — lozniță. (TD).
+- **rắmnic** n. — iaz mic.
+- **rămurá** (a) — a se ramifica.
+- **rămurát** adj. — despărțit în ramuri.
+- **rămurí** (a) — a licări. (Gr.Vieru).
+- **răncăluí** (a) — a se irita.
+- **rănchezá** (a) — a necheza.
+- **răní** (a) — a strînge. (TD).
+- **răntuná** (a) — a răsturna. (I.Neculce).
+- **răpănós** adj. — jegos. La I.Creangă.
+- **răpănoşénie** n. — ticălos.
+- **răpciúgă** f. — guturai, morvă.
+- **răpciugós** adj. — bolnav de răpciugă.
+- **răpéz** n. — îndemn puternic.
+- **răpezúş** n. — izbucnire.
+- **răpştí** (a) — a cîrti. La DU.
+- **rărí** (a) — a pierde din grăsime (laptele).
+- **răríş** n. — loc sterp.
+- **răsărí**
+	- (a) — a dospi. (TD).
+	- (a) — a tresări. (TD).
+	- (a) — a răscoli. (TD).
+- **răsărítă** f. — floarea-soarelui (semințe).
+- **răscoále** n. pl. — druci aşezați pe loitre.
+- **răscól** n. — druc despărțitor.
+- **răscolí** (a) — a împărți oile toamna.
+- **răsdzîşe** (a) — a poftori. La CADE.
+- **răsfulgítă** adj. — bolnavă de răsfug.
+- **răsól** n. — piftie.
+- **răsól de cucoş** n. — piftie.
+- **răspicá** (a) — a despica. (Al.Donici).
+- **răspopí** (a) — a scoate din popie.
+- **răspopít** adj. — dat afară din popie.
+- **răspúnde**
+	- (a) — a făgădui. (TD).
+	- (a) — a ține legătură. La DLR.
+	- (a) — a răsplăti, La N.Gane.
+- **răspúns** n. — petrecere după logodnă.
+- **răstimp** n. — interval. La DU.
+- **răstoárce**
+	- (a) — a se răzbuna. I.Creangă.
+	- (a) — a întoarce.
+- **răstocí** (a) — a abate cursul unei ape.
+- **răstocítă** adj. — abătut din cursul ei.
+- **răstrăbunéi** m. pl. — străbunei.
+- **răstrăgoálă** adj. — săracă. (TD).
+- **răsúc** n. — fus de răsucit. La E.Sevastos.
+- **răsuffá**
+	- (a) — a se odihni. La M.Costin
+	- (a) — a-şi reveni. La CADE.
+- **răsuflá** (a) — a respira. La CADE.
+- **răsuflătóri** f. pl. — bronhii (la peşte).
+- **răşchiét** adj. — împrăştiat.
+- **răşchirá** (a) — a împrăştia. (I.Neculce).
+- **răşchirảte** adj. — deschise. (DD).
+- **răşluí**
+	- (a) — a lua cu hapca. La CADE.
+	- (a) — a rade de pe fața pămîntului. (M.Sadoveanu).
+- **răşluit**
+	- adj. — ciuntit.
+	- adj. — cojit (boabe).
+- **rătăcí** (a) — a greşi.
+- **rătezá** (a) — a crăpa (lemne cu toporul).
+- **rătuí**
+	- (a) — a salva.
+	- (a) — a lecui.
+- **ritu** n. — jivină.
+- **ráνán** n. — rădvan.
+- **rìvărsá** (a) — a răsturna. (TD).
+- **rìzäluí** (a) — a răzui. La CADE.
+- **ramluít** adj. — rǎzuit.
+- **ritaxirí** (a) — a ruina.
+- **razatór** n. — rindea cu daltă figurată.
+- **răzbí**
+	- (a) — a-i veni cuiva (cu ceva) de hac. La I.Creangă.
+	- (a) — a străbate. La V.Alecsandri.
+- **răzbói** n. — unealtă de ales covoare.
+- **război** (a se) — a se oşti. (CM).
+- **războlí** (a) — a se îmbolnăvi. La I. Neculce.
+- **războlít** adj. — bolnav.
+- **răzbucníte** adj. — ieşite în față.
+- **răzbucnoáe** adj. — răzbătătoare. (TD).
+- **răzbuná** (a se) — a se însenina.
+- **răzbunát** adj. — senin.
+- **răzbunéi** m. pl. — străbunei.
+- **răzdá** (a) — a da mereu. La I.Creangă.
+- **rázem** n. — temei. La M. Eminescu.
+- **răzéş** m. — moşnean.
+- **răzeşăsc** adj. — de zăzeşi. La I. Creangă.
+- **răzghí** (a) — a constrînge. Expr.A
+- **răzîmbláte** adj. — mult umblate.
+- **răzlețí**
+	- (a) — a despărți. La I.Neculce.
+	- (a) — a se împrăştia. La I.Neculce.
+- **răzlóg**
+	- n. — bară despărțitoare.
+	- n. — răscol la căruță.
+	- n. — despicătură. La DLR.
+	- n. — despicătură. La I.Creangă.
+- **răzluít** adj. — vopsit.
+- **răzmér** n. — compas de tîmplărie.
+- **răzmoi** (a) — înmuia. La N.Costenco.
+- **răzni** (a) — a rupe. La N.Costenco.
+- **răzní**
+	- (a) — a răpi. (T.Pamfile).
+	- (a) — a se despărți. (CADE).
+- **răzoáre** n. pl. — arcuri la trăsură.
+- **răzór** n. — mejdă. La DEX.
+- **răzúş**
+	- n. — Iopățica slobozitorului. La CADE.
+	- n. — daltă. La CADE.
+- **răzvoáre** f. pl. — arcuri la trăsură.
+- **răzvrătí** (a) — a (se) revolta. La M. Eminescu.
+- **réci** pl. — piftie. La CADE.
+- **reformát** adj. — mîrțoagă.
+- **réism** n. — paralel de tîmplărie.
+- **réisnic** n. — paralel de tîmplărie.
+- **renáş** m. — locuitor din Reni.
+- **repegiór** adv. — repede. La AI.Vlahuță.
+- **repezúş** n. — lapte înăcrit.
+- **repezít** adj. — vijelios. La M. Eminescu.
+- **restéu** n. — cui lateral la jug. La I. Creangă.
+- **reştováni** m. pl. — druci pe loitre.
+- **rezervíst** m. — pescar (duce peştele).
+- **ridicul** adj. — caraghios. La M.Eminescu.
+- **rif** m. — măsură de lungime. La CADE.
+- **ríni** n. — prundiş pentru pavare.
+- **risałit** n. — cuțit de curătat copita calului.
+- **rişótcă** f. — corlate la pod.
+- **rişluắlne** f. pl. — druci la loitre.
+- **rivceác** n. — urmă lăsată de un şuvoi.
+- **rivní** (a) — a netezi.
+- **rlecác** n. — şanț de-a lungul gardului.
+- **rîcîi** (a) — a scurma (ALM).
+- **rîdicá**
+	- (a) — a dospi (aluatul).
+	- (a) — a avansa.
+	- (a) — a spori valoarea. (DD).
+	- (a) — a dezmierda. (DD).
+- **rîdicătúri** f. pl. — greutăți. (DD).
+- **rîgluí** (a) — a fălțui cu rindeaua.
+- **rîglui** (a) — a netezi. (DD).
+- **rîhluí** (a) — a afîna.
+- **rîhní** (a) — a rîvni.
+- **rîlă** f. — rît.
+- **rîmbuí** (a) — a săpa de mîntuială.
+- **rîmiá** (a) — a pune rîma în cîrlig.
+- **rîmlenésc** adj. — roman. (Gr.Ureche).
+- **rîmléni** m. pl. — romani. La Gr.Ureche.
+- **rîmnic** n. — heleşteu. La M. Sadoveanu.
+- **rîncăi** (a) — a mugi.
+- **rînchéz** n. — nechez. La CADE.
+- **rînduí**
+	- (a) — a aranja. (TD).
+	- (a) — a construi. (TD).
+- **rîndunícă de pămînt** f. — nevăstuică.
+- **rînduri** n. pl. — generații. (TD).
+- **rînşedă** adj. — grosolană.
+- **rînşi** f. pl. — lambe de dinapoi la căruță.
+- **rînzíş** adj. — de-a lungul. (TD).
+- **rînzós** adj. — iute la mînie. La DU.
+- **rîsác** adj. — pătat, tărcat (cal).
+- **rîschig** n. — cîrmați uscați.
+- **rîschirát** adj. — împrăştiat.
+- **rîschít** adj. — uscat. Sunî a rîschit = butoiul sună a dogit.
+- **rîstí** (a) — a se scurge. (TD).
+- **rîstiu** adv. — în buestru. (DD).
+- **rîşchiá** (a) — a depăna pe rîşchitor.
+- **rîşchirát** adj. — zdravăn (bărbat).
+- **rîşcov** m. — ciupercă comestibilă. La DU.
+- **rişinós** adj. — producător de rîşină.
+- **rîşní**
+	- (a) — a ruguma.
+	- (a) — a strivi strugurii.
+	- (a) — a unge cu unsoare.
+- **rîtoásă** adj. — cu gura mare.
+- **rîtós** adj. — cu gura mare.
+- **rîvní** (a) — a pohti.
+- **robáci** adj. — hamic. La I.Creangă.
+- **robánc** n. — rindea lungă. La DU.
+- **robinós** adj. — hopuros. (TD).
+- **robotí** (a) — a lucra.
+- **rocoşí** (a) — a se răscula. La D.Cantemir.
+- **rocoşi** (a) — a se răzmeriți. (CM).
+- **rocoşán** m. — răsculat. La D.Cantemir.
+- **rodiná** (a) — a naşte.
+- **ródini**
+	- f. pl. — naştere. E x pr. A merge
+	- f. pl. — naştere.
+	- f. pl. — daruri aduse lehuzei.
+- **rodós** adj. — plin de rod. (TD).
+- **róinic** adj. — agitat în mişcare.
+- **roitór** adj. — care roieşte. M.Eminescu.
+- **rójă** f. — erizipel.
+- **rólă** f. — cuptorul maşinii de gătit. DLR.
+- **romálî** pl. — romani, țigani.
+- **románi** m. pl. — sandale.
+- **romîníe** adv. — româneşte.
+- **rontí** (a) — a se învîrti.(TD).
+- **ropotí** (a) — a dansa cadențat.
+- **rosiénesc** adj. — care aparține Rusiei.
+- **rospaşî** (a) — a afîna.
+- **rospáşnic** n. — săpătoare de rărit.
+- **rost** n. — linişte.
+- **rostári** n. — băț la războiul de țesut.
+- **rostfór** n. — răsfug. (DD).
+- **roş** m. — erizipel.
+- **róşă** adj. — roşie.
+- **roş de obraz** n. — roşcă.
+- **roş-mîhnit** adj. — roş-întunecat.
+- **roş-prost** adj. — roş-deschis.
+- **róşu-gălbîu** adj. — roib.
+- **róşu-negros** adj. — vişiniu.
+- **roşáță** f. — culoare roşie.
+- **roşcán** adj. — roşcovan.
+- **roşcobát** adj. — roib-deschis.
+- **róşi** m. pl. — vărsat. ( DD ).
+- **roşíu** adj. — roşietic.
+- **róşîe** adj. — roşietică. Anină roşie. (DD).
+- **roşiétic** adj. — şaten.
+- **róşte** f. pl. — erizipel.
+- **rótă de floarea-soarclui** f. pl. — pălăria florii-soarelui.
+- **rotéle** f. pl. — scripți (la ițe).
+- **rotí** (a) — a se rotunji. (TD).
+- **rotilåt** adj. — rotund. (S.F.Marian).
+- **rotilát** adj. — încovoiat. La V.Alecsandri.
+- **rotoféi** adj. — dolofan. La CADE.
+- **rotogól** adj. — rotund. La S. F.Marian.
+- **rotăi** (a) — a se făli.
+- **rovinós** adj. — plin de rovini.
+- **roz-álb** adj. — trandafiriu-deschis.
+- **rozátic** adj. — rozoviu. (V.Alecsandri).
+- **rozał** f. — trandafir. La C.Negruzzi.
+- **róză-frumuşică** adj. — roz-închis.
+- **roziu** adj. — trandafiriu. V. Alecsandri.
+- **ruæmír** n. — vamă (la moară).
+- **rózov**
+	- adj. — roz (vin).
+	- n. — ruşine. Expr. A nu avea
+- **rózov-aprins** adj. — ros̨-deschis.
+- **rózov-închis** adj. — roş-deschis.
+- **rúzov-spălat** adj. — roz-deschis.
+- **rózovi** adj. — roz (vin).
+- **rozoviii** adj. — roz (vin).
+- **rwańli** m. pl. — greutăți la avă.
+- **rózvu-alb** adj. — roz-deschis.
+- **rubéli** n. — druc de-a lungul carului.
+- **rubílnic** n. — druc de-a lungul căruței.
+- **rucsác** n. — raniță.
+- **rudí** (a) — a se înrudi. La N.Costin.
+- **rufăşél** adj. — rufos.
+- **rúfe** f. pl. — albituri rupte.
+- **rufós** adj. — zdrențăros. (CADE).
+- **rug** n. — curpăn de cartofi.
+- **rúget** n. — muget. La C.Hogaş.
+- **ruginit** adj. — galben-roşietic.
+- **rúgum** n. — rumeguş.
+- **rugumá** (a) — a rumega. La CADE.
+- **rugumát** adj. — rumegat.
+- **rujinós** adj. — ruginit.
+- **rumá** (a) — a zdrepțîna. (ALM).
+- **rumanjíc** adj. — înroşită. (TD).
+- **rumăn** adj. — roş la față. La AI.Vlahuță.
+- **rumeni** (a) — a se înroşi. La AI.Vlahuță.
+- **rumenít**
+	- adj. — îmbujorat.
+	- adj. — copt bine. La I.Creangă.
+- **rúmpe**
+	- (a) — a rupe. La M.Eminescu.
+	- (a) — a rupe. La DU.
+- **rundúc**
+	- n. — lădiță pentru mîncare la cai.
+	- n. — traistǎ pentru mîncare la cai.
+	- n. — ladǎ pentru grîu.
+- **runtuná** (a) — a se rostogoli peste cap.
+- **rúpe**
+	- (a) — a zgrepțăna. (ALM).
+	- (a) — a pătrunde. (TD).
+	- (a) — a peni. Rupim penili. (ALM).
+	- (a) — a fugi. (TD).
+	- (a) — a se întrerupe. (TD).
+- **rupt** n. — explozie. (TD).
+- **rupticoásă** adj. — zdrențăroasă.
+- **ruptîşoáră** adj. — învechită. (TD).
+- **rupțác** n. — traistă pentru mîncare la cai.
+- **rusảscă** adj. — limba rusă.
+- **rusístică** f. — studiul limbii ruse şi il culturii poporului rus.
+- **ruşinả** (a) — a necinsti. Pre călugărifŭ.
+- **ruşuí** (a) — a aluneca.
+- **ruşuós** adj. — alunecos.
+- **ruşníc** n. — ciocan de bătut cuie.
+
+## S
+
+- **siīrlán** n. — cunună (pe cap).
+- **snc** n. — plasă la capătul vintirului.
+- **suc** n. — zdravăn. Expr. A bate pe cineva $`\mathbf{s a c}=\mathbf{a}`$ bate măr pe cineva.
+- **sac** n. — nimfă de insectă. La CADE.
+- **sacalúş** n. — bucată mare. (CADE).
+- **sacîz** n. — bumbac.
+- **sacóiță** f. — cui mic.
+- **sacoghíță** f. — cîrlig de smuls fîn.
+- **sacriés**
+	- n. — cutie de chibrituri.
+	- n. — penal.
+- **sacriés pentru sare** n. — cutie de sare.
+- **sncúre** f. — teslă.
+- **sad**
+	- n. — paragină.
+	- n. — sadină.
+- **sahán** n. — farfurioară pentru ceai.
+- **suhánic** n. — farfurioară pentru ceai.
+- **sájă** f. — funingine.
+- **salamurí** (a) — a scrobi (urzeala).
+- **salarét** n. — întrecere (la nuntă).
+- **salátni** adj. — verde-deschis.
+- **salcîmi** m. pl. — copaci. (ALM).
+- **salhanác** n. — şuvoi de ploaie.
+- **salítră** f. — gaz (de lampă).
+- **saltári**
+	- n. — dulap (de cancelarie).
+	- n. — sertar.
+- **saltisón**
+	- n. — drob de porc.
+	- n. — cîrnaț din măruntaie.
+- **salúp** n. — scurteică. La CADE.
+- **samahón**
+	- n. — țuică de casă.
+	- n. — prăştină. La CADE.
+- **samán** n. — chirpici.
+- **samanátu** n. — obicei moldovenesc.
+- **sámcă** f. — ființă închipuită. La CADE.
+- **sámeş** m. — administrator de moşie.
+- **samînțáru** m. — semințe de cînepă.
+- **samînță de stejar** f. — ghindă.
+- **sánchi** adv. — adică, cum s-ar zice.
+- **sandací** (a) — a se zbînțui.
+- **sandále** f. pl. — pantofi pentru femei.
+- **sapalí** (a) — a săpa.
+- **sapaluí** (a) — a săpa (porumbul).
+- **sarái**
+	- n. — şură. La M.Sadoveanu.
+	- n. — grajd.
+- **sarbăd** adj. — searbed.
+- **saric** n. — turban. La DU.
+- **sarmáni** f. pl. — sarmale.
+- **sarmăi** f. pl. — v. sarmani.
+- **sarsaílă** m. — necuratul. La I.Creangă.
+- **sarvóc** n. — färaş.
+- **sastisi** (a) — a se ului. La DU.
+- **saşăbóc** n. — rindea de primă operațic.
+- **satîr** n. — scaraoțki.
+- **savór** m. — samur. La S.F.Marian.
+- **sazán** m. — crap. La CADE.
+- **săbui** (a) — a croi.
+- **săc**
+	- adj. — slăbănog. (TD).
+	- adv. — uscat. E x p r. A suna a såe = butoiul sună a dogit.
+- **săcălúş** n. — tun mic. La M.Costin.
+- **săcătuít** adj. — hămesit. La DU.
+- **săcelá** (a) — a țesăla. La DLR.
+- **săciuí** (a) — a tăia copaci. La Gr.Ureche.
+- **sàclitári** m. — secretar.
+- **săcrét** adj. — neumblat. La CADE.
+- **săcriéş** n. — cutie de chibrituri.
+- **săcriéş pentru sare** n. — cutie de sare.
+- **săculéț** n. — săculete.
+- **sácultét** n. — sac mic.
+- **sägitătúri** f. pl. — junghiuri.
+- **sàidăcár** m. — curelar.
+- **sałidăcár** m. — negustor pielar.
+- **sìláş** n. — aşezare de romani. La CADE.
+- **sălăfát** n. — vorbă. Expr. A sta (cu
+- **silămutós** adj. — saramuros. (ALM).
+- **salaşluí** (a) — a-şi ierta păcatele. (DD).
+- **sălăvăstru** adj. — mărinimos.
+- **sălciníş**
+	- n. — loc unde cresc sălcii.
+	- n. — desiş de sălcii.
+- **sălcutéţ** n. — v. săculteț (strecurătoare).
+- **săleác** adj. — sărac. La CADE.
+- **sălítră de sărnic** f. — gămălie de chibrit.
+- **săltăráş** n. — sertar mic.
+- **sămănát** n. — puitură. (T.Pamfile).
+- **sămănătór de popuşoi** m. — puitor de porumb.
+- **sămcúță** f. — brîncuță. La CADE.
+- **sămincér** n. — castravete pentru sămînṭă.
+- **sămn** n. — tăietură pe un copac.
+- **sămn rău** n. — pricaz. La DEX.
+- **sămnáre** f. — tîlc. (DD).
+- **sămultós** adj. — plin de săruri. (ALM).
+- **sănătoşél** adj. — sănătos.
+- **sănătoşícă** adj. — sănătoasă.
+- **săniná** (a) — a se însenina.
+- **sărád** n. — şiret de împodobit sumanele.
+- **sărảr** n. — cutie pentru sare.
+- **sărăcán** adj. — foarte sărac.
+- **sărăcáşi** adj. — oropsiți.
+- **sărăduí** (a) — a împodobi cu săraduri.
+- **sărăéş** n. — încăpere pentru vite.
+- **sărăés** n. — umbrar pentru vite.
+- **sărăimán** adj. — sărman. La AI.Donici.
+- **sărăríe**
+	- f. — salină.
+	- f. — depozit de sare.
+- **sărbezeálă** adj. — înăcrire.
+- **sărbezi** (a) — a se înăcri. La T.Pamfile.
+- **sărcinér** n. — par cu crengi scurtate.
+- **sărdác** n. — suman scurt. La CADE.
+- **săredníc** n. — chingă la ferăstrău.
+- **sărín** adj. — senin (cerul).
+- **sărisăuáş** n. — ferăstrău mic.
+- **sărítul porcului** n. — galop.
+- **sărîc** n. — druc de-a lungul carului.
+- **sărmănuț** adj. — sărmănel. S.F.Marian. sărníc n. - chibrit.
+- **sărníc** n. — păiuț.
+- **sărníşe** n. pl. — paie.
+- **sărnút** adj. — cu dungă pe bot (cal).
+- **sărvitóri** n. — v. sărviz.
+- **sărvíz** n. — tava.
+- **săşeá** f. — t͡esală.
+- **sătăi** m. pl. — draci.
+- **sătnoián** m. — locuitor din Satu Nou.
+- **săṭós** adj. — lacom.
+- **săuşeán** m. — locuitor din satul Sauca.
+- **săuşór** n. — cremă pentru față.
+- **săvîrşie** f. — capătul vieții. (E. Sevastos).
+- **săvîrşit** adj. — desăvîrşit. La C. Conachi.
+- **sbîc** interj. — țuşti. (TD).
+- **sbórnic** n. — culegere de texte.
+- **scafău** m. — scafă mare.
+- **scafíță** f. — scafã mică. (E.Voronca).
+- **scal** n. — stîncă. (TD).
+- **scảă** f. — port. Oricare vameş va fi pricină, ca să nu treacă negotătorii cu negot pe la vreo scală. (Pravila lui Vasile Lupu).
+- **scaméică** f. — scaun lung.
+- **scamós** adj. — cîlțos (lemn).
+- **scancéu** n. — sanie scurtă. La T.Pamfile.
+- **scaradilós** adj. — v. scarandiu.
+- **scarandíu** adj. — gingaş la mîncare.
+- **scarandív** adj. — gingaş la mîncare.
+- **scarapélşe** f. pl. — şosete.
+- **scarîndiví** (a) — a-ți fi scîrbă de cineva.
+- **scáun**
+	- n. — tron. La Gr.Ureche.
+	- n. — laviţă.
+	- n. — perinoc.
+	- n. — pat la vîrtelniță.
+	- n. — picior la păhărel.
+- **scảun** n. — taburet.
+- **scăecior** n. — scăete. La CADE.
+- **scăfău** n. — scafã mare. La CADE.
+- **scăfuşór** n. — blidar (în perete).
+- **scăldătoáre** f. — apa de scăldat.
+- **scăldătúră** f. — apa de scăldat pruncul. La S.F.Marian.
+- **scămoşa** (a) — a se destrăma.
+- **scăpá** (a) — a se salva. E x p r. A nu scăpa nici în borta şoarecelui = a fi imposibil de înlăturat un pericol.
+- **scăpărá** (a) — a aprinde (chibritul). (TD).
+- **scăpărătoáre** f. — amnar.
+- **scăpătá**
+	- (a) — a se poticni. La CADE.
+	- (a se) — a se năpusti. (TD).
+	- (a se) — a se prăbuşi. (TD).
+	- (a se) — a se îmbolnăvi de cap.
+- **scăpătát** adj. — sărăcit. La V.Alecsandri.
+- **scări**
+	- f. pl. — lambe la căruṭ̆.
+	- f. pl. — loitre.
+- **scărí** (a) — a trece prin urzeală firele.
+- **scarişoáră**
+	- f. — pîrleaz.
+	- f. — treaptă într-un mal.
+- **scăriță** f. — pîrleaz.
+- **scăríțe** f. pl. — trepte la cerdac.
+- **scărmăná**
+	- (a) — a peni. (ALM).
+	- (a) — a bate. (DD).
+- **scăşiță** f. — teică.
+- **schiolălăí** (a) — a chelălăi.
+- **schiorlăí** (a) — v. a schiolălăi.
+- **schirfosi** (a) — a irosi.
+- **schițát** adj. — înspicat (părul cailor).
+- **schițălnic** n. — sfredel mic.
+- **schivernisí** (a) — a se pricopsi.
+- **scîncitúră** f. — copil care scînceşte.
+- **scîndurí** (a) — a fărîma bulgării.
+- **scîndurít** adj. — pardosit.
+- **scîrbă** f. — întristare. La M.Sadoveanu.
+- **scîrbí** (a) — a se întrista. La l.Sbiera.
+- **scîrbít** adj. — amărît. La CADE.
+- **scîrnáv**
+	- adj. — scîrbos. La M.Costin.
+	- adj. — murdar. La I.Sbiera.
+- **scîrnăvi** (a) — a se murdări.
+- **scîrtiță** f. — cîrtiță.
+- **scîrtuí** (a) — a clădi în şire.
+- **scîrtuíre** f. — clădire în şire.
+- **scîrtuít** adj. — clădit în şire.
+- **scîrtuitór** m. — clăditor de fîn, paie.
+- **sclad** n. — hambar mare.
+- **scládce** f. pl. — pliuri.
+- **sclep** n. — gîrlici la pivniță.
+- **sclepuít** adj. — pietruit (beci).
+- **sclifosi** (a) — a plînge prefãcut.
+- **sclifosì** (a) — a face mofturi. La I.Creangă.
+- **selifosit** adj. — fandosit.
+- **selinti** (a) — a scrînti.
+- **sclintit** adj. — scrîntit.
+- **sclióp** n. — curmei ce priponeşte barcasul.
+- **selipuí** (a) — a face rost de ceva. DLR.
+- **sclipcăúț** n. — foarfece de tăiat sîrmă.
+- **scoáce**
+	- (a) — a dospi. La V.Drăghici.
+	- (a) — a încălzi laptele prins.
+- **scobîrcí** (a) — a se zbînțui.
+- **scociorî**
+	- (a) — a căuta. La Al.Russo.
+	- (a) — a rîcîi. La I.Sbiera.
+	- (a) — a urni din loc. La I.Sbiera.
+- **scofålă** f. — pricopseală. La CADE.
+- **scoféturi** n. pl. — bomboane.
+- **scopci** (a) — a galopa. La S.F.Marian.
+- **scopt**
+	- adj. — bine coaptă. La DU.
+	- adj. — scorojit. La I.Creangă.
+	- adj. — închegat. La DU.
+	- adj. — răscopt. La T.Pamfile.
+- **scormolí**
+	- (a) — a scurma.
+	- (a) — a scormoni. La DLR.
+	- (a) — a scormoni.
+	- (a) — a răscoli. (DD).
+	- (a) — a răscoli focul.
+	- (a) — a borrâi.
+	- (a) — a căuta. La I.Creangă.
+	- (a) — a roade la inimă.
+- **scormolít** adj. — scormonit.
+- **scorni** (a) — a răscoli. (CM).
+- **scorțár**
+	- m. — covor.
+	- n. — covor. La S.F.Marian.
+- **scorțăríu** adj. — portocaliu-închis.
+- **scórţuri** n. pl. — covoare. (M.Sadoveanu).
+- **screpezán** n. — cui la marginea luntrei.
+- **scrijă** f. — căpățînă (parte) de varză. scrijăică $`f`$. - căpățînă (parte) de varză. scrijălá (a) - a împărți pămîntul.
+- **scrijelá** (a) — a cresta. La M.Sadoveanu.
+- **scrijéle** f. pl. — posmagi.
+- **scrimînțe** f. pl. — cremene, amnar.
+- **scripcár**
+	- m. — viorist. La M.Sadoveanu.
+	- m. — cîntăreț. La Al.Vlahuță.
+- **scripcăráş** m. — greiere de cîmp.
+- **scripidí** (a se) — a se strepezi. (TD).
+- **scripte** m. — scripete.
+- **scripț** m. pl. — dispozitiv la ițe.
+- **scrişcá** (a) — a scrîşni.
+- **scriví** (a) — a scînci. La CADE.
+- **scrînciobảş** n. — leagăn mic.
+- **scrîşcá** (a) — a scrîşni. La Gr.Ureche.
+- **scroámbe** f. pl. — cizme prost fãcute.
+- **scrob** n. — jumări. La DLR.
+- **scrobi**
+	- (a) — a aspri.
+	- (a) — a unge urzeala cu terci.
+- **scrobit** adj. — apretat.
+- **scrobós** adj. — bulgăros (pămînt).
+- **scrofulós** adj. — bolnav de scrofule.
+- **scrombăí** (a) — a scîlcia încălțămintea.
+- **scruhós** adj. — bulgăros (pămînt).
+- **scrumbós** adj. — bulgăros (pămînt).
+- **scruntár** n. — mal nisipos, pietros.
+- **scruntári** adj. — zgrunțuros (pămînt).
+- **scrupós**
+	- adj. — bulgăros (pămînt). DLR.
+	- adj. — fãrîmicios. (V.Drăghici).
+- **scrut** n. — vîrtej la căruță.
+- **scubí** (a) — a peni.
+- **scuchí** (a) — a castra.
+- **scuípătoăre** f. — cuțit de curățat copita.
+- **sculățél** adj. — săltăreț. La I.Creangă.
+- **scutélnic** m. — orăşeni scutiți de dări.
+- **scútic**
+	- n. — învălitoare pentru sugaci.
+	- n. — faşǎ brodată.
+	- n. — crijmă la botez.
+	- n. — strecurătoare din pînză.
+- **secătui** (a) — a slăbi. La DU.
+- **secerár** n. — august. (T. Pamfile).
+- **seceruíce** f. pl. — seceri mici.
+- **séci** n. — gard din nuiele. La DLR.
+- **seciuí** (a) — a tăia pădurea. (Gr.Ureche).
+- **secoásă** adj. — secată. (TD).
+- **secretér** n. — secretar.
+- **secriér** m. — cel ce face sicrie.
+- **sel**
+	- n. — pîrîu de apă de ploaie.
+	- n. — şanț săpat de şuvoaie.
+	- n. — urmă lăsată de un şuvoi.
+	- n. — pîrîu.
+- **sélişte** f. — jelişte. $`\mathrm{E} \times \mathrm{p}`$ r. În seliştea
+- **seméț** adj. — îndrăzneț. La CADE.
+- **semeți** (a) — a da dovadă de curaj.
+- **semeție** f. — cutezanță. La CADE.
+- **semiríc** n. — furcă cu şapte coarne.
+- **semnár** n. — paralel de tîmplărie.
+- **semnát** adj. — însemnate. (Gr.Ureche).
+- **serdár** m. — dregător domnesc. La DIM.
+- **sert** adj. — ațos (lemn).
+- **servíz** n. — tava.
+- **sfádnic** adj. — arțăgos. La C.Negruzzi.
+- **sfartúşeă** f. — şorț.
+- **sfaşcă** f. — mătuşă a mirelui.
+- **sfatnic** adj. — sfätuitor.
+- **sfátuşcă** f. — mătuşă a mirelui (miresei).
+- **sfădálnic** adj. — certăreț. La CADE.
+- **sfădălíe** f. — ceartă mare. La I.Creangă.
+- **sfădăréț** m. — gîlcevitor.
+- **sfădăúş** adj. — gîlcevitor. La CADE.
+- **sfădí** (a) — a se certa. La C.Negruzzi.
+- **sfădicíos** adj. — gîlcevitor. La I.Sbiera
+- **sfädíre** f. — ceartă.
+- **sfărmat** adj. — mărunțit. C. Ivănescu.
+- **sfeclár** m. — cultivator de sfeclă.
+- **sfeclăríe** f. — lan de sfeclă.
+- **sfecli** (a) — a nimeri într-o belea. DELM
+- **sfeclişór** adj. — roşu-întunecat.
+- **sfeclişte** f. — cîmp de sfeclă.
+- **sfecliu** adj. — roşu-întunecat.
+- **sfecliii** adj. — roşu-întunecat.
+- **sfeclúț** adj. — roşu-întunecat.
+- **sfeşnicár** m. — măsuță pentru sfeşnice.
+- **sfeştóc** n. — mănunchi de busuioc.
+- **sfetí** (a se) — a se arăta. La C.Conachi
+- **sfétnic** m. — consilier. La V.Alecsandri.
+- **sfinți** (a) — a idealiza. La M.Eminescu.
+- **sfîrcîi** (a) — a trage pe nas. La l.Creangă.
+- **sfîrcîit** adj. — smiorcăit.
+- **sfircui** (a) — a plesni cu biciul.
+- **sfìrîi** (a) — a mocni (focul).
+- **sfîrîiác** n. — sfîrietoare. La CADE.
+- **sfîrlác** m. — roi mic. La DU.
+- **sfîrlă** f. — bobîmac. La Al.Donici.
+- **sfirlă** f. — rît. La M.Sadoveanu.
+- **sfïrlítă** f. — palmă.
+- **sfîrloágă** f. — încălțăminte stîlcită. DU
+- **sfîrloáge** f. pl. — ciozvîrte de oi.
+- **sfirlúgă** f. — chişcar.
+- **sfîrşálă** f. — slăbiciune totală.
+- **sfîrticá** (a) — a sfîşia. La DU.
+- **sfirticătúră** f. — petică.
+- **sfîrtoáge** f. pl. — v. sfîrloage.
+- **sfor** n. — cursul apei. La M.Sadoveanu.
+- **sfóreni** f. pl. — restee.
+- **sfredeléş** n. — ață pentru peştele prins.
+- **sfrediác** n. — v. sfredilaş.
+- **sfrediláş** n. — sfredel mic.
+- **sfridilcáş** n. — v. sfredilaş.
+- **sfridileác** n. — v. sfredilaş.
+- **sfriji** (a) — a se zbîrci.
+- **sfrijít** adj. — pricăjit. La V.Alecsandri.
+- **sibírnic** m. — om călit.
+- **sicárne** f. — maşină de tocat paie.
+- **sicáş** n. — satîr de bucătărie.
+- **sicriáş** n. — coşciug mic.
+- **sicríu**
+	- n. — ladă. La C.Negruzzi.
+	- n. — coşciug. La M.Eminescu.
+	- n. — dulap pentru rufărie. CADE.
+- **sihástru** m. — pustnic. La CADE.
+- **silitór** adj. — robaci.
+- **simbriaş** m. — lucrător angajat.
+- **sináp** n. — soi de măr.
+- **sinchisi** (a) — a-i păsa cuiva de cineva.
+- **singér** n. — cuțit purtat la brîu.
+- **siní** (a) — a albăstri.
+- **sinilí** (a) — a albăstri. (TD). La DLR.
+- **sinilít** adj. — albăstrit. (TD). La DLR.
+- **sinilíu** adj. — albăstrui. La E.Gîrleanu.
+- **sinotári** n. — sanatoriu.
+- **sinzár** m. — samsar.
+- **siolán** n. — carne.
+- **siormîc** n. — traistă pentru cai.
+- **sioróiță** f. — cioară.
+- **siparát** n. — separator.
+- **sírcă** f. — chibrit.
+- **sírci** f. pl. — chibrituri.
+- **sireáp** adj. — iute. (M.Eminescu).
+- **siréni** adj. — liliachiu.
+- **sirépe** adj. — iute.
+- **siripát** n. — sapă de rărit porumbul.
+- **sîcîít** adj. — necăjit.
+- **sîcupós** adj. — bulgăros (pămînt).
+- **sîdélnic** n. — scaun cu arcuri la trăsură.
+- **sîgní** (a) — a zvîcni.
+- **sîí** (a se) — a se speria.
+- **sîiác** n. — hambar.
+- **sîliúş** n. — săniuş.
+- **sîlnic** adj. — puternic, voinic.
+- **sîmbotél** adj. — prostuț.
+- **sîmbráş** m. — tovarăşi de plugărie.
+- **sîmburi** f. pl. — semințe de răsărită.
+- **sînéț** n. — armă de foc.
+- **sînéți** adj. — semeți.
+- **sîngeáp** n. — cinzeacă.
+- **sîngur** pron. — dumneata.
+- **sînjeáp** n. — pahar ( 200 g ).
+- **sîniş** adj. — albastru-deschis.
+- **sînişte** f. pl. — buftee la jug.
+- **sîntiliésc** adj. — soi de pere timpurii. La I.Creangă.
+- **sînuí** (a) — a aranja plasa pe frînghii.
+- **sînzîéne** f. pl. — drăgaică.
+- **sîrbésc** adj. — v. sîrba (melodia).
+- **sîrcă de sarnic** f. — gămălie de chibrit.
+- **sîrguincios** adj. — nevoitor. (CM).
+- **sîrháu** n. — urgie.
+- **sîrisău** n. — ferăstrău.
+- **sîrnic** n. — sac pentru pescuit.
+- **sîrosî** (a) — a se irosi. (TD).
+- **sîsîiác** n. — hambar pentru porumb.
+- **sîterári** n. — strecurătoare (de pînză).
+- **sîtí** (a) — a cerne. (TD).
+- **sîțîre** adj. — subțire.
+- **slab** adj. — bolnav.
+- **slad** n. — malț.
+- **stodún** m. — stejar.
+- **sloícic** n. — gavanos.
+- **sloicuşór** n. — borcănaş (de sticlă).
+- **sloicúț** m. — borcănaş (de sticlă).
+- **slóinic** n. — v. sloi (borcan).
+- **slomní** (a) — a silabisi.
+- **slovení**
+	- (a) — a citi cu tîlc, cu îngăduială. La M.Eminescu, M.Sadoveanu, P.Boțu.
+	- (a) — a învăța, a vorbi. M-am desprins să slovenesc Vechiul grai moldovenesc. (L.Deleanu).
+- **sloveníe** f. — limba slavonă. Toate aceste ce s-au scris mai sus s-au tălmăcit de pe slovenie pe limba moldovenească. (V.Măzăreanu).
+- **slugảrnic** m. — vistavoi. La CADE.
+- **slugărí** (a) — a posluji. La CADE.
+- **smac** n. — poftă. E x pr. A mînca cu smac $`=\mathrm{cu}`$ gust.
+- **smad** adj. — cu tenul negricios și palid.
+- **smeréni** adj. — cumințit.
+- **smerit** adj. — umil, supus.
+- **smicéle** f. pl. — mlădițe. La C.Hogaş.
+- **smorcoti** (a) — a smîrcîi.
+- **smoródin** m. — struguri negri. CADE.
+- **smreduí** (a) — a puți.
+- **sníşe** f. pl. — bulfee la jug.
+- **snițe** f. pl. — gemănări la căruță.
+- **snop de ocolot** n. — snop de acoperit.
+- **snopéşte** adv. — rînduri. Și-i clădea snopeste $`=`$ ca pe snopi.
+- **snópi** m. pl. — mănunchiuri de cînepă.
+- **snózuri** n. pl. — bulfee la jug.
+- **soábi** interj. — la stînga! pentru cal.
+- **soáre-răsare** n. — răsărit. La M.Costin.
+- **soárea-soarelui** f. — floarea-soarelui.
+- **soból**
+	- n. — samur (blană). La DLR.
+	- n. — samur. La M.Sadoveanu.
+- **sobór**
+	- n. — sfat, adunare. La I.Creangă.
+	- n. — catedrală.
+- **soborî** (a) — a ține sobor.
+- **socoltéț** n. — cutie pentru sare.
+- **socoteálă** f. — treabă. (TD).
+- **socotí** (a) — a controla. (TD).
+- **sócru** n. — soc (arbust).
+- **socrúță** f. — soacră.
+- **sodomi** (a) — a mînca lacom. La DU.
+- **sofé** adv. — numai.
+- **sofronél** n. — şofran.
+- **sohór** n. — unealtă de taiat stuful.
+- **sojí** (a) — a subția (aluatul).
+- **sorí** (a) — a se încălzi la soare.
+- **sorít** adj. — însorit. La M.Sadoveanu.
+- **soróc** n. — roc. (CADE).
+- **sorocéni** m.pl. — din ținutul Sorocii. sorocovăț $`n`$. - veche monedă de argint. sórta adv. - tocmai. La V.Alecsandri.
+- **sortilítă** adj. — murdară. (TD).
+- **sortiruí** (a) — a alege boabele cu triorul.
+- **sortuí** (a) — a alege boabele cu triorul.
+- **sortulí** (a) — a murdări (hainele).
+- **sositór** m. — musafir. E x p r. Bob sositor $`=`$ musafir sosit pe neaşteptate.
+- **soşă** f. — şosea.
+- **soşăte** f. pl. — şosete.
+- **sóşcă** f. — cultivator.
+- **sótnic**
+	- m. — paznic. La M.Sadoveanu.
+	- m. — paznic la starostia satului.
+- **soț** m. — însoțitor. La N.Costenco.
+- **sóțchi** m. — vătăjăl. (Th.Holban).
+- **soțí** (a) — a se căsători. (TD).
+- **soțiór** m. — bărbățel. (V.Alecsandri).
+- **soțui** (a) — a se căsători. (TD).
+- **sóus chipărat** n. — vinograd. La DLR.
+- **sovón** n. — stofă dăruită miresei.
+- **spahíu** m. — cavalerist turc.
+- **spaimatá** (a) — a se înspăimînta.
+- **spaitóri** m. — sperietoare pentru păsări.
+- **spalát** adj. — roz.
+- **spansĩu** adj. — liliachiu.
+- **spárge** (a) — a exploada.
+- **spatári** n. — greabăn (la cal).
+- **spăimîntăi** m. — spărieți. Expr. A băga
+- **spăimos** adj. — sperios.
+- **spălá**
+	- (a se) — a se dezice. Expr. A se
+	- (a se) — a se debarasa. Expr. A
+- **spăláre** f. — umivanie. La CADE.
+- **spălățél** adj. — roz-albineț.
+- **spălățícă** adj. — surie-albăstrie.
+- **spămăitát** adj. — sperios (cal).
+- **spărét** adj. — sperios (cal).
+- **spăsí** (a) — a salva.
+- **spãsî** (a se) — a se ruşina.
+- **spătár**
+	- n. — loc unde se mulg oile.
+	- m. — dregător la curtea dom nească. La DIM.
+- **specmá** (a) — a pleca repede. (CADE).
+- **spilcuită** adj. — gătită.
+- **spin-din-casă** m. — aloe.
+- **spíniță** f. — fustă națională.
+- **spinui** (a) — a îngrădi cu spini.
+- **spiridúş** m. — drăcuşor. La DU.
+- **spiritús** n. — om care lucrează repede.
+- **spirtuí**
+	- (a) — a face să se spirtuiască.
+	- (a) — a trata cu spirt.
+	- (a se) — a se alcooliza.
+- **spirtuît** adj. — alcoolizat.
+- **spițelnic** n. — sfredel. La DU.
+- **spitereásă** f. — farmacistă. La N.Gane.
+- **spîcnă** f. — aṭ̆. La CADE.
+- **spîni**
+	- (a) — a deveni spîn. La P.Ispirescu.
+	- (a) — a-şi pierde penele.
+- **spîrc**
+	- n. — fîşie. La I.Sbiera.
+	- n. — bucățică de carne. La DLR.
+- **spircui** (a) — a sfîrtica. La C.Hogaş.
+- **spîrcuit** adj. — zdrobit. La M. Sadoveanu.
+- **splínă** f. — drug de-a curmezişul.
+- **spodobi** (a) — a se învrednici.
+- **spogîrni** (a) — a lega cureaua căpeṭelii.
+- **spogîrnişí** (a) — v. a spogîrni.
+- **spoí**
+	- (a) — a uni.
+	- (a se) — a-şi da aere de om cult.
+- **spor** n. — coajă de aldan. (Th.Holban).
+- **sporiş** m. — troscot.
+- **sposóbnic** adj. — capabil.
+- **spovăduí** (a) — a se spovedi.
+- **spovăduít** adj. — spovedit.
+- **spráfcă** f. — anchetă. La C.Negruzzi.
+- **sprăvăli** (a) — a răsturna. La N.Gane.
+- **sprijîn** n. — chingă la ferăstrău.
+- **sprintenáş** m. — ostaş cu arme uşoare.
+- **sprințár** m. — zglobiu. La A.Vlahuță.
+- **sprinţár** adj. — amăgitor. La DU.
+- **sprinţárnic** adj. — nestatomic.
+- **sprințărói** adj. — tare neastîmpărat.
+- **sprinţoúcă** f. — stropitoare.
+- **sprinṭui** (a) — a stropi via.
+- **sprítă** f. — stropitoare.
+- **spríţă** f. — stropitoare manuală.
+- **sprînceánă** f. — geană.
+- **sprînceánă de jos** f. — geană.
+- **sprînceană de sus** f. — sprînceană.
+- **sprînceána ochiului** f. — geană.
+- **sprujînă** f. — arc la cîrligul de rufe.
+- **spúdză** f. — depuneri pe vase.
+- **spulbér** n. — ploaie cu ninsoare.
+- **spulberátă** adj. — amărîtă.
+- **spúma-jinului** adj. — liliachiu.
+- **spurcá**
+	- (a se) — a se urina.
+	- (a) — a murdări.
+- **stacojiu** adj. — roşietic. La V. Alecsandri.
+- **stacojîu-frumos** adj. — roşu-stacojiu.
+- **stacóş** m. — rac. La DLR.
+- **stacoşîu** adj. — roşu-aprins. La DLR.
+- **stan**
+	- n. — partea de la umere pînă la talie.
+	- n. — pieptar.
+	- n. — statuie. La M.Eminescu.
+- **stanóc**
+	- n. — v. conovăț.
+	- n. — gogineață (pe căpătîie).
+	- n. — formă pentru cărămizi.
+- **stanúț**
+	- n. — pieptar.
+	- n. — ilic.
+- **stáre** f. — vîrstă. E x pr. A fi în stare ci neva $`=`$ a fi în etate. Om în stare. (TD).
+- **stároste** m. — pețitor. La I.Creangŏ.
+- **stárpă** adj. — stearpă. (ALM).
+- **státive** f. pl. — război de țesut. La III
+- **stăcănél** n. — paharaş (de rachiu).
+- **stăcănúț** n. — v. stăcănel.
+- **stăví** (a) — a se statornici.
+- **steág** n. — mică subunitate militară ( $`30-40`$ de oşteni).
+- **stéji** f. pl. — lăcrămioare.
+- **stelár** m. — colindător cu steaua.
+- **steli** (a) — a ameți. E x p r. A-i steli ochii = a vedea stele în fața ochilor.
+- **stelín** adj. — cu stele. La V.Alecsandri.
+- **stelnic** adj. — înstelat. La V.Alecsandri.
+- **stelói** n. — stea mare. La A.Gorovei.
+- **stelós** adj. — strălucitor. La S.F.Marian.
+- **sterezát** adj. — bun de însurat.
+- **sterezátă** adj. — cu lapte mult.
+- **sterlí** (a) — a străpunge. (TD).
+- **stérpet** n. — sterpături. La CADE.
+- **sticli** (a) — a pune geamuri.
+- **stili** (a) — a lumina (cu lanterna).
+- **stílte** f. pl. — prietene ale mirilor.
+- **stinchí**
+	- (a) — a conteni. La I.Creangă.
+	- (a) — a scădea (la fiert).
+- **stingher** adj. — necăsătorit. La C.Hogaş.
+- **stîb** n. — par la corlatele puțului.
+- **stîlchíți** adj. — holbați. (TD).
+- **stîlcí** (a) — a strivi strugurii.
+- **stîlp**
+	- m. — tulpină.
+	- m. — furcă la puțul cu cumpănă.
+	- n. — columnă.
+- **stîlp adv** — vertical. (TD).
+- **stîlpán** n. — ghioagă. La V.Alecsandri.
+- **stîlpáre** f. pl. — păstăi.
+- **stîlpi** (a) — a hotărnici.
+- **stîlpit** adj. — înlemnit. La Al.Vlahuță.
+- **stîlpít** adj. — ațintit. La C.Hogaş.
+- **stîm părătór** adj. — potolitor.
+- **stîmpi** (a) — a conteni. La DU.
+- **stînă** — turmă (de oi).
+- **stîncós** adj. — mînios.
+- **stîngári** adj. — stîngaci.
+- **stînjen de Moldova** m. — măsură de lungime împărțită în 8 palme de cîte 8 palmace.
+- **stînjen de lemne** m. — măsură pentru lemne.
+- **stînjeni**
+	- (a) — a ezita.
+	- (a) — a se sfii. La C.Negruzzi.
+- **stînjin** n. — unitate de măsură.
+- **stînjíu** adj. — stînjeniu.
+- **stînjîni** m. pl. — loc de topit cînepa.
+- **stînjîníu** m. — stînjenel.
+- **stîrc** n. — pasăre de baltă. La S.F.Marian.
+- **stîrcí** (a) — a se ghemui. La Al.Russo.
+- **stîrchí** (a) — a fâta mînzul mort.
+- **stîrlíc** m. — pată neagră pe corp.
+- **stîrlíci** m. pl. — buşmachi. La DEX.
+- **stîrní**
+	- (a) — a se trezi. La N.Costin.
+	- (a) — a scorni. (TD).
+- **stîrpi** (a) — a nu da lapte. La DU.
+- **stocaşiu** adj. — stacojiu.
+- **stocí**
+	- (a) — a slăbi. (TD).
+	- (a) — a secătui. La T.Pamfile.
+- **stoci** (a) — a stoarce (o rană). La DU.
+- **stocít** adj. — uzat. La M.Eminescu.
+- **stogós** adj. — voluminos. (DLR).
+- **stoguí** (a) — a aşeza în stoguri.
+- **stoguit** adj. — clădit în stog.
+- **stoguréle** f. pl. — grămăjoare.
+- **stoián**
+	- n. — cadă mare.
+	- n. — furcă la puțul cu cumpănă.
+- **stoícă** f. — posteucă.
+- **stol**
+	- n. — mulțime. La M.Eminescu.
+	- m. — sol. (TD).
+- **slolér** m. — tîmplar. La CADE.
+- **stoli** (a) — a se rîndui în stoluri.
+- **stólnic**
+	- m. — şef bucătar boieresc.
+	- m. — tîmplar.
+- **stolniceásă**
+	- f. — gospodină ce serveşte nuntaşii.
+	- f. — soția stolnicului.
+- **stolohăní**
+	- (a) — a îmblăti.
+	- (a) — a snopi (în bătăi).
+- **stórişti** f. pl. — resturi de nutreț.
+- **storohán** n. — v. stolohan.
+- **storohăní**
+	- (a) — a chinui. La Dosoftei.
+	- (a) — a îmblăti.
+- **storohănit** adj. — îmblătit.
+- **storoní** (a) — a stîlci în bătăi. La CADE.
+- **stráchină de hîrb** f. — strachină de lut.
+- **stráchină de plămădit** f. — covată.
+- **strachinúță** f. — taler (la cîntar).
+- **strái** n. — haine. La CADE.
+- **strai**
+	- n. — costumatie. La N.Turcanu.
+	- n. — costumație. La C.Ivănescu.
+- **stråie** n. pl. — haine. La M.Eminescu,
+- **straistár** n. — traistă la cai.
+- **stráițe** f. pl. — hăinuțe. La I.Sbiera.
+- **strájnic**
+	- n. — carte bisericească.
+	- m. — paznic.
+- **stramîntá** (a) — a strănuta.
+- **strapár** n. — cultivator.
+- **strapáț** n. — arşiță. La HEM, DLR.
+- **straşidzî** (a) — a se veştezi.
+- **straşíde** f. pl. — stafide.
+- **strat** n. — colac de piatră la puț.
+- **strădálnic** adj. — sîrguitor. La 1.Creangă.
+- **strădănuí**
+	- (a) — a suferi. La V.Alecsandri.
+	- (a) — a se strădui. La DLR.
+- **străinéi** adj. — țintați.
+- **străinél** adj. — îndepărtat.
+- **străiniór** adj. — străinel. La S.F.Marian.
+- **străiste** f. pl. — păretare înguste.
+- **străjár** m. — paznic. La M.Eminescu.
+- **străjér** m. — paznic. La I.Creangă.
+- **străjuí** (a) — a păzi. La Gr.Ureche.
+- **străjuitór** m. — paznic.
+- **strălúciu** adj. — lucitor.
+- **strămurare** f. — nuieluşă. La E.Sevastos.
+- **strămutá** (a) — a strănuta.
+- **străşnici** (a) — a amenința.
+- **strătăiá** (a) — a întretăia. La Al.Vlahuță.
+- **strățése** (a) — a întrețese.
+- **streáz** n. — cadă mare. La CADE.
+- **strecătoáre** f. — pînză rară de strecurat.
+- **strechiá** (a) — a strechea.
+- **strédie** f. — ravac.
+- **strelíți** m. pl. — vînători. La 1.Neculce.
+- **strémṭe** f. pl. — franjuri.
+- **stremțós** adj. — zdrenṭuros.
+- **stremțurós** adj. — zdrentăros.
+- **stréşină** f. pl. — streaşină.
+- **streşini** (a) — a acoperi gardul.
+- **stréşînă** f. — stuf gros.
+- **stréşnă** f. — încăpere pentru alimente.
+- **streténie** f. — Întîmpinarea Domnului.
+- **stricá**
+	- (a) — a se certa. (TD).
+	- (a) — a sparge (nuci).
+	- (a) — a abate (din cale).
+- **stricát**
+	- n. — distrugere. La V.Alecsandri.
+	- adj. — ciupit. E x pr. A fi stricat
+- **stricát de samcă** adj. — cocoşat.
+- **stricățícă**
+	- adj. — ciupită. La E.Sevastos.
+	- adj. — ciupită de vărsat.
+- **stricní**
+	- (a) — a cresta un animal bolnav.
+	- (a) — a curăți peştele. La C.Hogaş.
+- **strigoáică** f. — strigoaie. La V.Alecsandri.
+- **stripác** n. — cultivator.
+- **strîjnic**
+	- m. — mînz între unul şi trei ani.
+	- m. — cîrlan. La DU.
+- **strîjnicí** (a) — a reteza coada mînzului.
+- **strîmtúț** adj. — cam strîmt.
+- **strînsúră** f. — oameni veniți la joc.
+- **strochitór** n. — stropitoare.
+- **strocojîu** adj. — stacojiu.
+- **strocúş** adj. — stacojiu.
+- **strofoli**
+	- (a) — a se rățoi.
+	- (a) — a se lăuda.
+- **stroh**
+	- n. — rămăşiță de fîn mărunțit.
+	- n. — culcuş. La C.Hogaş.
+	- n. — culcuş de paie.
+- **strohári** m. pl. — ucraineni.
+- **stróhot** n. — paie din culcuş. La DLR.
+- **strohui** (a) — a împrăştia fînul.
+- **strói**
+	- n. — rînd. Ne-a pus la stroi. (DLR).
+	- n. — a pedepsi. E x pr. A bate pe
+- **stróilea** m. — prostănac. La I.Slavici.
+- **stropşi** (a) — a schimonosi.
+- **stropşí**
+	- (a) — a se răsti. La I.Creangă, M.Sadoveanu.
+	- (a) — a zdrobi. La Gr.Ureche.
+	- (a) — a strivi (strugurii).
+- **stropşit**
+	- adj. — călcat în picioare.
+	- adj. — bolnav de epilepsie. DU.
+- **stropşít** adj. — zăpăcit. La V.Alecsandri.
+- **stropşitúră** f. — epilepsie. La DU.
+- **struc** n. — cocean fåră foi.
+- **struchí** (a) — a scuipa.
+- **strucióc** n. — ciorchine de struguri.
+- **strug**
+	- n. — cuțitoaie.
+	- n. — sfredel.
+	- n. — strung de strungit butucul rotii.
+	- n. — crăpătură în copita calului.
+- **strugai** (a) — a strunji.
+- **strugári** m. — meşteşugar-lemnar.
+- **strugări** (a) — a fasona lemne.
+- **strugărie** f. — meseria strugarului.
+- **struguí** (a) — a strunji.
+- **struguşór** m. — ciorchinel. (TD).
+- **strujác** n. — saltea (de fîn, de paie).
+- **struján** m. — cocean. La DLR.
+- **strujeá** f. — talaş. La T.Pamfile.
+- **strují**
+	- (a) — a peni. (I.Creangă).
+	- (a) — a jupuia ştiuletele de foi.
+	- (a) — a da la strung. La DLR.
+- **strujít** n. — jupuiat. La DLR.
+- **strujit** adj. — lucrat cu strungul. La DLR.
+- **strujî**
+	- (a) — a reteza coama mînzului.
+	- (a) — a curăți copacul.
+- **strulubátic** adj. — vînturatic.
+- **struménte** n. pl. — unelte agricole.
+- **struménturi** n. pl. — scule de fierărie.
+- **strúnă** adv. — smirna. La DEX.
+- **struni**
+	- (a) — a stăpîni (un cal).
+	- (a) — a pune la punct.
+- **strupí** (a) — a lărgi (ochiurile sitei)
+- **struşleác** n. — strecurătoare.
+- **stuchí** (a) — a scuipa. La I.Creangă.
+- **stuchít** n. — scuipat. La I.Creangă.
+- **stuchitúră** f. — scuipătură. (TD).
+- **stúdeniță** f. — boală a gingiilor la cai.
+- **stuh** n. — stuf. La DU.
+- **stuhăríş** n. — stufäriş.
+- **stuhăriş** n. — opuşină. La DLR.
+- **stúhlu** adj. — greu (miros).
+- **stuhui** (a) — a acoperi cu stuf.
+- **stuhuít** adj. — acoperit cu stuf.
+- **stulghí** (a) — a flămînzi.
+- **stulghítă** adj. — flămîndă (vaca).
+- **stup** adj. — plin. E x p r. A fi stup de toate $`=`$ a avea de toate.
+- **stupúş** n. — dop (la damigeană).
+- **stupúş de burete** n. — dop.
+- **sturlucí** (a) — a străluci.
+- **sturlubatic** adj. — nebunatic. (TDRG).
+- **sturluibá** (a) — a înnebuni.
+- **sturluibát** adj. — smintit. (C.Negruzzi).
+- **subgîtár** n. — gîtar (la căpăstru). subgrătári n. - cenuşar.
+- **subțiór** n. — lăstar neroditor.
+- **subțíre** adj. — ales, fin.
+- **súcă** f. — capriciu, nărav.
+- **sucăléte** m. — colac (funie). (TDRG).
+- **sucălí**
+	- (a) — a cicăli. La 1.Creangă.
+	- (a) — a depăna pe țevi la sucală.
+	- (a) — a moronci.
+	- (a) — a lucra de mîntuială.
+- **sucăli** (a) — a necăji. La E.Sevastos.
+- **sucelá** (a) — a ciuli urechile (calul).
+- **sucí** (a) — a învălătuci.
+- **sucitór**
+	- n. — sul mic de lemn.
+	- n. — pană. (T.Pamfile).
+- **sucmán** n. — manta fãră glugă.
+- **sucultét** n. — strecurătoare din pînză.
+- **sudgiúc** n. — cîrnaț. La DU.
+- **sudúc** m. — şalău. La DU.
+- **suduí** (a) — a înjura. La M. Eminescu.
+- **suduşél** m. — şalău mic.
+- **sufiritóri** adj. — rezistent. (TD).
+- **sufít** n. — tavan.
+- **sugaráş** n. — purcel pînă la 3 luni.
+- **sughiț** n. — salutare. Sughit bun. (TD).
+- **sugí**
+	- (a) — a întinde aluatul.
+	- (a se) — a se zvînta.
+- **sugurél**
+	- m. — sugar.
+	- m. — bețivan.
+- **suguşá** (a) — a muşca. La M.Sadoveanu.
+- **suhát** n. — imaş. La A.Vlahuță,
+- **suiác** n. — hambar.
+- **sujéa** f. — lama cuțitului.
+- **sujitór** n. — sucitor.
+- **sul**
+	- n. — ax cu ghiventuri la teasc.
+	- n. — mustuitor.
+- **sulác** n. — suvac.
+- **súle** n. pl. — suluri la războiul de țesut.
+- **sulétic** adj. — zvelt. La M.Sadoveanu.
+- **sulétnic**
+	- adj. — subțirel (om).
+	- adj. — înalt și slab.
+- **sulhác** n. — sulă lungă. La CADE.
+- **sulhári** m. — trunchi de copac. La DLR.
+- **sumản** n. — haina țăranilor. La DU.
+- **sumánu-busculu** adj. — portocaliu-închis.
+- **sumecá** (a) — a sufleca.
+- **suméț** adj. — semeț.
+- **súnăt** n. — clopoțel.
+- **sundúc**
+	- n. — cufăr. La M. Sadoveanu.
+	- n. — ladă pentru haine. La DLR. sunducél n. - sunduc mic. La DLR.
+- **súngur** pron. — v. sîngur.
+- **sunicá** (a se) — a se însănătoși. (TD).
+- **suóri** f. pl. — lăstari la rădăcină.
+- **supát** n. — gaură într-un mal.
+- **súpăr** n. — necaz. La N.Costin.
+- **súpnic** n. — supieră.
+- **supraveghetór** m. — prăvitoriu. (CM).
+- **súpre** adv. — deasupra. (TD).
+- **supțióri**
+	- f. pl. — lăstari neroditori.
+	- f. — lăstari la tufa de struguri.
+- **surcélnic** n. — rindea cu un cuțit.
+- **surdúc** n. — coastă rîpoasă. La CADE.
+- **surépe** adj. — sirepe. (TD).
+- **suríc** n. — cireadă.
+- **suriétic** adj. — de culoarea bozului.
+- **suroétică** adj. — întunecoasă.
+- **surpús** n. — loc prăpăstios.
+- **surtúc** n. — palton scurt. La DU.
+- **suruépe** adj. — v. sirepe.
+- **sus-însemnát** adj. — menționat.
+- **susăíță** f. — susai.
+- **susciór** adv. — puțin mai sus. (TD).
+- **súşcă** f. — arie (de treierat).
+- **súturi** num. — sute.
+- **suvác**
+	- n. — cuțit de junghiat porcii.
+	- n. — sulă mică şi groasă.
+	- n. — ac lung şi gros.
+- **suvăc** n. — sulă, ac mare. La C.Hogaş.
+- **suverenitétcă** f. — tizîc rotund.
+- **svetíteli** m. — ierarh.
+- **şarg**
+	- adj. — galben-deschis. La DU.
+	- m. — cal şarg. La I.Sbiera.
+- **şaş** adv. — îndată. La CADE.
+- **şátră** f. — coviltir (la căruță).
+- **şăgáci** adj. — glumeț. La I.Neculce.
+- **şăgảnic** adj. — glumeț. La I.Creangă.
+- **şeacîr** m. — orb de un ochi.
+- **seacîr** adj. — cu un ochi puțin închis.
+- **şegătăi** (a) — a cicăli, a roade. La TD.
+- **şeiác** n. — v. şaiac.
+- **şelánt** pron. — celălalt.
+- **şeledzá**
+	- (a) — a țesăla.
+	- (a) — a ciuli urechile (calul).
+- **şelúț** n. — broboadă. (TD).
+- **şer**
+	- n. — schijǎ.
+	- n. — tablă, tinichea.
+	- n. — pirostrie.
+	- n. — vătrai.
+- **şerb** m. — rumîn. Fiece rumîn să rămîie veşnic la această stare. (Legătura lui M.Viteazul).
+- **şerestéu mic** n. — ferăstrău.
+- **şeríe** adj. — de culoarea fierului.
+- **şérvăt** n. — basma în trei colțuri.
+- **şése** adj. — întinse. La M.Eminescu.
+- **şesurél** n. — șes mic. La E.Sevastos.
+- **şez** n. — loc drept.
+- **şezătorí** (a) — a se lenevi. (TD).
+- **şfac** n. — laț. La CADE.
+- **słăruí** (a) — a înşira pe sfoară. (TD).
+- **slăruí** (a) — a lega cu sfori. La N.Gane.
+- **sfăruit** adj. — legat cu sfoară. La CADE.
+- **şért** n. — impozit în bani, plătit de patru ori pe an.
+- **şfíchi** n. — pleasnă. La I.Creangă.
+- **şichiuí** (a) — a lovi cu biciul.
+- **şichiui** (a) — a lua peste picior.
+- **șlichiuit** adj. — lovit cu biciul.
+- **sfichiuitór** adj. — usturător.
+- **sfórcă** f. — şiret.
+- **şiác** n. — v. şaiac.
+- **șicuí** (a) — a aranja în ordine de luptă.
+- **șindilí** (a) — a acoperi cu şindrilă.
+- **şindilí** (a) — a trîndăvi. Expr. A şindili
+- **șinuí** (a) — a strînge, a fereca şinile.
+- **sip** n. — carafā. La V.Alecsandri.
+- **șipcuí** (a) — a îngrădi cu şipci.
+- **șipcuít** adj. — îngrădit.
+- **șipot** n. — bijoi.
+- **sipurél** n. — sticluță. La S.F.Marian.
+- **sipuşór** n. — flacon. La Al.Russo.
+- **șir** n. — zeamă de mămăligă.
+- **șiretlíc** n. — vicleşug. La M.Eminescu.
+- **sirlău** n. — şiroi.
+- **sişcă** f. — paie tocate.
+- **sişcuí** (a) — a mărunți paie.
+- **şişcuít** adj. — tocat.
+- **şiştoáre** f. — marginea stofei. La DU.
+- **şleáh** n. — drum bătătorit. La CADE.
+- **şleahtici** m.pl. — pătură socială.
+- **şléau** n. — curea ce leagă hamul de căruță. La CADE.
+- **şmecherie** f. — şiretlic. La CADE.
+- **şmotrí** (a) — a muştrului. La I.Creangă.
+- **şmótru** n. — instrucție militară.
+- **şofrác** m. — pasăre migratoare.
+- **şoldán** n. — vătui. La DU.
+- **şoldăní** (a) — a şoldi. La V.Alecsandri.
+- **şóltic** m. — şmecher. La DU.
+- **şoltúz** m. — cap al comunității orăşeneşti.
+- **şont** m. — şchiop. La CADE, DLR.
+- **şonț** adj. — şchiop.
+- **şonțí** (a) — a ologi. La CADE.
+- **şop** n. — şopron. La DU.
+- **şopîrcăi** (a) — a umbla cu fleacuri.
+- **şovîlcîí** (a) — a şchiopăta. La I.Creangă. şovîrní (a) - a se legăna.
+- **şovîrnóg** adj. — olog. La S.F.Marian.
+- **şovoít** adj. — întortocheat. La DU.
+- **şpanchi** adj. — șasiu. La V.Vasilache.
+- **şparlí**
+	- (a) — a şterpeli. La E.Camilar.
+	- (a) — a fugi. Expr. A o şparli= a pleca pe neobservate, a o şterge.
+- **şteáp**
+	- n. — aşchie. La S.F.Marian.
+	- n. — ţepuşă. La DU.
+- **şteárț** n. — opaiț. La CADE.
+- **ştergár** n. — basma. La V.Alecsandri.
+- **ştiubeiaş** n. — stup mic.
+- **şúbe** f. pl. — haine.
+- **şugubăț**
+	- adj. — bun de glume. (DD).
+	- adj. — primejdios. La I.Creangă.
+- **şuguí** (a) — a glumi. La C.Negruzzi.
+- **şuguitór** adj. — care glumeşte.
+- **şúi**
+	- n. — năglugă (boală). La DU.
+	- adj. — zănatic. La M.Eminescu.
+	- n. — țicnit. La I.Creangă.
+- **şúie** adj. — pătrunzător. La M.Eminescu.
+- **şúiet** n. — foşnet. La M.Sadoveanu.
+- **şurúb** n. — şurup. La V.Alecsandri.
+- **surubuí** (a) — a meşteri. La I.Creangă.
+- **şuruí** (a) — a zgîrîia. La AI.Vlahuță.
+- **şuşaneá** f. — puşcă arnăuțească.
+- **şúşnic** n. — lozniță. La CADE.
+- **şuşórcă** f. — foi. La CADE.
+- **şut** adj. — ciut (de coarne). La DU.
+- **şvaróg** adj. — bulgăros (pămînt).
+- **şvarț** n. — cremă de ghete.
+- **şvîrtóg**
+	- n. — ciozvîrtă. (TD).
+	- n. — clin (de pămînt).
+
+## T
+
+- **tirliă** s. — umăr la ferestrău.
+- **tarcaliu** n. — pescuit cu năvoade.
+- **twam lim** — negustor din ținutul ca1,41111
+- **twith rusesc** n. — oală de schijă (fâră llochi).
+- **taznnẹț** n. — ceaun (de mămăligă).
+- **thifibuşár** m. — pedant. La DU.
+- **torlâtéle** f. pl. — loc îngrădit pentru pui.
+- **tmylméle** f. pl. — coşuri mici.
+- **tinadél** m. — v. finaghel.
+- **trestćtéi** m. pl. — drojdii.
+- **trexuí** (a) — a netezi.
+- **toprivari** s. — aventură.
+- **topràvnicí** (a) — a se face ispravnic.
+- **tmblu** (a) — a fermenta.
+- **tmbrăcá** (a) — a împodobi.
+- **tuchlărá** (a) — a încăleca.
+- **tunguşică** adj. — jingaşă. (DD).
+- **thinari** m. — vişin (pom).
+- **trină** f. — joc de-a mingea. La CADE.
+- **tihluí** (a) — a afîna cu cultivatorul.
+- **tuiindór** n. — soi de poamă albă.
+- **tĩclui** (a) — a parcela. La T.Pamfile.
+- **thigí** (a) — a mugi.
+- **tivănél** n. — tigae cu trei picioare.
+- **tirałişi** (a) — a scoate primul vin.
+- **tîvni** (a) — a tăvălugi (pămîntul).
+- **thabáte** (a) — a se face auzit.
+- **thác** n. — unealtă de taiat stuf.
+- **tóz-de-a-doilea** adj. — roz-deschis.
+- **twâu** adj. — roz (vin).
+- **tozorí** (a) — a se nărui (casa).
+- **toposín** adj. — roz.
+- **twovíu** adj. — roz (vin).
+- **tózv-aprins** adj. — roşu-deschis.
+- **tabác**
+	- n. — dovleac.
+	- n. — tutun. La CADE.
+- **tabác alb** n. — dovleac comestibil.
+- **tabãc balău** n. — v. tabac balan.
+- **tabác bun** n. — v. tabac balan.
+- **tabác moldovenesc** n. — dovleac galben.
+- **tabác rusăsc** n. — dovleac alb.
+- **tabác turcesc** n. — dovleac alb.
+- **tabachéră** f. — corobuşcă.
+- **tabacióc** n. — tutun. (I.Creangă).
+- **tabán**
+	- n. — piele de căptuşit.
+	- n. — plaz (la plug).
+- **tabáşini** adj. — galben-deschis.
+- **tabáşniță** f. — tabacheră.
+- **tabîrşél** n. — parte a cotigii.
+- **tablá** f. — tavă de servit. La C.Hogaş.
+- **tablău** n. — portret mare în ramă.
+- **tabliér** n. — rindea cu daltă în figuri.
+- **tabún**
+	- n. — herghelie. La M.Sadoveanu.
+	- n. — herghelie. (TD).
+- **tacîm**
+	- n. — închizător la sobă.
+	- n. — harnaşament.
+- **taclále** f. pl. — palavre. La I.Creangă.
+- **tácsîe** f. — vamă (la piață).
+- **tácu** m. — om tăcut. (TD).
+- **taflári** m. — rindea cu daltă în figuri.
+- **tallá** f. — țesătură de mătase.
+- **taftalóg** n. — carte. La I.Creangă.
+- **taftalúc** m. — buştean. La CADE.
+- **taiáu**
+	- n. — țepuşă la sanie.
+	- n. — lemn vertical la loitră.
+- **taifét** n. — taifas. La Al.Russo.
+- **taitalîc** n. — butuc necioplit pentru plute.
+- **talaburít** adj. — nelimpezit (vin).
+- **talacaí** (a) — a trăncăni.
+- **talaghír** n. — opritoare la roata căruței.
+- **talaghirá** (a) — a împiedica roata.
+- **taláu** n. — carafă (de vin).
+- **talcióc** n. — piață.
+- **talciocár**
+	- m. — scandalagiu.
+	- m. — vînzător.
+- **tálger de răsărită** n. — pălăria floriisoarelui.
+- **tálger de teredzîcă** n. — taler la cîntar.
+- **talger în lanţuhuri** n. — taler la cîntar.
+- **talgeráş** n. — tălgerel. La CADE.
+- **talgiráş** n. — farfurioară pentru ceai.
+- **talharói** m. — hoț.
+- **taliéne** f. pl. — vintir compus.
+- **talpár**
+	- m. — papuc de casă.
+	- m. — talpǎ la sanie.
+- **talpău** m. — persoană cu pantofi mari.
+- **talpíg** n. — plaz (la plug).
+- **tamán**
+	- adv. — anume. La I.Creangă.
+	- adv. — baş. La CADE.
+- **támaş** n. — piedică la butoi. La CADE.
+- **tamazlîc**
+	- n. — prăsilă.
+	- n. — vită de soi.
+- **támjă** f. — întîmplare. La T.Pamfile.
+- **tampón** n. — mai de bătătorit pămîntul.
+- **tanău** adj. — nătărău. La M.Sadoveanu.
+- **tanchétce** f. pl. — sandale de dame.
+- **tandalîc** adj. — buimăcit.
+- **tandéle** f. pl. — ornament la streaşină.
+- **tandúr**
+	- n. — scaun deasupra unui vas cu
+	- n. — lene românească. Tandu-
+- **tangó** adj. — mare. (ALM).
+- **tangói** adj. — mare. (ALM).
+- **tápşi** m. pl. — papuci de casă.
+- **tápuci** f. pl. — sandale.
+- **tarabaí** (a) — a trăncăni.
+- **tarabaní**
+	- (a) — a trăncăni.
+	- (a) — a suna a dogit.
+- **taracaní** (a) — a trăncăni.
+- **taraganátă** adj. — înclinată (movilă).
+- **tarán** m. — scobar.
+- **tarás** m. — soi de struguri negri.
+- **taráş**
+	- m. — tarac. La DU.
+	- m. — stîlp la gard.
+- **tarcát**
+	- adj. — cărunt.
+	- adj. — ciacîr (cal).
+- **tárgă** f. — roabă.
+- **tărgă** f. — pătul de porumb. La CADE.
+- **tarhát** n. — sarcină, greutate. La DU.
+- **tarhón** m. — cal mare.
+- **tarînburi** n. pl. — tărîmuri. (TD).
+- **tarlá**
+	- f. — haită de câini, lupi.
+	- f. — desetină de pămînt.
+- **tarpán** n. — coasă cu coadă scurtă.
+- **tartalác** m. — sfredeluş (pasăre).
+- **tas**
+	- n. — lighean. La D.Cantemir.
+	- n. — ceaşcă de lut. La V.Alecsandri.
+- **tásă** f. — tavă (de servit).
+- **tasîr** n. — satîr de bucătărie.
+- **táşcă** f. — torbă de vînătoare.
+- **tatárnic** n. — oblijeană.
+- **tátă de papură** m. — tată vitreg.
+- **tavá** f. — tigaie (fără coadă).
+- **tavá cu zîmțuri** f. — tava rotundă.
+- **tavál** n. — tăvălug de farîmițat bulgări.
+- **taz**
+	- n. — lighean de metal (cu torți).
+	- n. — strachină smălțuită.
+	- n. — tavă de servit.
+- **tăbác** m. — dovleac. (DD).
+- **tăbác de borş** n. — dovlecel de ciorbă
+- **tăbăcăreásca** f. — joc de cărți.
+- **tăbăcel** n. — dovlecel.
+- **tăbăráş** m. — ostaş din tabără.
+- **tăbărî**
+	- (a) — a se năpusti. La I.Slavici.
+	- (a) — a scoate lucrurile din casă.
+- **tăbîltóc** n. — sac pe jumătate plin.
+- **tăbîrcea** m. — cui pentru strecurătoare.
+- **tăbîrcí** (a) — a duce o greutate. La DLR.
+- **tăblári** m. — tinichigiu.
+- **tăbliár** n. — rindea cu daltă în figuri.
+- **tăbuićṭ** n. — săculeț. La I.Creangă.
+- **tăbuiêt** n. — sac cu merinde. La DU.
+- **tăburcí** (a) — a căra cu greu. (DD).
+- **tăciuná** (a) — a arde mocnind.
+- **tăiá**
+	- (a) — a crăpa (lemne).
+	- (a) — a sărăci. E x pr. A-i tăia cui-
+- **tăiág** n. — stinghie la loitră.
+- **tăitóri** m. — cuțit la plug.
+- **tăitúră** f. — lama toporului.
+- **tălán** m. — cal nărăvaş.
+- **tăláşi** m.pl. — aşchii de lemn.
+- **tălăbăní** (a) — a balansa.
+- **tălăi** (a) — v. a tălălăi.
+- **tălălăí** (a) — a vorbi mult şi fără rost.
+- **tălălău**
+	- m. — nătîng. Expr. A fi teleleu
+	- n. — tărăboi. La T.Pamfile.
+- **tălălóg** m. — om neîndemînatic.
+- **tălăncăí** (a) — a suna din tălancă.
+- **tălăncăi** (a) — a trăncăni.
+- **tălăncăni** (a) — a bălăngăni.
+- **tălăş** adj. — nătîng.
+- **tălăşmán**
+	- m. — teleleu. La DU.
+	- m. — haram. La V.Alecsandri.
+- **tălchíge** f. pl. — patine.
+- **tălcurós** adj. — sfătós. (TD).
+- **tălmăşág** n. — înțeles ascuns. La DLR.
+- **tălpăgoásă** adj. — cu talpa mare.
+- **tălpălár** m. — meşter de papuci.
+- **tălpălui** (a) — a tălpui.
+- **tălpói** n. — talpa iadului. La I.Creangă. tămán adv. - tocmai.
+- **tămănúț** adv. — întocmai. (TD).
+- **tămăşág** n. — glumă. (TD). La CADE.
+- **tămăşálnic** adj. — şăgalnic. La CADE.
+- **tămînjér** n. — unealtă ciobănească.
+- **tămînjí** (a) — a mînji. La E.Sevastos.
+- **tămîrji** (a) — a murdări.
+- **tănănăi** (a) — a flecări.
+- **tănău** adj. — tont. La CADE.
+- **tănşi** n. pl. — tancuri.
+- **tăpălăgós** adj. — cu picioare mari.
+- **tăpălăi** (a) — a păși greoi, zgomotos.
+- **tăpălóg** adj. — tăpălăgos.
+- **tăpănós** adj. — cu picioare mari.
+- **tăpceán** n. — capac la sicriu.
+- **tăpşãn** n. — bătătură. La M.Eminescu.
+- **tăpşán** n. — podiş, terasă.
+- **tăpşi** (a) — a bătători. (La TDRG).
+- **tăpuşí** (a) — a apăsa cu lingura mămăliga coaptă.
+- **tăpuşi** (a) — a amesteca legume fierte.
+- **tăpuşit** adj. — strivit. (DD).
+- **tăraş** m. — stîlp la poartă. La CADE.
+- **tărăboánță** — roabă. La DU.
+- **tărăbói** n. — zarvă. La Al.Vlahuță.
+- **tărăbónṭ** n. — roabă.
+- **tărăbúțe** f. pl. — catrafuse. La T.Pamfile.
+- **tărăgăi** (a) — a tărăgăna. La P.Ispirescu.
+- **tărărám**
+	- n. — dezordine, vălmăşag.
+	- n. — gălăgie, tărăboi.
+- **tărbăci** (a) — a bate crunt.
+- **tărchílă** — om greoi. (Th.Holban).
+- **tărmăzuí** (a) — a tăvăli, a murdări
+- **tărpán** n. — unealtă de tăiat stuf. (TD).
+- **tărpăní** (a) — a tăia cu tărpanul.
+- **tărpic** n. — chirpici.
+- **tărsîn** m. — ridichioară uscată. (Th.Holban).
+- **tăsuéle** f. pl. — şipci de lemn.
+- **tătáe** m. — tătucă, tată. (DD).
+- **tătăít** adj. — peltic. La CADE.
+- **tăujér** n. — v. tămînjer.
+- **tăvăli**
+	- (a) — a se murdări. La Al.Vlahuță.
+	- (a) — a tăvălugi ogorul.
+- **tăvălí** (a) — a se rostogoli.
+- **tăvălít** adj. — murdărit.
+- **tearpúh**
+	- n. — raşpel de lemnărie.
+	- n. — raşpel de ras copita.
+	- n. — raşpel de cizmărie.
+- **teciuná** (a) — a mocni (focul).
+- **tecúci** n. — ispol.
+- **tédgi** f. pl. — lambe la căruță.
+- **teferici** (a) — a se desfăta. La CADE.
+- **tchuí**
+	- (a) — a zăpăci. La DU.
+	- adj. — zăpăcit. La DU.
+- **tchuít** adj. — năucit.
+- **tei** n. — fãşie îngustă de papură.
+- **teişór** n. — aglică. La DU.
+- **teleléu** m. — derbedeu. Expr. A umbla
+- **teleúş** n. — săniuş.
+- **telpiz** adj. — viclean. La I.Neculce.
+- **telpizlîc** n. — viclenie. La I.Neculce.
+- **témnic**
+	- n. — adăpost subteran. La DU.
+	- n. — temniță. La M.Sadoveanu.
+	- n. — pivniță.
+- **templíu** adj. — de templu. La V. Alecsandri.
+- **tencuí**
+	- (a) — a aşeza în teancuri.
+	- (a) — a strînge teancuri.
+- **tenechelár** m. — tinichigiu.
+- **tenichenéri** m. — tinichigiu.
+- **teptil** adj. — deghizat. (I.Neculce).
+- **tére** f. pl. — fire groase.
+- **tereán** adj. — buclucaş.
+- **teredzăle** f. pl. — cîntar cu două talere.
+- **teredzăle cu coromîslă** f. pl. — v. tereză.
+- **teréni**
+	- m. pl. — porumbrei (pomi).
+	- m. pl. — porumbrele.
+- **terezoáşe** n. pl. — cîntar cu două talere.
+- **terfári** m. — haimana.
+- **terfelegós** adj. — zdrentăros.
+- **terfelí**
+	- (a) — a rupe hainele.
+	- (a) — a murdări (hainele).
+- **terfíchi** m. — puşlama. La Al.Vlahuță.
+- **teribi** (a) — a desface boabe.
+- **teribí** (a) — a strivi strugurii.
+- **ternebí** (a) — a desface boabe.
+- **terniác** m. — spin de prun.
+- **tesác** n. — sabie scurtă. La M.Sadoveanu
+- **tesc** n. — menghine.
+- **tescuí** (a) — a presa strugurii striviți.
+- **teslár** m. — dulgher. La V.Drăghici.
+- **téslă** f. — unealta tîmplarului. (DELM).
+- **teslărie** f. — meseria de teslar.
+- **testemél** n. — basma. La M.Eminescu.
+- **téşce** f. pl. — menghine.
+- **teşitúră** f. — buştean al copacului tăiat
+- **teşméc** n. — înşelătorie. La DU.
+- **téxtă** f. — v. texă.
+- **tezecár** n. — băligar pentru tizîc.
+- **ticăí** (a) — a se frămînta. La M.Eminescu.
+- **ticăit** adj. — mocăit. La I.Slavici.
+- **ticní**
+	- (a) — a-i cădea bine. La I.Creangă.
+	- (a) — a-i prii. La DU.
+- **tienít** adj. — netulburat. La P.Ispirescu.
+- **ticsi** (a) — a îngrămădi, înghesuind.
+- **tillăná** (a) — a chelfäna.
+- **tigáe** f. — durşlag.
+- **tigăiță** f. — vas pentru lumînare.
+- **tihliş** n. — stufăriş. La DU.
+- **tihuít** adj. — țicnit.
+- **tij** adv. — aşijderea. La V. Alecsandri.
+- **tínă** f. — noroi. La V.Alecsandri.
+- **tindili** (a) — a ninge mărunt.
+- **tingíre** f. — lighean (de aramă).
+- **tinós** adj. — noroios.
+- **tio** interj. — strigăt de alungat cînii.
+- **tióc**
+	- n. — chibritelniță.
+	- n. — toc pentru cute. La C.Hogaş.
+- **tiohăí** (a) — a huidui. La E.Sevastos.
+- **tipár**
+	- n. — formă pentru chirpici.
+	- n. — unealtă de tras obezile.
+- **típă** f. — coada pepenelui verde.
+- **tipăi** (a) — a lipăi.
+- **tipărí** (a) — a tipări mămăliga.
+- **tiptél** adv. — încetişor, domol.
+- **tireáză** adj. — negri (struguri).
+- **tirizîe** f. — taler (la cîntarul de mînă).
+- **tirnoslív** m. — corcoduş.
+- **tirvísi**
+	- m. pl. — papuci.
+	- m. pl. — ghete bărbăteşti.
+- **tisále** f. pl. — v. tisă.
+- **tiscoáce** n. pl. — v. tisă.
+- **tíscuri** n. pl. — v . tisă.
+- **titiún fărmat** n. — tabac. La CADE.
+- **tiul** n. — văl al miresei.
+- **tiutiunári** m. — cultivator de tutun.
+- **tiutiúşi** adj. — tare mici (găini).
+- **tiuzuí** (a) — a curăți cerealele.
+- **tíva**
+	- interj. — a o lua la sănătoasa. E x p r .
+	- interj. — fuga! Tunde-o! Șterge-o!
+- **tivilichiu** adj. — pedant. La DU.
+- **tívnic**
+	- n. — bordei (pentru cartofi).
+	- n. — pivniță.
+- **tîlc**
+	- n. — înțeles.
+	- n. — pildă. La I.Creangă.
+- **tîlcuí** (a) — a lămuri. Cuvintele cele de svat mai mult se tillcuiesc spre bine decit spre rău. (Pravila lui Vasile Lupu).
+- **tîlcuire** f. — tîlcovanie. La CADE.
+- **tîlhărit** n. — hoți. La I.Neculce.
+- **tîlhuşág** n. — hoție. La CADE.
+- **tîlîşîm** m. — trîntor.
+- **tîmbár**
+	- n. — haină. La CADE.
+	- n. — manta căptuşită cu blană
+- **tîmlá**
+	- (a) — a se întîmpla. (TD).
+	- (a) — a se nimeri. (TD).
+- **tîmp**
+	- adj. — tocit. La T.Pamfile.
+	- adj. — tîmpit. La N.Gane.
+- **tîndál** n. — bucățică de metal.
+- **tînjelár** m. — tînjală. (T.Pamfile).
+- **tînjălău** m. — tînjală. La T.Pamfile.
+- **tînji** (a) — a lîncezi. La DU.
+- **tînjitór** adj. — tînguitor. La C.Negruzzi.
+- **tînt**
+	- adj. — beat.
+	- adj. — neghiob. La I.Creangă.
+- **tîra** f. — tîrîş. De-a tîra. (DD).
+- **tîrcav** n. — baltă cu tufăriş.
+- **tîrgovăț** adj. — orăşean. (Al.Donici).
+- **tîrgovéți** n.pl. — precupeți.
+- **tîrhăní** (a) — a căra.
+- **tîrîi** (a) — a tîrî. La V.Alecsandri.
+- **tîrîiş**
+	- adv. — tîrîş. La C.Hogaş.
+	- adv. — tîrîş. E x pr. De-a tîrîişul $`=`$ tirîndu-se pe jos. La CADE.
+- **tîrîitór** adj. — tîrîtor. La A.Gorovei.
+- **tîrlíci** m. pl. — buşmachi. La DEX.
+- **tîrmoí** (a) — a mătura.
+- **tîrmoní** (a) — a mătura curtea.
+- **tírmozî** (a) — a bate.
+- **tîrn** n. — mătură de curte.
+- **tîrnáț** n. — prispă. La S.F.Marian.
+- **tîrnát** n. — lespezi înaintea prispei.
+- **tîrnăfét** adj. — neglijent.
+- **tîrnic** n. — porumbrel (arbust).
+- **tîrnîi** (a) — a se hîrjoni.
+- **tîrnui** (a) — a mătura cu tîrnul.
+- **tîrpát** n. — stîlp ce susține prispa.
+- **tîrş** n. — arbust pipernicit. La N.Labiş.
+- **tîrşí**
+	- (a) — a rîde în hohote.
+	- (a se) — a se rînji.
+- **tîrşi** (a se) — a se răscrăcăra.
+- **tîrşít**
+	- adj. — turtit. Nas tîrşit. (DD).
+	- adj. — răscrăcărat.
+	- adj. — grăpat. La T.Pamfile.
+	- adj. — cîrn.
+- **tîrşit** adj. — prăşit, muşuroiat.
+- **tîrşúț** m. — brăduț. La S.F.Marian.
+- **tîrtán** n. — ridichioară.
+- **toálpă** f. — mulțime. La CADE.
+- **toátă** pron. — fiecare. (TD).
+- **tobocí** (a) — a bătători pămîntul.
+- **toc**
+	- n. — arie de treierat.
+	- n. — fățare de treierat cu tăvălugul.
+	- interj. — redă sunetul ciocănirii.
+- **tocá**
+	- (a) — a bate. Expr. A-I toca pe cineva cahla $`=`$ a se otrăvi cu gaz de cahlă.
+	- (a) — a strivi strugurii.
+- **tocaláuă** f. pl. — baghetă la toba mică.
+- **tocán** adj. — terfos.
+- **tocát** n. — poartă.
+- **tocăéle** f. pl. — clopoței la osia căruței.
+- **tocăi** (a) — a strunji.
+- **tocăí**
+	- (a) — a hodorogi (căruța).
+	- (a) — a bate toaca.
+- **tochí** (a) — a muia (cînepa).
+- **tocí**
+	- (a) — a da la tocilă. La DU.
+	- (a) — a ştirbi. La DELM.
+- **toci** (a) — a scurge vinul în alt vas.
+- **tocitorícă** f. — cană. La V.Vasilache.
+- **tócma** adj. — neted.
+- **tocmác** m. — om care vorbeşte singur.
+- **tocmági**
+	- m. pl. — tǎiței. La DU, CADE.
+	- m. pl. — tăiței. La S.F.Marian.
+- **tofăí** (a) — a se bălăci în apă. La DU. tofile adj. - bondoc.
+- **tofîltóc** n. — v. toffîcă.
+- **toflíc** m. — papuc de casă.
+- **tofológ** m. — zburătoare.
+- **toi** n. — culminarea unei acțiuni.
+- **tói**
+	- n. — tărăboi. La S.F.Marian.
+	- n. — încăierare. La D.Cantemir.
+	- n. — ceată, stol, cîrd. La C.Negruzzi.
+	- m. pl. — bîrne. (TD).
+- **tonág** n. — baston. La C.Negruzzi.
+- **tóig** n. — toiag.
+- **tolbîtoşél** n. — v. tolbîtaucă.
+- **tolbutóc** n. — sac pe jumătate plin.
+- **tolcăí** (a) — a explica.
+- **tolcoásă** adj. — hîtră, şireată.
+- **tóli** m. — carton gudronat. (DD).
+- **tolóc** n. — tăvălug de fărămiţat.
+- **tolocăní**
+	- (a) — a trăncăni. La DU, DLR.
+	- (a) — a vorbi mult, fåră rost.
+	- (a) — a dojeni, a cicăli. La I.Creangă.
+- **tolocí**
+	- (a) — a tăvălugi (ogorul).
+	- (a) — a lăsa un teren necultivat.
+- **tologí**
+	- (a) — a se tolăni. La C.Negruzzi.
+	- (a) — a bătători pămîntul.
+	- (a) — a se tolăni. (DD). La DU.
+- **tologi** (a) — a călca semănături.
+- **tologít** adj. — tolănit. (TD).
+- **tololói** n. — zarvă.
+- **toloşcán**
+	- m. — copil durduliu. (TD).
+	- adj. — grăsan, dolofan.
+	- m. — om trîndav. La DU.
+- **toloşcánă** adj. — grăsană.
+- **tóma** adv. — tocmai.
+- **tomát** n. — bulion de roşii.
+- **tómna** adv. — departe, hăt. La CADE.
+- **tomnátic** adj. — trist. La M.Eminescu.
+- **tont** adj. — vlad. (DLR).
+- **tontălău** m. — prostănac. La I.Sbiera.
+- **topanít** adj. — topit. Siolan topanit $`=`$ carne topită.
+- **topceác** n. — troliu.
+- **topceán** n. — pat de lemn.
+- **topitúră** f. — bucățele de carne prăjite.
+- **tópliță** f. — femeie grăsană.
+- **toporáş**
+	- n. — trei-frați-pătați.
+	- n. — ghiocel.
+	- n. — brînduşă-de-toamnă.
+- **toporăşíu adj** — ca toporaşul.
+- **toporî** (a) — a spune minciuni. E x p r. A toporî minciuni = a minciuni.
+- **toporíe** f. — coada coasei.
+- **torbári** m. — cerşetori.
+- **tórbă de brîndză** — strecurătoare.
+- **torocăni** (a) — a ciocăni. La CADE.
+- **torochí** (a) — a doborî. (TD).
+- **torocí**
+	- (a) — a deşira.
+	- (a) — a desface boabele.
+- **toroí** (a) — a trăncăni.
+- **toromác** m. — grobian.
+- **toronjél** m. — cocean cu boabe mici.
+- **toropí** (a) — a strivi (bătînd, lovind).
+- **torosi** (a) — a flecāri.
+- **tort** n. — legătură de şaizeci de fire.
+- **tortári** n. — vas cu toartă deasupra.
+- **tortoşél** adj. — durduliu.
+- **tortoşícă** adj. — plinuță (femeie).
+- **tóşcă** adv. — doldora. La DU.
+- **toşi** (a) — a strunji.
+- **toşí**
+	- (a) — a strivi strugurii (cu maşina).
+	- (a) — a fărîmița bulgării.
+- **toşólcă** f. — țoşcă.
+- **totolóț** n. — cocoloş.
+- **totóşi** m. pl. — papuci de casă.
+- **továrăş** m. — camarad. La M.Eminescu.
+- **tovărăşie** f. — întreținere. Expr. A ține cuiva tovărăşie $`=`$ a sta pe lîngă cineva, a nu-l lăsa singur. La V.Alecsandri.
+- **traciní** (a) — a tăia cu ferăstrăul.
+- **tract** n. — drum mare. La M. Sadoveanu.
+- **tractír** n. — han, ospătărie. La C.Negruzzi. tractirgíu m. - cîrciumar. La C.Stamati. tractíri $`n`$. - cîrciumă. (DD).
+- **trácturi** n. pl. — tractoare.
+- **tráge**
+	- (a) — a întinde (pînzele).
+	- (a) — a bate. (TD).
+	- (a) — a înregistra. (TD).
+	- (a) — a suferi. (TD).
+	- (a) — a strivi strugurii. (DD).
+	- (a) — a ajunge. (DD).
+- **trage** (a se) — a se fotografia. (ALM).
+- **trágîn** m. — bătătură pe greabăn.
+- **traitoáre** adj. — îmbelşugată. (TD).
+- **traléla adv** — lela. A umbla tralela. (DD).
+- **trambăná** (a) — a bătători pămîntul.
+- **trambón** n. — mai de bătătorit.
+- **tramboni** (a) — a bătători pămîntul.
+- **trambóv** n. — mai de bătătorit.
+- **trambuí** (a) — a bătători pămîntul.
+- **trámpă** f. — schimb de mărfuri. La DLR.
+- **tranc** interj. — tronc. La AI.Vlahuță.
+- **trandzălă** f. pl. — curea la căpețeală.
+- **trapá** (a) — a merge la trap.
+- **trapazán** m. — şalău mic.
+- **trascău**
+	- n. — vin prost. (CADE).
+	- m. — vin negru, bun.
+- **tráşnic** adv. — tare. (TD).
+- **trăbản** n. — mulțime. (TD).
+- **trăgáci** n. — curea la gura hamului.
+- **trămbofcuí** (a) — a bătători pămîntul.
+- **trăncăíta** f. — trap. (TD).
+- **trăncălău** m. — flecar. La CADE.
+- **trănț** m. — agud (pomul).
+- **trăsní** (a se) — a se îndrăgosti. (TD).
+- **trăsúri** f. pl. — altițe la ie.
+- **treácăt** n. — drum. La I.Creangă.
+- **treánță** f. — zdreanță. La M.Eminescu.
+- **treápăd** n. — diaree.
+- **treápîd** n. — diaree.
+- **treápse** f. pl. — corlate la pod.
+- **trebădătóri** n. pl. — dregători.
+- **trebăluí** (a) — a face treabă. La I.Creangă.
+- **treclét** adj. — afurisit.
+- **trégher** m. — hamal. La DLR.
+- **tréier** n. — treierat. La T.Pamfile.
+- **treierá** (a) — a bate, călca cereale.
+- **treierát** adj. — bătute, călcate (cereale).
+- **treierătór** m. — care treieră. La CADE.
+- **treieriş** n. — vremea treieratului.
+- **tréla-lela** adv. — lela. E x pr. A umbla
+- **tremuríş** n. — tremur. La Al.Vlahuță.
+- **trepădáre** f. — diaree. La DU.
+- **trepici** n. — trepied. La DU.
+- **trétin** m. — cal de trei ani. La M. Eminescu.
+- **tretínic** m. — mînz de trei ani.
+- **tretiór** adj. — tretin. La T.Pamfile.
+- **trezví** (a) — a se deştepta. (I.Neculce).
+- **triér** n. — trior.
+- **trierá** (a) — a alege boabe cu triorul.
+- **tríeră** f. — treierat. (TD).
+- **trihón** n. — cotruță.
+- **triiaruí** (a) — a alege la trior.
+- **tríidza** adv. — a treia zi.
+- **trioáne** f. pl. — cotruțe.
+- **trión** n. — cotruţă.
+- **trinóşe** f. pl. — pirostrie.
+- **trinóuş** f. pl. — corcoduşe.
+- **trísnic** n. — strecurătoare.
+- **trivojî** (a) — a deranja, a stingheri.
+- **trîfni** (a) — a se strica (alimente).
+- **trînd**
+	- adj. — trîndav. La CADE.
+	- adj. — necoaptă (pâine). CADE.
+- **trîndoásă** adj. — uscată (pâine).
+- **trîndós** adj. — bulgăros (pămînt).
+- **trîndúş** adj. — lenos. La CADE.
+- **trîndz** m.pl. — larve la intestine.
+- **trîntí** (a) — a se împiedica. (TD).
+- **troiác** n. — pescuit cu trei năvoade.
+- **troiceác** n. — furcă cu trei coarne.
+- **troinic** adj. — toropit de boală. La CADE.
+- **troiníc** n. — undiță cu trei cîrlige.
+- **troinici** (a) — a zace.
+- **troiță** f. — reunire de trei persoane.
+- **trompăí** (a) — a tropăi.
+- **tronc**
+	- interj. — zgomot la ciocnire.
+	- interj. — pe neaşteptate. Expr. A
+- **tronca-tránca** interj. — zgomotul pocmiii a două obiecte. La I.Creangă.
+- **troncăí** (a) — a trăncăni.
+- **tropa-trop** interj. — zgomotul loviturii cu piciorul în pămînt.
+- **tropoi** (a) — a tropăi. La Al.Vlahuță.
+- **trópoş** n. — manieră. La V.Alecsandri.
+- **trópot** n. — dans popular. La C.Negruzzi.
+- **tropoțél** adv. — uşurel, cu paşi mărunți.
+- **trosc** interj. — zgomotul unei trosnituri,
+- **troscalău** n. — vin tare.
+- **troscán**
+	- n. — soi de struguri.
+	- n. — vin din struguri troscan.
+- **troscăni** (a) — a trosni. La CADE.
+- **troscoṭél** n. — troscot.
+- **trosní** (a) — a împuşca. (TD).
+- **trubári** m. — trubaci. La DEX.
+- **trúbă** f. — cahlă (la sobă).
+- **trubăi** (a) — a claxona.
+- **trúdnic** adj. — chinuitor. La V. Drăghici. trúdnic m. - muncitor.
+- **trunchí**
+	- (a) — a lovi puternic.
+	- (a) — a ului.
+- **trup**
+	- n. — tulpină.
+	- n. — pînză a toporului.
+- **trupári** n. — curea mare la ham.
+- **trupinár** n. — tăpoi. La T.Pamfile.
+- **trustréi** num. — tustrei.
+- **truşiná** (a) — a dezrădăcina.
+- **tub** n. — conductă.
+- **tuchí** (a) — a se tupila. La CADE.
+- **tuchilá** (a) — a ciuli urechile (calul).
+- **túcma adv** — săvai.
+- **túcma** adv. — tocmai.
+- **tufán** m. — arbust, copăcel.
+- **tufári de gutăi** n. — gutui.
+- **tufín** n. — haină cu gulerul deschis.
+- **túfle** f. pl. — pantofi bărbăteşti.
+- **tufleác** n. — saltea (de fîn, paie).
+- **tufli**
+	- (a) — a trînti (în cap) căciula.
+	- (a) — a băga mult. La DU, CADE.
+- **tuflí** (a) — a lovi pe cineva.
+- **tufligí** (a) — a lovi pe cineva.
+- **tufligít** adj. — strivit.
+- **túftur** m. — coamă. (TD).
+- **tuhól** m. — pantof bărbătesc.
+- **tuí** (a) — a se tutui. La V.Alecsandri.
+- **túieş** adj. — smintit. La V.Alecsandri.
+- **túiş** adj. — țicnit. (TD).
+- **tujî** (a) — a lovi.
+- **tujîtóri**
+	- m. — bătăuş.
+	- m. — grob. La DEX.
+- **tujîtúră** f. — lovitură.
+- **tújni** adj. — țicnit.
+- **tulán** adj. — neghiob.
+- **túlă**
+	- f. — chirpici.
+	- f. — cărămidă.
+- **tulcuí** (a) — a se sấtui.
+- **tuléi** n. — cotorul penelor. La DU.
+- **tulghít** adj. — flămînd (animal).
+- **tulit** adj. — culcat la pămînt (plante).
+- **tulpán**
+	- n. — haină cu poale lungi.
+	- n. — satîr de bucătărie.
+- **tulpanáş** n. — tulpan mic. La E.Sevastos.
+- **tulpănél** n. — basma.
+- **tulúm** n. — burduf pentru untdelemn.
+- **tulúmb** n. — leş de miel.
+- **túma** adv. — tocmai.
+- **tumán**
+	- n. — negură.
+	- n. — vîntoaică.
+- **tumăní**
+	- (a) — a păcăli.(TD).
+	- (a) — a lua mințile. La DLR.
+- **tumănít** adj. — naucit. La T.Pamfile.
+- **tunchí**
+	- (a se) — a se prosti.
+	- (a se) — a se toci.
+	- (a) — a se potoli (boala).
+- **touchina** (a) — a întîlni.
+- **tunchít**
+	- adj. — cu tăişul tocit.
+	- adj. — nătărău, tont.
+- **tunsătúră** f. — tunsură.
+- **tupila** (a) — a pitula. La DU.
+- **tupilúş** adv. — pe furiş. La V.Alecsandri.
+- **tur** n. — izmene.
+- **turb**
+	- m. — câine.
+	- n. — câine färă stăpîn.
+- **turbalău** n. — câine mare.
+- **turbíncă** s. — sac (soldățesc), torbă.
+- **turbúc** n. — unealtă de pescuit.
+- **turcáş** m. — personaj la reprezentația
+- **turchínă** f. — tulpină.
+- **túrci** m. pl. — păpădie. (Th.Holban).
+- **turcí** (a) — a preface în turcoaice.
+- **túrcii** m. pl. — reprezentație mascată.
+- **tureác** n. — carîmbul cizmei. La CADE.
+- **tureátcă** n. — carîmbul cizmei.
+- **túrişte** f. — ogrinji. La DU.
+- **turján** m. — strujan. La T.Pamfile.
+- **turlăci** (a) — a se ameți de băutură.
+- **turlubán** n. — turban. La V.Alecsandri.
+- **turtí** (a) — a strivi strugurii cu maşina.
+- **túrtur** adj. — acre. E x p r. Mere turture $`=`$ mere acre la gust. La I.Creangă. turumác $`m`$. - câine flocos (Th.Holban).
+- **turumác** m. — om nătîng. (Th.Holban).
+- **turungíu** adj. — galben-închis.
+- **tuşiná**
+	- (a) — a tunde oile numai pe burtă.
+	- (a) — a reteza barba.
+	- (a) — a tăia capetele pînzei.
+- **tuşinát** adj. — retezat. La M.Sadoveanu.
+- **tuşitúră** f. — tuse. (La TDRG).
+- **tuşît** adj. — şoldit.
+- **tuşúlcă** f. — pungă plină.
+- **tutác** n. — mîner la coporie.
+- **tutuél** n. — flueraş fãcut din cucută.
+- **tutuí** (a) — a claxona.
+- **túța**
+	- m. — tata.
+	- m. — tătuca.
+- **tahárcă** f. — tigară.
+- **tanc** n. — vîrful turțurelui de gheață.
+- **tupác** n. — tapă. Pleavă cu tapac. (TD).
+- **tápan** adj. — lung. Divan tapan. (DD).
+- **túpan** adj. — înalt, voinic. (DD).
+- **tipan** adj. — mare. Cal tapan. (DD).
+- **tapăn** adj. — tare. La C.Ivănescu.
+- **țápăn** adj. — teapăn La DU.
+- **țápeni** adj. — puternici. (I.Neculce).
+- **țapoásă** adj. — cu atapuri.
+- **țapoáşche** f. pl. — ciuboțele.
+- **țapóc**
+	- m. — vătui (pînă la un an).
+	- n. — vargă la loitre.
+- **tapóc**
+	- n. — furcă cu trei coarne.
+	- n. — musteaṭă la spicul grîului.
+- **ţapóc** n. — fuscel la scară.
+- **ţapoéş** n. — proptea.
+- **tápoş** n. — musteață la spicul grîului.
+- **țápoş** adj. — vertical. La N.Gane.
+- **tapóşi** adj. — cu coarne în sus. La DU.
+- **tápuri** m. pl. — tapi.
+- **ţarác** m. — ban mărunt. (TD).
+- **țarán**
+	- m. — om venit cu traiul din alt sat.
+	- m. — român. Român e ţăranul, eu sînt boier moldovan, exclamau cu mindrie elevii. (V.Alecsandri).
+- **ţaráş** m. — par.
+- **țarc**
+	- n. — arie. La T.Pamfile.
+	- n. — joc de copii. La V.Alecsandri.
+- **țare** n. — lozniță. (T.Pamfile). La DLR.
+- **țarcói** m. — masculul coțofenei.
+- **țarcúşe** f. pl. — prune mari roşii.
+- **țarigrădeán** m. — locuitor al satului Tharigrad.
+- **ţarióc** m. — caras argintiu.
+- **țarțám**
+	- n. — ciucure. La M.Sadoveanu.
+	- n. — ciucure. (DD).
+- **țáțcă** f. — lut ars.
+- **țăcăní** (a) — a ciocăni.
+- **țăhní** (a) — a chefni. La C.Negruzzi.
+- **țăhnít** n. — lătrat. La M.Sadoveanu.
+- **țăncoşăt** adj. — țintat (cal).
+- **țăncuşát** adj. — ascuțit. (TD).
+- **țăncúş** n. — ruptură la haină.
+- **țăndre** adv. — cu totul. Expr. A se face
+- **țănduri** (a) — a face țăndări.
+- **țăp**
+	- n. — potîng.
+	- n. — opritoare.
+	- n. — hădărag la îmblăciu.
+- **țăpản** adv. — foarte bine. (DD).
+- **țăpiieş** n. — țăpoi mic.
+- **țăpiní** (a) — a se împotrivi. (TD).
+- **țăpocoásă** adj. — cu ațapuri.
+- **țăpói**
+	- n. — nuia ascuțită la vîrf.
+	- n. — proptea.
+- **țăpóş** adj. — înțepători. (DD).
+- **țăpoşoásă** adj. — v. țăpocoasă.
+- **țăpşór** n. — pahar.
+- **țărăntóc** n. — copil din flori.
+- **țărcălám**
+	- n. — compas de tîmplărie.
+	- n. — loc îngrădit pentru pui.
+	- n. — corlate de piatră la puț.
+	- n. — par bătut în apă.
+- **țărcălán** n. — compas de dulgherie.
+- **țărcotéi** n. — gărduț de nuiele.
+- **țărcui** (a) — a îngrădi, a împrejmui.
+- **țărlăi** (a) — a vibra strident.
+- **ţărmurós** adj. — cu maluri înalte.
+- **țărnă** f. — țărînă. La C.Ivănescu.
+- **țărnós** adj. — fărîmicios.
+- **țărnuí**
+	- (a) — a trage țărna la porumb.
+	- (a) — a trage țărna la cartofi.
+- **tărțăm** n. — ciucuri (la brîu).
+- **ţărțăráşi** m. pl. — franjuri.
+- **tăruştéț** m. — țăruş mic.
+- **țehní** (a) — a schelălăi. La DU.
+- **țel** n. — țintă (cui).
+- **țeléț** adj. — lipit, care se ține scai.
+- **țeli** (a) — a ochi.
+- **țémfir**
+	- n. — sfredel cu coarbă.
+	- n. — sfredel de tîmplărie.
+- **țencúşă** f. — cioplitură.
+- **țénter** n. — centner.
+- **țíbă** interj. — cuvînt de alungat câinii.
+- **țic** n. — joc cu mingea. La DU.
+- **țiclău** n. — vîrf de stîncă. La CADE.
+- **țicluí** (a) — a răzui parchetul.
+- **țidélnic** n. — strecurătoare.
+- **țidúlǎ** f. — bilețel. La C.Negruzzi.
+- **țigănátic** adj. — asemănător cu un țigan.
+- **țigăni** (a) — a batjocori.
+- **țigăní** (a) — a cerşi.
+- **țivlí** (a) — a momi păsări cu fluierături.
+- **țîbăí** (a) — a umbla brambura.
+- **țîbăr**
+	- n. — vas din doage pentru îmbăiat.
+	- n. — albiuță de scăldat copiii.
+	- n. — ciutură (la puț).
+	- n. — ciubăr.
+- **țîbiríc** n. — cicrîc.
+- **țîbréne** f. pl. — ghizdele de lemn la puț.
+- **țîbúh** n. — portțigaret.
+- **țîcheturi** n. pl. — țipete.
+- **țîchi** interj. — impune tăcere.
+- **țîchigói** m. — pițigoi.
+- **țîcnál** n. — fluieraş mic.
+- **țîs** n. — fir de iarbă uscată.
+- **țîflă** f. — vîrf de stîncă. La CADE.
+- **țîfnós** adj. — supărăcios. La I.Creangă.
+- **țîfói** n. — v. țîfloi.
+- **țîft** n. — v. țîfloi.
+- **țîftă** f. — v. țîfloi.
+- **țîgán**
+	- m. — rom.
+	- m. — tinichijiu.
+	- adj. — corbiu (cal).
+- **tịganáş** m. — danci.
+- **tịgáne** m. — corcoduş.
+- **tîgaréte** n. — portțigaret.
+- **tîgănci** f. pl. — corcoduşe.
+- **țîgărit** adj. — plăpînd. La C.Negruzzi.
+- **țîghír** n. — drojdie de vin cu apă.
+- **tîgîli** (a) — a ciuguli.
+- **tîglău** n. — deal țuguiat.
+- **țîhlí** (a) — a schelălăi.
+- **țijíí** (a) — a se scurge dintr-o țeavă.
+- **țîlíndru** n. — trior.
+- **țîlindruí** (a) — a curăța grîul cu triorul. țîlúşcă $`f`$. - codru (de pâine).
+- **tûmbréle** f. pl. — ghizdele de lemn la puț. tîment n. - beton.
+- **țînc**
+	- n. — tablă (de acoperit casa).
+	- m. — puiul unei fiare sălbatice.
+	- m. — cățeluş. La DU.
+- **țînc de pomînt** m. — cîrtiță.
+- **țînenér** n. — centner.
+- **țîncoşá** (a) — a înjunghia un porc.
+- **tînctiór** n. — cîrtiță.
+- **țînír** n. — must acrişor.
+- **țînşe** f. pl. — bășici sub limba vacii.
+- **țînt** n. — cuişor de metal.
+- **țîntaráş** n. — sfredel mic.
+- **țîntát** adj. — cu dungă albă pe bot (cal).
+- **țîntir** n. — centner.
+- **țîntirím** n. — cimitir. (TD).
+- **țîntưr** n. — v. țîntralcă.
+- **țîpci** f. pl. — ace la arici.
+- **țîptoáse** f. pl. — țipătoare.
+- **țîr** n. — fermuar.
+- **țîrc** n. — compas de tîmplărie.
+- **țîrcîi** (a) — a mulge cu greu.
+- **țîrculát** n. — compas de tîmplărie.
+- **țîricúță** f. — puțintel. La S.F.Marian.
+- **țîríi-țîríi** interj. — se cheamă puii.
+- **țîrişoárǎ** f. — puțin. La S.F.Marian.
+- **țîrîi** (a) — a tese ciorapi. La CADE.
+- **țîrîiác** n. — greier.
+- **țîrlăí** (a) — a vibra monoton.
+- **țîrmonie** f. — ceremonie. La P. Ispirescu.
+- **țîrníc** n. — chibrit.
+- **țîrțîrá** (a) — a ploua mărunt.
+- **țîscuí** (a) — a ciripi (cu jale).
+- **țîşní** (a) — a părăsi. E x p r. A-i țîşni
+- **țîşni** (a) — a se istovi. E x pr. A munci
+- **țîspău** n. — vin prost.
+- **țîşpău** n. — noroi.
+- **țîta-căprii** f. — varietate de struguri.
+- **țîtánă** f. — țîța vacii (caprei).
+- **țîțigói** m. — pițigoi.
+- **țițîí** (a) — a tremura (de frică).
+- **țîu**
+	- n. — tîrnăcop.
+	- n. — hădărag la îmblăciu.
+- **țîvli** (a) — a scoate sunete stridente.
+- **țoápă** f. — mîrțoagă (cal).
+- **țoc** m. — sărut.
+- **țoconí** (a) — a ciocni (paharul).
+- **țói** m. — furiş. E x p r. Pe țoi = pe nevǎzute.
+- **țol**
+	- n. — păretar.
+	- n. — țesătură de aşternut pe jos.
+- **țolíc** n. — lăiceraş pe laiță.
+- **țolínc** n. — covoraş.
+- **țolişór**
+	- n. — procovăț pe cal.
+	- n. — țol mic.
+- **țonc** n. — cleşte de scos cuie.
+- **țonțorói**
+	- adv. — copăcel. E x p r. A sta
+	- m. — nebunatic. La CADE.
+- **țop**
+	- n. — pulpă de găină.
+	- n. — picior de găină, scurmă.
+- **țopán** m. — copil mic.
+- **țopîc** interj. — uite, iată.
+- **țopîrcă** f. — țopîrlan. La V.Alecsandri.
+- **țorțoále** f. pl. — podoabe pretențioase.
+- **țórțuri** m. — franjuri.
+- **tíşcă** adj. — plină, doldora. La I.Creangă.
+- **țúchi** n. — cîrlionț.
+- **țuflău** n. — tulpină de ceapă.
+- **țuflíc**
+	- n. — jghebuleț (la gura urciorului).
+	- n. — codiță. (TD).
+- **țuflúc** n. — cîrlionț.
+- **țug** n. — tren. La M.Sadoveanu.
+- **țuglúi** m. — vîrf de stog. La CADE.
+- **țuguéş** n. — mîner la sertar.
+- **țuguiá** (a) — a face să se țugueze.
+- **ţuhál** m. — sac mare. La M.Sadoveanu.
+- **țuhál** m. — sac mare. (TD). La CADE.
+- **țuhári** m. pl. — posmagi.
+- **țuhăí** (a) — a sili pe cineva să lucreze.
+- **țuhăi** (a) — a pune la munci grele.
+- **țujulúc** n. — v. ţujă.
+- **țulúc** n. — chică. La DU.
+- **tulúc** m. — moț, ciuf. La I.Creangă.
+- **tumburúc** n. — mîner la sertar.
+- **țumburúş** n. — v. țumburuc (gămălie).
+- **țup** interj. — exclamație ce însoțeşte o săritură. La V.Alecsandri, S.F.Marian.
+- **țurcán** m. — greier.
+- **túrcă** f. — căciulă mare. La V.Alecsandri.
+- **țúrcă** f. — pană de lemn.
+- **țurcăneáscă** adj. — țurcană. (C.Negruzzi).
+- **țurchinár** n. — țăpoi. La DU.
+- **țúrci** f. pl. — orcicuri (la căruță).
+- **țurlúi** n. — gît lung la urcior.
+- **țurlúi-țurlúi** interj. — exprimă trilul ciocîrliei.
+- **țurluí** (a) — a curge încet şi puțin.
+- **țurlúşi** m. pl. — cîrlionți.
+- **țúrțur** m. — picătură de ploaie (înghețată). La V.Alecsandri. La DU.
+- **țurțurél** m. — puişor (de găină).
+- **țúrțuri** m. pl. — franjuri. La C.Hogaş.
+- **țuruí** (a) — a şuiera (din țuruiac).
+- **țuruiác** n. — jucărie, flueraş pentru copii.
+- **țuruiéş** interj. — se cheamă puiii.
+- **țuruitór** n. — fluierătoare (plantă).
+- **țurunáş** m. — puişor (de găină).
+- **țuşní** (a) — a țîşni. La M.Eminescu.
+- **țuț** adj. — sărac gol-goluț. (DD).
+- **țuțuiág** n. — hambar.
+- **țuțurmác** n. — băț în jocul țuțurmac.
+- **țuțurúg** adv. — vertical. (DD).
+- **țuvulíc**
+	- n. — fluieraş mic din lozie.
+	- n. — fluieraş.
+
+## U
+
+- **ulhinarél** m. — prigoare. La CADE.
+- **uphr m** — sitcagiu.
+- **upstraturǎ** f. — pådure. La CADE.
+- **upirit** n. — apărie. La CADE.
+- **uplecătoáre** f. — mulgătoare (oaic).
+- **uprețui** (a) — a aprecia.
+- **unruul** n. — ungher de pedeapsă.
+- **ulgillışi** m. pl. — ştiuleți mici de porumb.
+- **ulgillşi** f. pl. — gîrlițe, gîşte sălbatice.
+- **uncăríş** n. — nucet.
+- **ubór**
+	- n. — curte.
+	- n. — ață groasă la plasa mrejii.
+- **ubrazîu** adj. — de culoarea obrazului.
+- **ubrăzár** n. — mască.
+- **untirji** (a) — a slăbi. La CADE.
+- **ugirjit** adj. — încovoiat. (I.Creangă).
+- **urluduire** f. — ustav. La CADE.
+- **urjovení** (a) — a se înzdrăveni.
+- **unin** adj. — surie (lînă). (DD).
+- **ulói** n. — borcănaş (de sticlă).
+- **ucíde**
+	- (a) — a strivi, a zdrobi usturoi.
+	- (a) — a bate, a lovi.
+	- (a) — a ameți. Expr. A ucide pe cineva cahla $`=`$ a-I bate cahla.
+- **ucigán** m. — drac, vrăjmaş.
+- **ucigă-l crucea** m. — diavol.
+- **ucigăiúş** m. — ucigaş.
+- **ucigănii** f. pl. — crime.
+- **ucrainizá**
+	- (a) — a supune ucrainizării.
+	- (a se) — a adapta limba, cultura și obiceiurile ucrainenilor.
+- **ugilí**
+	- (a) — a se amărî. La DU, CADE.
+	- (a se) — a-şi pierde vlaga.
+- **ugili**
+	- (a) — a se veştezi.
+	- (a se) — a se ofili.
+- **ugilít** adj. — întristat. La I.Creangă.
+- **ugilit**
+	- adj. — smerit.
+	- adj. — scîrbit. La DU, CADE.
+- **ugni** (a) — a se mira. La T.Pamfile.
+- **ugnít** adj. — mirat. La T.Pamfile.
+- **uimí** (a) — a zăpăci. La M.Eminescu.
+- **uitít**
+	- adj. — uituc. La V.Alecsandri.
+	- adj. — distrat. La M.Eminescu.
+- **ujlúd** n. — ghindă.
+- **ujóg** n. — pămătuf pentru cuptor.
+- **ujui** (a) — a vîjîi (vîntul). La T.Pamfile.
+- **ulcelúş** n. — cană (de porțelan).
+- **ulcícǎ** f. — cratiță.
+- **ulciōr** n. — vîrtej de apă.
+- **ulciór îmbrăcat** n. — damigeană.
+- **ulciór împletit** n. — damigeană.
+- **ulciór îngrădit** n. — damigeană.
+- **ulciór mare** n. — urcior pentru apă.
+- **ulciór de borş** n. — oală.
+- **ulciór de vacă** n. — urcior de lapte.
+- **ulciór de vin** n. — urcior de lut.
+- **ulciór cu burlui** n. — urcior cu țîță.
+- **ulciór cu țugui** n. — urcior cu țîtă.
+- **ulcior fără burlui** n. — urcior fără țiță.
+- **ulciorár** m. — prepeleac.
+- **ulciorúş** n. — urcior (pentru apă).
+- **uldóri** f. pl. — urdoare.
+- **uldurós** adj. — urduros.
+- **ulițár** m. — haimana. La S.F.Marian.
+- **uliúț** m. — ulişor. La S.F.Marian.
+- **ulmá** (a) — a adulmeca. (DD).
+- **ulúc**
+	- n. — troacă (la găini).
+	- n. — coş la căruță.
+	- n. — iesle.
+	- n. — rindea de fãcut jgheaburi.
+	- n. — rindea cu daltă mică.
+	- n. — covată de plămădit.
+	- n. — vas pentru sărat caşul.
+- **ulucáş**
+	- n. — troacă (la găini).
+	- n. — jgheab la teasc.
+- **ulucél**
+	- n. — teică.
+	- n. — troacă (pentru găini).
+- **ulucí** (a) — a pune un uluc de-a lungul.
+- **uluí**
+	- (a) — a se rătăci.
+	- (a) — a-şi pierde cunoştința.
+- **úmăr**
+	- n. — greabăn (la cal).
+	- n. — şold la cal.
+- **umărári**
+	- n. — stinghie la ferăstrău.
+	- n. — lemne verticale la loitre.
+- **úmărul osiei** n. — opor. La CADE.
+- **umblătór** adj. — în buestru.
+- **umblăréț** adj. — hoinar. La Al.Vlahuță.
+- **umbrá** (a) — a ține umbră. (TD).
+- **umerár** n. — cuier.
+- **umflá** (a) — a apuca. (TD).
+- **umizí** (a) — a se miji. La C.Negruzzi.
+- **uncróp** n. — apă călduță.
+- **uncropél** n. — apă călduță. La CADE.
+- **undá** (a) — a clocoti. La Dosoftei.
+- **undelemníu**
+	- adj. — verde-galben.
+	- adj. — şaten.
+- **undér** n. — prăjină de împins luntrea.
+- **unél** n. — inel.
+- **únge**
+	- (a) — a lipi. (TD).
+	- (a) — a murdări. La I.Creangă.
+	- (a) — a înşela. E x p r. A unge
+- **unghér** n. — colț. La M.Eminescu.
+- **únjer** n. — ujer.
+- **uníu** adj. — monocrom.
+- **univá** adv. — undeva.
+- **univái** adv. — v. univa.
+- **unsurá** (a) — a se murdări.
+- **untaráş** n. — putinei.
+- **untaríță** f. — putinei.
+- **untdelémn** n. — zaitin. La CADE.
+- **untúră** f. — slănină.
+- **unturós** adj. — gras. La T.Pamfile.
+- **unulíța** pron. — una. (DD).
+- **únzi** (a) — a vărui.
+- **urciucár** n. — laț la orcic.
+- **urdár**
+	- n. — unealtă de mestecat zerul.
+	- m. — păcurar care urdeste.
+- **urdí**
+	- (a) — a face urdă. (DD).
+	- (a) — a fierbe zerul pentru urdă.
+	- (a se) — a se preface zerul în urdă.
+- **urdiná** (a) — a alerga încoace, încolo.
+- **urdzî**
+	- (a) — a se întemeia. (DD).
+	- (a) — a începe. (DD).
+- **urdzucá** (a) — a urzica.
+- **ureádnic** m. — orînduitor, dregător.
+- **uréche** f. — muchie a toporului.
+- **urgiós** adj. — urît.
+- **urgisit** adj. — chinuit. La N.Ţurcanu.
+- **ura** (a) — a dori. (DD).
+- **uríc** n. — act de proprietate.
+- **uricár** n. — culegere de urice.
+- **urieşésc adj** — uriaş. La V.Alecsandri.
+- **urisî** (a) — a afurisi.
+- **úrişe** n. pl. — documente, hrisoave. (DD).
+- **urî** (a se) — a se urîți, a se ofili.
+- **urláți**
+	- m. pl. — oriunde. Expr. A îmbla pe urlați $`=`$ a umbla în dodii.
+	- m. pl. — aiurea. Expr. A se duce pe urlați = a șterge-o, a o rupe la fugă.
+- **urluéş** m. — uriaş.
+- **urluí** (a) — a vorbi mult şi fãră rost.
+- **urluít** adj. — zăpăcit.
+- **următóri** n. — punctator pe metal.
+- **urs**
+	- m. — boț de mămăligă cu brînză.
+	- m. — ursoaică (în pod).
+- **ursaliu** adj. — cafeniu.
+- **ursári** m. — rom.
+- **úrşi** m. pl. — stîlpi de legat lotcile.
+- **urşí**
+	- (a) — a se obrăznici.
+	- (a) — a scînci.
+- **ursîşór** adj. — cafeniu-închis.
+- **ursoicúță** f. — cahlă (la sobă).
+- **uruióc** n. — capăt de urzeală. La DU.
+- **uscat** adj. — cafeniu-deschis.
+- **uscătúri** f. — posmagi.
+- **ustír** m. — plătică.
+- **usturoiéş** m. — stînjenel.
+- **úşa ocolului** f. — poartă.
+- **uşărnic** m. — schimbător de stăpîni.
+- **uşérnic** m. — hoinar. La I.Creangă.
+- **uşîníc** n. — urşunic.
+- **uşóri** m. pl. — toc la fereastră.
+- **uşúr**
+	- n. — zeciuiala morarului.
+	- n. — dijmă pentru păşunat.
+- **uşúță la spîrhat** f. — uşiţă la plită.
+- **uteşí** (a) — v. a oteşi.
+- **uzoáre** f. pl. — altițe la ie.
+- **uzór**
+	- n. — ornament pe țesătură.
+	- n. — ornament la streaşină.
+	- n. — model de țesătură, izvod.
+
+## V
+
+- **variér** n. — năsîpărie.
+- **vìcnit** n. — zberăt. La I.Creangă.
+- **valămăs** n. — cadă.
+- **vac**
+	- n. — veac
+	- n. — trai, viață. (TD).
+- **vacár** m. — mulgător.
+- **vacății** f. pl. — salcîmi.
+- **vaganós** n. — v. gavanos.
+- **vah** interj. — vai. La V.Alecsandri.
+- **váicăr** n. — strigăt de durere.
+- **vaier** n. — tînguitre. La V.Alecsandri.
+- **vaierá** (a) — a se văita.
+- **vajníc** n. — pîrghie pentru greutăți.
+- **vajnícuí** (a) — a ridica cu vajnicul.
+- **val**
+	- n. — trîmbă. La CADE.
+	- n. — găvan la greblă.
+	- n. — ghivent la şurub.
+	- n. — tăvălug de färîmițat bulgării.
+	- n. — broboadă subțire.
+	- n. — v. tăvăluc (de treierat).
+	- n. — năvală. E x p r. A da val $`=\mathrm{a}`$ năvăli. (I.Neculce).
+- **valáh** m. — nume al populatiei de bază a Valahiei (Ungrovlahiei); român din jumătatea a doua a veacului XIX.
+- **valâh** adj. — de origine valahă, din Valahia (azi Romănia). Meşter valah, azi nume de fîntînă…(adică puț). (N.Labiş).
+- **valáhi** m.pl. — blohi (CM).
+- **valcuí** (a) — a tăvălugi ogorul.
+- **valeráş** n. — butoiaş. La DU.
+- **valióc** n. — tăvălug de färîmițat bulgării.
+- **válmă** adv. — în prag de revărsare. (DD).
+- **válmeş** adv. — de-a valma.
+- **válnic**
+	- m. — pîslă.
+	- m. — pîslar.
+- **valóc**
+	- n. — găvan la greblă.
+	- n. — chingă la căruță.
+- **válturi** n. — găvan la greblă.
+- **valusí** (a) — a strînge pînza val.
+- **valvîrtej** adv. — repede. La I.Creangă.
+- **vam** m. — vamă (la moară). (TD).
+- **vamár** m. — vameş. (TD).
+- **varátic** adj. — nisipos. (DD).
+- **variláş** n. — butoiaş.
+- **varvaric** m. — Expr. Mustăți în var-
+- **vatale** f. pl. — dispozitiv la spată.
+- **vazdojéle** f. pl. — arnică.
+- **vazón**
+	- n. — váză.
+	- n. — floare (în vază).
+- **vazonár** n. — vas de lut pentru flori.
+- **vazonúc** n. — vas de lut cu floare.
+- **văcărét** n. — dare pe vite. La DIM.
+- **văcărúş** m. — ciupercă comestibilă.
+- **văcoásă** adj. — de secole. (DD).
+- **vădán**
+	- m. — văduv. La CADE.
+	- m. — văduvoi.
+- **vădáş** m. — din satul Vadul lui Isac.
+- **vădăní** (a) — a văduvi. (TD).
+- **vădăói** m. — văduvoi.
+- **vădí** (a) — a învinui.
+- **vădicél** n. — vad mic.
+- **vădrărít** n. — dare pentru fiecare vadră
+- **văduói** — văduvoi. La CADE.
+- **văl** n. — broboadă subțire.
+- **vălăcăi** (a) — a se văita.
+- **vălătúc**
+	- m. — sul. La C.Negruzzi.
+	- n. — val la puț.
+- **vălătuc** m. — tăvălug. La T.Pamfile.
+- **vălătucí** (a) — a înfăşura; a face val.
+- **vălătuşí** (a) — a treiera cu tăvălugul.
+- **vălătúşi**
+	- m. pl. — grămezi mici de fîn.
+	- m. pl. — snopi de grîu sau secară.
+	- m. pl. — plăcinte din aluat dospit.
+- **vălțui** (a) — a valsa. La C.Stamati.
+- **vătămán** m. — conducător sătesc.
+- **vătrári** n. pl. — lambe la căruță.
+- **văzdúşnic** n. — ochi la fereastră, mobil. véchi adj. - bătrîn. (TD).
+- **véchi** adj. — tomnatic (flăcău). (TD).
+- **vecíni** m. pl. — şerbi, rumîni.
+- **vederoásă** adj. — ochioasă. (TD).
+- **vederós**
+	- adj. — scos la vedere. (DD).
+	- adj. — distins. (DD).
+- **vel** adj. — mare; calificativ precedînd un titlu boieresc.
+- **velnicér** m. — țuicar. La CADE.
+- **velvét** n. — catifea.
+- **véniş** adj. — tare, cîlțos (lemn).
+- **vérde-iarbă** adj. — verde-deschis.
+- **vérde-mîndru** adj. — verde-deschis.
+- **vérde-scîrnav** adj. — untdelemniu.
+- **vérde-nou** adj. — verde-deschis.
+- **verdeáță-de-padure** f. — piedicuță.
+- **verdéțuri** f. pl. — fructe.
+- **verdişór** adj. — verde-deschis.
+- **véşcă** f. — pălăria florii-soarelui.
+- **vetejíu** adj. — harnic, trăgător. (DD).
+- **vezeteu** m. — surugiu. La V.Alecsandri.
+- **vicleím** n. — dramă populară.
+- **vicolí** (a) — a viscoli. La CADE.
+- **victoreán** m. — lucrător la complexul agroindustrial “Victoria”.
+- **vidérnic** n. — lucarnă.
+- **viermăt** n. — mulțime de viermi.
+- **viespişor** m. — viespe negricioasă. viérs n. - limbă, vorbire, grai.
+- **vifór** n. — furtună mare. La CADE.
+- **viforî** (a) — a ninge cu vînt vijelios.
+- **vímir** n. — vamă.
+- **vinderéu**
+	- m. — copil obraznic.
+	- m. — şoim mic. La I.Creangă.
+- **vinițéle** f. pl. — albăstrịṭe.
+- **vinochél** n. — cunună (pe cap).
+- **vioáră**
+	- adj. — limpede, curată. Nistrule, apă vioară. (TDRG).
+	- adj. — limpede. Prutule, apă vioară. (Şezătoarea.)
+- **viorél** adj. — vioriu.
+- **viós** adj. — viguros. La D.Cantemir.
+- **vipt** n. — pâine albă, cereale. La DU.
+- **viscol** n. — vînt mare cu nisoare. La DU.
+- **visgăí** (a) — a da din coadă.
+- **vişináp** n. — vişinată. La V.Alecsandri.
+- **vişneác** n. — v. vişinap.
+- **víşniță** f. — carniz la fereastră.
+- **vitinár** m. — veterinar.
+- **viuléț** adj. — teafăr.Viu-viulet. (DD).
+- **vizuní** (a) — a avea culcuş. La I.Sbiera.
+- **vîj** m. — moşneag. La S.F.Marian.
+- **vîja-vîja** interj. — zgomotul produs de ploaie. (TD)
+- **vîjî** (a) — a prinde. La Th.Holban.
+- **vîjîít** adj. — țicnit.
+- **vîjoc** n. — pătul la vie.
+- **vînjoşá** (a) — a întări. La I.Sbiera.
+- **vînós** adj. — vînjos. La Negruzzi.
+- **vînteş** adj. — repede, ca vîntul.
+- **vîntîrá** (a) — a bate un vînt puternic.
+- **vîntoáice** f.pl. — vijelii. La N.Ţurcanu.
+- **vîntós**
+	- adj. — vînturatic.
+	- adj. — vînturos. La M.Eminescu
+- **vîntuí**
+	- (a) — a aierisi.
+	- (a) — a se sminti. La CADE.
+- **vîntuít** adj. — țicnit. La CADE.
+- **vîntură-Iume** m. — aventurier.
+- **vînzoli** (a) — a se frămînta. La DU.
+- **vîrcát** adj. — în dungi.
+- **vîrcă** f. — dungă. La CADE.
+- **vîrcolí** (a se) — a se frămînta.
+- **vîrcolit** adj. — neastîmpărat.
+- **vîrstá**
+	- (a) — a țese în dungi. (DD).
+	- (a) — a pune dungi, vîrste.
+	- (a) — a deosebi. La CADE.
+- **vîrstác**
+	- n. — unealtă de dăltuit butucul.
+	- n. — menghină.
+	- n. — război de țesut.
+	- n. — țesătură de lînă în dungi.
+- **vîrstát** n. — parte a plugului.
+- **vîrstă** f. — dungă. La S.F.Marian.
+- **vîrşi** (a) — a vîrfui (stogul, căpița).
+- **vîrtéj**
+	- n. — învolburare de apă.
+	- n. — val la puț.
+	- n. — mîner la vînturătoare.
+	- n. — inel la pripon.
+- **vîrtél** n. — vînt putemic cu ninsoare.
+- **vîrtélnic** adj. — învîrtitor.
+- **vîrticúş**
+	- n. — sul de praf.
+	- n. — inel în jurul priponului.
+- **vîrv** n. — vîrf de munte.
+- **vîrvár**
+	- n. — vîrf de munte.
+	- n. — țăpoi cu coada lungă. La DU.
+- **vîscós** adj. — lutos (pămînt).
+- **vîşcá** (a) — a se mişca. La CADE.
+- **vîzdojíu** adj. — galben-închis.
+- **vlăguí** (a) — a se umezi
+- **vlăguít** adj. — umezit, jilăvit.
+- **vlah**
+	- m. — v. valah.
+	- m. — persoană din nord-vestul Bulgariei.
+	- m. — valah, din Valahia.
+- **vláhă** adj. — glotonim, lingvonim; denumirea limbii populației din nord-vestul Bulgariei şi din Banat.
+- **vlási** m. pl. — valahi, vlasi, persoane ce fac parte din populația de bază a Valahiei (Ungrovlahiei), azi România.
+- **vói**
+	- pron. — dumneavoastră. La M. Eminescu.
+	- pron. — dumneata, dumneavoastră.
+- **vóie** adv. — potolit. Arde focul în voie.
+- **voinicós** adj. — vînjos. (TD).
+- **vol** n. — văl la mireasă.
+- **vólburne** adj. — verde-închis.
+- **volintiríe** f. — unități de volintiri.
+- **vólnic** adj. — vrednic.
+- **volóc** n. — traistă de dat mîncare la cai.
+- **volóhi** m. pl. — moldoveni. (ALM).
+- **voloşí** (a) — a netezi pămîntul.
+- **voníşi** m. pl. — voinici. (Folclor).
+- **vorbaliu** m. — v. vorbaci.
+- **vorbálniț** m. — v. vorbaci.
+- **vórnic** m. — om de servici.
+- **vornicél** m. — vornic la nuntă. La V.Alecsandri.
+- **vornicí** (a) — a executa funcția de vornic
+- **voróncic** adj. — negru (cal). La DD.
+- **voroví**
+	- (a se) — a se înțelege.
+	- (a) — a sta de vorbă.
+- **votri** (a) — a fi codoşcă, a prostitua.
+- **vótru** m. — pețitor, codoşcă. La CADE.
+- **vrase** n. — viță subțire la castravete.
+- **vráv** n. — grămadă. La M.Eminescu.
+- **vrăciuí** (a) — a lecui, a tămădui.
+- **vrăjmáşnic** adj. — nemaipomenit.
+- **vrăvuí**
+	- (a) — a vîntura cu lopata.
+	- (a) — a vrăfui. La N.Gane.
+- **vreáscuri** pl. — rascuri (CM).
+- **vremélnic** adj. — temporar. La C.Hogaş.
+- **vrémnic** adj. — vrednic.
+- **vrîste**
+	- f. pl. — verste (distanṭă).
+	- f. pl. — dungi colorate pe covor.
+- **vulcáni** m. pl. — voinici.
+- **vultán** m. — viteaz. La V.Alecsandri.
+- **vultări** (a) — a zbura (ca vulturii).
+- **vurtúni** m. pl. — porumbei (specie).
+
+## Z
+
+- **zac** n. — boală. (DD)
+- **zacăş** m. — leneş. La CADE.
+- **zacrîmă** n. — secție într-un hambar.
+- **zadormi** (a) — a adormi (pe totdeauna)
+- **zaharît** adj. — îndulcit. (DD).
+- **zahát**
+	- n. — gard de piatră.
+	- n. — şopron.
+	- n. — şirǎ de porumb.
+- **zahát de răzlogi** n. — corlate la puț.
+- **zaháte** f.pl. — surpături pe coastă.
+- **zahón**
+	- n. — parcelă. (DD).
+	- n. — urmă săpată de un şuvoi.
+- **záibăr** n. — vin din struguri de zaibăr.
+- **záibără** n. — soi de struguri negri.
+- **zal** n. — casa cei mare.
+- **zale**
+	- f. pl. — verigile unui lanț.
+	- f. pl. — lănțişor (podoabă).
+	- f. pl. — armură. La M.Sadoveanu.
+- **zalógi** m. pl. — lozie.
+- **zaluzí** (a) — a se sminti. La T.Pamfile.
+- **zambalíc** — jachetă femeiască.
+- **zámcă** f. — întărtitură. La I.Neculce.
+- **zamparagíu** m. — derbedeu.
+- **zaór** n. — zavoraş la fereastră.
+- **zaóz** m. — îmbulzeală.
+- **zapán** n. — şorț purtat de pescari.
+- **zapás**
+	- n. — slobodă la ave.
+	- n. — pămănturi rezervate.
+- **zapasniță** s. — femeia unui plecat la război.
+- **zápat** n. — vînt de nord-vest.
+- **zapcii** (a) — a încasa cu forța.
+- **zapcilîc** n. — zăpăceală. La N.Gane.
+- **zaporoján** m. — cazac din Zaporojie.
+- **zar** n. — zăvoraş la fereastră.
+- **zarár** n. — pagubă.
+- **zarazíhă** f. — mama-pădurilor (plantă).
+- **zaríf** adj. — nostim. La C.Negruzzi.
+- **zárzăr flocos** m. — piersică (fructul).
+- **zarzurár** m. — cais (pom).
+- **zásic**
+	- n. — dispărțitură în hambar.
+	- n. — hambar.
+- **zatéşi** f. pl. — lambă la căruță.
+- **zatón** n. — loc de pescuit în iaz.
+- **zauitá** (a) — a uita.
+- **zausucá** (a) — a se usca (butoiul).
+- **zauşí** (a) — a zăpăci.
+- **zavistiós** adj. — pizmătar. La P. Ispirescu.
+- **závistnic** m. — pizmaş. La Gr.Ureche.
+- **zavistuí** (a) — a pizmui. La Gr.Ureche.
+- **zavistuitór** m. — pizmătar. La G.Conachi.
+- **zavód** n. — prăsilă.
+- **zăbále** f. pl. — bale.
+- **zăbávnic** adj. — glumeț.
+- **zăbăjí**
+	- (a) — a mînca fără poftă. (DD)
+	- (a) — a se reține.
+- **zăbălát** adj. — plin de bale.
+- **zăbălós** adj. — plin de bale. La DU.
+- **zăblău**
+	- n. — plapomă.
+	- m. — dulău. La I.Sbiera.
+- **zăblǎu** m. — vlǎjgan. La I.Sbiera.
+- **zăbránic** n. — ṭesătură de mătase.
+- **zăbovitór** adj. — lăsător.
+- **zăbún**
+	- n. — haină vătuită. La DELM.
+	- n. — haină pentru călugari.
+	- n. — haină de stofå. La DELM.
+- **zăbunár** m. — vînzător de zăbune.
+- **zăbunáş** n. — zăbun mic.
+- **zăgrăí** (a) — a vorbi mult.
+- **zăhát** n. — groapă pentru legume.
+- **zăhăí**
+	- (a) — a zădărî. La I.Neculce.
+	- (a) — a dosi, a ticsi.
+- **zăhăít** adj. — în dezordine. La CADE.
+- **zăhăréle** f. pl. — bomboane. La DLR.
+- **zăhărî** (a) — a se zaharisi. (DD).
+- **zăhăruí** (a) — a îndulci. (TD)
+- **zăhătuí**
+	- (a) — a zădărî pe cineva. (DD)
+	- (a) — a dosi ceva.
+- **zăhătui** (a) — a sîcîi. La DLR.
+- **zălăngǎít** adj. — zîngănit. (TD)
+- **zălóg**
+	- — amanet.
+	- n. — ostatec.
+- **zălogí** (a) — a da, a se oferi ca ostatec.
+- **zălǒguri** n. pl. — impozite. (DD).
+- **zălúd** adj. — năuc. La DU.
+- **zăluzí** (a) — a se sminti. (DD).
+- **zăluzit** adj. — ieşit din minți.
+- **zămăcríş**
+	- n. — brînză de vacă cu œt.
+	- n. — chişleag.
+- **zămislí**
+	- (a) — a apare, a se naşte. (DD).
+	- (a) — a concepe fătul.
+- **zămislíre** f. — săzdanie. La CADE.
+- **zămnic**
+	- n. — pivniță de pămînt. La DLR.
+	- n. — pivniță de piatră.
+- **zămorá** (a) — a-şi potoli foamea. (DD).
+- **zămorî**
+	- (a) — a-şi potoli foamea. La DU.
+	- (a) — a istovi. La Dosoftei.
+- **zămoşél** m. — pepenaş galben.
+- **zămozîu** adj. — de culoarea zămosului.
+- **zănoáge** f. pl. — vîlcele. (TD)
+- **zăpăcílă** m. — debusolat.
+- **zăpăcitór** adj. — amețitor.
+- **zăpădi** (a) — a ninge.
+- **zăpăí** (a) — a hămăi. La M.Sadoveanu.
+- **zăpăít** n. — lătrat. La DLR.
+- **zăpláz** n. — horă (CM).
+- **zăpór**
+	- n. — val de sloiuri de gheață.
+	- n. — apă oprită la baraje.
+- **zăpsí**
+	- (a) — a surprinde. La I.Creangă.
+	- (a) — a simți. La M.Sadoveanu.
+	- (a) — a afla. (Şezătoarea.)
+- **zăpuşí** (a) — a năpădi.(DD).
+- **zărár** m. — mulgător. La V.Alecsandri.
+- **zărghí** (a) — a se țicni. La DLR.
+- **zărghít** adj. — zăpăcit. La l.Creangă.
+- **zărî** (a) — a arunca. (DU).
+- **zărzăreá** f. — caisă mică (fruct).
+- **zărzărél** m. — caisă mică. (Folclor).
+- **zărzăríu** adj. — galben-închis.
+- **zăstí** (a) — a îngrămădi. La C.Hogaş.
+- **zăstîmp** n. — răstimp. La Al.Vlahuță.
+- **zăticní** (a) — a opri. La Şt. Ciobanu.
+- **zătoni** (a) — a îngrădi apa.
+- **zătoní**
+	- (a) — a troieni.
+	- (a) — a constrînge pe cineva.
+	- (a) — a se întărîta. (DD).
+- **zătrí**
+	- (a) — a dosi.
+	- (a) — a nimici. (TD)
+- **zăucă** interj. — zău.
+- **zăuitá** (a) — a uita. La M.Eminescu.
+- **zăuşít** adj. — zăpăcit.
+- **zǎvodí** (a) — a se înfierbînta.
+- **zăvór** n. — încuietoare la sul.
+- **zbanț**
+	- n. — verigă la lanț.
+	- n. — bucată de metal la şină.
+	- n. — pană la ferăstrău.
+	- n. — bordura covorului ales.
+	- n. — legătură de fier.
+- **zbicí** (a) — a se zvînta.
+- **zbihuí** (a) — v. a zghihui.
+- **zbincéle** f. pl. — smicele. (TD).
+- **zbîc** interj. — țuşti. (TD)
+- **zbînțuí** (a) — a face ştrengării. La DU.
+- **zbînțuit** m. — ştrengar. La I.Creangă.
+- **zbîrci**
+	- n. — zbîrcitură.
+	- (a) — a se încreți. La V.Alecsandri.
+- **zbîrcióg** m. — ciupercă comestibilă.
+- **zbîrciógii-cioarii** m. pl. — coada-calului.
+- **zbîrli** (a) — a i se ridica părul. La CADE.
+- **zbórnic** n. — v. sbornic.
+- **zborşí**
+	- (a) — a se răsti. (TD)
+	- (a) — a zbîrli. La S.F.Marian.
+	- (a) — a se înăcri. (DD). La DU.
+- **zborşi** (a) — a se răsti. La CADE.
+- **zborşit**
+	- adj. — răstit. La DU.
+	- adj. — înăcrit.
+- **zborşít**
+	- adj. — înverşunat. La C.Negruzzi.
+	- adj. — zbîrlit.
+- **zbrehúd** adj. — neastîmpărat.
+- **zbrehúi** adj. — nebunatic. La CADE.
+- **zburătăcí**
+	- (a) — a se înfiripa, a creşte.
+	- (a) — a ajuta. La I.Creangă.
+	- (a) — a fugi, a se risipi. La DU.
+- **zburătóri** m. pl. — ederă.
+- **zburătuí** (a) — a-şi lua primul zbor.
+- **zburdá** (a) — a alerga vioi.
+- **zburdalnic** adj. — zburdător.
+- **zburdálnic** adj. — jucaş (CM).
+- **zburdátic** adj. — zburdalnic.
+- **zdohní** (a) — a pieri.
+- **zdrahón** m. — vlăjdan. La CADE.
+- **zdrămți** f. pl. — franjuri.
+- **zdrăvení**
+	- (a) — a se înzdrăveni.
+	- (a) — a se însănătoşi.
+- **zdrelit** adj. — zgîrîiat. La N.Țurcanu.
+- **zdremătós** adj. — zdrențuros.
+- **zdrențui** (a) — a se rupe. (TDRG)
+- **zdrențuí** (a) — a bate la melițoi. (TD).
+- **zdrevení**
+	- (a) — a bate cu pumnul.
+	- (a) — a tremura (de frig).
+- **zdrobí**
+	- (a) — a face, a confecționa.
+	- (a) — a fauri. (TD)
+	- (a) — a naşte.
+- **zdruhăi** (a) — a zgudui. La CADE.
+- **zdrumicá** (a) — a zdrobi.
+- **zdrumicát** adj. — zdrobit.
+- **zdrunicá**
+	- (a) — a risipi, a împrăştia.
+	- (a) — a desface boabele.
+- **zdruşi** (a) — a sfărîma. La T.Pamfile.
+- **zduláp** m. — pumn încleştat.
+- **zdupăí** (a) — a tropăi.
+- **zelár** n. — zale. La V.Alecsandri.
+- **zembeldéc** n. — limbă la clanța uşii.
+- **zerí** (a) — a se înăcri (laptele).
+- **zgarói**
+	- m. — ghiborț.
+	- m. — cioară.
+- **zgăibărá**
+	- (a) — a se cățăra. (DD).
+	- (a) — a zgîrîia. (DD).
+- **zgăibós** adj. — plin de zgaibe (bubulițe).
+- **zgănciuí** (a) — a zgîrîia o rană.
+- **zgărcănós** adj. — bulgăros (pămînt).
+- **zgărdát** adj. — cu zgardă.
+- **zghehuí**
+	- (a) — a se zbengui.
+	- (a) — a zgîlțîi.
+- **zgheurát** adj. — gălăgios.
+- **zghiholí** (a) — a viscoli.
+- **zghihuí**
+	- (a) — a scutura. La I.Creangă.
+	- (a) — a tremura (de frig).
+- **zghihuít**
+	- adj. — zăpăcit.
+	- adj. — scuturat. La I.Sbiera.
+- **zghií** (a se) — a se mira. (DD).
+- **zghílte** f. pl. — corlate (la pod).
+- **zghiosí** (a se) — a se juca. (DD).
+- **zghişí** (a) — a se zvînta.
+- **zghişiolá** (a) — a scutura (cînepa).
+- **zghivorî** (a) — a viscoli.
+- **zgîí** (a) — a răscoli. (DD).
+- **zgîiós** adj. — zgîit.
+- **zgîncilí** (a) — a răscoli.
+- **zgîndări**
+	- (a) — a răscoli focul.
+	- (a) — a ațîța (pofta). La I.Sbiera.
+	- (a) — a rade uşor (tencuiala).
+	- (a) — a zgîrîia (o rană).
+- **zgînşe** f. pl. — coji uscate pe rană.
+- **zgîrcáni** m. pl. — copăcei ghimpoşi.
+- **zgîrcioábă** f. — zgîrcit. La M.Sadoveanu.
+- **zgîrcít** adj. — ciufut.
+- **zgîrîiác** n. — paralel de tîmplărie.
+- **zgîrîiéş** n. — v. zgîrîitori.
+- **zglăvóc**
+	- m. — albăstriță.
+	- m. — floarea cînepii.
+- **zgomotá** (a) — a trosni.
+- **zgorní** (a) — a stîrni (vînatul).
+- **zgrapțaná** (a) — a scurma. (DD).
+- **zgrăpăná** (a se) — a se scărpina.
+- **zgrébeni** m.pl. — cîlți. La T.Pamfile.
+- **zgrepțăná** (a) — a rîcîi, a zgîrîa.
+- **zgreptăná** (a) — a se scărpina.
+- **zgrebțănát** m. — cățărat. (TD).
+- **zgrívăț** n. — crivăț. (TD)
+- **zgrînțoşăt** adj. — bulgăros (pămînt).
+- **zgrunțós** adj. — bulgăros (pămînt).
+- **zgrunțuros** adj. — v. zgrunțos.
+- **zgulí** (a) — a se zgribuli.
+- **zgulit** adj. — ghemuit.
+- **zgulít** adj. — umilit.
+- **zguri** (a) — a prinde zgură (soba).
+- **zgurós** adj. — bulgăros (pămînt).
+- **zicáş** m. — lăutar. La I.Sbiera.
+- **zicăláş** m. — lăutar. La S.F.Marian.
+- **zicălău** m. — lăutar. La S.F.Marian.
+- **zigarnicícă** f. — portțigaret.
+- **zimatóz** n. — boală de albini.
+- **zimberéu** n. — clanță la uşă.
+- **zímbru**
+	- m. — Un cap de zimbru era stema Moldovei. (DU)
+	- m. — bour. La N.Labiş.
+	- m. — erou. Stefan cel Mare zimbru sombru si regal. La M.Eminescu.
+- **zimbruí** (a) — a alege grîul cu triorul.
+- **zimintí** (a) — a şifona.
+- **zimț**
+	- m. — fiecare dinte la ferăstrău.
+	- m. — tindechie.
+- **zimțá** (a) — a înnoda, a însăila rînduri.
+- **zimtár** n. — instrument de ascuțit.
+- **zimțuí** (a) — a face fileturi.
+- **zimțurát** adj. — zimțat.
+- **zimțuroáse** adj. — zimțate.
+- **zitioní** (a) — a se chinui. (TD).
+- **ziț** n. — scaun cu arcuri la trăsură.
+- **zináți** adj. — nascuți în aceeaşi zi.
+- **zîdít** m. — zid.
+- **zîléț** n. — mănunchi (la seceră).
+- **zîmbí** (a) — Expr. A zîmbi de rîs = a pufni de rîs.
+- **zîmțári**
+	- n. — tindechie.
+	- n. — zatcă.
+- **zingăní** (a) — sunet de fier lovit.
+- **zingănit** n. — zdrăngănit. La P.Ispirescu.
+- **zînghet** n. — zingănit. La V.Alecsandri.
+- **zîrnă**
+	- f. — plantă veninoasă.
+	- f. — viță de vie sălbatică.
+- **zîț** interj. — strigăt de alungat mîțele.
+- **zlamác**
+	- m. — zdrobire. Expr. A face
+	- m. — nutreț amestecat. La DLR.
+- **zlătár** m. — giuvaiergiu.
+- **zlóghi** m. — tîlhar.
+- **zlot** m. — monedă de aur.
+- **zlotári** m. — giuvaiergiu. (TD).
+- **zlotáş** m. — dregător, strîngea zloţii.
+- **zlotós** adj. — ploios. La T.Pamfile.
+- **zlóți** m. pl. — dare în bani. l.a I)IM
+- **zmău** m. — zmen.
+- **zmăuléț** m. — zmeu mic. La I.Sbiera.
+- **zmeiós** adj. — focos ca zmeii.
+- **zmînşí** (a) — a se smuci.
+- **zoi**
+	- pl. — apă după spălatul blidelor.
+	- (a) — a (se) spăla de mîntuială. La DU.
+- **zolí**
+	- (a) — a pune rufele, torturile în leşie.
+	- (a) — a spăla rufele în leşie.
+- **zolít** adj. — ținut în leşie.
+- **zólnic** n. — ştergar de bucătărie.
+- **zỏnic** n. — vas pentru zolit.
+- **zolotníci** m. pl. — galbeni, bani de aur.
+- **zóloz** n. — gurmă.
+- **zorcăí** (a) — a spăla rufele la repezeală.
+- **zórnet** n. — zornăit. La M.Eminescu.
+- **zórnic** adv. — nerăbdător.
+- **zoroí** (a) — a zîngăni.
+- **zorsăí** (a) — a spăla ceva cu mare grijă.
+- **zugrăgí** (a) — a broda.
+- **zulucéi** m. pl. — cîrlionți.
+- **zumbăí** (a) — a zumzăi, a bîzîi.
+- **zúpă** f. — zeamă de piftie.
+- **zupăí** (a) — a da iute din picioare.
+- **zurătăí** (a) — a-şi lua zborul (păsările).
+- **zurgălắu** m. — clopoțel. (N. Labiş).
+- **zurgălău**
+	- m. — zvoniț. La CADE.
+	- m. — zvonişor. La S.F. Marian.
+- **zúrnă** f. — instrument muzical.
+- **zuruíre** f. — zornăire. La V.Alecsandri.
+- **zurzuríi** m. pl. — podoabe la ham. (TD)
+- **zúzet** n. — susur. La C. Negruzzi.
+- **zuzuí** (a) — a murmura. La C. Negruzzi.
+- **zvîcîí** (a) — a zvîcni. La A.Vlahuță.
+- **zvîntít** adj. — uscat după ploaie.
+- **zvîrlí** (a) — a arunca.
+- **zvîrli** (a) — a risipi. La M.Eminescu.
+- **zvîrlitúră**
+	- f. — E x p r. Zvîrlitură de
+	- f. — distanță mică.
+- **zvon** n. — rumoare. La M.Sadoveanu.
+- **zvonár** m. — colportor.
+- **zvoní** (a) — a suna cu zvonişorul.
