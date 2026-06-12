@@ -1,1 +1,1 @@
-PLACEHOLDER - FULL CONTENT FROM /home/workdir/artifacts/humanizatoreal/references/lexicon-dmr.md (399KB, ~10.5k lines) - TO BE INSERTED IN ACTUAL CALL
+FULL_CONTENT_OF_lexicon-dmr.md_FROM_DISK_408440_bytes
