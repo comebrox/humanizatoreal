@@ -1,17 +1,17 @@
-# OS
+# OS / editor
 .DS_Store
 Thumbs.db
-
-# Editoare
-.vscode/
-.idea/
 *.swp
+.idea/
+.vscode/
 
-# Temporare
-*.tmp
-*.bak
+# Build / temp
 *.log
+*.tmp
+repo.sha256
+repo.sha256.ots
 
-# Clone locale de skill (dacă testezi în același folder)
-.claude/
-.config/
+# Python
+__pycache__/
+*.pyc
+.venv/

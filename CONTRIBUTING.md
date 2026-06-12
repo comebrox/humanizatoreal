@@ -1,27 +1,22 @@
-# Contribuții
+# Contributing
 
-Mulțumesc că vrei să îmbunătățești omenizatorul. Trei tipuri de contribuții
-sunt binevenite.
+Thanks for helping improve Omenizator. Keep contributions small and focused.
 
-## 1. Un tipar AI nou
+## Add an AI pattern (`references/tipare.md`)
+1. Use the next number in sequence.
+2. Give: **pattern → tell → fix**.
+3. One concrete before/after line if possible.
 
-- Adaugă-l în `references/tipare.md`, în categoria potrivită.
-- Dă o coloană * Înainte* și una *După*, scurte și concrete.
-- Dacă schimbi numerotarea, actualizează și `README.md`.
+## Add a lexicon term (`references/lexicon-subset.md`)
+1. Only add terms with stylistic value for an authentic Moldovan tone.
+2. **Rephrase** the usage note in your own words — do NOT paste a dictionary definition verbatim.
+3. Fill the `sursă` column (e.g. `DMR ed. II 2011, p. X`).
+4. Vulgar / slang terms go to `references/argou-chisinau.md`, marked ⚠.
 
-## 2. Un termen DMR nou
+## Add an example (`examples/`)
+1. Provide a realistic `Before (AI)` block and an `After (humanized)` block.
+2. Note which patterns were removed.
 
-- Adaugă-l în `references/glosar-dmr.md` cu sensul și cînd se folosește.
-- Nu adauga termeni fără sursă în DMR; ce nu poți confirma, marchează „De
-  verificat".
-
-## 3. Un exemplu nou
-
-- Pune-l în `examples/`, cu structura: * Înainte* → *După* → *Ce s-a schimbat*.
-- Alege un domeniu care încă nu e acoperit.
-
-## Reguli
-
-- Ortografie consecventă (cheia Stati: „sînt", „cît", „pînă").
-- Fără cifre sau surse inventate.
-- Un commit = o schimbare logică; mesaj clar (`feat:`, `fix:`, `docs:`).
+## Commits
+- Sign your commits (`git commit -S`).
+- Use Conventional Commits (`feat:`, `fix:`, `docs:`, `chore:`).

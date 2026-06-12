@@ -1,28 +1,14 @@
-# Exemplu — text tehnic (documentație)
+# Exemplu — text tehnic
 
-## Înainte (sună a AI)
+## Before (AI)
+> Se poate observa că soluția propusă oferă numeroase beneficii. Iată câteva
+> dintre acestea: scalabilitate, fiabilitate și performanță. La sfârșitul zilei,
+> acest lucru face sens pentru orice echipă.
 
-Această soluție inovatoare nu este doar un simplu script — este o adevărată
-magistrală a automatizării. Ea valorifică puterea tehnologiilor moderne pentru
-a oferi rezultate de neegalat. **Instalare:** Instalarea este simplă.
-Nu este nevoie de configurații complexe.
+## After (humanized)
+> Soluția scalează, ține la sarcină mare și răspunde rapid. Pentru o echipă mică,
+> asta înseamnă mai puțină mentenanță.
 
-## După (curat, direct)
-
-Scriptul citește un fișier CSV, aplică cele 29 de reguli din `references/` și
-scrie rezultatul într-un fișier nou.
-
-## Instalare
-
-```bash
-git clone https://github.com/comebrox/humanizatoreal.git ~/.claude/skills/omenizator
-```
-
-Nu ai nevoie de fișier de configurare. Skill-ul citește direct `SKILL.md`.
-
-## Ce s-a schimbat
-
-- Scos „soluție inovatoare", „magistrală", „valorifică puterea", „de neegalat".
-- Scos paralelismul negativ „nu este doar... este o".
-- Titlu de secțiune în loc de aldine în rînd („**Instalare:**").
-- Pasiv → subiect explicit: „Nu ai nevoie de...".
+## Tipare scoase
+9 (subiect pasiv), 3 (regula lui trei forțată), 23 („iată câteva"),
+17 (calc englezesc), 15 (limbaj vag).

@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Version](https://img.shields.io/badge/version-1.2.0-blue.svg)](CHANGELOG.md)
 [![Skill](https://img.shields.io/badge/type-Claude%20Code%20%2F%20OpenCode-purple.svg)](SKILL.md)
-[![Lexicon](https://img.shields.io/badge/lexicon-~8350%20entries-orange.svg)](references/lexicon-dmr.md)
+[![Lexicon](https://img.shields.io/badge/lexicon-curated%20subset-orange.svg)](references/lexicon-subset.md)
 
 </div>
 
@@ -34,8 +34,8 @@ git clone https://github.com/comebrox/humanizatoreal.git
 ## Usage
 
 ```bash
-/omenizator                    # literary mode (default, DMR vocabulary)
-/omenizator --argou            # add Chișinău street register (opt-in)
+/omenizator                 # literary mode (default, DMR vocabulary)
+/omenizator --argou         # add Chișinău street register (opt-in)
 ```
 
 Procedure: **read + voice sample → detect patterns → rewrite with DMR vocabulary → verify** (zero fluff, explicit subject, real sources).
@@ -61,14 +61,17 @@ humanizatoreal/
 ├─ SKILL.md              # instructions + YAML frontmatter
 ├─ README.md
 ├─ LICENSE               # MIT
+├─ NOTICE
+├─ AUTHORS
+├─ CITATION.cff
 ├─ CHANGELOG.md
 ├─ CONTRIBUTING.md
 ├─ references/
-│  ├─ tipare.md          # the 29 AI patterns
-│  ├─ glosar-dmr.md      # Moldovan glossary
-│  ├─ lexicon-dmr.md     # ~8350 headwords (clean DMR 2003+2011)
+│  ├─ tipare.md          # 29 AI patterns
+│  ├─ glosar-dmr.md      # confirmed preface terms
+│  ├─ lexicon-subset.md  # curated, transformed subset (+ source refs)
 │  ├─ argou-chisinau.md  # street mode, opt-in
-│  ├─ corpus-glas.md     # Neculce / Creangă voice samples
+│  ├─ corpus-glas.md     # Neculce / Creangă pointers (no verbatim copy)
 │  └─ surse.md
 └─ examples/
    ├─ exemplu-dmr.md
@@ -83,13 +86,24 @@ humanizatoreal/
 ## References
 
 - [AI patterns (1–29)](references/tipare.md)
-- [DMR glossary](references/glosar-dmr.md) · [Full lexicon](references/lexicon-dmr.md)
+- [DMR glossary](references/glosar-dmr.md) · [Curated subset](references/lexicon-subset.md)
 - [Voice corpus](references/corpus-glas.md) · [Sources](references/surse.md)
 
 ## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) — how to add a pattern, a term, or an example.
 
-## License
+## Author & originality
 
-[MIT](LICENSE)
+**Omenizator** is an original concept by **XAOC** (2026) — a Moldovan-language humanizer combining AI-pattern removal with the DMR / Vasile Stati lexicon. No prior equivalent was found at the time of creation.
+
+- Author: XAOC · iam@xaoc.bio
+- Repository: https://github.com/comebrox/humanizatoreal
+
+If you use or build on this idea, please cite it (see [CITATION.cff](CITATION.cff)).
+
+## Licensing
+
+- **Code** (`SKILL.md` logic, scripts): MIT — see [LICENSE](LICENSE)
+- **Reference data & docs** (`references/`, README): CC BY-SA 4.0
+- Third-party lexicon sources retain their own rights — see [references/surse.md](references/surse.md)

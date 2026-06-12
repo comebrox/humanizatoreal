@@ -1,25 +1,15 @@
-# Exemplu — text administrativ (raport intern)
+# Exemplu — text administrativ
 
-## Înainte (sună a AI)
+## Before (AI)
+> Este important de menționat că, în cadrul procesului de implementare, vom
+> proceda la o serie de măsuri menite să asigure o eficiență sporită. Pe de altă
+> parte, este esențial să subliniem că rezultatele vor fi cu adevărat
+> revoluționare. În concluzie, succes tuturor!
 
-📊 În scopul de a asigura o transparență sporită, prezentul raport reprezintă o
-mărturie vie a eforturilor depuse. Datele colectate evidențiază rolul crucial
- al centrului de apel, subliniind îmbunătățirea continuă și reflectînd
-angajamentul echipei. În pofida provocărilor, indicatorii continuă să prospere,
-iar viitorul arată luminos.
+## After (humanized)
+> Implementăm trei măsuri concrete pentru eficiență. Rezultatele le raportăm la
+> finalul lunii.
 
-## După (curat, direct)
-
-Raportul prezintă datele centrului de apel pentru perioada ianuarie–aprilie
-2026. Au fost înregistrate 55.197 de apeluri, cu o durată medie de așteptare de
-X secunde (de verificat). Față de 2025, numărul lunar de apeluri a scăzut cu
-Y%. Problema principală rămîne timpul de așteptare în orele de vârf; măsura
-propusă este redistribuirea operatorilor între 10:00 și 13:00.
-
-## Ce s-a schimbat
-
-- Scos emoji, „în scopul de a", „mărturie vie", „rol crucial", „viitorul arată
-  luminos".
-- Subiect explicit și verbe directe („prezintă", „au fost înregistrate").
-- Cifrele neconfirmate marcate „de verificat", nu inventate.
-- O singură concluzie operațională, nu fereală generică.
+## Tipare scoase
+2 (hedging), 4 (rezumat final), 8 (superlative goale), 14 (tranziții clișeu),
+19 (adverbe de umplutură), 25 (final motivațional).

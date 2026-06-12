@@ -1,14 +1,11 @@
-# Argou chișinăuian — listă suplimentară (mod stradal, opt-in)
+# Argou chișinăuian — mod stradal (opt-in)
 
-> **Registru:** argou urban chișinăuian, puternic rusificat. Compilație de
-> internet — **sursă neserioasă**, păstrată ca atare.
->
-> **Cum se aplică:** numai cînd e invocat explicit (`/omenizator --argou` sau
-> „dă-i pe stradal"). Implicit, skill-ul folosește modul **literar** (DMR/Stati)
-> și NU atinge lista de mai jos.
->
-> **⚠ = vulgar/sexual** — exclus implicit din output; intră doar la cerere
-> explicită de registru licențios.
+<!--
+Registru: argou urban chișinăuian, puternic rusificat. Compilație de internet,
+SURSĂ NESERIOASĂ — marcată ca atare. Aplicat NUMAI la invocare explicită
+(/omenizator --argou). Intrările marcate ⚠ sînt vulgare/sexuale și sînt
+EXCLUSE IMPLICIT din output; intră doar cînd utilizatorul cere explicit registru licențios.
+-->
 
 ## A
 - a abaldi — a rămâne cu gura căscată
@@ -64,7 +61,7 @@
 - astanovkă — stație
 - atstîlo — s-a răcit
 - atmazkă levaia — scuză ieftină
-- ⚠ azabocenîi — obsedat
+- ⚠ azaboцenîi — obsedat
 
 ## B
 - babă miniatiurnaia — femeie slabă
@@ -145,7 +142,7 @@
 
 ## G
 - ⚠ ganduras — boule
-- ⚠ gandon ibucii — persoană enervantă
+- ⚠ gandon ibucii — o persoană enervantă
 - ⚠ gandonu șela di Vaseok nu puni buhalî — (băiat nesuferit) nu face cinste
 - ganeoj — minciuni
 - ghenii — băiat deștept
@@ -161,7 +158,7 @@
 
 ## I
 - iaca (tu) — în schimb (tu)
-- ibală — mutră
+- ibălă — mutră
 - ⚠ ibati — (înjurătură)
 - ⚠ io maio — (înjurătură)
 - ⚠ iobanîi v rot — (înjurătură)

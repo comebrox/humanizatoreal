@@ -1,64 +1,33 @@
-# Cele 29 de tipare de scriere AI
+# Tipare AI — 29 de semne de scriere artificială
 
-Sursă: ghidul Wikipedia „Signs of AI writing" (WikiProject AI Cleanup),
-adaptat cu rescrieri în cheie moldovenească. Coloana *După* arată direcția de
-corectare, nu o rețetă fixă.
+Fiecare tipar: **semn → remediu**. Folosit la pasul 2 din `SKILL.md`.
 
-## Tipare de conținut
-
-| # | Tiparul | Înainte | După |
-|---|---------|---------|------|
-| 1 | Umflarea însemnătății | „marcînd un moment pivotal în evoluția..." | „a fost înființat în 1989 ca să strîngă statistici regionale" |
-| 2 | Lăudăroșenie cu nume mari | „citat în NYT, BBC, FT și The Hindu" | „Într-un interviu din 2024 la NYT, ea a spus..." |
-| 3 | Analize superficiale cu -ind | „subliniind... reflectînd... evidențiind..." | Scoate sau dezvoltă cu surse concrete (Ureche, Costin, Iordan, Călinescu) |
-| 4 | Limbaj de reclamă / turistic | „cuibărit în pitoreasca regiune" | „e un tîrg în regiunea Gonder" |
-| 5 | Trimiteri vagi | „Experții cred că joacă un rol crucial" | „După cum a constatat I. Iordan..." |
-| 6 | Șablonul cu greutăți | „În pofida provocărilor... continuă să prospere" | Spune concret ce greutăți sînt, cu fapte |
-
-## Tipare de limbă
-
-| # | Tiparul | Înainte | După |
-|---|---------|---------|------|
-| 7 | Vocabular de IA (românesc standard) | „fundamental", „pilon", „mărturie vie", „peisaj lingvistic" | Termeni din DMR: „dăinuire", „clăinuire", „moldovenisme", „prihvatizare" |
-| 8 | Ocolirea lui „a fi" | „servește drept... prezintă... constituie o" | „este... are... sînt" |
-| 9 | Paralelisme negative | „Nu-i doar X, e Y", „..., fără ghiceli" | Spune direct ce vrei |
-| 10 | Regula de trei | „inovație, inspirație și insight-uri" | Enumerări naturale: „Creangă, Eminescu, Sadoveanu" |
-| 11 | Învîrtirea sinonimelor | „protagonist... personaj principal... figura centrală..." | Repetă cuvîntul cel mai limpede |
-| 12 | Intervale false | „de la Big Bang pînă la materia întunecată" | Liste concrete: „de la actele din 1384–1503 la dicționarele de azi" |
-| 13 | Pasiv și fraze fără subiect | „Nu e nevoie de fișier de configurare" | Numește cine face: „Nu ai nevoie de..." |
-
-## Tipare de stil
-
-| # | Tiparul | Înainte | După |
-|---|---------|---------|------|
-| 14 | Liniuța em (—) în exces | „instituțiile — nu oamenii — dar asta —" | Preferă virgula, punctul, parantezele |
-| 15 | Aldine peste tot | „**OKR-uri**, **KPI-uri**" | „OKR-uri, KPI-uri" |
-| 16 | Liste cu titlu în rînd | „**Performanță:** Performanța a crescut" | Fă propoziție curgătoare |
-| 17 | Titluri Cu Majuscule | „Negocieri Strategice Și Parteneriate" | „Negocieri strategice și parteneriate" |
-| 18 | Emojiuri | „🚀 Faza de lansare: 💡 Idee cheie:" | Scoate emojiurile |
-| 19 | Ghilimele crețe inutile | a zis „proiectul" | Folosește ghilimele drepte cînd contextul tehnic o cere |
-
-## Tipare de comunicare
-
-| # | Tiparul | Înainte | După |
-|---|---------|---------|------|
-| 20 | Resturi de chatbot | „Sper că te ajută! Spune-mi dacă..." | Scoate de tot. Începe direct cu conținutul |
-| 21 | Scuze de limită | „Deși detaliile sînt limitate în sursele disponibile..." | Găsește surse sau șterge |
-| 22 | Ton lingușitor | „Întrebare grozavă! Ai perfectă dreptate!" | Răspunde de-a dreptul |
-
-## Umplutură și fereală
-
-| # | Tiparul | Înainte | După |
-|---|---------|---------|------|
-| 23 | Vorbe de umplutură | „În scopul de a", „Din cauza faptului că" | „Ca să", „Fiindcă" |
-| 24 | Fereală în exces | „ar putea posibil eventual" | „poate" |
-| 25 | Încheieri generice | „Viitorul arată luminos pentru limba moldovenească" | Fapte concrete + opinie clară |
-
-## Tipare de structură
-
-| # | Tiparul | Înainte | După |
-|---|---------|---------|------|
-| 26 | Perechi cu cratimă | „inter-funcțional", „bazat-pe-date" | Lasă fără cratimă perechile obișnuite |
-| 27 | Poze de autoritate | „În esență, ce contează e..." | Spune direct: „Așa stau lucrurile." |
-| 28 | Anunțuri de intrare | „Hai să vedem", „Iată ce trebuie să știi" | Începe cu conținutul: „Drept surse principale..." |
-| 29 | Titluri rupte | „## Performanță" + „Viteza contează." | Lasă titlul să lucreze singur |
+1. **Fluff de deschidere** („Este important de menționat că...") → taie, intră direct.
+2. **Hedging excesiv** („ar putea", „posibil", „în general") → afirmă sau elimină.
+3. **Regula lui trei forțată** (mereu trei elemente) → folosește cîte cere ideea.
+4. **Rezumat final inutil** („În concluzie...") → scoate dacă nu adaugă nimic.
+5. **Em-dash în exces** → variază punctuația.
+6. **Paralelism mecanic** în liste → rupe simetria artificială.
+7. **„Nu doar X, ci și Y"** repetat → reformulează direct.
+8. **Superlative goale** („revoluționar", „de neegalat") → concret sau afară.
+9. **Subiect vag/pasiv** („se poate observa că") → cine face acțiunea?
+10. **Etichete redundante** („Notă:", „Important:") → integrează în frază.
+11. **Restatement-ul întrebării** în răspuns → răspunde, nu repeta.
+12. **Promisiuni de acțiuni viitoare** nesolicitate → scoate.
+13. **Bold:colon mecanic** în fiecare bullet → doar unde ajută.
+14. **Tranziții clișeu** („Mai mult decât atât", „Pe de altă parte") → leagă logic.
+15. **„a explora în profunzime / delve"** → spune ce faci, simplu.
+16. **Ton corporatist neutru** fără voce → adaugă glas moldovenesc.
+17. **Calc englezesc** („la sfârșitul zilei", „a face sens") → echivalent firesc.
+18. **Definiții evidente** ale termenilor comuni → presupune cititorul competent.
+19. **Adverbe de umplutură** („cu adevărat", „efectiv") → taie.
+20. **Simetrie artificială** a paragrafelor → lasă-le să respire diferit.
+21. **Disclaimere inutile** → scoate dacă nu sînt cerute.
+22. **Repetarea cuvintelor-cheie** (stil SEO) → sinonime sau pronume.
+23. **„Iată câteva..."** + listă generică → exemple concrete.
+24. **„pe de o parte... pe de altă parte"** fără poziție → ia o poziție.
+25. **Final motivațional** („Succes!", „Mult noroc!") → scoate din texte formale.
+26. **Cifre rotunde inventate** fără sursă → sursă reală sau afară.
+27. **Atribuiri vagi** („experții spun") → cită exact sau elimină.
+28. **Emoji decorativ** în text formal → scoate.
+29. **Lipsa subiectului uman** → numește cine acționează.
