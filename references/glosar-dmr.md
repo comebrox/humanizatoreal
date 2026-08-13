@@ -1,17 +1,16 @@
-# Glosar DMR — termeni confirmați din prefață
+# Glosar DMR — pointer
 
-Culeși direct din prefața ediției a II-a (2011). Notele sînt reformulate; pentru
-selecția de lucru a humanizer-ului vezi `lexicon-subset.md`.
+Acest fișier a fost redus la un pointer pentru a elimina dublura.
 
-- **prihvatizare** — însușire, acaparare (ton polemic)
-- **furluare (cu hapca)** — luare cu forța, pe nedrept
-- **zătrit** — nimicit, distrus definitiv
-- **prohodire** — înmormântare; figurat: lichidarea unui cuvînt
-- **a aburca** — a urca cu efort (atestat DU 1929, CADE 1931)
-- **pîrcălab** — dregător mare peste un ținut/cetate
-- **portar de Suceava** — mare dregător militar al Țării Moldovei
-- **răcituri** — piftie, aspic
-- **poamă** — struguri (uz moldovenesc)
-- **balan / bălae / bălăior** — (om) blond, bălai
-- **burlui** — urcior, vas de lut cu gît îngust
-- **dăinuire / clăinuire** — persistență / continuitate neîntreruptă
+**Sursa canonică de lexic pentru humanizer** este acum:
+
+→ `references/lexicon-subset.md`
+
+Acolo se află:
+- direcția corectă de căutare (`declanșator RO comun → termen md`)
+- tabela seed (~12 termeni)
+- regula de fallback pentru acoperire insuficientă
+- workflow-ul de extindere reală
+
+Nu mai folosi listele vechi de tip „termen md → echivalent ro".  
+Orice referință veche la „glosar-dmr.md" trebuie redirecționată către `lexicon-subset.md`.

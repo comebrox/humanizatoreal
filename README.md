@@ -5,7 +5,7 @@
 **A Moldovan-language text humanizer** — strips AI writing patterns and rewrites with authentic vocabulary (DMR / Vasile Stati).
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Version](https://img.shields.io/badge/version-1.2.0-blue.svg)](CHANGELOG.md)
+[![Version](https://img.shields.io/badge/version-1.3.0-blue.svg)](CHANGELOG.md)
 [![Skill](https://img.shields.io/badge/type-Claude%20Code%20%2F%20OpenCode-purple.svg)](SKILL.md)
 [![Lexicon](https://img.shields.io/badge/lexicon-curated%20subset-orange.svg)](references/lexicon-subset.md)
 
@@ -68,8 +68,8 @@ humanizatoreal/
 ├─ CONTRIBUTING.md
 ├─ references/
 │  ├─ tipare.md          # 29 AI patterns
-│  ├─ glosar-dmr.md      # confirmed preface terms
-│  ├─ lexicon-subset.md  # curated, transformed subset (+ source refs)
+│  ├─ glosar-dmr.md      # pointer → lexicon-subset.md (dedup, no separate terms)
+│  ├─ lexicon-subset.md  # canonical lexicon: RO trigger → md term (+ source refs)
 │  ├─ argou-chisinau.md  # street mode, opt-in
 │  ├─ corpus-glas.md     # Neculce / Creangă pointers (no verbatim copy)
 │  └─ surse.md
@@ -86,7 +86,7 @@ humanizatoreal/
 ## References
 
 - [AI patterns (1–29)](references/tipare.md)
-- [DMR glossary](references/glosar-dmr.md) · [Curated subset](references/lexicon-subset.md)
+- [DMR lexicon (RO → md, canonical)](references/lexicon-subset.md) · [glosar-dmr.md pointer](references/glosar-dmr.md)
 - [Voice corpus](references/corpus-glas.md) · [Sources](references/surse.md)
 
 ## Contributing
