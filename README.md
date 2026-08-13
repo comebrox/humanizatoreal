@@ -2,76 +2,81 @@
 
 # 🪶 Omenizator
 
-**A Moldovan-language text humanizer** — strips AI writing patterns and rewrites with authentic vocabulary (DMR / Vasile Stati).
+**Humanizer de text în limba moldovenească**  
+Elimină tiparele de scriere AI și rescrie cu lexic autentic (DMR / Vasile Stati + regionalisme vii).
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Version](https://img.shields.io/badge/version-1.3.0-blue.svg)](CHANGELOG.md)
-[![Skill](https://img.shields.io/badge/type-Claude%20Code%20%2F%20OpenCode-purple.svg)](SKILL.md)
-[![Lexicon](https://img.shields.io/badge/lexicon-curated%20subset-orange.svg)](references/lexicon-subset.md)
+[![Version](https://img.shields.io/badge/version-1.4.0-blue.svg)](CHANGELOG.md)
+[![Lexicon](https://img.shields.io/badge/lexicon-~280%20termeni-orange.svg)](references/lexicon-subset.md)
+[![Skill](https://img.shields.io/badge/type-Agent%20Skill-purple.svg)](SKILL.md)
+
+**RO → MD** · **Zero forțare** · **Audit obligatoriu**
 
 </div>
 
 ---
 
-## What it does
+## Ce face
 
-Takes text that "smells like AI" and returns it human: no fluff, explicit subject, Moldovan tone, and real sources.
+Primește un text care „miroase a AI” și îl întoarce uman: fără fluff, cu subiect explicit, ton moldovenesc și surse reale.
 
-| Before (AI) | After (humanized) |
+| Înainte (AI) | După (omenizat) |
 |---|---|
-| "It is important to note that the solution offers a range of benefits." | "The solution brings three concrete wins." |
-| "Within this process, we will proceed to analyze..." | "Let's analyze, one by one." |
+| „Este important de menționat că soluția oferă o serie de beneficii.” | „Soluția aduce trei câștiguri concrete.” |
+| „În cadrul acestui proces vom proceda la analiza…” | „Hai să analizăm, pe rând.” |
+
+**Lexicon actual:** Master Index v3.1.0 — ~280 termeni unici (DMR + regionalisme vii), direcție `declanșator RO comun → termen MD`, cu regulă strictă de non-forțare.
 
 ---
 
-## Installation
+## Instalare
 
 ```bash
 git clone https://github.com/comebrox/humanizatoreal.git
-# drop the skill into your agent's skills directory
+# plasează skill-ul în directorul de skills al agentului tău
 ```
 
-## Usage
+## Utilizare
 
 ```bash
-/omenizator                 # literary mode (default, DMR vocabulary)
-/omenizator --argou         # add Chișinău street register (opt-in)
+/omenizator                 # mod literar (implicit, lexic DMR)
+/omenizator --argou         # adaugă registru stradal chișinăuian (opt-in)
 ```
 
-Procedure: **read + voice sample → detect patterns → rewrite with DMR vocabulary → verify** (zero fluff, explicit subject, real sources).
+**Procedură fixă:**  
+1. Citește textul (+ mostră de glas, dacă există)  
+2. Detectează tiparele AI (29 semne)  
+3. Rescrie (elimină tipare + injectează MD doar la potrivire naturală)  
+4. Livrează **tabel de audit obligatoriu**
 
 ---
 
-## Modes
+## Moduri
 
-| Mode | Default | Source | Sensitive content |
+| Mod | Implicit | Sursă | Conținut sensibil |
 |---|---|---|---|
-| **Literary** | ✅ Yes | DMR / Stati | — |
-| **Street** (`--argou`) | ❌ Opt-in | internet compilation | ⚠ entries excluded by default |
+| **Literar** | ✅ Da | DMR / Stati + regionalisme | — |
+| **Stradal** (`--argou`) | ❌ Opt-in | Compilație de internet | Intrările ⚠ excluse implicit |
+
+**Densitate lexicală:** max. ~1 termen MD la 150 cuvinte.  
+Pe texte tehnice / administrative densitatea e intenționat aproape zero — omenizarea se face prin ritm și curățarea tiparelor AI.
 
 ---
 
-## Repository structure
-
-<details>
-<summary>Show full structure</summary>
+## Structura repo-ului
 
 ```
 humanizatoreal/
-├─ SKILL.md              # instructions + YAML frontmatter
+├─ SKILL.md                 # procedura + YAML frontmatter (v1.4.0)
 ├─ README.md
-├─ LICENSE               # MIT
-├─ NOTICE
-├─ AUTHORS
-├─ CITATION.cff
-├─ CHANGELOG.md
-├─ CONTRIBUTING.md
+├─ LICENSE · NOTICE · AUTHORS · CITATION.cff
+├─ CHANGELOG.md · CONTRIBUTING.md
 ├─ references/
-│  ├─ tipare.md          # 29 AI patterns
-│  ├─ glosar-dmr.md      # pointer → lexicon-subset.md (dedup, no separate terms)
-│  ├─ lexicon-subset.md  # canonical lexicon: RO trigger → md term (+ source refs)
-│  ├─ argou-chisinau.md  # street mode, opt-in
-│  ├─ corpus-glas.md     # Neculce / Creangă pointers (no verbatim copy)
+│  ├─ tipare.md             # 29 tipare AI
+│  ├─ lexicon-subset.md     # Master Index v3.1.0 (canonic)
+│  ├─ glosar-dmr.md         # pointer → lexicon-subset.md
+│  ├─ argou-chisinau.md     # mod stradal (opt-in)
+│  ├─ corpus-glas.md        # mostre de ritm (Neculce / Creangă)
 │  └─ surse.md
 └─ examples/
    ├─ exemplu-dmr.md
@@ -79,31 +84,40 @@ humanizatoreal/
    └─ exemplu-tehnic.md
 ```
 
-</details>
+---
+
+## Referințe rapide
+
+- [Tipare AI (1–29)](references/tipare.md)
+- [Lexicon DMR (RO → MD)](references/lexicon-subset.md)
+- [Corpus de glas](references/corpus-glas.md) · [Surse](references/surse.md)
+- [Changelog](CHANGELOG.md)
 
 ---
 
-## References
+## Autor & originalitate
 
-- [AI patterns (1–29)](references/tipare.md)
-- [DMR lexicon (RO → md, canonical)](references/lexicon-subset.md) · [glosar-dmr.md pointer](references/glosar-dmr.md)
-- [Voice corpus](references/corpus-glas.md) · [Sources](references/surse.md)
+**Omenizator** este un concept original al **XAOC** (2026) — humanizer moldovenesc care combină eliminarea tiparelor AI cu lexicul DMR / Vasile Stati. La momentul creării nu exista un echivalent public.
 
-## Contributing
+- Autor: **XAOC** · iam@xaoc.bio  
+- Repo: https://github.com/comebrox/humanizatoreal
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) — how to add a pattern, a term, or an example.
+Dacă folosești sau construiești pe această idee, citează-o (vezi [CITATION.cff](CITATION.cff)).
 
-## Author & originality
+---
 
-**Omenizator** is an original concept by **XAOC** (2026) — a Moldovan-language humanizer combining AI-pattern removal with the DMR / Vasile Stati lexicon. No prior equivalent was found at the time of creation.
+## Licențiere
 
-- Author: XAOC · iam@xaoc.bio
-- Repository: https://github.com/comebrox/humanizatoreal
+| Componentă | Licență |
+|---|---|
+| Cod & logică (`SKILL.md`) | [MIT](LICENSE) |
+| Date de referință & documentație (`references/`, README) | CC BY-SA 4.0 |
+| Surse lexicale terțe (Stati etc.) | Drepturile rămân ale autorilor originali — vezi [surse.md](references/surse.md) |
 
-If you use or build on this idea, please cite it (see [CITATION.cff](CITATION.cff)).
+---
 
-## Licensing
+<div align="center">
 
-- **Code** (`SKILL.md` logic, scripts): MIT — see [LICENSE](LICENSE)
-- **Reference data & docs** (`references/`, README): CC BY-SA 4.0
-- Third-party lexicon sources retain their own rights — see [references/surse.md](references/surse.md)
+**Fă textul să sune a om, nu a model.**
+
+</div>
