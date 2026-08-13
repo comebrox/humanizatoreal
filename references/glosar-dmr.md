@@ -1,16 +1,13 @@
 # Glosar DMR — pointer
 
-Acest fișier a fost redus la un pointer pentru a elimina dublura.
+Sursa canonică de lexic pentru humanizer este acum:
 
-**Sursa canonică de lexic pentru humanizer** este acum:
-
-→ `references/lexicon-subset.md`
+→ `references/lexicon-subset.md` (Master Index v3.1.0)
 
 Acolo se află:
 - direcția corectă de căutare (`declanșator RO comun → termen md`)
-- tabela seed (~12 termeni)
-- regula de fallback pentru acoperire insuficientă
-- workflow-ul de extindere reală
+- ~280 termeni unici, curățați
+- protocol de matching semantic + densitate + non-forțare
+- regionalisme vii + selecție din DMR Vol.1+2
 
-Nu mai folosi listele vechi de tip „termen md → echivalent ro".  
-Orice referință veche la „glosar-dmr.md" trebuie redirecționată către `lexicon-subset.md`.
+Nu mai folosi listele vechi. Orice referință veche la „glosar-dmr.md” se redirecționează către `lexicon-subset.md`.
