@@ -1,40 +1,34 @@
 # Changelog
 
-All notable changes to this project are documented here. Format based on
-[Keep a Changelog](https://keepachangelog.com/); versioning follows SemVer.
+All notable changes to this project are documented here.
+
+## [1.4.1] - 2026-08-13
+### Added
+- `references/admin-stil.md` — strat administrativ moldovenesc (separat de DMR).
+  - Reformulări birocratice reale din uz MD 2020-2026.
+  - Activare doar pe registru tehnic + cerere explicită `stil=admin`.
+  - Reguli stricte: nu amestecă cu DMR, păstrează termenii tehnici intacți.
+- Mențiune în SKILL.md (moduri + densitate + referințe).
+
+### Changed
+- SKILL.md version → 1.4.1
+- Descriere skill actualizată (suportă acum și stratul admin).
 
 ## [1.4.0] - 2026-08-13
 ### Changed
-- **Lexicon upgraded to Master Index v3.1.0 (Production).**
-  - ~280 termeni unici, curățați de duplicate RO=MD și generice inutile.
-  - Integrat 100 regionalisme vii (grupuri publice 2024-2026) + selecție de înaltă valoare din extracția DMR 1500.
-  - Protocol de matching semantic + densitate (~1/150) + non-forțare păstrat și întărit.
-- `references/lexicon-subset.md` rescris integral ca fișier de producție.
-- `references/glosar-dmr.md` actualizat ca pointer.
-
-### Added
-- Domenii clare: Interacțiune Socială, Acțiune Fizică, Gastronomie/Obiecte distinctive, Stări/Polemic, Regionalisme Vii.
-- Regula explicită de densitate și de logare a lacunelor pentru Lotul 4.
-
-### Removed
-- Toate perechile identice RO=MD și termenii generici (soare, an, foc, etc.) care nu aduceau valoare stilistică.
-
-### Rationale
-v3.0.0 conținea ~190 de rânduri aproape identice (RO=MD). v3.1.0 păstrează doar termenii care cresc autenticitatea reală a textului fără a forța arhaisme inutile.
+- Lexicon upgraded to Master Index v3.1.0 (Production).
+  - ~280 termeni unici, curățați de duplicate RO=MD și generice.
+  - Integrat 100 regionalisme vii + selecție din extracția 1500.
+- README redesenat profesional.
 
 ## [1.3.0] - 2026-08-13
 ### Changed
 - Direcție lexicon inversată (`declanșator RO comun → termen md`).
-- `references/lexicon-subset.md` rescris: format tabel, notă de căutare, regulă de fallback.
-- `references/glosar-dmr.md` redus la pointer.
-- `SKILL.md` — pasul 3 formalizează căutarea prin declanșator + regula „nu inventa / nu forța”.
-- Prag de densitate, livrabil audit obligatoriu, protecție conținut intangibil, a doua confirmare pentru ⚠.
+- Regula de fallback + prag de densitate + audit obligatoriu.
 
 ## [1.2.0] - 2026-06-12
 ### Added
-- Author metadata, IP governance, lexicon-subset initial, English README.
-### Changed
-- Lexicon strategy: transformed subset + source pointers (copyright-safe).
+- Author metadata, IP governance, lexicon-subset initial.
 
 ## [1.0.0] - 2026
 ### Added
